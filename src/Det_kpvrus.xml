@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<r id="kpvrus" xml:lang="kpv">
+<e>
+   <lg t1="В" t2="Е" t3="Т" uri="6230-vetymyn-d" id="6230"><l pos="Det">ветымынӧд</l>
+       <l_var type="molodtsov-cyr">ветымынӧԁ</l_var>
+   </lg>
+   <mg>
+     <tg xml:lang="rus">
+       <t><acronym title="имя числительное"><em>числ.</em></acronym> <acronym title="порядковое числительное"><em>порядк.</em></acronym> пятидесятый</t>
+     </tg>
+     <xg><x>ветымынӧд лун</x>
+       <xt xml:lang="rus">пятидесятый день</xt>
+     </xg>
+   </mg>
+</e>
+
+</r>
