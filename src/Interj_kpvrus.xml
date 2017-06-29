@@ -27,7 +27,8 @@
        <t pos="Interj">видишь; вишь; ишь; ишь ты <acronym title="просторечное"><em>прост.</em></acronym></t>
      </tg>
      <xg><x>ӧдтӧ кутшӧм!</x>
-       <xt xml:lang="rus">смотри-ка, какой! ишь ты какой!</xt>
+     <xt xml:lang="rus">смотри-ка, какой!</xt>
+     <xt xml:lang="rus">ишь ты какой!</xt>
      </xg>
      <xg><x>ӧдтӧ кутшӧм скӧр!</x>
        <xt xml:lang="rus">смотри ты, какой сердитый!</xt>
@@ -44,7 +45,7 @@
    </lg>
    <mg>
      <tg xml:lang="rus">
-       <t pos="Interj"> ах <em>(выражает сожаление, гнев, радость)</em></t>
+       <t pos="Interj">ах <em>(выражает сожаление, гнев, радость)</em></t>
      </tg>
      <xg><x>ак, мый тэ керан!</x>
        <xt xml:lang="rus">ах, что ты делаешь!</xt>
@@ -60,8 +61,8 @@
        <l_var type="molodtsov-cyr">aміԋ-аміԋ</l_var>
    </lg>
    <mg>
-     <tg xml:lang="rus">
-       <t pos="Interj"> ой-ой <em>(выражает удивление, испуг)</em></t>
+     <tg descr_trans="выражает удивление, испуг" xml:lang="rus">
+       <t pos="Interj">ой-ой</t>
      </tg>
    </mg>
 </e>
@@ -83,7 +84,7 @@
    </lg>
    <mg>
      <tg xml:lang="rus">
-       <t pos="Interj"> ах! ох!</t>
+       <t pos="Interj">ах! ох!</t>
      </tg>
      <xg><x>аттӧ, кутшӧм мича!</x>
        <xt xml:lang="rus">ох, как красиво!</xt>
@@ -103,7 +104,7 @@
    </lg>
    <mg>
      <tg xml:lang="rus">
-       <t pos="Interj"> <acronym title="детская речь"><em>дет.</em></acronym> баю-бай</t>
+       <t pos="Interj"><acronym title="детская речь"><em>дет.</em></acronym> баю-бай</t>
      </tg>
    </mg>
 </e>
@@ -114,7 +115,7 @@
    </lg>
    <mg>
      <tg xml:lang="rus">
-       <t pos="Interj"> <em>возглас, которым подзывают овцу</em></t>
+       <t pos="Interj"><em>возглас, которым подзывают овцу</em></t>
      </tg>
    </mg>
 </e>
@@ -125,7 +126,7 @@
    </lg>
    <mg>
      <tg xml:lang="rus">
-       <t pos="Interj"> <em>возглас, которым отгоняют кошку</em></t>
+       <t pos="Interj"><em>возглас, которым отгоняют кошку</em></t>
      </tg>
      <xg><x>брысь татысь!</x>
        <xt xml:lang="rus">брысь отсюда!</xt>
@@ -153,7 +154,7 @@
    </lg>
    <mg>
      <tg xml:lang="rus">
-       <t pos="Interj"> <em>возглас, которым подзывают коров на водопой</em></t>
+       <t pos="Interj"><em>возглас, которым подзывают коров на водопой</em></t>
      </tg>
    </mg>
 </e>
@@ -164,7 +165,7 @@
    </lg>
    <mg>
      <tg xml:lang="rus">
-       <t pos="Interj"> боже</t>
+       <t pos="Interj">боже</t>
      </tg>
      <xg><x>господи, кутшӧм тані гажа!</x>
        <xt xml:lang="rus">боже, как здесь красиво!</xt>
@@ -178,7 +179,7 @@
    </lg>
    <mg>
      <tg xml:lang="rus">
-       <t pos="Interj"> <acronym title="употребляется"><em>употр.</em></acronym> <em>при поддразнивании</em></t>
+       <t pos="Interj"><acronym title="употребляется"><em>употр.</em></acronym> <em>при поддразнивании</em></t>
      </tg>
      <xg><x>діль чуш</x>
        <xt xml:lang="rus"> <em>слова, которыми дразнят обидчивых</em></xt>
@@ -220,7 +221,7 @@
    </lg>
    <mg>
      <tg xml:lang="rus">
-       <t pos="Interj"> у-у!</t>
+       <t pos="Interj">у-у!</t>
      </tg>
      <xg><x>зы-зы! ош локтӧ</x>
        <xt xml:lang="rus">у-у! медведь идёт</xt>
@@ -245,7 +246,7 @@
    </lg>
    <mg>
      <tg xml:lang="rus">
-       <t pos="Interj"> <em>знак согласия при игре</em></t>
+       <t pos="Interj"><em>знак согласия при игре</em></t>
      </tg>
    </mg>
 </e>
@@ -289,7 +290,7 @@
    </lg>
    <mg>
      <tg xml:lang="rus">
-       <t pos="Interj"> кис-кис</t>
+       <t pos="Interj">кис-кис</t>
      </tg>
    </mg>
 </e>
@@ -320,7 +321,7 @@
    </lg>
    <mg>
      <tg xml:lang="rus">
-       <t pos="Interj"> ну-ка</t>
+       <t pos="Interj">ну-ка</t>
      </tg>
      <xg><x>ноко висьтав</x>
        <xt xml:lang="rus">ну-ка, расскажи</xt>
@@ -401,7 +402,7 @@
    </lg>
    <mg>
      <tg xml:lang="rus">
-       <t pos="Interj"> ой, какой! ух, какой! ух, как!</t>
+       <t pos="Interj">ой, какой! ух, какой! ух, как!</t>
      </tg>
      <xg><x>сійӧ ӧд ой-ёй ёна лыддьысьӧ!</x>
        <xt xml:lang="rus">он ведь ой как много читает!</xt>
@@ -441,7 +442,7 @@
    </lg>
    <mg>
      <tg xml:lang="rus">
-       <t pos="Interj"> эхма <acronym title="разговорное"><em>разг.</em></acronym></t>
+       <t pos="Interj">эхма <acronym title="разговорное"><em>разг.</em></acronym></t>
      </tg>
      <xg><x>окма жӧ нин!</x>
        <xt xml:lang="rus">охо-хо!</xt>
@@ -516,7 +517,7 @@
    </lg>
    <mg>
      <tg xml:lang="rus">
-       <t pos="Interj"> тпру <em>(возглас, которым останавливают лошадь)</em></t>
+       <t pos="Interj">тпру <em>(возглас, которым останавливают лошадь)</em></t>
      </tg>
      <xg><x>тпру ни но оз тӧд</x>
        <xt xml:lang="rus"></xt>
@@ -530,7 +531,7 @@
    </lg>
    <mg>
      <tg xml:lang="rus">
-       <t pos="Interj"> тьфу</t>
+       <t pos="Interj">тьфу</t>
      </tg>
    </mg>
 </e>
@@ -563,7 +564,7 @@
    </lg>
    <mg>
      <tg xml:lang="rus">
-       <t pos="Interj"> уф</t>
+       <t pos="Interj">уф</t>
      </tg>
      <xg><x>уп, мудзи</x>
        <xt xml:lang="rus">уф, устал</xt>
@@ -588,7 +589,7 @@
    </lg>
    <mg>
      <tg xml:lang="rus">
-       <t pos="Interj"> <em>в роли</em> <acronym title="сказуемое"><em>сказ.</em></acronym> прыг</t>
+       <t pos="Interj"><em>в роли</em> <acronym title="сказуемое"><em>сказ.</em></acronym> прыг</t>
      </tg>
      <xg><x>кань пу вылӧ чивк</x>
        <xt xml:lang="rus">кошка прыг на дерево</xt>
@@ -602,7 +603,7 @@
    </lg>
    <mg>
      <tg xml:lang="rus">
-       <t pos="Interj"> цып-цып</t>
+       <t pos="Interj">цып-цып</t>
      </tg>
    </mg>
 </e>
@@ -613,7 +614,7 @@
    </lg>
    <mg>
      <tg xml:lang="rus">
-       <t pos="Interj"> чур</t>
+       <t pos="Interj">чур</t>
      </tg>
      <xg><x>мойд кутам кывзыны, чур не узьны</x>
        <xt xml:lang="rus">сказку будем слушать, чур не спать</xt>
@@ -641,7 +642,7 @@
    </lg>
    <mg>
      <tg xml:lang="rus">
-       <t pos="Interj"> ша; ни гугу <em>(просьба или требование молчать)</em></t>
+       <t pos="Interj">ша; ни гугу <em>(просьба или требование молчать)</em></t>
      </tg>
      <xg><x>сӧмын тэ ша! некодлы эн больгы</x>
        <xt xml:lang="rus">только ты ни гугу! никому не болтай</xt>
@@ -669,7 +670,7 @@
    </lg>
    <mg>
      <tg xml:lang="rus">
-       <t pos="Interj"> <em>окрик, которым отгоняют собак</em></t>
+       <t pos="Interj"><em>окрик, которым отгоняют собак</em></t>
      </tg>
    </mg>
 </e>
@@ -680,7 +681,7 @@
    </lg>
    <mg>
      <tg xml:lang="rus">
-       <t pos="Interj"> бр-р</t>
+       <t pos="Interj">бр-р</t>
      </tg>
      <xg><x>ык, кутшӧм кӧдзыд</x>
        <xt xml:lang="rus">бр-р, как холодно</xt>
@@ -728,7 +729,7 @@
    </lg>
    <mg>
      <tg xml:lang="rus">
-       <t pos="Interj"> эй!</t>
+       <t pos="Interj">эй!</t>
      </tg>
      <xg><x>эй, кытчӧ сувтін!</x>
        <xt xml:lang="rus">эй, куда стал!</xt>
@@ -745,7 +746,7 @@
    </lg>
    <mg>
      <tg xml:lang="rus">
-       <t pos="Interj"> эх!</t>
+       <t pos="Interj">эх!</t>
      </tg>
      <xg><x>эк, олысьяс!</x>
        <xt xml:lang="rus">эх, жильцы!</xt>
@@ -762,7 +763,7 @@
    </lg>
    <mg>
      <tg xml:lang="rus">
-       <t pos="Interj"> эхма!</t>
+       <t pos="Interj">эхма!</t>
      </tg>
      <xg><x>экма бара эг аддзыв асъя кыасӧ</x>
        <xt xml:lang="rus">эхма! опять не видел утренней зари</xt>
@@ -779,7 +780,7 @@
    </lg>
    <mg>1.
      <tg xml:lang="rus">
-       <t pos="Interj"> бай</t>
+       <t pos="Interj">бай</t>
      </tg>
      <xg><x>ӧввӧ, ӧввӧ</x>
        <xt xml:lang="rus">баюшки-баю</xt>
@@ -801,7 +802,7 @@
    </lg>
    <mg>
      <tg xml:lang="rus">
-       <t pos="Interj"> пусть (раз на то пошло); так и быть</t>
+       <t pos="Interj">пусть (раз на то пошло); так и быть</t>
      </tg>
    </mg>
 </e>
@@ -851,7 +852,7 @@
    </lg>
    <mg>
      <tg xml:lang="rus">
-       <t> возглас, которым погоняют лошадей</t>
+       <t pos="Interj">возглас, которым погоняют лошадей</t>
      </tg>
    </mg>
 </e>
@@ -888,7 +889,7 @@
    </lg>
    <mg>
      <tg xml:lang="rus">
-       <t> бум</t>
+       <t pos="Interj">бум</t>
      </tg>
      <xg><x>бум-бом кылӧ вичко звӧн</x>
        <xt xml:lang="rus">слышится звон церковного колокола</xt>
@@ -902,7 +903,7 @@
    </lg>
    <mg>
      <tg xml:lang="rus">
-       <t> ропот, шёпот</t>
+       <t pos="Interj">ропот, шёпот</t>
      </tg>
      <xg><x>йӧз костын кылыштіс кутшӧмкӧ бур-бор</x>
        <xt xml:lang="rus">в толпе раздался ропот</xt>
@@ -943,7 +944,7 @@
    </lg>
    <mg>
      <tg xml:lang="rus">
-       <t> бряк, звяк</t>
+       <t pos="Interj">бряк, звяк</t>
      </tg>
      <xg><x>гуль-голь восьтыны томан</x>
        <xt xml:lang="rus">со звяканьем открыть замок</xt>
@@ -971,7 +972,7 @@
    </mg>
    <mg>2. <acronym title="диалектное"><em>диал.</em></acronym>
      <tg xml:lang="rus">
-       <t> глоток; <span class="underline">смотри также:</span> <stress>вом тыр</stress> (<span class="underline">в статье</span> <xref link="вом"> вом</xref>)</t>
+       <t pos="Interj">глоток; <span class="underline">смотри также:</span> <stress>вом тыр</stress> (<span class="underline">в статье</span> <xref link="вом"> вом</xref>)</t>
      </tg>
    </mg>
 </e>
@@ -982,7 +983,7 @@
    </lg>
    <mg>
      <tg xml:lang="rus">
-       <t> хлоп! <em>(о выстреле, ударе)</em></t>
+       <t pos="Interj">хлоп! <em>(о выстреле, ударе)</em></t>
      </tg>
    </mg>
 </e>
@@ -993,7 +994,7 @@
    </lg>
    <mg>
      <tg xml:lang="rus">
-       <t> жужжание <em>(насекомых, пули <acronym title="и так далее"><em>и т.д.</em></acronym>)</em></t>
+       <t pos="Interj">жужжание <em>(насекомых, пули <acronym title="и так далее"><em>и т.д.</em></acronym>)</em></t>
      </tg>
    </mg>
 </e>
@@ -1004,7 +1005,7 @@
    </lg>
    <mg>
      <tg xml:lang="rus">
-       <t> скрип-скрип</t>
+       <t pos="Interj">скрип-скрип</t>
      </tg>
    </mg>
 </e>
@@ -1015,7 +1016,7 @@
    </lg>
    <mg>
      <tg xml:lang="rus">
-       <t> буль-буль</t>
+       <t pos="Interj">буль-буль</t>
      </tg>
      <xg><x>жбольк-жбольк сӧмын и кылӧ берег дорсянь</x>
        <xt xml:lang="rus">буль-буль только и слышно со стороны берега</xt>
@@ -1073,7 +1074,7 @@
    </lg>
    <mg>
      <tg xml:lang="rus">
-       <t> с шумом, с треском, ударяясь <em>обо что-либо</em>, натыкаясь <em>на что-либо</em></t>
+       <t pos="Interj">с шумом, с треском, ударяясь <em>обо что-либо</em>, натыкаясь <em>на что-либо</em></t>
      </tg>
      <xg><x>зур-зар петны</x>
        <xt xml:lang="rus">выйти, натыкаясь на всё</xt>
@@ -1112,7 +1113,7 @@
    </lg>
    <mg>
      <tg xml:lang="rus">
-       <t> бах! грох!</t>
+       <t pos="Interj">бах! грох!</t>
      </tg>
      <xg><x>муӧ зым!</x>
        <xt xml:lang="rus">грох об землю!</xt>
@@ -1129,7 +1130,7 @@
    </lg>
    <mg>
      <tg xml:lang="rus">
-       <t> – <em>о грохоте, содрогании</em></t>
+       <t pos="Interj">– <em>о грохоте, содрогании</em></t>
      </tg>
    </mg>
 </e>
@@ -1170,7 +1171,7 @@
    </lg>
    <mg>
      <tg xml:lang="rus">
-       <t> хи-хи</t>
+       <t pos="Interj">хи-хи</t>
      </tg>
    </mg>
 </e>
@@ -1181,7 +1182,7 @@
    </lg>
    <mg>
      <tg xml:lang="rus">
-       <t> тук-тук</t>
+       <t pos="Interj">тук-тук</t>
      </tg>
      <xg><x>китши-котши муніс джодж кузя</x>
        <xt xml:lang="rus">тук-тук прошёл по полу</xt>
@@ -1195,7 +1196,7 @@
    </lg>
    <mg>
      <tg xml:lang="rus">
-       <t> хлоп; громко, с шумом</t>
+       <t pos="Interj">хлоп; громко, с шумом</t>
      </tg>
      <xg><x>клес шыбитны</x>
        <xt xml:lang="rus">сбросить с шумом</xt>
@@ -1209,7 +1210,7 @@
    </lg>
    <mg>
      <tg xml:lang="rus">
-       <t> хруст <em>(в суставах)</em></t>
+       <t pos="Interj">хруст <em>(в суставах)</em></t>
      </tg>
    </mg>
 </e>
@@ -1220,7 +1221,7 @@
    </lg>
    <mg>
      <tg xml:lang="rus">
-       <t> хлоп-хлоп</t>
+       <t pos="Interj">хлоп-хлоп</t>
      </tg>
    </mg>
 </e>
@@ -1231,7 +1232,7 @@
    </lg>
    <mg>
      <tg xml:lang="rus">
-       <t> курлы <em>(крик журавлей)</em></t>
+       <t pos="Interj">курлы <em>(крик журавлей)</em></t>
      </tg>
    </mg>
 </e>
@@ -1242,7 +1243,7 @@
    </lg>
    <mg>
      <tg xml:lang="rus">
-       <t> гулко стуча; с гулким стуком</t>
+       <t pos="Interj">гулко стуча; с гулким стуком</t>
      </tg>
    </mg>
 </e>
@@ -1253,7 +1254,7 @@
    </lg>
    <mg>
      <tg xml:lang="rus">
-       <t> бряк; со звоном</t>
+       <t pos="Interj">бряк; со звоном</t>
      </tg>
      <xg><x>клён паньсӧ пуктіс</x>
        <xt xml:lang="rus">со звоном положил ложку</xt>
@@ -1281,7 +1282,7 @@
    </lg>
    <mg>
      <tg xml:lang="rus">
-       <t> кар-кар <em>(карканье вороны)</em></t>
+       <t pos="Interj">кар-кар <em>(карканье вороны)</em></t>
      </tg>
    </mg>
 </e>
@@ -1292,7 +1293,7 @@
    </lg>
    <mg>
      <tg xml:lang="rus">
-       <t> хруст, хряск</t>
+       <t pos="Interj">хруст, хряск</t>
      </tg>
      <xg><x>куж-каж сёйны</x>
        <xt xml:lang="rus">проглотить с хрустом</xt>
@@ -1309,7 +1310,7 @@
    </lg>
    <mg>
      <tg xml:lang="rus">
-       <t> ку-ку</t>
+       <t pos="Interj">ку-ку</t>
      </tg>
      <xg><x>◊ кукку кольны</x>
        <xt xml:lang="rus">остаться на бобах, остаться ни с чем</xt>
@@ -1323,7 +1324,7 @@
    </lg>
    <mg>
      <tg xml:lang="rus">
-       <t> гулкий; пустой || гулко, пусто</t>
+       <t pos="Interj">гулкий; пустой || гулко, пусто</t>
      </tg>
      <xg><x>йӧртӧдыс кун-кон</x>
        <xt xml:lang="rus">закрома пустые, гулкие</xt>
@@ -1340,7 +1341,7 @@
    </lg>
    <mg>
      <tg xml:lang="rus">
-       <t> пиликанье</t>
+       <t pos="Interj">пиликанье</t>
      </tg>
      <xg><x>таллянкалӧн куннар-каннар шы</x>
        <xt xml:lang="rus">пиликанье тальянки</xt>
@@ -1373,7 +1374,7 @@
    </lg>
    <mg>
      <tg xml:lang="rus">
-       <t> тук-тук</t>
+       <t pos="Interj">тук-тук</t>
      </tg>
      <xg><x>кутш-котш пырисны нывъяс</x>
        <xt xml:lang="rus">тук-тук вошли девочки</xt>
@@ -1387,7 +1388,7 @@
    </lg>
    <mg>
      <tg xml:lang="rus">
-       <t> гав-гав</t>
+       <t pos="Interj">гав-гав</t>
      </tg>
      <xg><x>понйыс сьӧдбӧжӧс туялӧма, люв-ляв увтышталіс</x>
        <xt xml:lang="rus">собака выследила горностая, временами тявкала</xt>
@@ -1445,7 +1446,7 @@
    </lg>
    <mg>
      <tg xml:lang="rus">
-       <t> – о плеске, плескании воды</t>
+       <t pos="Interj">– о плеске, плескании воды</t>
      </tg>
      <xg><x>ваӧ сюль-сяль пырис кӧмтӧгыс</x>
        <xt xml:lang="rus">он босиком зашлёпал по воде</xt>
@@ -1459,7 +1460,7 @@
    </lg>
    <mg>
      <tg xml:lang="rus">
-       <t> трах-тарарах</t>
+       <t pos="Interj">трах-тарарах</t>
      </tg>
      <xg><x>сюр-сяр лэччыны кильчӧ поскӧд</x>
        <xt xml:lang="rus">с грохотом спуститься по лестнице</xt>
@@ -1484,7 +1485,7 @@
    </lg>
    <mg>
      <tg xml:lang="rus">
-       <t> стук; тук</t>
+       <t pos="Interj">стук; тук</t>
      </tg>
      <xg><x>кодкӧ ӧдзӧсӧ тарк-тарк</x>
        <xt xml:lang="rus">кто-то в дверь: тук-тук</xt>
@@ -1498,7 +1499,7 @@
    </lg>
    <mg>
      <tg xml:lang="rus">
-       <t> чив; чивиканье</t>
+       <t pos="Interj">чив; чивиканье</t>
      </tg>
      <xg><x>юр весьтын кыліс тиу-тиу</x>
        <xt xml:lang="rus">над головой послышалось чивиканье</xt>
@@ -1512,7 +1513,7 @@
    </lg>
    <mg>
      <tg xml:lang="rus">
-       <t> звук, изображающий пустоту</t>
+       <t pos="Interj">звук, изображающий пустоту</t>
      </tg>
      <xg><x>керкаас трин-трон</x>
        <xt xml:lang="rus"> в избе пусто <em>(хоть шаром покати)</em></xt>
@@ -1526,7 +1527,7 @@
    </lg>
    <mg>
      <tg xml:lang="rus">
-       <t> динь-динь</t>
+       <t pos="Interj">динь-динь</t>
      </tg>
    </mg>
 </e>
@@ -1537,7 +1538,7 @@
    </lg>
    <mg>
      <tg xml:lang="rus">
-       <t> трень-брень</t>
+       <t pos="Interj">трень-брень</t>
      </tg>
    </mg>
 </e>
@@ -1548,7 +1549,7 @@
    </lg>
    <mg>
      <tg xml:lang="rus">
-       <t> чик!</t>
+       <t pos="Interj">чик!</t>
      </tg>
      <xg><x>петуклысь бордъяссӧ, бӧжсӧ – трич!</x>
        <xt xml:lang="rus">крылья, хвост петуха – чик!</xt>
@@ -1562,7 +1563,7 @@
    </lg>
    <mg>
      <tg xml:lang="rus">
-       <t> бряк-звяк</t>
+       <t pos="Interj">бряк-звяк</t>
      </tg>
      <xg><x>ведраыс трунь-тронь тутіс кытчӧкӧ пемыдас</x>
        <xt xml:lang="rus">ведро с грохотом полетело куда-то в темноту</xt>
@@ -1576,7 +1577,7 @@
    </lg>
    <mg>
      <tg xml:lang="rus">
-       <t> динь-динь</t>
+       <t pos="Interj">динь-динь</t>
      </tg>
    </mg>
 </e>
@@ -1587,7 +1588,7 @@
    </lg>
    <mg>
      <tg xml:lang="rus">
-       <t> топ-топ; шлёп-шлёп</t>
+       <t pos="Interj">топ-топ; шлёп-шлёп</t>
      </tg>
      <xg><x>туп-тап котӧртны ӧдзӧслань</x>
        <xt xml:lang="rus">потопать-побежать к двери</xt>
@@ -1632,7 +1633,7 @@
    </lg>
    <mg>
      <tg xml:lang="rus">
-       <t> со стуком; с шумом</t>
+       <t pos="Interj">со стуком; с шумом</t>
      </tg>
      <xg><x>тур-тар лэччыны паччӧрысь</x>
        <xt xml:lang="rus">с шумом спуститься с печи</xt>
@@ -1763,7 +1764,7 @@
    </lg>
    <mg>
      <tg xml:lang="rus">
-       <t> кап-кап</t>
+       <t pos="Interj">кап-кап</t>
      </tg>
      <xg><x>ва тюп-тёп виялӧ</x>
        <xt xml:lang="rus">вода едва капает</xt>
@@ -1777,7 +1778,7 @@
    </lg>
    <mg>
      <tg xml:lang="rus">
-       <t> <span class="underline">смотри:</span> <xref link="тюп-тяп"> тюп-тяп</xref></t>
+       <t pos="Interj"><span class="underline">смотри:</span> <xref link="тюп-тяп"> тюп-тяп</xref></t>
      </tg>
    </mg>
 </e>
@@ -1788,7 +1789,7 @@
    </lg>
    <mg>
      <tg xml:lang="rus">
-       <t> бряк</t>
+       <t pos="Interj">бряк</t>
      </tg>
    </mg>
 </e>
@@ -1799,7 +1800,7 @@
    </lg>
    <mg>
      <tg xml:lang="rus">
-       <t> бряк-звяк</t>
+       <t pos="Interj">бряк-звяк</t>
      </tg>
      <xg><x>тільс-тольс вӧчыштас лэчтаннас</x>
        <xt xml:lang="rus">бряк-звяк точильным бруском по косе</xt>
@@ -1813,7 +1814,7 @@
    </lg>
    <mg>
      <tg xml:lang="rus">
-       <t> тук-тук</t>
+       <t pos="Interj">тук-тук</t>
      </tg>
    </mg>
 </e>
@@ -1857,7 +1858,7 @@
    </lg>
    <mg>
      <tg xml:lang="rus">
-       <t> чик</t>
+       <t pos="Interj">чик</t>
      </tg>
      <xg><x>косаӧй уси киысь и тӧрс!</x>
        <xt xml:lang="rus"> коса выпала из рук и чик! <em>(сломалась)</em></xt>
@@ -1899,7 +1900,7 @@
    </lg>
    <mg>
      <tg xml:lang="rus">
-       <t> <span class="underline">смотри:</span> <xref link="ув-ав"> ув-ав</xref></t>
+       <t pos="Interj"><span class="underline">смотри:</span> <xref link="ув-ав"> ув-ав</xref></t>
      </tg>
    </mg>
 </e>
@@ -1910,7 +1911,7 @@
    </lg>
    <mg>
      <tg xml:lang="rus">
-       <t> чивик-чивик</t>
+       <t pos="Interj">чивик-чивик</t>
      </tg>
    </mg>
 </e>
@@ -1921,7 +1922,7 @@
    </lg>
    <mg>
      <tg xml:lang="rus">
-       <t> чик-чирик</t>
+       <t pos="Interj">чик-чирик</t>
      </tg>
    </mg>
 </e>
@@ -1932,7 +1933,7 @@
    </lg>
    <mg>
      <tg xml:lang="rus">
-       <t> чик; вжик</t>
+       <t pos="Interj">чик; вжик</t>
      </tg>
      <xg><x>чилс вундыны бадь вож</x>
        <xt xml:lang="rus">чик отрезать ивовую ветку</xt>
@@ -1946,7 +1947,7 @@
    </lg>
    <mg>
      <tg xml:lang="rus">
-       <t> с треском</t>
+       <t pos="Interj">с треском</t>
      </tg>
      <xg><x>чуж-чаж косявны</x>
        <xt xml:lang="rus">разорвать, порвать с треском</xt>
@@ -1960,7 +1961,7 @@
    </lg>
    <mg>
      <tg xml:lang="rus">
-       <t> цок-цок</t>
+       <t pos="Interj">цок-цок</t>
      </tg>
      <xg><x>пожӧм вылын чук-чуки шыасис ур</x>
        <xt xml:lang="rus">на сосне цокала белка</xt>
@@ -1974,7 +1975,7 @@
    </lg>
    <mg>
      <tg xml:lang="rus">
-       <t> чмок</t>
+       <t pos="Interj">чмок</t>
      </tg>
      <xg><x>чуп да чоп окалӧны кагаӧс</x>
        <xt xml:lang="rus">чмок-чмок целуют ребёнка</xt>
@@ -2010,7 +2011,7 @@
    </lg>
    <mg>
      <tg xml:lang="rus">
-       <t> хлоп-хлоп</t>
+       <t pos="Interj">хлоп-хлоп</t>
      </tg>
      <xg><x>бордъясӧн швач-швач</x>
        <xt xml:lang="rus">крыльями хлоп-хлоп</xt>
@@ -2024,7 +2025,7 @@
    </lg>
    <mg>
      <tg xml:lang="rus">
-       <t> хлоп-хлоп, шлёп-шлёп</t>
+       <t pos="Interj">хлоп-хлоп, шлёп-шлёп</t>
      </tg>
    </mg>
 </e>
@@ -2035,7 +2036,7 @@
    </lg>
    <mg>
      <tg xml:lang="rus">
-       <t> быстро, круто, рывком</t>
+       <t pos="Interj">быстро, круто, рывком</t>
      </tg>
      <xg><x>швырк бергӧдчыны</x>
        <xt xml:lang="rus">круто повернуться</xt>
@@ -2077,7 +2078,7 @@
    </lg>
    <mg>
      <tg xml:lang="rus">
-       <t> хлоп-хлоп</t>
+       <t pos="Interj">хлоп-хлоп</t>
      </tg>
      <xg><x>шлич-шляч кучкыны ки пыдӧсӧн</x>
        <xt xml:lang="rus">хлоп-хлоп ударить ладонью</xt>
@@ -2091,7 +2092,7 @@
    </lg>
    <mg>
      <tg xml:lang="rus">
-       <t> хлоп</t>
+       <t pos="Interj">хлоп</t>
      </tg>
      <xg><x>шлоп усьны</x>
        <xt xml:lang="rus">шлёпнуться; хлоп упасть</xt>
@@ -2127,7 +2128,7 @@
    </lg>
    <mg>
      <tg xml:lang="rus">
-       <t> хлоп-хлоп</t>
+       <t pos="Interj">хлоп-хлоп</t>
      </tg>
      <xg><x>шпач-шпач лэбзьыны</x>
        <xt xml:lang="rus">полететь с хлопаньем</xt>
@@ -2141,7 +2142,7 @@
    </lg>
    <mg>
      <tg xml:lang="rus">
-       <t> хлоп</t>
+       <t pos="Interj">хлоп</t>
      </tg>
      <xg><x>шпорк лэбзьыны</x>
        <xt xml:lang="rus">полететь с хлопаньем</xt>

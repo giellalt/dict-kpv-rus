@@ -6,7 +6,7 @@
    </lg>
    <mg>
      <tg xml:lang="rus">
-       <t><acronym title="имя числительное"><em>числ.</em></acronym> <acronym title="порядковое числительное"><em>порядк.</em></acronym> пятидесятый</t>
+       <t pos="Num" type="Ord">пятидесятый</t>
      </tg>
      <xg><x>ветымынӧд лун</x>
        <xt xml:lang="rus">пятидесятый день</xt>

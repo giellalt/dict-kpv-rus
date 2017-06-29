@@ -36,7 +36,7 @@
    </mg>
    <mg>4.
      <tg xml:lang="rus">
-       <t><acronym title="употребляется"><em>употр.</em></acronym> <em>для усиления выразительности, убедительности</em></t>
+       <t pos="CC"><acronym title="употребляется"><em>употр.</em></acronym> <em>для усиления выразительности, убедительности</em></t>
      </tg>
      <xg><x>а друг кӧ сійӧ оз лок</x>
        <xt xml:lang="rus">а вдруг он не придёт</xt>
@@ -60,7 +60,7 @@
 
      <tg xml:lang="rus">
 
-       <t><span class="underline">смотри:</span> <xref link="либӧ"> либӧ</xref></t>
+       <t pos="CC"><span class="underline">смотри:</span> <xref link="либӧ"> либӧ</xref></t>
 
      </tg>
 

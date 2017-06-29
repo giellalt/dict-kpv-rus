@@ -6,7 +6,7 @@
    </lg>
    <mg>
      <tg xml:lang="rus">
-       <t><acronym title="имя числительное"><em>числ.</em></acronym> <acronym title="количественное (послелог, числительное)"><em>колич.</em></acronym> пятьдесят</t>
+       <t pos="Num"><acronym title="имя числительное"><em>числ.</em></acronym> <acronym title="количественное (послелог, числительное)"><em>колич.</em></acronym> пятьдесят</t>
      </tg>
      <xg><x>ветымын кык</x>
        <xt xml:lang="rus">пятьдесят два</xt>
@@ -23,7 +23,7 @@
    </lg>
    <mg>
      <tg xml:lang="rus">
-       <t>пять</t>
+       <t pos="Num">пять</t>
      </tg>
      <xg><x>вит пӧвстӧн</x>
        <xt xml:lang="rus"> в пять слоёв <em>(рядов)</em></xt>
@@ -44,7 +44,7 @@
    </lg>
    <mg>
      <tg xml:lang="rus">
-       <t><acronym title="имя числительное"><em>числ.</em></acronym> <acronym title="количественное (послелог, числительное)"><em>колич.</em></acronym> пятьсот</t>
+       <t pos="Num"><acronym title="имя числительное"><em>числ.</em></acronym> <acronym title="количественное (послелог, числительное)"><em>колич.</em></acronym> пятьсот</t>
      </tg>
      <xg><x>витсёысь</x>
        <xt xml:lang="rus">а) из пятисот</xt>
@@ -59,7 +59,7 @@
    </lg>
    <mg>
      <tg xml:lang="rus">
-       <t><acronym title="имя числительное"><em>числ.</em></acronym> <acronym title="количественное (послелог, числительное)"><em>колич.</em></acronym> десять || десятка</t>
+       <t pos="Num"><acronym title="имя числительное"><em>числ.</em></acronym> <acronym title="количественное (послелог, числительное)"><em>колич.</em></acronym> десять || десятка</t>
      </tg>
      <xg><x>дас арӧса детинка</x>
        <xt xml:lang="rus">десятилетний мальчик</xt>
@@ -125,7 +125,7 @@
        <xt xml:lang="rus">в десятикратном размере</xt>
      </xg><br />
      <xg><x>дас ур </x>
-       <xt><acronym title="устаревшее слово"><em>уст.</em></acronym> три копейки </xt><com>(<acronym title="буквально"><em>букв.</em></acronym> десять белок)</com>
+       <xt xml:lang="rus"><acronym title="устаревшее слово"><em>уст.</em></acronym> три копейки </xt><com>(<acronym title="буквально"><em>букв.</em></acronym> десять белок)</com>
      </xg><br />
      <xg><x>дас ура деньга</x>
        <xt xml:lang="rus">трёхкопеечная монета</xt>
@@ -142,7 +142,7 @@
    </lg>
    <mg>
      <tg xml:lang="rus">
-       <t><acronym title="имя числительное"><em>числ.</em></acronym> <acronym title="количественное (послелог, числительное)"><em>колич.</em></acronym> шесть</t>
+       <t pos="Num"><acronym title="имя числительное"><em>числ.</em></acronym> <acronym title="количественное (послелог, числительное)"><em>колич.</em></acronym> шесть</t>
      </tg>
      <xg><x>квайт арӧса</x>
        <xt xml:lang="rus">шестилетний</xt>
@@ -166,7 +166,7 @@
        <xt xml:lang="rus">из шести вычесть единицу</xt>
      </xg><br />
      <xg><x>◊ квайт пӧв костӧ пырны</x>
-       <xt> умереть </xt><com>(<acronym title="буквально"><em>букв.</em></acronym> зайти меж шести досок)</com>
+       <xt xml:lang="rus">умереть </xt><com>(<acronym title="буквально"><em>букв.</em></acronym> зайти меж шести досок)</com>
      </xg><br />
      <xg><x>◊ квайт чуня</x>
        <xt xml:lang="rus">а) шестипалый</xt>
@@ -181,7 +181,7 @@
    </lg>
    <mg>
      <tg xml:lang="rus">
-       <t><acronym title="имя числительное"><em>числ.</em></acronym> <acronym title="количественное (послелог, числительное)"><em>колич.</em></acronym> шестьсот</t>
+       <t pos="Num"><acronym title="имя числительное"><em>числ.</em></acronym> <acronym title="количественное (послелог, числительное)"><em>колич.</em></acronym> шестьсот</t>
      </tg>
    </mg>
 </e>
@@ -192,7 +192,7 @@
    </lg>
    <mg>
      <tg xml:lang="rus">
-       <t><acronym title="имя числительное"><em>числ.</em></acronym> <acronym title="количественное (послелог, числительное)"><em>колич.</em></acronym> шестьдесят</t>
+       <t pos="Num"><acronym title="имя числительное"><em>числ.</em></acronym> <acronym title="количественное (послелог, числительное)"><em>колич.</em></acronym> шестьдесят</t>
      </tg>
      <xg><x>квайтымын нёль</x>
        <xt xml:lang="rus">шестьдесят четыре</xt>
@@ -209,7 +209,7 @@
    </lg>
    <mg>
      <tg xml:lang="rus">
-       <t><acronym title="имя числительное"><em>числ.</em></acronym> <acronym title="порядковое числительное"><em>порядк.</em></acronym> третий</t>
+       <t pos="Num"><acronym title="имя числительное"><em>числ.</em></acronym> <acronym title="порядковое числительное"><em>порядк.</em></acronym> третий</t>
      </tg>
      <xg><x>коймӧд вежон</x>
        <xt xml:lang="rus">третья неделя</xt>
@@ -232,7 +232,7 @@
    </lg>
    <mg>
      <tg xml:lang="rus">
-       <t><acronym title="имя числительное"><em>числ.</em></acronym> <acronym title="количественное (послелог, числительное)"><em>колич.</em></acronym> тридцать</t>
+       <t pos="Num"><acronym title="имя числительное"><em>числ.</em></acronym> <acronym title="количественное (послелог, числительное)"><em>колич.</em></acronym> тридцать</t>
      </tg>
      <xg><x>комын арӧса</x>
        <xt xml:lang="rus">тридцатилетний</xt>
@@ -244,10 +244,10 @@
        <xt xml:lang="rus">тридцать раз</xt>
      </xg><br /><stress>&#160;&#160;&#160;комын вок ӧти кӧртӧдӧ кӧртасьӧмаӧсь</stress> <em>загадка</em> тридцать братьев одним поясом опоясаны (<em>отгадка</em> <stress>йирк</stress> потолок)<br />
      <xg><x>◊ комын вит ур </x>
-       <xt><acronym title="устаревшее слово"><em>уст.</em></acronym> десять копеек</xt>
+       <xt xml:lang="rus"><acronym title="устаревшее слово"><em>уст.</em></acronym> десять копеек</xt>
      </xg><br />
      <xg><x>◊ комын вит ура </x>
-       <xt><acronym title="устаревшее слово"><em>уст.</em></acronym> гривенник</xt>
+       <xt xml:lang="rus"><acronym title="устаревшее слово"><em>уст.</em></acronym> гривенник</xt>
      </xg>
    </mg>
 </e>
@@ -258,7 +258,7 @@
    </lg>
    <mg>
      <tg xml:lang="rus">
-       <t><acronym title="имя числительное"><em>числ.</em></acronym> <acronym title="количественное (послелог, числительное)"><em>колич.</em></acronym> три; трое</t>
+       <t pos="Num"><acronym title="имя числительное"><em>числ.</em></acronym> <acronym title="количественное (послелог, числительное)"><em>колич.</em></acronym> три; трое</t>
      </tg>
      <xg><x>куим арӧс</x>
        <xt xml:lang="rus">три года</xt>
@@ -282,10 +282,10 @@
        <xt xml:lang="rus">тройной</xt>
      </xg><br />
      <xg><x>куим ур </x>
-       <xt><acronym title="устаревшее слово"><em>уст.</em></acronym> копейка</xt>
+       <xt xml:lang="rus"><acronym title="устаревшее слово"><em>уст.</em></acronym> копейка</xt>
      </xg><br />
      <xg><x>куим ура </x>
-       <xt><acronym title="устаревшее слово"><em>уст.</em></acronym> монета достоинством в копейку</xt>
+       <xt xml:lang="rus"><acronym title="устаревшее слово"><em>уст.</em></acronym> монета достоинством в копейку</xt>
      </xg><br />
      <xg><x>куим час асыв</x>
        <xt xml:lang="rus">три часа утра</xt>
@@ -294,7 +294,7 @@
        <xt xml:lang="rus">мы отправились втроём</xt>
      </xg><br />
      <xg><x>куим рушкуӧ он сёй </x>
-       <xt><acronym title="пословица"><em>посл.</em></acronym> свыше меры не съешь</xt>
+       <xt xml:lang="rus"><acronym title="пословица"><em>посл.</em></acronym> свыше меры не съешь</xt>
      </xg><br /><stress>&#160;&#160;&#160;куим юрлӧс вылын кызь вит кок куйлӧ</stress> <em>загадка</em> на трёх подушках двадцать пять братьев спят (<em>отгадка</em> <stress>джодж да йирк</stress> пол и потолок)<br />
      <xg><x>◊ куим пратя гез</x>
        <xt xml:lang="rus">трое единомышленников</xt>
@@ -308,7 +308,7 @@
    </lg>
    <mg>
      <tg xml:lang="rus">
-       <t><acronym title="имя числительное"><em>числ.</em></acronym> <acronym title="количественное (послелог, числительное)"><em>колич.</em></acronym> триста</t>
+       <t pos="Num"><acronym title="имя числительное"><em>числ.</em></acronym> <acronym title="количественное (послелог, числительное)"><em>колич.</em></acronym> триста</t>
      </tg>
    </mg>
 </e>
@@ -319,10 +319,10 @@
    </lg>
    <mg>
      <tg xml:lang="rus">
-       <t><acronym title="имя числительное"><em>числ.</em></acronym> <acronym title="количественное (послелог, числительное)"><em>колич.</em></acronym></t>
+       <t pos="Num"><acronym title="имя числительное"><em>числ.</em></acronym> <acronym title="количественное (послелог, числительное)"><em>колич.</em></acronym></t>
      </tg><br />
      <tg xml:lang="rus">
-       <t>1. два</t>
+       <t pos="Num">1. два</t>
      </tg>
      <xg><x>кык да кык нёль</x>
        <xt xml:lang="rus">два да два – четыре</xt>
@@ -369,7 +369,7 @@
    </mg>
    <mg>2.
      <tg xml:lang="rus">
-       <t>двойной, сдвоенный; удвоенный || вдвое; дву-, двух-</t>
+       <t pos="Num">двойной, сдвоенный; удвоенный || вдвое; дву-, двух-</t>
      </tg><br /><stress>&#160;&#160;&#160;кык бана</stress> <acronym title="в прямом значении"><em>прям.</em></acronym> <em>и</em> <acronym title="в переносном значении"><em>перен.</em></acronym> двуличный<br />
      <xg><x>кык вевся</x>
        <xt xml:lang="rus">двойной, в два слоя</xt>
@@ -417,13 +417,13 @@
        <xt xml:lang="rus">оказаться меж двух огней</xt>
      </xg><br />
      <xg><x>◊ кык бӧр кок йылын сулавны</x>
-       <xt> угождать </xt><com>(<acronym title="буквально"><em>букв.</em></acronym> стоять на задних лапах)</com>
+       <xt xml:lang="rus">угождать </xt><com>(<acronym title="буквально"><em>букв.</em></acronym> стоять на задних лапах)</com>
      </xg><br />
      <xg><x>◊ кык жель</x>
        <xt xml:lang="rus">две задиры</xt>
      </xg><br />
      <xg><x>◊ кык жель костӧ босьтантор</x>
-       <xt> не стоит ломаного гроша </xt><com>(<acronym title="буквально"><em>букв.</em></acronym> то, что можно взять двумя щепками)</com>
+       <xt xml:lang="rus">не стоит ломаного гроша </xt><com>(<acronym title="буквально"><em>букв.</em></acronym> то, что можно взять двумя щепками)</com>
      </xg><br />
      <xg><x>◊ кык кымӧр костӧ пуктыны</x>
        <xt xml:lang="rus">положить между двух облаков (не на место; никуда)</xt>
@@ -443,7 +443,7 @@
    </lg>
    <mg>
      <tg xml:lang="rus">
-       <t><acronym title="имя числительное"><em>числ.</em></acronym> <acronym title="неопределённое (местоимение)"><em>неопр.</em></acronym> два-три</t>
+       <t pos="Num"><acronym title="имя числительное"><em>числ.</em></acronym> <acronym title="неопределённое (местоимение)"><em>неопр.</em></acronym> два-три</t>
      </tg>
    </mg>
 </e>
@@ -454,7 +454,7 @@
    </lg>
    <mg>
      <tg xml:lang="rus">
-       <t><acronym title="имя числительное"><em>числ.</em></acronym> <acronym title="количественное (послелог, числительное)"><em>колич.</em></acronym> двести</t>
+       <t pos="Num"><acronym title="имя числительное"><em>числ.</em></acronym> <acronym title="количественное (послелог, числительное)"><em>колич.</em></acronym> двести</t>
      </tg>
      <xg><x>кыксё велӧдчысь</x>
        <xt xml:lang="rus">двести учеников</xt>
@@ -471,7 +471,7 @@
    </lg>
    <mg>
      <tg xml:lang="rus">
-       <t>два-три раза; за два-три раза</t>
+       <t pos="Num">два-три раза; за два-три раза</t>
      </tg>
      <xg><x>кыкысь-куимысь ковмас волыны</x>
        <xt xml:lang="rus">придётся прийти два-три раза</xt>
@@ -485,7 +485,7 @@
    </lg>
    <mg>
      <tg xml:lang="rus">
-       <t>парами</t>
+       <t pos="Num">парами</t>
      </tg>
      <xg><x>кыкӧн-кыкӧн локтӧны</x>
        <xt xml:lang="rus">идут парами</xt>
@@ -499,7 +499,7 @@
    </lg>
    <mg>
      <tg xml:lang="rus">
-       <t><acronym title="имя числительное"><em>числ.</em></acronym> <acronym title="количественное (послелог, числительное)"><em>колич.</em></acronym> восемь</t>
+       <t pos="Num"><acronym title="имя числительное"><em>числ.</em></acronym> <acronym title="количественное (послелог, числительное)"><em>колич.</em></acronym> восемь</t>
      </tg>
      <xg><x>кӧкъямыса</x>
        <xt xml:lang="rus">восьмёрка</xt>
@@ -534,7 +534,7 @@
    </lg>
    <mg>
      <tg xml:lang="rus">
-       <t><acronym title="имя числительное"><em>числ.</em></acronym> <acronym title="количественное (послелог, числительное)"><em>колич.</em></acronym> восемьдесят</t>
+       <t pos="Num"><acronym title="имя числительное"><em>числ.</em></acronym> <acronym title="количественное (послелог, числительное)"><em>колич.</em></acronym> восемьдесят</t>
      </tg>
      <xg><x>кӧкъямысдас арӧс</x>
        <xt xml:lang="rus">восемьдесят лет</xt>
@@ -548,7 +548,7 @@
    </lg>
    <mg>
      <tg xml:lang="rus">
-       <t><acronym title="имя числительное"><em>числ.</em></acronym> <acronym title="количественное (послелог, числительное)"><em>колич.</em></acronym> восемьсот</t>
+       <t pos="Num"><acronym title="имя числительное"><em>числ.</em></acronym> <acronym title="количественное (послелог, числительное)"><em>колич.</em></acronym> восемьсот</t>
      </tg>
    </mg>
 </e>
@@ -559,7 +559,7 @@
    </lg>
    <mg>
      <tg xml:lang="rus">
-       <t><acronym title="имя числительное"><em>числ.</em></acronym> <acronym title="количественное (послелог, числительное)"><em>колич.</em></acronym> миллиард</t>
+       <t pos="Num"><acronym title="имя числительное"><em>числ.</em></acronym> <acronym title="количественное (послелог, числительное)"><em>колич.</em></acronym> миллиард</t>
      </tg>
    </mg>
 </e>
@@ -570,7 +570,7 @@
    </lg>
    <mg>
      <tg xml:lang="rus">
-       <t><acronym title="имя числительное"><em>числ.</em></acronym> <acronym title="количественное (послелог, числительное)"><em>колич.</em></acronym> миллион</t>
+       <t pos="Num"><acronym title="имя числительное"><em>числ.</em></acronym> <acronym title="количественное (послелог, числительное)"><em>колич.</em></acronym> миллион</t>
      </tg>
    </mg>
 </e>
@@ -581,16 +581,16 @@
    </lg>
    <mg>
      <tg xml:lang="rus">
-       <t><acronym title="имя числительное"><em>числ.</em></acronym> <acronym title="количественное (послелог, числительное)"><em>колич.</em></acronym> сорок</t>
+       <t pos="Num"><acronym title="имя числительное"><em>числ.</em></acronym> <acronym title="количественное (послелог, числительное)"><em>колич.</em></acronym> сорок</t>
      </tg>
      <xg><x>сё нелямын</x>
        <xt xml:lang="rus">сто сорок</xt>
      </xg><br />
      <xg><x>сё нелямын ур </x>
-       <xt><acronym title="устаревшее слово"><em>уст.</em></acronym> сорок копеек</xt>
+       <xt xml:lang="rus"><acronym title="устаревшее слово"><em>уст.</em></acronym> сорок копеек</xt>
      </xg><br />
      <xg><x>нелямын арӧс бӧрад бабаыд абу нин баба </x>
-       <xt><acronym title="поговорка"><em>погов.</em></acronym> сорок лет – бабий век </xt><com>(<acronym title="буквально"><em>букв.</em></acronym> после сорока лет женщина уже не женщина)</com>
+       <xt xml:lang="rus"><acronym title="поговорка"><em>погов.</em></acronym> сорок лет – бабий век </xt><com>(<acronym title="буквально"><em>букв.</em></acronym> после сорока лет женщина уже не женщина)</com>
      </xg>
    </mg>
 </e>
@@ -601,7 +601,7 @@
    </lg>
    <mg>
      <tg xml:lang="rus">
-       <t><acronym title="имя числительное"><em>числ.</em></acronym> <acronym title="количественное (послелог, числительное)"><em>колич.</em></acronym> четыре</t>
+       <t pos="Num"><acronym title="имя числительное"><em>числ.</em></acronym> <acronym title="количественное (послелог, числительное)"><em>колич.</em></acronym> четыре</t>
      </tg>
      <xg><x>нёль морт</x>
        <xt xml:lang="rus">четыре человека</xt>
@@ -664,7 +664,7 @@
    </lg>
    <mg>
      <tg xml:lang="rus">
-       <t><acronym title="имя числительное"><em>числ.</em></acronym> <acronym title="приблизительный падеж"><em>прибл.п.</em></acronym> <em>счёта</em> четыре-пять</t>
+       <t pos="Num"><acronym title="имя числительное"><em>числ.</em></acronym> <acronym title="приблизительный падеж"><em>прибл.п.</em></acronym> <em>счёта</em> четыре-пять</t>
      </tg>
      <xg><x>мужикыс мунӧма вӧрӧ нёль-ӧ-вит лун кежлӧ</x>
        <xt xml:lang="rus">муж её ушёл в лес на четыре-пять дней</xt>
@@ -678,7 +678,7 @@
    </lg>
    <mg>
      <tg xml:lang="rus">
-       <t><acronym title="имя числительное"><em>числ.</em></acronym> <acronym title="количественное (послелог, числительное)"><em>колич.</em></acronym> четыреста</t>
+       <t pos="Num"><acronym title="имя числительное"><em>числ.</em></acronym> <acronym title="количественное (послелог, числительное)"><em>колич.</em></acronym> четыреста</t>
      </tg>
      <xg><x>пальто нёльсё бердӧ сувтіс</x>
        <xt xml:lang="rus"> пальто обошлось примерно в четыреста <em>(рублей)</em></xt>
@@ -692,7 +692,7 @@
    </lg>
    <mg RNum="Ⅰ">
      <tg xml:lang="rus">
-       <t>1. <acronym title="имя числительное"><em>числ.</em></acronym> <acronym title="порядковое числительное"><em>порядк.</em></acronym> первый</t>
+       <t pos="Num">1. <acronym title="имя числительное"><em>числ.</em></acronym> <acronym title="порядковое числительное"><em>порядк.</em></acronym> первый</t>
      </tg>
      <xg><x>первой во</x>
        <xt xml:lang="rus">первый год</xt>
@@ -706,7 +706,7 @@
    </mg>
    <mg>2.
      <tg xml:lang="rus">
-       <t>первичный</t>
+       <t pos="Num">первичный</t>
      </tg>
      <xg><x>висьӧмлӧн первой кад</x>
        <xt xml:lang="rus">первичный период болезни</xt>
@@ -723,10 +723,10 @@
    </lg>
    <mg RNum="Ⅱ">
      <tg xml:lang="rus">
-       <t><acronym title="наречие"><em>нареч.</em></acronym></t>
+       <t pos="Num"><acronym title="наречие"><em>нареч.</em></acronym></t>
      </tg><br />
      <tg xml:lang="rus">
-       <t>1. сначала, прежде; сперва</t>
+       <t pos="Num">1. сначала, прежде; сперва</t>
      </tg>
      <xg><x>первой думышт</x>
        <xt xml:lang="rus">сначала подумай</xt>
@@ -737,10 +737,10 @@
    </mg>
    <mg>2.
      <tg xml:lang="rus">
-       <t>впервые</t>
+       <t pos="Num">впервые</t>
      </tg><br />
      <xg><x>первой на аддза</x>
-       <xt> впервые вижу</xt>
+       <xt xml:lang="rus">впервые вижу</xt>
      </xg>; <span class="underline">смотри также:</span> <xref link="медводдзаысь"> медводдзаысь</xref>
    </mg>
 </e>
@@ -751,18 +751,18 @@
    </lg>
    <mg>1.
      <tg xml:lang="rus">
-       <t>первый; первоначальный</t>
+       <t pos="Num">первый; первоначальный</t>
      </tg>
      <xg><x>первойя кадсӧ</x>
        <xt xml:lang="rus"> первое время <em>(сначала)</em></xt>
      </xg><br />
      <xg><x>первойя керкаас</x>
-       <xt> в первом <em>(с краю)</em> доме</xt>
+       <xt xml:lang="rus">в первом <em>(с краю)</em> доме</xt>
      </xg>; <span class="underline">смотри также:</span> <xref link="медводдза"> медводдза</xref>
    </mg>
    <mg>2.
      <tg xml:lang="rus">
-       <t>самый ранний</t>
+       <t pos="Num">самый ранний</t>
      </tg>
      <xg><x>первойя кынмалӧмъяс</x>
        <xt xml:lang="rus">ранние заморозки</xt>
@@ -776,7 +776,7 @@
    </lg>
    <mg>
      <tg xml:lang="rus">
-       <t><acronym title="имя числительное"><em>числ.</em></acronym> <acronym title="количественное (послелог, числительное)"><em>колич.</em></acronym> семь</t>
+       <t pos="Num"><acronym title="имя числительное"><em>числ.</em></acronym> <acronym title="количественное (послелог, числительное)"><em>колич.</em></acronym> семь</t>
      </tg>
      <xg><x>сизим арӧса кага</x>
        <xt xml:lang="rus">семилетний ребёнок</xt>
@@ -808,7 +808,7 @@
    </lg>
    <mg>
      <tg xml:lang="rus">
-       <t><acronym title="имя числительное"><em>числ.</em></acronym> <acronym title="количественное (послелог, числительное)"><em>колич.</em></acronym> семьдесят</t>
+       <t pos="Num"><acronym title="имя числительное"><em>числ.</em></acronym> <acronym title="количественное (послелог, числительное)"><em>колич.</em></acronym> семьдесят</t>
      </tg>
      <xg><x>сизимдас вит верст</x>
        <xt xml:lang="rus">семьдесят пять километров</xt>
@@ -825,7 +825,7 @@
    </lg>
    <mg>
      <tg xml:lang="rus">
-       <t><acronym title="имя числительное"><em>числ.</em></acronym> <acronym title="количественное (послелог, числительное)"><em>колич.</em></acronym> семьсот</t>
+       <t pos="Num"><acronym title="имя числительное"><em>числ.</em></acronym> <acronym title="количественное (послелог, числительное)"><em>колич.</em></acronym> семьсот</t>
      </tg>
      <xg><x>карлы сизимсё во</x>
        <xt xml:lang="rus">городу семьсот лет</xt>
@@ -839,7 +839,7 @@
    </lg>
    <mg>
      <tg xml:lang="rus">
-       <t><acronym title="имя числительное"><em>числ.</em></acronym> <acronym title="количественное (послелог, числительное)"><em>колич.</em></acronym> тысяча</t>
+       <t pos="Num"><acronym title="имя числительное"><em>числ.</em></acronym> <acronym title="количественное (послелог, числительное)"><em>колич.</em></acronym> тысяча</t>
      </tg>
      <xg><x>сюрс вося</x>
        <xt xml:lang="rus">тысячелетний</xt>
@@ -865,7 +865,7 @@
    </lg>
    <mg RNum="Ⅰ">
      <tg xml:lang="rus">
-       <t><acronym title="имя числительное"><em>числ.</em></acronym> <acronym title="количественное (послелог, числительное)"><em>колич.</em></acronym> сто; сотня</t>
+       <t pos="Num"><acronym title="имя числительное"><em>числ.</em></acronym> <acronym title="количественное (послелог, числительное)"><em>колич.</em></acronym> сто; сотня</t>
      </tg>
      <xg><x>сё вося</x>
        <xt xml:lang="rus">столетний</xt>
@@ -886,13 +886,13 @@
        <xt xml:lang="rus">ручьём</xt>
      </xg><br />
      <xg><x>◊ сё ен могысь</x>
-       <xt> сделай милость, очень прошу </xt><com>(<acronym title="буквально"><em>букв.</em></acronym> ради ста богов)</com>
+       <xt xml:lang="rus">сделай милость, очень прошу </xt><com>(<acronym title="буквально"><em>букв.</em></acronym> ради ста богов)</com>
      </xg><br />
      <xg><x>◊ сё майбыр</x>
        <xt xml:lang="rus">благодать</xt>
      </xg><br />
      <xg><x>◊ сё мокасьт, сё мор</x>
-       <xt> чёрт побери </xt><com>(<acronym title="буквально"><em>букв.</em></acronym> сто чертей)</com>
+       <xt xml:lang="rus">чёрт побери </xt><com>(<acronym title="буквально"><em>букв.</em></acronym> сто чертей)</com>
      </xg><br />
      <xg><x>◊ сё пӧгиб</x>
        <xt xml:lang="rus">конец, погибель</xt>
@@ -909,13 +909,13 @@
    </lg>
    <mg RNum="Ⅱ"> <acronym title="диалектное"><em>диал.</em></acronym>
      <tg xml:lang="rus">
-       <t> <acronym title="наречие"><em>нареч.</em></acronym> очень, весьма</t>
+       <t pos="Num"> <acronym title="наречие"><em>нареч.</em></acronym> очень, весьма</t>
      </tg>
      <xg><x>сё жаль</x>
        <xt xml:lang="rus">очень жалко</xt>
      </xg><br />
      <xg><x>сё нимкодь</x>
-       <xt> очень приятно</xt>
+       <xt xml:lang="rus">очень приятно</xt>
      </xg>; <span class="underline">смотри также:</span> <xref link="зэв"> зэв</xref>
    </mg>
 </e>
@@ -926,7 +926,7 @@
    </lg>
    <mg>
      <tg xml:lang="rus">
-       <t><acronym title="имя числительное"><em>числ.</em></acronym> <acronym title="количественное (послелог, числительное)"><em>колич.</em></acronym> тысяча</t>
+       <t pos="Num"><acronym title="имя числительное"><em>числ.</em></acronym> <acronym title="количественное (послелог, числительное)"><em>колич.</em></acronym> тысяча</t>
      </tg>
      <xg><x>тысячаысь</x>
        <xt xml:lang="rus"></xt>
@@ -940,7 +940,7 @@
    </lg>
    <mg>
      <tg xml:lang="rus">
-       <t><acronym title="имя числительное"><em>числ.</em></acronym> <acronym title="количественное (послелог, числительное)"><em>колич.</em></acronym> девять</t>
+       <t pos="Num"><acronym title="имя числительное"><em>числ.</em></acronym> <acronym title="количественное (послелог, числительное)"><em>колич.</em></acronym> девять</t>
      </tg>
      <xg><x>ӧкмыс арӧса</x>
        <xt xml:lang="rus"> девятилетний <em>(о возрасте)</em></xt>
@@ -990,7 +990,7 @@
    </lg>
    <mg>
      <tg xml:lang="rus">
-       <t><acronym title="имя числительное"><em>числ.</em></acronym> <acronym title="количественное (послелог, числительное)"><em>колич.</em></acronym> девяносто</t>
+       <t pos="Num"><acronym title="имя числительное"><em>числ.</em></acronym> <acronym title="количественное (послелог, числительное)"><em>колич.</em></acronym> девяносто</t>
      </tg>
      <xg><x>ӧкмысдас ӧкмыс</x>
        <xt xml:lang="rus">девяносто девять</xt>
@@ -1004,7 +1004,7 @@
    </lg>
    <mg>
      <tg xml:lang="rus">
-       <t><acronym title="имя числительное"><em>числ.</em></acronym> <acronym title="количественное (послелог, числительное)"><em>колич.</em></acronym> девятьсот</t>
+       <t pos="Num"><acronym title="имя числительное"><em>числ.</em></acronym> <acronym title="количественное (послелог, числительное)"><em>колич.</em></acronym> девятьсот</t>
      </tg>
      <xg><x>озыр колля воӧ ӧкмыссё саяс ур ку вузавлісны</x>
        <xt xml:lang="rus">в урожайный на шишки год они продавали более девятисот беличьих шкурок</xt>
@@ -1018,7 +1018,7 @@
    </lg>
    <mg>
      <tg xml:lang="rus">
-       <t><em>первая часть некоторых слов со значением</em> <xref link="ӧти"> ӧти</xref>, <acronym title="например"><em>напр.</em></acronym>: <xref link="ӧткодь"> ӧткодь</xref>, <xref link="ӧтпасьта"> ӧтпасьта</xref>, <xref link="ӧткузя"> ӧткузя</xref></t>
+       <t pos="Num"><em>первая часть некоторых слов со значением</em> <xref link="ӧти"> ӧти</xref>, <acronym title="например"><em>напр.</em></acronym>: <xref link="ӧткодь"> ӧткодь</xref>, <xref link="ӧтпасьта"> ӧтпасьта</xref>, <xref link="ӧткузя"> ӧткузя</xref></t>
      </tg>
    </mg>
 </e>
@@ -1029,7 +1029,7 @@
    </lg>
    <mg>1.
      <tg xml:lang="rus">
-       <t><acronym title="имя числительное"><em>числ.</em></acronym> <acronym title="количественное (послелог, числительное)"><em>колич.</em></acronym>, <em>также в роли</em> <acronym title="имя прилагательное"><em>прил.</em></acronym>, <acronym title="имя существительное"><em>сущ.</em></acronym> один</t>
+       <t pos="Num"><acronym title="имя числительное"><em>числ.</em></acronym> <acronym title="количественное (послелог, числительное)"><em>колич.</em></acronym>, <em>также в роли</em> <acronym title="имя прилагательное"><em>прил.</em></acronym>, <acronym title="имя существительное"><em>сущ.</em></acronym> один</t>
      </tg>
      <xg><x>дас ӧти</x>
        <xt xml:lang="rus">одиннадцать</xt>
@@ -1104,24 +1104,24 @@
        <xt xml:lang="rus">заодно, попутно</xt>
      </xg><br />
      <xg><x>ӧти сигӧра </x>
-       <xt><acronym title="имя прилагательное"><em>прил.</em></acronym> односкатный</xt>
+       <xt xml:lang="rus"><acronym title="имя прилагательное"><em>прил.</em></acronym> односкатный</xt>
      </xg><br />
      <xg><x>ӧти судта </x>
-       <xt><acronym title="имя прилагательное"><em>прил.</em></acronym> одноэтажный</xt>
+       <xt xml:lang="rus"><acronym title="имя прилагательное"><em>прил.</em></acronym> одноэтажный</xt>
      </xg><br />
      <xg><x>ӧти сьӧлӧмысь</x>
        <xt xml:lang="rus">единодушно, дружно</xt>
      </xg><br />
      <xg><x>ӧти гумла вылын вартӧны </x>
-       <xt><acronym title="поговорка"><em>погов.</em></acronym> одного поля ягода </xt><com>(<acronym title="буквально"><em>букв.</em></acronym> на одном току молотят)</com>
+       <xt xml:lang="rus"><acronym title="поговорка"><em>погов.</em></acronym> одного поля ягода </xt><com>(<acronym title="буквально"><em>букв.</em></acronym> на одном току молотят)</com>
      </xg><br /><stress>&#160;&#160;&#160;ӧти донӧн ставсӧ он донъяв </stress><acronym title="поговорка"><em>погов.</em></acronym> всех одной ценой не оценишь (под одну мерку не подгонишь)<br />
      <xg><x>ӧти кыв шуан, а дасӧс содтасны </x>
-       <xt><acronym title="поговорка"><em>погов.</em></acronym> скажешь слово, а прибавят десять</xt>
+       <xt xml:lang="rus"><acronym title="поговорка"><em>погов.</em></acronym> скажешь слово, а прибавят десять</xt>
      </xg>
    </mg>
    <mg>2. <acronym title="диалектное"><em>диал.</em></acronym>
      <tg xml:lang="rus">
-       <t></t>
+       <t pos="Num"></t>
      </tg><br />&#160;&#160;&#160;1) совсем, совершенно<br />
      <xg><x>&#160;&#160;&#160;ӧти ог вермы сёйны</x>
        <xt xml:lang="rus">есть совсем не могу</xt>
@@ -1151,10 +1151,10 @@
        <xt xml:lang="rus">из одного теста; два сапога пара</xt>
      </xg><br />
      <xg><x>◊ ӧти плака вылӧ сувтны</x>
-       <xt> клясться </xt><com>(<acronym title="буквально"><em>букв.</em></acronym> встать на одну доску)</com>
+       <xt xml:lang="rus">клясться </xt><com>(<acronym title="буквально"><em>букв.</em></acronym> встать на одну доску)</com>
      </xg><br />
      <xg><x>◊ ӧти пӧв кузя ветлыны</x>
-       <xt> ходить по струнке (по ниточке) </xt><com>(<acronym title="буквально"><em>букв.</em></acronym> ходить по одной половице)</com>
+       <xt xml:lang="rus">ходить по струнке (по ниточке) </xt><com>(<acronym title="буквально"><em>букв.</em></acronym> ходить по одной половице)</com>
      </xg>
    </mg>
 </e>
@@ -1165,7 +1165,7 @@
    </lg>
    <mg>
      <tg xml:lang="rus">
-       <t><span class="underline">смотри:</span> <xref link="ӧти"> ӧти</xref></t>
+       <t pos="Num"><span class="underline">смотри:</span> <xref link="ӧти"> ӧти</xref></t>
      </tg>
    </mg>
 </e>
