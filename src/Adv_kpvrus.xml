@@ -2896,10 +2896,10 @@
 </e>
 <e>
    <lg t1="Г" t2="А" t3="Т" uri="9683-gatsha" id="9683">
-     <l pos="Adv">гатша</l>
+     <l hid="Hom1" pos="Adv">гатша</l>
        <l_var type="molodtsov-cyr">гаща</l_var>
    </lg>
-   <mg RNum="Ⅰ">
+   <mg>
      <tg xml:lang="rus">
        <t pos="Adv">1. лежащий навзничь, на спине</t>
      </tg>

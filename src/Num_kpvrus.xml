@@ -687,10 +687,10 @@
 </e>
 <e>
    <lg t1="П" t2="Е" t3="Р" uri="39612-pervoij" id="39612">
-     <l pos="Num">первой</l>
+     <l hid="Hom1" pos="Num">первой</l>
        <l_var type="molodtsov-cyr">первој</l_var>
    </lg>
-   <mg RNum="Ⅰ">
+   <mg>
      <tg xml:lang="rus">
        <t pos="Num">1. <acronym title="имя числительное"><em>числ.</em></acronym> <acronym title="порядковое числительное"><em>порядк.</em></acronym> первый</t>
      </tg>
@@ -718,10 +718,10 @@
 </e>
 <e>
    <lg t1="П" t2="Е" t3="Р" uri="39612-pervoij" id="39612">
-     <l pos="Num">первой</l>
+     <l hid="Hom2" pos="Num">первой</l>
        <l_var type="molodtsov-cyr">первој</l_var>
    </lg>
-   <mg RNum="Ⅱ">
+   <mg>
      <tg xml:lang="rus">
        <t pos="Num"><acronym title="наречие"><em>нареч.</em></acronym></t>
      </tg><br />
@@ -860,10 +860,10 @@
 </e>
 <e>
    <lg t1="С" t2="Ё" t3="" uri="46942-syo" id="46942">
-     <l pos="Num">сё</l>
+     <l hid="Hom1" pos="Num">сё</l>
        <l_var type="molodtsov-cyr">ԍо</l_var>
    </lg>
-   <mg RNum="Ⅰ">
+   <mg>
      <tg xml:lang="rus">
        <t pos="Num"><acronym title="имя числительное"><em>числ.</em></acronym> <acronym title="количественное (послелог, числительное)"><em>колич.</em></acronym> сто; сотня</t>
      </tg>
@@ -904,10 +904,10 @@
 </e>
 <e>
    <lg t1="С" t2="Ё" t3="" uri="46942-syo" id="46942">
-     <l pos="Num">сё</l>
+     <l hid="Hom2" pos="Num">сё</l>
        <l_var type="molodtsov-cyr">ԍо</l_var>
    </lg>
-   <mg RNum="Ⅱ"> <acronym title="диалектное"><em>диал.</em></acronym>
+   <mg> <acronym title="диалектное"><em>диал.</em></acronym>
      <tg xml:lang="rus">
        <t pos="Num"> <acronym title="наречие"><em>нареч.</em></acronym> очень, весьма</t>
      </tg>

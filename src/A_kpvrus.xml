@@ -3560,10 +3560,10 @@
 </e>
 <e>
    <lg t1="В" t2="А" t3="З" uri="4506-vazillya" id="4506">
-     <l pos="A">вазілля</l>
+     <l hid="Hom1" pos="A">вазілля</l>
        <l_var type="molodtsov-cyr">вазіԉԉа</l_var>
    </lg>
-   <mg RNum="Ⅰ">
+   <mg>
      <tg xml:lang="rus">
        <t pos="A">1. водянистый (<acronym title="например">напр.</acronym>, о картофеле)</t>
      </tg>

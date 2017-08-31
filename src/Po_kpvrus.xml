@@ -879,10 +879,10 @@
 </e>
 <e>
    <lg t1="К" t2="Е" t3="Ж" uri="20660-kezhys-" id="20660">
-     <l pos="Po">кежысь</l>
+     <l hid="Hom1" pos="Po">кежысь</l>
        <l_var type="molodtsov-cyr">кежыԍ</l_var>
    </lg>
-   <mg RNum="Ⅰ">
+   <mg>
      <tg xml:lang="rus">
        <t><acronym title="причастие"><em>прич.</em></acronym></t>
      </tg><br />
@@ -906,10 +906,10 @@
 </e>
 <e>
    <lg t1="К" t2="Е" t3="Ж" uri="20660-kezhys-" id="20660">
-     <l pos="Po">кежысь</l>
+     <l hid="Hom2" pos="Po">кежысь</l>
        <l_var type="molodtsov-cyr">кежыԍ</l_var>
    </lg>
-   <mg RNum="Ⅱ">
+   <mg>
      <tg xml:lang="rus">
        <t><em>послелог обозначает ограничение тем, что выражено предшествующим послелогу словом</em></t>
      </tg>
@@ -1620,10 +1620,10 @@
 </e>
 <e>
    <lg t1="П" t2="Ы" t3="Т" uri="44091-pytsh" id="44091">
-     <l pos="Po">пытш</l>
+     <l hid="Hom1" pos="Po">пытш</l>
        <l_var type="molodtsov-cyr">пыщ</l_var>
    </lg>
-   <mg RNum="Ⅰ">
+   <mg>
      <tg xml:lang="rus">
        <t>1. блоха || блошиный</t>
      </tg>
@@ -1666,10 +1666,10 @@
 </e>
 <e>
    <lg t1="П" t2="Ы" t3="Т" uri="44091-pytsh" id="44091">
-     <l pos="Po">пытш</l>
+     <l hid="Hom2" pos="Po">пытш</l>
        <l_var type="molodtsov-cyr">пыщ</l_var>
    </lg>
-   <mg RNum="Ⅱ"><stress><strong>(-к-)</strong></stress><br />
+   <mg><stress><strong>(-к-)</strong></stress><br />
      <tg xml:lang="rus">
        <t><span class="underline">смотри:</span> <xref link="пытшкӧс"> пытшкӧс</xref></t>
      </tg>
@@ -1838,10 +1838,10 @@
 </e>
 <e>
    <lg t1="С" t2="Ь" t3="Ӧ" uri="50340-s-rys-" id="50340">
-     <l pos="Po">сьӧрысь</l>
+     <l hid="Hom1" pos="Po">сьӧрысь</l>
        <l_var type="molodtsov-cyr">ԍӧрыԍ</l_var>
    </lg>
-   <mg RNum="Ⅰ">
+   <mg>
      <tg xml:lang="rus">
        <t><acronym title="местоимение"><em>мест.</em></acronym>, <span class="underline">смотри:</span> <xref link="сьӧрам"> сьӧрам</xref></t>
      </tg>
@@ -1852,10 +1852,10 @@
 </e>
 <e>
    <lg t1="С" t2="Ь" t3="Ӧ" uri="50340-s-rys-" id="50340">
-     <l pos="Po">сьӧрысь</l>
+     <l hid="Hom2" pos="Po">сьӧрысь</l>
        <l_var type="molodtsov-cyr">ԍӧрыԍ</l_var>
    </lg>
-   <mg RNum="Ⅱ">
+   <mg>
      <tg xml:lang="rus">
        <t><em>послелог</em></t>
      </tg><br />
@@ -1959,10 +1959,10 @@
 </e>
 <e>
    <lg t1="У" t2="В" t3="" uri="55439-uv" id="55439">
-     <l pos="Po">ув</l>
+     <l hid="Hom1" pos="Po">ув</l>
        <l_var type="molodtsov-cyr">ув</l_var>
    </lg><br /><stress><strong>(-й-)</strong></stress>
-   <mg RNum="Ⅰ">
+   <mg>
      <tg xml:lang="rus">
        <t pos="N"> сук, сучок; ветка, ветвь</t>
      </tg>
@@ -1997,10 +1997,10 @@
 </e>
 <e>
    <lg t1="У" t2="В" t3="" uri="55439-uv" id="55439">
-     <l pos="Po">ув</l>
+     <l hid="Hom2" pos="Po">ув</l>
        <l_var type="molodtsov-cyr">ув</l_var>
    </lg>
-   <mg RNum="Ⅱ">
+   <mg>
      <tg xml:lang="rus">
        <t>1. <acronym title="имя существительное"><em>сущ.</em></acronym> низ <em>чего-либо</em></t>
      </tg>
@@ -2068,10 +2068,10 @@
 </e>
 <e>
    <lg t1="У" t2="В" t3="" uri="55439-uv" id="55439">
-     <l pos="Po">ув</l>
+     <l hid="Hom3" pos="Po">ув</l>
        <l_var type="molodtsov-cyr">ув</l_var>
    </lg>
-   <mg RNum="Ⅲ">
+   <mg>
      <tg xml:lang="rus">
        <t><acronym title="звукоподражательное слово"><em>звукоподр.</em></acronym> гав</t>
      </tg>

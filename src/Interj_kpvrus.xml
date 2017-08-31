@@ -4,7 +4,7 @@
    <lg t1="А" t2="" t3="" uri="2-a" id="2"><l pos="Interj">а</l>
        <l_var type="molodtsov-cyr">a</l_var>
    </lg>
-   <mg RNum="Ⅲ">
+   <mg>
      <tg xml:lang="rus">
        <t pos="Interj">а</t>
        <t pos="Interj" range="разг.">ба</t>

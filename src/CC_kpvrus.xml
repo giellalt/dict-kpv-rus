@@ -1,10 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <r id="kpvrus" xml:lang="kpv">
 <e>
-   <lg t1="А" t2="" t3="" uri="2-a" id="2"><l pos="CC">а</l>
-       <l_var type="molodtsov-cyr">a</l_var>
-   </lg>
-   <mg RNum="Ⅰ">
+  <lg t1="А" t2="" t3="" uri="2-a" id="2">
+    <l pos="CC">а</l>
+    <l_var type="molodtsov-cyr">a</l_var>
+  </lg>
+   <mg>1.
      <tg xml:lang="rus">
        <t pos="CC" type="противит.">а, но; же</t>
      </tg>
