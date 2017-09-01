@@ -1,21 +1,23 @@
-<?xml version="1.0" encoding="utf-8"?>
-<r id="kpvrus" xml:lang="kpv">
+<?xml version="1.0" encoding="utf-8"?> <r id="kpvrus" xml:lang="kpv">
 <e>
-  <lg t1="А" t2="" t3="" uri="2-a" id="2">
-    <l pos="CC">а</l>
-    <l_var type="molodtsov-cyr">a</l_var>
-  </lg>
+   <lg t1="А" t2="" t3="" uri="2-a" id="2">
+     <l pos="CC">а</l>
+       <l_var type="molodtsov-cyr">a</l_var>
+   </lg>
    <mg>1.
      <tg xml:lang="rus">
        <t pos="CC" type="противит.">а, но; же</t>
      </tg>
-     <xg><x>ме муна, а ёрт кольччӧ</x>
+     <xg>
+       <x>ме муна, а ёрт кольччӧ</x>
        <xt xml:lang="rus">я уезжаю, товарищ же остаётся</xt>
      </xg>
-     <xg><x>зэрис, а муыс кос</x>
+     <xg>
+       <x>зэрис, а муыс кос</x>
        <xt xml:lang="rus">прошёл дождь, а земля сухая</xt>
      </xg>
-     <xg><x>пӧрысь нин, а ён на</x>
+     <xg>
+       <x>пӧрысь нин, а ён на</x>
        <xt xml:lang="rus">он уже стар, но ещё крепок</xt>
      </xg>
    </mg>
@@ -23,7 +25,8 @@
      <tg xml:lang="rus">
        <t pos="CC" type="присоед.">а</t>
      </tg>
-     <xg><x>нӧрыс йылын керка, а горулас шор</x>
+     <xg>
+       <x>нӧрыс йылын керка, а горулас шор</x>
        <xt xml:lang="rus">на горе дом, а под горою ручей</xt>
      </xg>
    </mg>
@@ -31,7 +34,8 @@
      <tg xml:lang="rus">
        <t pos="CC" type="сопост.">а</t>
      </tg>
-     <xg><x>миян кӧдзӧны нин, а сэні гӧрӧны на</x>
+     <xg>
+       <x>миян кӧдзӧны нин, а сэні гӧрӧны на</x>
        <xt xml:lang="rus">у нас уже сеют, а там ещё пашут</xt>
      </xg>
    </mg>
@@ -39,34 +43,25 @@
      <tg xml:lang="rus">
        <t pos="CC"><acronym title="употребляется"><em>употр.</em></acronym> <em>для усиления выразительности, убедительности</em></t>
      </tg>
-     <xg><x>а друг кӧ сійӧ оз лок</x>
+     <xg>
+       <x>а друг кӧ сійӧ оз лок</x>
        <xt xml:lang="rus">а вдруг он не придёт</xt>
      </xg>
-     <xg><x>тэрмась, а то сёрман</x>
+     <xg>
+       <x>тэрмась, а то сёрман</x>
        <xt xml:lang="rus">спеши, а то опоздаешь</xt>
      </xg>
    </mg>
 </e>
 <e>
-
    <lg t1="Л" t2="И" t3="Б" uri="28281-lib-n-s-" id="28281">
-
      <l pos="CC">либӧнӧсь</l>
-
        <l_var type="molodtsov-cyr">ԉібӧнӧԍ</l_var>
-
    </lg>
-
    <mg>
-
-     <tg xml:lang="rus">
-
-       <t pos="CC"><span class="underline">смотри:</span> <xref link="либӧ"> либӧ</xref></t>
-
+     <sg><s pos="CC" s_type="see">либӧ</s></sg><tg xml:lang="rus">
+       <t pos="CC"></t>
      </tg>
-
    </mg>
-
 </e>
-
-</r>
+</r> 
