@@ -7206,10 +7206,14 @@
    <lg t1="Г" t2="У" t3="Г" uri="11356-gug-d-m" id="11356">
      <l pos="A">гугӧдӧм</l>
        <l_var type="molodtsov-cyr">гугӧԁӧм</l_var>
+     <compg drv="V:Suf»Prc" type="Der">
+       <comp ms="V" ord="E1" pos="V"></comp>
+       <comp ord="E2" pos="Suf" type="Der/ӧм"/>
+     </compg>
    </lg>
    <mg>
      <tg xml:lang="rus">
-       <t pos="A"><acronym title="причастие">прич.</acronym> вывороченный; вывернутый</t>
+       <t pos="A"> вывороченный; вывернутый</t>
      </tg>
      <xg><x>гугӧдӧм пася</x>
        <xt xml:lang="rus">в вывороченной шубе</xt>
@@ -7569,10 +7573,14 @@
    <lg t1="Г" t2="Ы" t3="Р" uri="12053-gyrdm-m" id="12053">
      <l pos="A">гырдмӧм</l>
        <l_var type="molodtsov-cyr">гырԁмӧм</l_var>
+     <compg drv="V:Suf»Prc" type="Der">
+       <comp ms="V" ord="E1" pos="V"></comp>
+       <comp ord="E2" pos="Suf" type="Der/ӧм"/>
+     </compg>
    </lg>
    <mg>
      <tg xml:lang="rus">
-       <t pos="A"><acronym title="причастие">прич.</acronym> покрасневший; воспалённый</t>
+       <t pos="A"> покрасневший; воспалённый</t>
      </tg>
      <xg><x>гырдмӧм синлапъяс</x>
        <xt xml:lang="rus">воспалённые веки</xt>
@@ -32176,10 +32184,14 @@
    <lg t1="С" t2="У" t3="Д" uri="49505-suditl-m" id="49505">
      <l pos="A">судитлӧм</l>
        <l_var type="molodtsov-cyr">суԃітлӧм</l_var>
+     <compg drv="V:Suf»Prc" type="Der">
+       <comp ms="V" ord="E1" pos="V"></comp>
+       <comp ord="E2" pos="Suf" type="Der/ӧм"/>
+     </compg>
    </lg>
    <mg>
      <tg xml:lang="rus">
-       <t pos="A"><acronym title="причастие">прич.</acronym> судимый</t>
+       <t pos="A"> судимый</t>
      </tg>
    </mg>
 </e>
@@ -43344,6 +43356,4765 @@
      <tg xml:lang="rus">
        <t pos="A">с ошибками; ошибочный; неверный</t>
      </tg>
+   </mg>
+</e>
+<e>
+   <lg t1="А" t2="Р" t3="Т" uri="845-artm-dan" id="845"><l pos="A">артмӧдан</l>
+       <l_var type="molodtsov-cyr">aртмӧԁан</l_var>
+     <compg drv="V:Suf»Prc" type="Der">
+       <comp ms="V" ord="E1" pos="V"></comp>
+       <comp ord="E2" pos="Suf" type="Der/Ан"></comp> </compg>
+   </lg>
+   <mg>
+     <tg xml:lang="rus">
+       <t pos="A">образующий</t>
+     </tg>
+     <xg>
+       <x>кыв артмӧдан</x>
+       <xt xml:lang="rus">словообразовательный</xt>
+     </xg>
+     <xg>
+       <x>форма артмӧдан</x>
+       <xt xml:lang="rus">формообразующий</xt>
+     </xg>
+   </mg>
+</e>
+<e>
+   <lg t1="Б" t2="А" t3="Г" uri="1440-bagralan" id="1440"><l pos="A">багралан</l>
+       <l_var type="molodtsov-cyr">багралан</l_var>
+     <compg drv="V:Suf»Prc" type="Der">
+       <comp ms="V" ord="E1" pos="V"></comp>
+       <comp ord="E2" pos="Suf" type="Der/Ан"></comp> </compg>
+   </lg>
+   <mg>
+     <tg xml:lang="rus">
+       <t pos="A">багровый</t>
+     </tg>
+     <xg>
+       <x>багралан тшын гыяс</x>
+       <xt xml:lang="rus">клубы багрового дыма</xt>
+     </xg>
+     <xg>
+       <x>багралан чужӧма</x>
+       <xt xml:lang="rus">с багровым лицом</xt>
+     </xg>
+   </mg>
+</e>
+<e>
+   <lg t1="Б" t2="Е" t3="Л" uri="1920-belitan" id="1920"><l pos="A">белитан</l>
+       <l_var type="molodtsov-cyr">беԉітан</l_var>
+     <compg drv="V:Suf»Prc" type="Der">
+       <comp ms="V" ord="E1" pos="V"></comp>
+       <comp ord="E2" pos="Suf" type="Der/Ан"></comp> </compg>
+   </lg>
+   <mg>
+     <tg xml:lang="rus">
+       <t pos="A">1. отбельный; предназначенный для отбелки</t>
+     </tg>
+     <xg>
+       <x>белитан установкаяс</x>
+       <xt xml:lang="rus">отбельные установки</xt>
+     </xg>
+     <xg>
+       <x>белитан шӧрт</x>
+       <xt xml:lang="rus">отбельная пряжа</xt>
+     </xg>
+   </mg>
+   <mg>2.
+     <tg xml:lang="rus">
+       <t pos="A">подвергшийся отбелке</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg t1="Б" t2="Е" t3="Р" uri="1981-bergalan" id="1981"><l pos="A">бергалан</l>
+       <l_var type="molodtsov-cyr">бергалан</l_var>
+     <compg drv="V:Suf»Prc" type="Der">
+       <comp ms="V" ord="E1" pos="V"></comp>
+       <comp ord="E2" pos="Suf" type="Der/Ан"></comp> </compg>
+   </lg>
+   <mg>
+     <tg xml:lang="rus">
+       <t pos="A">1. вращательный; вращающийся</t>
+     </tg>
+     <xg>
+       <x>бергалан визь</x>
+       <xt xml:lang="rus">вращательная линия</xt>
+     </xg>
+   </mg>
+   <mg>2.
+     <tg xml:lang="rus">
+       <t pos="A">употребительный</t>
+     </tg>
+     <xg>
+       <x>бергалан кывтэчас</x>
+       <xt xml:lang="rus">употребительный фразеологизм</xt>
+     </xg>
+   </mg>
+</e>
+<e>
+   <lg t1="Б" t2="О" t3="В" uri="2393-bov-yalan" id="2393"><l pos="A">бовъялан</l>
+       <l_var type="molodtsov-cyr">бовјалан</l_var>
+     <compg drv="V:Suf»Prc" type="Der">
+       <comp ms="V" ord="E1" pos="V"></comp>
+       <comp ord="E2" pos="Suf" type="Der/Ан"></comp> </compg>
+   </lg>
+   <mg>
+     <tg xml:lang="rus">
+       <t pos="A">болтающийся, качающийся</t>
+     </tg>
+     <xg>
+       <x>бовъялан кыснан кӧв</x>
+       <xt xml:lang="rus">болтающийся шнур блесны</xt>
+     </xg>
+   </mg>
+</e>
+<e>
+   <lg t1="Б" t2="О" t3="Л" uri="2509-bollyasyan" id="2509"><l pos="A">боллясян</l>
+       <l_var type="molodtsov-cyr">боԉԉаԍан</l_var>
+     <compg drv="V:Suf»Prc" type="Der">
+       <comp ms="V" ord="E1" pos="V"></comp>
+       <comp ord="E2" pos="Suf" type="Der/Ан"></comp> </compg>
+   </lg>
+   <mg>
+     <tg xml:lang="rus">
+       <t pos="A">пузырящийся</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg t1="Б" t2="О" t3="С" uri="2687-bos-tan" id="2687"><l pos="A">босьтан</l>
+       <l_var type="molodtsov-cyr">боԍтан</l_var>
+     <compg drv="V:Suf»Prc" type="Der">
+       <comp ms="V" ord="E1" pos="V"></comp>
+       <comp ord="E2" pos="Suf" type="Der/Ан"></comp> </compg>
+   </lg>
+   <mg>
+     <tg xml:lang="rus">
+       <t pos="A">1. берущий</t>
+     </tg><br />
+     <xg>
+       <x>босьтан киыд кузь, а сетан киыд дженьыд </x>
+       <xt><acronym title="пословица"><em>посл.</em></acronym> берущая рука – длинна, а дающая – коротка</xt>
+     </xg><br />
+     <xg>
+       <x>босьтан киыд оз мудз, а сетан киыд мудзӧ </x>
+       <xt><acronym title="пословица"><em>посл.</em></acronym> брать легко, а отдавать трудно </xt><com>(<acronym title="буквально"><em>букв.</em></acronym> берущая рука не устаёт, а дающая рука устаёт)</com>
+     </xg>
+   </mg>
+   <mg>2.
+     <tg xml:lang="rus">
+       <t pos="A">приёмный</t>
+     </tg>
+     <xg>
+       <x>босьтан экзаменъяс</x>
+       <xt xml:lang="rus">приёмные экзамены</xt>
+     </xg>
+   </mg>
+   <mg>3.
+     <tg xml:lang="rus">
+       <t pos="A"><acronym title="грамматическое"><em>грам.</em></acronym> притяжательный</t>
+     </tg>
+     <xg>
+       <x>босьтан падеж</x>
+       <xt xml:lang="rus">притяжательный падеж</xt>
+     </xg>
+   </mg>
+</e>
+<e>
+   <lg t1="Б" t2="У" t3="Г" uri="3391-bugzhylyasyan" id="3391"><l pos="A">бугжылясян</l>
+       <l_var type="molodtsov-cyr">бугжыԉаԍан</l_var>
+     <compg drv="V:Suf»Prc" type="Der">
+       <comp ms="V" ord="E1" pos="V"></comp>
+       <comp ord="E2" pos="Suf" type="Der/Ан"></comp> </compg>
+   </lg>
+   <mg>
+     <tg xml:lang="rus">
+       <t pos="A">недружелюбный, косой</t>
+     </tg>
+     <xg>
+       <x>бугжылясян видзӧдласӧн донъявны пырысьӧс</x>
+       <xt xml:lang="rus">недружелюбным взглядом оценить входящего</xt>
+     </xg>
+   </mg>
+</e>
+<e>
+   <lg t1="Б" t2="Ы" t3="Г" uri="3970-bygzyan" id="3970"><l pos="A">быгзян</l>
+       <l_var type="molodtsov-cyr">быгԅан</l_var>
+     <compg drv="V:Suf»Prc" type="Der">
+       <comp ms="V" ord="E1" pos="V"></comp>
+       <comp ord="E2" pos="Suf" type="Der/Ан"></comp> </compg>
+   </lg>
+   <mg>
+     <tg xml:lang="rus">
+       <t pos="A">мылкий</t>
+     </tg>
+     <xg>
+       <x>быгзян майтӧг</x>
+       <xt xml:lang="rus">мылкое мыло</xt>
+     </xg>
+     <xg>
+       <x>быгзян порошок</x>
+       <xt xml:lang="rus">мылкий порошок</xt>
+     </xg><br />
+     <xg>
+       <x>быгзян турун </x>
+       <xt><acronym title="ботаника"><em>бот.</em></acronym> гвоздика</xt>
+     </xg>
+   </mg>
+</e>
+<e>
+   <lg t1="Б" t2="Ы" t3="Д" uri="4071-bydman" id="4071"><l pos="A">быдман</l>
+       <l_var type="molodtsov-cyr">быԁман</l_var>
+     <compg drv="V:Suf»Prc" type="Der">
+       <comp ms="V" ord="E1" pos="V"></comp>
+       <comp ord="E2" pos="Suf" type="Der/Ан"></comp> </compg>
+   </lg>
+   <mg>
+     <tg xml:lang="rus">
+       <t pos="A">растущий</t>
+     </tg>
+     <xg>
+       <x>быдман кадӧ</x>
+       <xt xml:lang="rus">в период роста</xt>
+     </xg>
+     <xg>
+       <x>быдман пу</x>
+       <xt xml:lang="rus">растущее дерево</xt>
+     </xg><br />
+     <xg>
+       <x>быдман тшӧтшъя чойяс </x>
+       <xt><acronym title="фольклор"><em>фольк.</em></acronym> сверстницы</xt>
+     </xg><br />
+     <xg>
+       <x>быдман мортлы ёна колӧ сёйны</x>
+       <xt xml:lang="rus">растущему человеку много надо есть</xt>
+     </xg>
+   </mg>
+</e>
+<e>
+   <lg t1="Б" t2="Ы" t3="Д" uri="4112-bydtan" id="4112"><l pos="A">быдтан</l>
+       <l_var type="molodtsov-cyr">быттан</l_var>
+     <compg drv="V:Suf»Prc" type="Der">
+       <comp ms="V" ord="E1" pos="V"></comp>
+       <comp ord="E2" pos="Suf" type="Der/Ан"></comp> </compg>
+   </lg>
+   <mg>
+     <tg xml:lang="rus">
+       <t pos="A">выращиваемый, подлежащий выращиванию</t>
+     </tg>
+     <xg>
+       <x>начкан ӧшпиӧс торйӧдны быдтан кукъясысь</x>
+       <xt xml:lang="rus">отделить бычка, предназначенного для забоя, от выращиваемых телят</xt>
+     </xg>
+   </mg>
+</e>
+<e>
+   <lg t1="Б" t2="Ы" t3="Р" uri="4261-byr-dan" id="4261"><l pos="A">бырӧдан</l>
+       <l_var type="molodtsov-cyr">бырӧԁан</l_var>
+     <compg drv="V:Suf»Prc" type="Der">
+       <comp ms="V" ord="E1" pos="V"></comp>
+       <comp ord="E2" pos="Suf" type="Der/Ан"></comp> </compg>
+   </lg>
+   <mg>
+     <tg xml:lang="rus">
+       <t pos="A">ликвидационный</t>
+     </tg>
+     <xg>
+       <x>бырӧдан комиссия</x>
+       <xt xml:lang="rus">ликвидационная комиссия</xt>
+     </xg>
+   </mg>
+</e>
+<e>
+   <lg t1="Б" t2="Ы" t3="Т" uri="4325-bytshlasyan" id="4325"><l pos="A">бытшласян</l>
+       <l_var type="molodtsov-cyr">быщлаԍан</l_var>
+     <compg drv="V:Suf»Prc" type="Der">
+       <comp ms="V" ord="E1" pos="V"></comp>
+       <comp ord="E2" pos="Suf" type="Der/Ан"></comp> </compg>
+   </lg>
+   <mg>
+     <tg xml:lang="rus">
+       <t pos="A">колющий, колючий</t>
+     </tg>
+     <xg>
+       <x>бытшласян борд</x>
+       <xt xml:lang="rus">колючий плавник</xt>
+     </xg>
+     <xg>
+       <x>бытшласян йӧн</x>
+       <xt xml:lang="rus">колючий осот</xt>
+     </xg>
+     <xg>
+       <x>бытшласян кустъяс</x>
+       <xt xml:lang="rus">колючие кустарники</xt>
+     </xg>
+     <xg>
+       <x>бытшласян сутуга</x>
+       <xt xml:lang="rus">колючая проволока</xt>
+     </xg>
+     <xg>
+       <x>бытшласян турун</x>
+       <xt xml:lang="rus">колючая трава</xt>
+     </xg>
+     <xg>
+       <x>жвучӧдчӧ тӧв ныр, бытшласян, ёсь</x>
+       <xt xml:lang="rus">свистит жгучий, резкий ветер</xt>
+     </xg>
+   </mg>
+</e>
+<e>
+   <lg t1="В" t2="А" t3="Р" uri="4862-vartan" id="4862">
+     <l hid="Hom3">вартан</l>
+       <l_var type="molodtsov-cyr">вартан</l_var>
+     <compg drv="V:Suf»Prc" type="Der">
+       <comp ms="V" ord="E1" pos="V"></comp>
+       <comp ord="E2" pos="Suf" type="Der/Ан"></comp> </compg>
+   </lg>
+   <mg>
+     <tg xml:lang="rus">
+       <t pos="A">молотильный</t>
+     </tg>
+     <xg>
+       <x>вартан гумла</x>
+       <xt xml:lang="rus">молотильный ток</xt>
+     </xg>
+   </mg>
+</e>
+<e>
+   <lg t1="В" t2="Е" t3="Л" uri="5551-velalan" id="5551"><l pos="A">велалан</l>
+       <l_var type="molodtsov-cyr">велалан</l_var>
+     <compg drv="V:Suf»Prc" type="Der">
+       <comp ms="V" ord="E1" pos="V"></comp>
+       <comp ord="E2" pos="Suf" type="Der/Ан"></comp> </compg>
+   </lg>
+   <mg>
+     <tg xml:lang="rus">
+       <t pos="A">внятный; отчётливый</t>
+     </tg>
+     <xg>
+       <x>велалан сёрни</x>
+       <xt xml:lang="rus">внятная речь</xt>
+     </xg>
+   </mg>
+</e>
+<e>
+   <lg t1="В" t2="Е" t3="Л" uri="5560-velichaijtan" id="5560"><l pos="A">величайтан</l>
+       <l_var type="molodtsov-cyr">веԉічајтан</l_var>
+     <compg drv="V:Suf»Prc" type="Der">
+       <comp ms="V" ord="E1" pos="V"></comp>
+       <comp ord="E2" pos="Suf" type="Der/Ан"></comp> </compg>
+   </lg>
+   <mg>
+     <tg xml:lang="rus">
+       <t pos="A">величальный</t>
+     </tg><br />
+     <xg>
+       <x>величайтан сьыланкыв</x>
+       <xt> величальная песня</xt>
+     </xg>; <span class="underline">смотри также:</span> <xref link="ыдждӧдлан"> ыдждӧдлан</xref>
+   </mg>
+</e>
+<e>
+   <lg t1="В" t2="Е" t3="Л" uri="5579-vel-dan" id="5579"><l pos="A">велӧдан</l>
+       <l_var type="molodtsov-cyr">велӧԁан</l_var>
+     <compg drv="V:Suf»Prc" type="Der">
+       <comp ms="V" ord="E1" pos="V"></comp>
+       <comp ord="E2" pos="Suf" type="Der/Ан"></comp> </compg>
+   </lg>
+   <mg>
+     <tg xml:lang="rus">
+       <t pos="A">нравоучительный, наставительный; поучительный; внушительный</t>
+     </tg>
+     <xg>
+       <x>велӧдан гӧлӧс</x>
+       <xt xml:lang="rus">внушительный тон</xt>
+     </xg>
+     <xg>
+       <x>велӧдан кывъяс</x>
+       <xt xml:lang="rus">нравоучительные слова</xt>
+     </xg>
+     <xg>
+       <x>велӧдан пример</x>
+       <xt xml:lang="rus">поучительный пример</xt>
+     </xg>
+   </mg>
+</e>
+<e>
+   <lg t1="В" t2="Е" t3="Л" uri="5601-vel-dchan" id="5601"><l pos="A">велӧдчан</l>
+       <l_var type="molodtsov-cyr">велӧччан</l_var>
+     <compg drv="V:Suf»Prc" type="Der">
+       <comp ms="V" ord="E1" pos="V"></comp>
+       <comp ord="E2" pos="Suf" type="Der/Ан"></comp> </compg>
+   </lg>
+   <mg>
+     <tg xml:lang="rus">
+       <t pos="A">учебный</t>
+     </tg>
+     <xg>
+       <x>велӧдчан во</x>
+       <xt xml:lang="rus">учебный год</xt>
+     </xg>
+     <xg>
+       <x>велӧдчан дон</x>
+       <xt xml:lang="rus">стоимость обучения</xt>
+     </xg>
+     <xg>
+       <x>велӧдчан небӧгъяс</x>
+       <xt xml:lang="rus">учебники</xt>
+     </xg>
+   </mg>
+</e>
+<e>
+   <lg t1="В" t2="Е" t3="Т" uri="6179-vetlan" id="6179"><l pos="A">ветлан</l>
+       <l_var type="molodtsov-cyr">ветлан</l_var>
+     <compg drv="V:Suf»Prc" type="Der">
+       <comp ms="V" ord="E1" pos="V"></comp>
+       <comp ord="E2" pos="Suf" type="Der/Ан"></comp> </compg>
+   </lg>
+   <mg>
+     <tg xml:lang="rus">
+       <t pos="A">1. ходячий, кочующий</t>
+     </tg>
+     <xg>
+       <x>ветлан пӧткалӧн кок пыдӧсыс куш, но кынӧмыс пӧт</x>
+       <xt xml:lang="rus">у птицы, которая не гнушается хождением, ступня голая, но желудок полный</xt>
+     </xg>
+   </mg>
+   <mg>2.
+     <tg xml:lang="rus">
+       <t pos="A">ходячий, находящийся в ходу</t>
+     </tg>
+     <xg>
+       <x>ветлан деньга</x>
+       <xt xml:lang="rus">ходячая монета</xt>
+     </xg>
+   </mg>
+   <mg>3.
+     <tg xml:lang="rus">
+       <t pos="A">проезжий</t>
+     </tg>
+     <xg>
+       <x>машинаясӧн ветлан туй</x>
+       <xt xml:lang="rus">проезжая дорога</xt>
+     </xg>
+   </mg>
+</e>
+<e>
+   <lg t1="В" t2="Е" t3="Ш" uri="6292-veshtysyan" id="6292"><l pos="A">вештысян</l>
+       <l_var type="molodtsov-cyr">вештыԍан</l_var>
+     <compg drv="V:Suf»Prc" type="Der">
+       <comp ms="V" ord="E1" pos="V"></comp>
+       <comp ord="E2" pos="Suf" type="Der/Ан"></comp> </compg>
+   </lg>
+   <mg>
+     <tg xml:lang="rus">
+       <t pos="A">выкупной</t>
+     </tg>
+     <xg>
+       <x>вештысян сьӧм</x>
+       <xt xml:lang="rus">выкупные деньги</xt>
+     </xg>
+   </mg>
+</e>
+<e>
+   <lg t1="В" t2="Е" t3="Ш" uri="6300-vesh-yalan" id="6300"><l pos="A">вешъялан</l>
+       <l_var type="molodtsov-cyr">вешјалан</l_var>
+     <compg drv="V:Suf»Prc" type="Der">
+       <comp ms="V" ord="E1" pos="V"></comp>
+       <comp ord="E2" pos="Suf" type="Der/Ан"></comp> </compg>
+   </lg>
+   <mg>
+     <tg xml:lang="rus">
+       <t pos="A">задвижной</t>
+     </tg><br /><stress>&#160;&#160;&#160;вешъялан вевт</stress> задвижная крышка <em>(<acronym title="например"><em>напр.</em></acronym>, в пенале)</em><br /><stress>&#160;&#160;&#160;вешъялан ӧдзӧс</stress> задвижная дверь <em>(<acronym title="например"><em>напр.</em></acronym>, в вагонах)</em>
+   </mg>
+</e>
+<e>
+   <lg t1="В" t2="И" t3="Д" uri="6369-vidzaasyan" id="6369"><l pos="A">видзаасян</l>
+       <l_var type="molodtsov-cyr">віԇааԍан</l_var>
+     <compg drv="V:Suf»Prc" type="Der">
+       <comp ms="V" ord="E1" pos="V"></comp>
+       <comp ord="E2" pos="Suf" type="Der/Ан"></comp> </compg>
+   </lg>
+   <mg>
+     <tg xml:lang="rus">
+       <t pos="A">приветственный</t>
+     </tg>
+     <xg>
+       <x>видзаасян кывъяс</x>
+       <xt xml:lang="rus">приветственные слова</xt>
+     </xg>
+   </mg>
+</e>
+<e>
+   <lg t1="В" t2="И" t3="Д" uri="6397-vidz-dan" id="6397"><l pos="A">видзӧдан</l>
+       <l_var type="molodtsov-cyr">віԇӧԁан</l_var>
+     <compg drv="V:Suf»Prc" type="Der">
+       <comp ms="V" ord="E1" pos="V"></comp>
+       <comp ord="E2" pos="Suf" type="Der/Ан"></comp> </compg>
+   </lg>
+   <mg>
+     <tg xml:lang="rus">
+       <t pos="A">зрительный, смотровой</t>
+     </tg>
+     <xg>
+       <x>кино видзӧдан зал</x>
+       <xt xml:lang="rus">зрительный зал</xt>
+     </xg>
+     <xg>
+       <x>видзӧдан щель</x>
+       <xt xml:lang="rus">смотровая щель</xt>
+     </xg>
+   </mg>
+</e>
+<e>
+   <lg t1="В" t2="И" t3="З" uri="6561-vizlalan" id="6561"><l pos="A">визлалан</l>
+       <l_var type="molodtsov-cyr">візлалан</l_var>
+     <compg drv="V:Suf»Prc" type="Der">
+       <comp ms="V" ord="E1" pos="V"></comp>
+       <comp ord="E2" pos="Suf" type="Der/Ан"></comp> </compg>
+   </lg>
+   <mg>
+     <tg xml:lang="rus">
+       <t pos="A">пронизывающий</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg t1="В" t2="И" t3="З" uri="6579-vizuvtan" id="6579"><l pos="A">визувтан</l>
+       <l_var type="molodtsov-cyr">візувтан</l_var>
+     <compg drv="V:Suf»Prc" type="Der">
+       <comp ms="V" ord="E1" pos="V"></comp>
+       <comp ord="E2" pos="Suf" type="Der/Ан"></comp> </compg>
+   </lg>
+   <mg>
+     <tg xml:lang="rus">
+       <t pos="A">1. текучий</t>
+     </tg>
+   </mg>
+   <mg>2.
+     <tg xml:lang="rus">
+       <t pos="A">проточный</t>
+     </tg>
+     <xg>
+       <x>визувтан ва</x>
+       <xt xml:lang="rus">проточная вода</xt>
+     </xg>
+   </mg>
+</e>
+<e>
+   <lg t1="В" t2="И" t3="С" uri="6881-vis-m-dan" id="6881"><l pos="A">висьмӧдан</l>
+       <l_var type="molodtsov-cyr">віԍмӧԁан</l_var>
+     <compg drv="V:Suf»Prc" type="Der">
+       <comp ms="V" ord="E1" pos="V"></comp>
+       <comp ord="E2" pos="Suf" type="Der/Ан"></comp> </compg>
+   </lg>
+   <mg>
+     <tg xml:lang="rus">
+       <t pos="A">болезнетворный</t>
+     </tg>
+     <xg>
+       <x>висьмӧдан микробъяс</x>
+       <xt xml:lang="rus">болезнетворные микробы</xt>
+     </xg>
+   </mg>
+</e>
+<e>
+   <lg t1="В" t2="И" t3="С" uri="6899-vis-dan" id="6899"><l pos="A">висьӧдан</l>
+       <l_var type="molodtsov-cyr">віԍӧԁан</l_var>
+     <compg drv="V:Suf»Prc" type="Der">
+       <comp ms="V" ord="E1" pos="V"></comp>
+       <comp ord="E2" pos="Suf" type="Der/Ан"></comp> </compg>
+   </lg>
+   <mg>
+     <tg xml:lang="rus">
+       <t pos="A">болезненный</t>
+     </tg>
+     <xg>
+       <x>висьӧдан укол</x>
+       <xt xml:lang="rus">болезненный укол</xt>
+     </xg>
+   </mg>
+</e>
+<e>
+   <lg t1="В" t2="И" t3="Я" uri="7053-viyalan" id="7053"><l pos="A">виялан</l>
+       <l_var type="molodtsov-cyr">віјалан</l_var>
+     <compg drv="V:Suf»Prc" type="Der">
+       <comp ms="V" ord="E1" pos="V"></comp>
+       <comp ord="E2" pos="Suf" type="Der/Ан"></comp> </compg>
+   </lg>
+   <mg>
+     <tg xml:lang="rus">
+       <t pos="A">протекающий</t>
+     </tg>
+     <xg>
+       <x>виялан вевт</x>
+       <xt xml:lang="rus">протекающая крыша</xt>
+     </xg>
+   </mg>
+</e>
+<e>
+   <lg t1="В" t2="О" t3="А" uri="7090-voan" id="7090"><l pos="A">воан</l>
+       <l_var type="molodtsov-cyr">воан</l_var>
+     <compg drv="V:Suf»Prc" type="Der">
+       <comp ms="V" ord="E1" pos="V"></comp>
+       <comp ord="E2" pos="Suf" type="Der/Ан"></comp> </compg>
+   </lg>
+   <mg>
+     <tg xml:lang="rus">
+       <t pos="A">1. выигрышный</t>
+     </tg>
+     <xg>
+       <x>воан заём</x>
+       <xt xml:lang="rus">выигрышный заём</xt>
+     </xg>
+   </mg>
+   <mg>2.
+     <tg xml:lang="rus">
+       <t pos="A">грядущий</t>
+     </tg>
+     <xg>
+       <x>воан событтьӧяс</x>
+       <xt xml:lang="rus">грядущие события</xt>
+     </xg><br />
+     <xg>
+       <x>◊ воан падеж </x>
+       <xt><acronym title="грамматическое"><em>грам.</em></acronym> достигательный падеж</xt>
+     </xg>
+   </mg>
+</e>
+<e>
+   <lg t1="В" t2="О" t3="Д" uri="7239-vodzsasyan" id="7239"><l pos="A">водзсасян</l>
+       <l_var type="molodtsov-cyr">вочсаԍан</l_var>
+     <compg drv="V:Suf»Prc" type="Der">
+       <comp ms="V" ord="E1" pos="V"></comp>
+       <comp ord="E2" pos="Suf" type="Der/Ан"></comp> </compg>
+   </lg>
+   <mg>
+     <tg xml:lang="rus">
+       <t pos="A">оборонительный</t>
+     </tg>
+     <xg>
+       <x>водзсасян кось</x>
+       <xt xml:lang="rus">оборонительный бой</xt>
+     </xg>
+   </mg>
+</e>
+<e>
+   <lg t1="В" t2="О" t3="Л" uri="7577-volyalan" id="7577"><l pos="A">волялан</l>
+       <l_var type="molodtsov-cyr">воԉалан</l_var>
+     <compg drv="V:Suf»Prc" type="Der">
+       <comp ms="V" ord="E1" pos="V"></comp>
+       <comp ord="E2" pos="Suf" type="Der/Ан"></comp> </compg>
+   </lg>
+   <mg>
+     <tg xml:lang="rus">
+       <t pos="A">блестящий; вылощенный</t>
+     </tg>
+     <xg>
+       <x>волялан паркет</x>
+       <xt xml:lang="rus">вылощенный паркет</xt>
+     </xg>
+     <xg>
+       <x>волялан сапӧг</x>
+       <xt xml:lang="rus">блестящие сапоги</xt>
+     </xg>
+   </mg>
+</e>
+<e>
+   <lg t1="В" t2="О" t3="С" uri="7792-vossyan" id="7792"><l pos="A">воссян</l>
+       <l_var type="molodtsov-cyr">воԍԍан</l_var>
+     <compg drv="V:Suf»Prc" type="Der">
+       <comp ms="V" ord="E1" pos="V"></comp>
+       <comp ord="E2" pos="Suf" type="Der/Ан"></comp> </compg>
+   </lg>
+   <mg>
+     <tg xml:lang="rus">
+       <t pos="A">створчатый</t>
+     </tg>
+     <xg>
+       <x>кыкладорӧ воссян ӧдзӧс</x>
+       <xt xml:lang="rus">створчатые двери</xt>
+     </xg>
+     <xg>
+       <x>воссян ӧшинь</x>
+       <xt xml:lang="rus">створчатое окно</xt>
+     </xg>
+   </mg>
+</e>
+<e>
+   <lg t1="В" t2="У" t3="Д" uri="8632-vudzh-dchan" id="8632"><l pos="A">вуджӧдчан</l>
+       <l_var type="molodtsov-cyr">вуҗӧччан</l_var>
+     <compg drv="V:Suf»Prc" type="Der">
+       <comp ms="V" ord="E1" pos="V"></comp>
+       <comp ord="E2" pos="Suf" type="Der/Ан"></comp> </compg>
+   </lg>
+   <mg>
+     <tg xml:lang="rus">
+       <t pos="A">1. перевозочный, переправочный</t>
+     </tg>
+     <xg>
+       <x>вуджӧдчан средствояс</x>
+       <xt xml:lang="rus">перевозочные средства</xt>
+     </xg>
+   </mg>
+   <mg>2.
+     <tg xml:lang="rus">
+       <t pos="A">переводческий</t>
+     </tg>
+     <xg>
+       <x>вуджӧдчан удж</x>
+       <xt xml:lang="rus">переводческая работа</xt>
+     </xg>
+   </mg>
+</e>
+<e>
+   <lg t1="В" t2="Ӧ" t3="Д" uri="8021-v-ditchan" id="8021"><l pos="A">вӧдитчан</l>
+       <l_var type="molodtsov-cyr">вӧԃіччан</l_var>
+     <compg drv="V:Suf»Prc" type="Der">
+       <comp ms="V" ord="E1" pos="V"></comp>
+       <comp ord="E2" pos="Suf" type="Der/Ан"></comp> </compg>
+   </lg>
+   <mg>
+     <tg xml:lang="rus">
+       <t pos="A">находящийся в употреблении, в обороте; годный для употребления</t>
+     </tg>
+     <xg>
+       <x>вӧдитчан кӧлуй</x>
+       <xt xml:lang="rus">вещи, находящиеся в употреблении</xt>
+     </xg>
+   </mg>
+</e>
+<e>
+   <lg t1="В" t2="Ӧ" t3="Й" uri="8077-v-ijlasyan" id="8077"><l pos="A">вӧйласян</l>
+       <l_var type="molodtsov-cyr">вӧјлаԍан</l_var>
+     <compg drv="V:Suf»Prc" type="Der">
+       <comp ms="V" ord="E1" pos="V"></comp>
+       <comp ord="E2" pos="Suf" type="Der/Ан"></comp> </compg>
+   </lg>
+   <mg>
+     <tg xml:lang="rus">
+       <t pos="A">1. зыбучий, зыбкий</t>
+     </tg>
+     <xg>
+       <x>вӧйласян лыа</x>
+       <xt xml:lang="rus">зыбучие пески</xt>
+     </xg>
+   </mg>
+   <mg>2.
+     <tg xml:lang="rus">
+       <t pos="A">топкий, болотистый</t>
+     </tg>
+     <xg>
+       <x>вӧйласян нюр</x>
+       <xt xml:lang="rus">топкое болото</xt>
+     </xg>
+   </mg>
+</e>
+<e>
+   <lg t1="В" t2="Ӧ" t3="Й" uri="8094-v-ijpan" id="8094"><l pos="A">вӧйпан</l>
+       <l_var type="molodtsov-cyr">вӧјпан</l_var>
+     <compg drv="V:Suf»Prc" type="Der">
+       <comp ms="V" ord="E1" pos="V"></comp>
+       <comp ord="E2" pos="Suf" type="Der/Ан"></comp> </compg>
+   </lg>
+   <mg>
+     <tg xml:lang="rus">
+       <t pos="A">нелестный</t>
+     </tg>
+     <xg>
+       <x>вӧйпан отзыв</x>
+       <xt xml:lang="rus">нелестный отзыв</xt>
+     </xg>
+   </mg>
+</e>
+<e>
+   <lg t1="В" t2="Ӧ" t3="Й" uri="8098-v-ijp-dan" id="8098"><l pos="A">вӧйпӧдан</l>
+       <l_var type="molodtsov-cyr">вӧјпӧԁан</l_var>
+     <compg drv="V:Suf»Prc" type="Der">
+       <comp ms="V" ord="E1" pos="V"></comp>
+       <comp ord="E2" pos="Suf" type="Der/Ан"></comp> </compg>
+   </lg>
+   <mg>
+     <tg xml:lang="rus">
+       <t pos="A">1. поучительный</t>
+     </tg>
+     <xg>
+       <x>вӧйпӧдан тон</x>
+       <xt xml:lang="rus">поучительный тон</xt>
+     </xg>
+   </mg>
+   <mg>2.
+     <tg xml:lang="rus">
+       <t pos="A">внушительный</t>
+     </tg>
+     <xg>
+       <x>вӧйпӧдан сёрни</x>
+       <xt xml:lang="rus">внушительная речь</xt>
+     </xg>
+   </mg>
+</e>
+<e>
+   <lg t1="В" t2="Ӧ" t3="Р" uri="8243-v-ralan" id="8243"><l pos="A">вӧралан</l>
+       <l_var type="molodtsov-cyr">вӧралан</l_var>
+     <compg drv="V:Suf»Prc" type="Der">
+       <comp ms="V" ord="E1" pos="V"></comp>
+       <comp ord="E2" pos="Suf" type="Der/Ан"></comp> </compg>
+   </lg>
+   <mg>
+     <tg xml:lang="rus">
+       <t pos="A">охотничий</t>
+     </tg>
+     <xg>
+       <x>вӧралан керка</x>
+       <xt xml:lang="rus">охотничья избушка</xt>
+     </xg>
+     <xg>
+       <x>вӧралан кӧлуй</x>
+       <xt xml:lang="rus">охотничьи принадлежности</xt>
+     </xg>
+     <xg>
+       <x>вӧралан пон</x>
+       <xt xml:lang="rus">охотничья собака</xt>
+     </xg>
+   </mg>
+</e>
+<e>
+   <lg t1="Г" t2="А" t3="Ж" uri="9452-gazht-mtchan" id="9452"><l pos="A">гажтӧмтчан</l>
+       <l_var type="molodtsov-cyr">гажтӧмччан</l_var>
+     <compg drv="V:Suf»Prc" type="Der">
+       <comp ms="V" ord="E1" pos="V"></comp>
+       <comp ord="E2" pos="Suf" type="Der/Ан"></comp> </compg>
+   </lg>
+   <mg>
+     <tg xml:lang="rus">
+       <t pos="A">погрустневший</t>
+     </tg>
+     <xg>
+       <x>гажтӧмтчан синъясӧн видзӧдны</x>
+       <xt xml:lang="rus">смотреть погрустневшими глазами</xt>
+     </xg>
+   </mg>
+</e>
+<e>
+   <lg t1="Г" t2="А" t3="Р" uri="9641-gartchan" id="9641"><l pos="A">гартчан</l>
+       <l_var type="molodtsov-cyr">гарччан</l_var>
+     <compg drv="V:Suf»Prc" type="Der">
+       <comp ms="V" ord="E1" pos="V"></comp>
+       <comp ord="E2" pos="Suf" type="Der/Ан"></comp> </compg>
+   </lg>
+   <mg>
+     <tg xml:lang="rus">
+       <t pos="A">вьющийся</t>
+     </tg>
+     <xg>
+       <x>гартчан быдмӧгъяс</x>
+       <xt xml:lang="rus">вьющиеся растения</xt>
+     </xg><br />
+     <xg>
+       <x>гартчан турун </x>
+       <xt><acronym title="ботаника"><em>бот.</em></acronym> повилика</xt>
+     </xg>
+   </mg>
+</e>
+<e>
+   <lg t1="Г" t2="О" t3="З" uri="10240-gozij-dchan" id="10240"><l pos="A">гозйӧдчан</l>
+       <l_var type="molodtsov-cyr">гозјӧччан</l_var>
+     <compg drv="V:Suf»Prc" type="Der">
+       <comp ms="V" ord="E1" pos="V"></comp>
+       <comp ord="E2" pos="Suf" type="Der/Ан"></comp> </compg>
+   </lg>
+   <mg>
+     <tg xml:lang="rus">
+       <t pos="A">брачный</t>
+     </tg>
+     <xg>
+       <x>гозйӧдчан кад</x>
+       <xt xml:lang="rus">брачный период</xt>
+     </xg>
+   </mg>
+</e>
+<e>
+   <lg t1="Г" t2="Р" t3="У" uri="11255-gruzitchan-rektysyan" id="11255"><l pos="A">грузитчан-ректысян</l>
+       <l_var type="molodtsov-cyr">груԅіччан-ректыԍан</l_var>
+     <compg drv="V:Suf»Prc" type="Der">
+       <comp ms="V" ord="E1" pos="V"></comp>
+       <comp ord="E2" pos="Suf" type="Der/Ан"></comp> </compg>
+   </lg>
+   <mg>
+     <tg xml:lang="rus">
+       <t pos="A">погрузочно-разгрузочный</t>
+     </tg>
+     <xg>
+       <x>грузитчан-ректысян уджъяс</x>
+       <xt xml:lang="rus">погрузочно-разгрузочные работы</xt>
+     </xg>
+   </mg>
+</e>
+<e>
+   <lg t1="Д" t2="Е" t3="Ж" uri="12293-dezhuritan" id="12293"><l pos="A">дежуритан</l>
+       <l_var type="molodtsov-cyr">ԃежурітан</l_var>
+     <compg drv="V:Suf»Prc" type="Der">
+       <comp ms="V" ord="E1" pos="V"></comp>
+       <comp ord="E2" pos="Suf" type="Der/Ан"></comp> </compg>
+   </lg>
+   <mg>
+     <tg xml:lang="rus">
+       <t pos="A">дежурный</t>
+     </tg>
+     <xg>
+       <x>дежуритан кад</x>
+       <xt xml:lang="rus">время дежурства</xt>
+     </xg>
+     <xg>
+       <x>дежуритан смена</x>
+       <xt xml:lang="rus">дежурная смена</xt>
+     </xg>
+   </mg>
+</e>
+<e>
+   <lg t1="Д" t2="З" t3="Е" uri="12799-dzebsyan" id="12799"><l pos="A">дзебсян</l>
+       <l_var type="molodtsov-cyr">ԇепԍан</l_var>
+     <compg drv="V:Suf»Prc" type="Der">
+       <comp ms="V" ord="E1" pos="V"></comp>
+       <comp ord="E2" pos="Suf" type="Der/Ан"></comp> </compg>
+   </lg>
+   <mg>
+     <tg xml:lang="rus">
+       <t pos="A">погребальный, похоронный</t>
+     </tg>
+     <xg>
+       <x>дзебсян звӧн</x>
+       <xt xml:lang="rus">погребальный звон</xt>
+     </xg>
+     <xg>
+       <x>дзебсян марш</x>
+       <xt xml:lang="rus">похоронный марш</xt>
+     </xg>
+     <xg>
+       <x>дзебсян места</x>
+       <xt xml:lang="rus">место погребения</xt>
+     </xg>
+     <xg>
+       <x>дзебсян паськӧм</x>
+       <xt xml:lang="rus">погребальная одежда</xt>
+     </xg>
+   </mg>
+</e>
+<e>
+   <lg t1="Д" t2="З" t3="И" uri="13084-dzirnyasyan" id="13084"><l pos="A">дзирнясян</l>
+       <l_var type="molodtsov-cyr">ԇірԋаԍан</l_var>
+     <compg drv="V:Suf»Prc" type="Der">
+       <comp ms="V" ord="E1" pos="V"></comp>
+       <comp ord="E2" pos="Suf" type="Der/Ан"></comp> </compg>
+   </lg>
+   <mg>
+     <tg xml:lang="rus">
+       <t pos="A">шаткий, неустойчивый</t>
+     </tg>
+     <xg>
+       <x>дзирнясян пызан</x>
+       <xt xml:lang="rus">шаткий стол</xt>
+     </xg>
+   </mg>
+</e>
+<e>
+   <lg t1="Д" t2="З" t3="О" uri="13232-dzoridzalan" id="13232"><l pos="A">дзоридзалан</l>
+       <l_var type="molodtsov-cyr">ԇоріԇалан</l_var>
+     <compg drv="V:Suf»Prc" type="Der">
+       <comp ms="V" ord="E1" pos="V"></comp>
+       <comp ord="E2" pos="Suf" type="Der/Ан"></comp> </compg>
+   </lg>
+   <mg>
+     <tg xml:lang="rus">
+       <t pos="A">1. цветущий</t>
+     </tg>
+     <xg>
+       <x>дзоридзалан видз</x>
+       <xt xml:lang="rus">цветущий луг</xt>
+     </xg>
+     <xg>
+       <x>дзоридзалан кад</x>
+       <xt xml:lang="rus">пора цветения</xt>
+     </xg>
+   </mg>
+   <mg>2.
+     <tg xml:lang="rus">
+       <t pos="A"><acronym title="в переносном значении"><em>перен.</em></acronym> процветающий</t>
+     </tg>
+     <xg>
+       <x>дзоридзалан му</x>
+       <xt xml:lang="rus">процветающая страна</xt>
+     </xg>
+   </mg>
+</e>
+<e>
+   <lg t1="Д" t2="З" t3="О" uri="13246-dzorman" id="13246"><l pos="A">дзорман</l>
+       <l_var type="molodtsov-cyr">ԇорман</l_var>
+     <compg drv="V:Suf»Prc" type="Der">
+       <comp ms="V" ord="E1" pos="V"></comp>
+       <comp ord="E2" pos="Suf" type="Der/Ан"></comp> </compg>
+   </lg>
+   <mg>
+     <tg xml:lang="rus">
+       <t pos="A">седеющий</t>
+     </tg>
+     <xg>
+       <x>дзорман юра мужичӧй</x>
+       <xt xml:lang="rus">седеющий мужчина</xt>
+     </xg>
+     <xg>
+       <x>дзорман юрси</x>
+       <xt xml:lang="rus">седеющие волосы</xt>
+     </xg>
+   </mg>
+</e>
+<e>
+   <lg t1="Д" t2="О" t3="В" uri="13916-dov-yalan" id="13916"><l pos="A">довъялан</l>
+       <l_var type="molodtsov-cyr">ԁовјалан</l_var>
+     <compg drv="V:Suf»Prc" type="Der">
+       <comp ms="V" ord="E1" pos="V"></comp>
+       <comp ord="E2" pos="Suf" type="Der/Ан"></comp> </compg>
+   </lg>
+   <mg>
+     <tg xml:lang="rus">
+       <t pos="A">качающийся</t>
+     </tg><br />
+     <xg>
+       <x>сійӧ код нин вӧлі, довъялан юра</x>
+       <xt> он был уже пьяным, еле держал голову </xt><com>(<acronym title="буквально"><em>букв.</em></acronym> с качающейся головой)</com>
+     </xg>
+   </mg>
+</e>
+<e>
+   <lg t1="Д" t2="О" t3="М" uri="14077-domasyan" id="14077"><l pos="A">домасян</l>
+       <l_var type="molodtsov-cyr">ԁомаԍан</l_var>
+     <compg drv="V:Suf»Prc" type="Der">
+       <comp ms="V" ord="E1" pos="V"></comp>
+       <comp ord="E2" pos="Suf" type="Der/Ан"></comp> </compg>
+   </lg>
+   <mg>
+     <tg xml:lang="rus">
+       <t pos="A">причальный</t>
+     </tg>
+     <xg>
+       <x>домасян гез</x>
+       <xt xml:lang="rus">причальный канат; чалка, швартовка</xt>
+     </xg>
+   </mg>
+</e>
+<e>
+   <lg t1="Д" t2="О" t3="Р" uri="14345-dorchchan" id="14345"><l pos="A">дорччан</l>
+       <l_var type="molodtsov-cyr">ԁорччан</l_var>
+     <compg drv="V:Suf»Prc" type="Der">
+       <comp ms="V" ord="E1" pos="V"></comp>
+       <comp ord="E2" pos="Suf" type="Der/Ан"></comp> </compg>
+   </lg>
+   <mg>
+     <tg xml:lang="rus">
+       <t pos="A">ковочный; кузнечный</t>
+     </tg>
+     <xg>
+       <x>дорччан инструмент</x>
+       <xt xml:lang="rus">ковочный инструмент</xt>
+     </xg>
+     <xg>
+       <x>дорччан кӧлуй</x>
+       <xt xml:lang="rus">кузнечные инструменты</xt>
+     </xg>
+     <xg>
+       <x>дорччан мӧлӧт</x>
+       <xt xml:lang="rus">кузнечный молот</xt>
+     </xg>
+     <xg>
+       <x>дорччан уджӧ велӧдчыны</x>
+       <xt xml:lang="rus">учиться кузнечному ремеслу</xt>
+     </xg>
+   </mg>
+</e>
+<e>
+   <lg t1="Д" t2="У" t3="Б" uri="14765-dubitchan" id="14765"><l pos="A">дубитчан</l>
+       <l_var type="molodtsov-cyr">ԁубіччан</l_var>
+     <compg drv="V:Suf»Prc" type="Der">
+       <comp ms="V" ord="E1" pos="V"></comp>
+       <comp ord="E2" pos="Suf" type="Der/Ан"></comp> </compg>
+   </lg>
+   <mg>
+     <tg xml:lang="rus">
+       <t pos="A">дубильный</t>
+     </tg>
+     <xg>
+       <x>дубитчан тшан</x>
+       <xt xml:lang="rus">дубильный чан</xt>
+     </xg>
+   </mg>
+</e>
+<e>
+   <lg t1="Д" t2="У" t3="З" uri="14890-duz-yalan" id="14890"><l pos="A">дузъялан</l>
+       <l_var type="molodtsov-cyr">ԁузјалан</l_var>
+     <compg drv="V:Suf»Prc" type="Der">
+       <comp ms="V" ord="E1" pos="V"></comp>
+       <comp ord="E2" pos="Suf" type="Der/Ан"></comp> </compg>
+   </lg>
+   <mg>
+     <tg xml:lang="rus">
+       <t pos="A">1. недовольный</t>
+     </tg>
+     <xg>
+       <x>дузъялан чужӧма</x>
+       <xt xml:lang="rus">с недовольным лицом</xt>
+     </xg>
+     <xg>
+       <x>ме дузъялан локті гортӧ</x>
+       <xt xml:lang="rus">я недовольный возвращался домой</xt>
+     </xg>
+   </mg>
+   <mg>2.
+     <tg xml:lang="rus">
+       <t pos="A">обиженный</t>
+     </tg>
+     <xg>
+       <x>дузъялан гӧлӧсӧн</x>
+       <xt xml:lang="rus">обиженным голосом</xt>
+     </xg>
+   </mg>
+</e>
+<e>
+   <lg t1="Д" t2="У" t3="Р" uri="15037-duran" id="15037"><l pos="A">дуран</l>
+       <l_var type="molodtsov-cyr">ԁуран</l_var>
+     <compg drv="V:Suf»Prc" type="Der">
+       <comp ms="V" ord="E1" pos="V"></comp>
+       <comp ord="E2" pos="Suf" type="Der/Ан"></comp> </compg>
+   </lg>
+   <mg>
+     <tg xml:lang="rus">
+       <t pos="A">дурной; бешеный; шалый</t>
+     </tg>
+     <xg>
+       <x>дуран висьӧм</x>
+       <xt xml:lang="rus"></xt>
+     </xg><br />&#160;&#160;&#160;&#160;&#160;&#160;а) бешенство<br />&#160;&#160;&#160;&#160;&#160;&#160;б) <acronym title="в переносном значении"><em>перен.</em></acronym> сумасбродство<br />
+     <xg>
+       <x>дуран ру</x>
+       <xt xml:lang="rus">дурное настроение</xt>
+     </xg>
+   </mg>
+</e>
+<e>
+   <lg t1="Д" t2="У" t3="Р" uri="15068-durm-dan" id="15068"><l pos="A">дурмӧдан</l>
+       <l_var type="molodtsov-cyr">ԁурмӧԁан</l_var>
+     <compg drv="V:Suf»Prc" type="Der">
+       <comp ms="V" ord="E1" pos="V"></comp>
+       <comp ord="E2" pos="Suf" type="Der/Ан"></comp> </compg>
+   </lg>
+   <mg>
+     <tg xml:lang="rus">
+       <t pos="A">одуряющий; наркотический</t>
+     </tg>
+     <xg>
+       <x>дурмӧдан кӧр</x>
+       <xt xml:lang="rus">одуряющий запах</xt>
+     </xg>
+     <xg>
+       <x>дурмӧдан мак быдтыны</x>
+       <xt xml:lang="rus">выращивать наркотический мак</xt>
+     </xg>
+   </mg>
+</e>
+<e>
+   <lg t1="Д" t2="Ӧ" t3="З" uri="14532-d-z-ritan" id="14532"><l pos="A">дӧзьӧритан</l>
+       <l_var type="molodtsov-cyr">ԁӧԅӧрітан</l_var>
+     <compg drv="V:Suf»Prc" type="Der">
+       <comp ms="V" ord="E1" pos="V"></comp>
+       <comp ord="E2" pos="Suf" type="Der/Ан"></comp> </compg>
+   </lg>
+   <mg>
+     <tg xml:lang="rus">
+       <t pos="A">подлежащий хранению</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg t1="Ж" t2="Е" t3="Р" uri="15999-zhervidzan" id="15999"><l pos="A">жервидзан</l>
+       <l_var type="molodtsov-cyr">жервіԇан</l_var>
+     <compg drv="V:Suf»Prc" type="Der">
+       <comp ms="V" ord="E1" pos="V"></comp>
+       <comp ord="E2" pos="Suf" type="Der/Ан"></comp> </compg>
+   </lg>
+   <mg>
+     <tg xml:lang="rus">
+       <t pos="A">1. оскаленный</t>
+     </tg>
+     <xg>
+       <x>жервидзан ёсь пиньяс</x>
+       <xt xml:lang="rus">оскаленные острые зубы</xt>
+     </xg>
+   </mg>
+   <mg>2.
+     <tg xml:lang="rus">
+       <t pos="A">зияющий</t>
+     </tg>
+     <xg>
+       <x>жервидзан рана</x>
+       <xt xml:lang="rus">зияющая рана</xt>
+     </xg>
+   </mg>
+</e>
+<e>
+   <lg t1="Ж" t2="У" t3="Г" uri="16231-zhuglan" id="16231"><l pos="A">жуглан</l>
+       <l_var type="molodtsov-cyr">жуглан</l_var>
+     <compg drv="V:Suf»Prc" type="Der">
+       <comp ms="V" ord="E1" pos="V"></comp>
+       <comp ord="E2" pos="Suf" type="Der/Ан"></comp> </compg>
+   </lg>
+   <mg>
+     <tg xml:lang="rus">
+       <t pos="A"><em>от</em> <xref link="жуглыны"> жуглыны</xref></t>
+     </tg>
+     <xg>
+       <x>из жуглан машина</x>
+       <xt xml:lang="rus">камнедробилка</xt>
+     </xg>
+     <xg>
+       <x>из жуглан мӧлӧт</x>
+       <xt xml:lang="rus">кувалда для дробления камня</xt>
+     </xg>
+   </mg>
+</e>
+<e>
+   <lg t1="З" t2="Б" t3="Ы" uri="17086-zbyl-man" id="17086"><l pos="A">збыльман</l>
+       <l_var type="molodtsov-cyr">збыԉман</l_var>
+     <compg drv="V:Suf»Prc" type="Der">
+       <comp ms="V" ord="E1" pos="V"></comp>
+       <comp ord="E2" pos="Suf" type="Der/Ан"></comp> </compg>
+   </lg>
+   <mg>
+     <tg xml:lang="rus">
+       <t pos="A">реальный</t>
+     </tg>
+     <xg>
+       <x>пуктыны ас водзӧ збыльман мог</x>
+       <xt xml:lang="rus">поставить перед собой реальную цель</xt>
+     </xg>
+   </mg>
+</e>
+<e>
+   <lg t1="З" t2="И" t3="Л" uri="17314-zilya-zyolyakylan" id="17314"><l pos="A">зиля-зёлякылан</l>
+       <l_var type="molodtsov-cyr">ԅіԉа-ԅоԉакылан</l_var>
+     <compg drv="V:Suf»Prc" type="Der">
+       <comp ms="V" ord="E1" pos="V"></comp>
+       <comp ord="E2" pos="Suf" type="Der/Ан"></comp> </compg>
+   </lg>
+   <mg>
+     <tg xml:lang="rus">
+       <t pos="A">дребезжащий</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg t1="И" t2="Д" t3="Р" uri="18169-idrasyan" id="18169"><l pos="A">идрасян</l>
+       <l_var type="molodtsov-cyr">іԁраԍан</l_var>
+     <compg drv="V:Suf»Prc" type="Der">
+       <comp ms="V" ord="E1" pos="V"></comp>
+       <comp ord="E2" pos="Suf" type="Der/Ан"></comp> </compg>
+   </lg>
+   <mg>
+     <tg xml:lang="rus">
+       <t pos="A">относящийся к уборке скота</t>
+     </tg>
+     <xg>
+       <x>идрасян кад</x>
+       <xt xml:lang="rus">время уборки скота</xt>
+     </xg>
+     <xg>
+       <x>идрасян паськӧм</x>
+       <xt xml:lang="rus">одежда и обувь для ухода за скотом</xt>
+     </xg>
+   </mg>
+</e>
+<e>
+   <lg t1="И" t2="З" t3="В" uri="18208-izvinitchan" id="18208"><l pos="A">извинитчан</l>
+       <l_var type="molodtsov-cyr">іԅвіԋіччан</l_var>
+     <compg drv="V:Suf»Prc" type="Der">
+       <comp ms="V" ord="E1" pos="V"></comp>
+       <comp ord="E2" pos="Suf" type="Der/Ан"></comp> </compg>
+   </lg>
+   <mg>
+     <tg xml:lang="rus">
+       <t pos="A">извинительный</t>
+     </tg>
+     <xg>
+       <x>извинитчан письмӧ</x>
+       <xt xml:lang="rus">извинительное письмо</xt>
+     </xg>
+   </mg>
+</e>
+<e>
+   <lg t1="И" t2="М" t3="И" uri="18394-imitan" id="18394"><l pos="A">имитан</l>
+       <l_var type="molodtsov-cyr">імітан</l_var>
+     <compg drv="V:Suf»Prc" type="Der">
+       <comp ms="V" ord="E1" pos="V"></comp>
+       <comp ord="E2" pos="Suf" type="Der/Ан"></comp> </compg>
+   </lg>
+   <mg>
+     <tg xml:lang="rus">
+       <t pos="A">пророческий</t>
+     </tg>
+     <xg>
+       <x>имитан кывъяс</x>
+       <xt xml:lang="rus">пророческие слова</xt>
+     </xg>
+   </mg>
+</e>
+<e>
+   <lg t1="Й" t2="И" t3="Г" uri="18780-ijig-rtan" id="18780"><l pos="A">йигӧртан</l>
+       <l_var type="molodtsov-cyr">јігӧртан</l_var>
+     <compg drv="V:Suf»Prc" type="Der">
+       <comp ms="V" ord="E1" pos="V"></comp>
+       <comp ord="E2" pos="Suf" type="Der/Ан"></comp> </compg>
+   </lg>
+   <mg>
+     <tg xml:lang="rus">
+       <t pos="A">осязательный</t>
+     </tg>
+     <xg>
+       <x>йигӧртан ловгӧн</x>
+       <xt xml:lang="rus">осязательные волоски</xt>
+     </xg>
+   </mg>
+</e>
+<e>
+   <lg t1="Й" t2="И" t3="Д" uri="18802-ijidzhtan" id="18802"><l pos="A">йиджтан</l>
+       <l_var type="molodtsov-cyr">јіҗтан</l_var>
+     <compg drv="V:Suf»Prc" type="Der">
+       <comp ms="V" ord="E1" pos="V"></comp>
+       <comp ord="E2" pos="Suf" type="Der/Ан"></comp> </compg>
+   </lg>
+   <mg>
+     <tg xml:lang="rus">
+       <t pos="A">промокательный</t>
+     </tg>
+     <xg>
+       <x>йиджтан кабала</x>
+       <xt xml:lang="rus">промокательная бумага</xt>
+     </xg>
+   </mg>
+</e>
+<e>
+   <lg t1="К" t2="А" t3="Р" uri="20082-karksan" id="20082"><l pos="A">карксан</l>
+       <l_var type="molodtsov-cyr">карксан</l_var>
+     <compg drv="V:Suf»Prc" type="Der">
+       <comp ms="V" ord="E1" pos="V"></comp>
+       <comp ord="E2" pos="Suf" type="Der/Ан"></comp> </compg>
+   </lg>
+   <mg>
+     <tg xml:lang="rus">
+       <t pos="A">каркающий</t>
+     </tg>
+     <xg>
+       <x>карксан гӧлӧс</x>
+       <xt xml:lang="rus">каркающий голос</xt>
+     </xg>
+   </mg>
+</e>
+<e>
+   <lg t1="К" t2="А" t3="Т" uri="20220-katan" id="20220"><l pos="A">катан</l>
+       <l_var type="molodtsov-cyr">катан</l_var>
+     <compg drv="V:Suf»Prc" type="Der">
+       <comp ms="V" ord="E1" pos="V"></comp>
+       <comp ord="E2" pos="Suf" type="Der/Ан"></comp> </compg>
+   </lg>
+   <mg>
+     <tg xml:lang="rus">
+       <t pos="A">поднимающийся, плывущий вверх по реке</t>
+     </tg>
+     <xg>
+       <x>катан паракод</x>
+       <xt xml:lang="rus">поднимающийся пароход</xt>
+     </xg>
+     <xg>
+       <x>катан чери кыйны</x>
+       <xt xml:lang="rus">ловить поднимающуюся рыбу</xt>
+     </xg>
+   </mg>
+</e>
+<e>
+   <lg t1="К" t2="А" t3="Ч" uri="20385-kachaijtchan" id="20385"><l pos="A">качайтчан</l>
+       <l_var type="molodtsov-cyr">качајччан</l_var>
+     <compg drv="V:Suf»Prc" type="Der">
+       <comp ms="V" ord="E1" pos="V"></comp>
+       <comp ord="E2" pos="Suf" type="Der/Ан"></comp> </compg>
+   </lg>
+   <mg>
+     <tg xml:lang="rus">
+       <t pos="A">качельный, для качелей</t>
+     </tg>
+     <xg>
+       <x>качайтчан гез</x>
+       <xt xml:lang="rus">верёвка для качелей</xt>
+     </xg>
+     <xg>
+       <x>качайтчан пӧв</x>
+       <xt xml:lang="rus">доска для качелей</xt>
+     </xg>
+   </mg>
+</e>
+<e>
+   <lg t1="К" t2="Е" t3="В" uri="20571-kevmysyan" id="20571"><l pos="A">кевмысян</l>
+       <l_var type="molodtsov-cyr">кевмыԍан</l_var>
+     <compg drv="V:Suf»Prc" type="Der">
+       <comp ms="V" ord="E1" pos="V"></comp>
+       <comp ord="E2" pos="Suf" type="Der/Ан"></comp> </compg>
+   </lg>
+   <mg>
+     <tg xml:lang="rus">
+       <t pos="A">1. умоляющий, просительный; просящий</t>
+     </tg>
+     <xg>
+       <x>кевмысян гӧлӧсӧн сёрнитны</x>
+       <xt xml:lang="rus">говорить умоляющим голосом</xt>
+     </xg>
+     <xg>
+       <x>видзӧдіс кевмысян синмӧн</x>
+       <xt xml:lang="rus">смотрел просящими глазами</xt>
+     </xg>
+   </mg>
+   <mg>2.
+     <tg xml:lang="rus">
+       <t pos="A">призывный</t>
+     </tg>
+   </mg>
+   <mg>3.
+     <tg xml:lang="rus">
+       <t pos="A">убедительный</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg t1="К" t2="Е" t3="С" uri="20955-kesij-dlan" id="20955"><l pos="A">кесйӧдлан</l>
+       <l_var type="molodtsov-cyr">кесјӧԁлан</l_var>
+     <compg drv="V:Suf»Prc" type="Der">
+       <comp ms="V" ord="E1" pos="V"></comp>
+       <comp ord="E2" pos="Suf" type="Der/Ан"></comp> </compg>
+   </lg>
+   <mg>
+     <tg xml:lang="rus">
+       <t pos="A">послушный; повинующийся</t>
+     </tg>
+     <xg>
+       <x>кесйӧдлан мортӧн кажитчис первойсӧ</x>
+       <xt xml:lang="rus">сначала казался послушным человеком</xt>
+     </xg>
+   </mg>
+</e>
+<e>
+   <lg t1="К" t2="И" t3="Р" uri="21404-kir-yalan" id="21404"><l pos="A">киръялан</l>
+       <l_var type="molodtsov-cyr">кірјалан</l_var>
+     <compg drv="V:Suf»Prc" type="Der">
+       <comp ms="V" ord="E1" pos="V"></comp>
+       <comp ord="E2" pos="Suf" type="Der/Ан"></comp> </compg>
+   </lg>
+   <mg>
+     <tg xml:lang="rus">
+       <t pos="A">рассыпчатый</t>
+     </tg>
+     <xg>
+       <x>киръялан картупель</x>
+       <xt xml:lang="rus">рассыпчатый картофель</xt>
+     </xg>
+   </mg>
+</e>
+<e>
+   <lg t1="К" t2="И" t3="С" uri="21448-kis-kasyan" id="21448"><l pos="A">киськасян</l>
+       <l_var type="molodtsov-cyr">кіԍкаԍан</l_var>
+     <compg drv="V:Suf»Prc" type="Der">
+       <comp ms="V" ord="E1" pos="V"></comp>
+       <comp ord="E2" pos="Suf" type="Der/Ан"></comp> </compg>
+   </lg>
+   <mg>
+     <tg xml:lang="rus">
+       <t pos="A">предназначенный или служащий для полива</t>
+     </tg>
+     <xg>
+       <x>киськасян ва</x>
+       <xt xml:lang="rus">вода для полива</xt>
+     </xg>
+     <xg>
+       <x>киськасян кӧш</x>
+       <xt xml:lang="rus">ковш для поливки</xt>
+     </xg>
+   </mg>
+</e>
+<e>
+   <lg t1="К" t2="Л" t3="О" uri="21701-klop-dan" id="21701"><l pos="A">клопӧдан</l>
+       <l_var type="molodtsov-cyr">клопӧԁан</l_var>
+     <compg drv="V:Suf»Prc" type="Der">
+       <comp ms="V" ord="E1" pos="V"></comp>
+       <comp ord="E2" pos="Suf" type="Der/Ан"></comp> </compg>
+   </lg>
+   <mg>
+     <tg xml:lang="rus">
+       <t pos="A">хлопающий</t>
+     </tg>
+     <xg>
+       <x>клопӧдан шыяс</x>
+       <xt xml:lang="rus">хлопающие звуки</xt>
+     </xg>
+   </mg>
+</e>
+<e>
+   <lg t1="К" t2="О" t3="К" uri="22246-kokn-dan" id="22246"><l pos="A">кокньӧдан</l>
+       <l_var type="molodtsov-cyr">кокԋӧԁан</l_var>
+     <compg drv="V:Suf»Prc" type="Der">
+       <comp ms="V" ord="E1" pos="V"></comp>
+       <comp ord="E2" pos="Suf" type="Der/Ан"></comp> </compg>
+   </lg>
+   <mg>
+     <tg xml:lang="rus">
+       <t pos="A">1. облегчающий</t>
+     </tg>
+     <xg>
+       <x>удж кокньӧдан машина</x>
+       <xt xml:lang="rus">машина, облегчающая труд</xt>
+     </xg>
+   </mg>
+   <mg>2.
+     <tg xml:lang="rus">
+       <t pos="A">помогающий</t>
+     </tg>
+     <xg>
+       <x>висьысьӧс кокньӧдан укол</x>
+       <xt xml:lang="rus">укол, помогающий больному</xt>
+     </xg>
+   </mg>
+   <mg>3.
+     <tg xml:lang="rus">
+       <t pos="A">смягчающий</t>
+     </tg>
+     <xg>
+       <x>мыж кокньӧдан кывъяс</x>
+       <xt xml:lang="rus">слова, смягчающие вину</xt>
+     </xg>
+   </mg>
+</e>
+<e>
+   <lg t1="К" t2="О" t3="Л" uri="22596-kol-palan" id="22596"><l pos="A">кольпалан</l>
+       <l_var type="molodtsov-cyr">коԉпалан</l_var>
+     <compg drv="V:Suf»Prc" type="Der">
+       <comp ms="V" ord="E1" pos="V"></comp>
+       <comp ord="E2" pos="Suf" type="Der/Ан"></comp> </compg>
+   </lg>
+   <mg>
+     <tg xml:lang="rus">
+       <t pos="A">хороводный</t>
+     </tg>
+     <xg>
+       <x>кольпалан сьыланкывъяс</x>
+       <xt xml:lang="rus">хороводные песни</xt>
+     </xg>
+   </mg>
+</e>
+<e>
+   <lg t1="К" t2="О" t3="Р" uri="23228-kors-ysyan" id="23228"><l pos="A">корсьысян</l>
+       <l_var type="molodtsov-cyr">корԍыԍан</l_var>
+     <compg drv="V:Suf»Prc" type="Der">
+       <comp ms="V" ord="E1" pos="V"></comp>
+       <comp ord="E2" pos="Suf" type="Der/Ан"></comp> </compg>
+   </lg>
+   <mg>
+     <tg xml:lang="rus">
+       <t pos="A">поисковый; изыскательский; разведывательный</t>
+     </tg>
+     <xg>
+       <x>корсьысян уджъяс</x>
+       <xt xml:lang="rus">изыскательские работы</xt>
+     </xg>
+   </mg>
+</e>
+<e>
+   <lg t1="К" t2="О" t3="С" uri="23478-kosyalan" id="23478"><l pos="A">косялан</l>
+       <l_var type="molodtsov-cyr">коԍалан</l_var>
+     <compg drv="V:Suf»Prc" type="Der">
+       <comp ms="V" ord="E1" pos="V"></comp>
+       <comp ord="E2" pos="Suf" type="Der/Ан"></comp> </compg>
+   </lg>
+   <mg>
+     <tg xml:lang="rus">
+       <t pos="A">резкий, оглушительный</t>
+     </tg>
+     <xg>
+       <x>ныр косялан дук</x>
+       <xt xml:lang="rus">резкий запах</xt>
+     </xg>
+     <xg>
+       <x>пель косялан шыяс</x>
+       <xt xml:lang="rus">оглушительные звуки</xt>
+     </xg>
+   </mg>
+</e>
+<e>
+   <lg t1="К" t2="О" t3="Т" uri="23635-kotyrtchan" id="23635"><l pos="A">котыртчан</l>
+       <l_var type="molodtsov-cyr">котырччан</l_var>
+     <compg drv="V:Suf»Prc" type="Der">
+       <comp ms="V" ord="E1" pos="V"></comp>
+       <comp ord="E2" pos="Suf" type="Der/Ан"></comp> </compg>
+   </lg>
+   <mg>
+     <tg xml:lang="rus">
+       <t pos="A">организующийся, организованный; объединяющийся</t>
+     </tg>
+     <xg>
+       <x>выльӧн котыртчан артель</x>
+       <xt xml:lang="rus">вновь организованная артель</xt>
+     </xg>
+   </mg>
+</e>
+<e>
+   <lg t1="К" t2="Р" t3="А" uri="24598-kravksan" id="24598"><l pos="A">кравксан</l>
+       <l_var type="molodtsov-cyr">кравксан</l_var>
+     <compg drv="V:Suf»Prc" type="Der">
+       <comp ms="V" ord="E1" pos="V"></comp>
+       <comp ord="E2" pos="Suf" type="Der/Ан"></comp> </compg>
+   </lg>
+   <mg>
+     <tg xml:lang="rus">
+       <t pos="A">каркающий</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg t1="К" t2="У" t3="Д" uri="25108-kudritchan" id="25108"><l pos="A">кудритчан</l>
+       <l_var type="molodtsov-cyr">куԁріччан</l_var>
+     <compg drv="V:Suf»Prc" type="Der">
+       <comp ms="V" ord="E1" pos="V"></comp>
+       <comp ord="E2" pos="Suf" type="Der/Ан"></comp> </compg>
+   </lg>
+   <mg>
+     <tg xml:lang="rus">
+       <t pos="A">вьющийся, завивающийся</t>
+     </tg>
+     <xg>
+       <x>кудритчан юрси</x>
+       <xt xml:lang="rus">вьющиеся волосы</xt>
+     </xg>
+   </mg>
+</e>
+<e>
+   <lg t1="К" t2="У" t3="Ж" uri="25121-kuzhan" id="25121"><l pos="A">кужан</l>
+       <l_var type="molodtsov-cyr">кужан</l_var>
+     <compg drv="V:Suf»Prc" type="Der">
+       <comp ms="V" ord="E1" pos="V"></comp>
+       <comp ord="E2" pos="Suf" type="Der/Ан"></comp> </compg>
+   </lg>
+   <mg>
+     <tg xml:lang="rus">
+       <t pos="A">умелый</t>
+     </tg>
+     <xg>
+       <x>кужан ки оз тырмы</x>
+       <xt xml:lang="rus">умелых рук не хватает</xt>
+     </xg>
+   </mg>
+</e>
+<e>
+   <lg t1="К" t2="У" t3="Л" uri="25397-kul-man" id="25397"><l pos="A">кульман</l>
+       <l_var type="molodtsov-cyr">куԉман</l_var>
+     <compg drv="V:Suf»Prc" type="Der">
+       <comp ms="V" ord="E1" pos="V"></comp>
+       <comp ord="E2" pos="Suf" type="Der/Ан"></comp> </compg>
+   </lg>
+   <mg>
+     <tg xml:lang="rus">
+       <t pos="A">нерестовый</t>
+     </tg>
+     <xg>
+       <x>кульман чери</x>
+       <xt xml:lang="rus">нерестовая рыба</xt>
+     </xg>
+   </mg>
+</e>
+<e>
+   <lg t1="К" t2="У" t3="Л" uri="25400-kul-m-dan" id="25400"><l pos="A">кульмӧдан</l>
+       <l_var type="molodtsov-cyr">куԉмӧԁан</l_var>
+     <compg drv="V:Suf»Prc" type="Der">
+       <comp ms="V" ord="E1" pos="V"></comp>
+       <comp ord="E2" pos="Suf" type="Der/Ан"></comp> </compg>
+   </lg>
+   <mg>
+     <tg xml:lang="rus">
+       <t pos="A">предназначенный, отведённый для нереста</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg t1="К" t2="У" t3="Р" uri="25551-kuralan" id="25551"><l pos="A">куралан</l>
+       <l_var type="molodtsov-cyr">куралан</l_var>
+     <compg drv="V:Suf»Prc" type="Der">
+       <comp ms="V" ord="E1" pos="V"></comp>
+       <comp ord="E2" pos="Suf" type="Der/Ан"></comp> </compg>
+   </lg>
+   <mg>
+     <tg xml:lang="rus">
+       <t pos="A">выгребной</t>
+     </tg>
+     <xg>
+       <x>пӧим куралан зыр</x>
+       <xt xml:lang="rus"> выгребная лопата <em>(для золы)</em></xt>
+     </xg>
+   </mg>
+</e>
+<e>
+   <lg t1="К" t2="У" t3="С" uri="25778-kusan" id="25778"><l pos="A">кусан</l>
+       <l_var type="molodtsov-cyr">кусан</l_var>
+     <compg drv="V:Suf»Prc" type="Der">
+       <comp ms="V" ord="E1" pos="V"></comp>
+       <comp ord="E2" pos="Suf" type="Der/Ан"></comp> </compg>
+   </lg>
+   <mg>
+     <tg xml:lang="rus">
+       <t pos="A">1. потухающий, гаснущий, угасающий</t>
+     </tg>
+     <xg>
+       <x>кусан кодзувъяс</x>
+       <xt xml:lang="rus">гаснущие звёзды</xt>
+     </xg>
+   </mg>
+   <mg>2.
+     <tg xml:lang="rus">
+       <t pos="A"><acronym title="в переносном значении"><em>перен.</em></acronym> умирающий</t>
+     </tg>
+   </mg>
+   <mg>3.
+     <tg xml:lang="rus">
+       <t pos="A">прекращающийся, исчезающий</t>
+     </tg>
+     <xg>
+       <x>кусан сикт</x>
+       <xt xml:lang="rus">исчезающая деревня</xt>
+     </xg>
+   </mg>
+</e>
+<e>
+   <lg t1="К" t2="У" t3="С" uri="25818-kus-dchan" id="25818"><l pos="A">кусӧдчан</l>
+       <l_var type="molodtsov-cyr">кусӧччан</l_var>
+     <compg drv="V:Suf»Prc" type="Der">
+       <comp ms="V" ord="E1" pos="V"></comp>
+       <comp ord="E2" pos="Suf" type="Der/Ан"></comp> </compg>
+   </lg>
+   <mg>
+     <tg xml:lang="rus">
+       <t pos="A">предназначенный для тушения</t>
+     </tg>
+     <xg>
+       <x>кусӧдчан кӧлуй</x>
+       <xt xml:lang="rus">снаряжение для тушения пожара</xt>
+     </xg>
+     <xg>
+       <x>кусӧдчан машина</x>
+       <xt xml:lang="rus">противопожарная машина</xt>
+     </xg>
+   </mg>
+</e>
+<e>
+   <lg t1="К" t2="Ы" t3="Й" uri="26527-kyijsyan" id="26527"><l pos="A">кыйсян</l>
+       <l_var type="molodtsov-cyr">кыјԍан</l_var>
+     <compg drv="V:Suf»Prc" type="Der">
+       <comp ms="V" ord="E1" pos="V"></comp>
+       <comp ord="E2" pos="Suf" type="Der/Ан"></comp> </compg>
+   </lg>
+   <mg>
+     <tg xml:lang="rus">
+       <t pos="A">1. охотничий, промысловый</t>
+     </tg>
+     <xg>
+       <x>кыйсян кад</x>
+       <xt xml:lang="rus">промысловый сезон</xt>
+     </xg>
+     <xg>
+       <x>кыйсян керка</x>
+       <xt xml:lang="rus">охотничья избушка</xt>
+     </xg>
+     <xg>
+       <x>кыйсян пищаль</x>
+       <xt xml:lang="rus">охотничье ружьё</xt>
+     </xg>
+     <xg>
+       <x>кыйсян туй</x>
+       <xt xml:lang="rus">охотничья тропа</xt>
+     </xg>
+     <xg>
+       <x>сюзьӧс веніс кыйсян руыс</x>
+       <xt xml:lang="rus">филин поддался охотничьей страсти</xt>
+     </xg>
+   </mg>
+   <mg>2.
+     <tg xml:lang="rus">
+       <t pos="A">рыбачий; рыбацкий</t>
+     </tg>
+     <xg>
+       <x>кыйсян кӧлуй</x>
+       <xt xml:lang="rus">а) охотничьи принадлежности</xt>
+       <xt xml:lang="rus">б) рыболовецкие снасти; орудия лова</xt>
+     </xg><br />
+     <xg>
+       <x>кыйсян пыж</x>
+       <xt xml:lang="rus">рыбачья лодка</xt>
+     </xg>
+   </mg>
+</e>
+<e>
+   <lg t1="К" t2="Ы" t3="Л" uri="26651-kyl-dchan" id="26651"><l pos="A">кылӧдчан</l>
+       <l_var type="molodtsov-cyr">кылӧччан</l_var>
+     <compg drv="V:Suf»Prc" type="Der">
+       <comp ms="V" ord="E1" pos="V"></comp>
+       <comp ord="E2" pos="Suf" type="Der/Ан"></comp> </compg>
+   </lg>
+   <mg>
+     <tg xml:lang="rus">
+       <t pos="A">сплавной</t>
+     </tg>
+     <xg>
+       <x>кылӧдчан уджъяс</x>
+       <xt xml:lang="rus">сплавные работы</xt>
+     </xg>
+   </mg>
+</e>
+<e>
+   <lg t1="К" t2="Ы" t3="М" uri="26696-kymrasyan" id="26696"><l pos="A">кымрасян</l>
+       <l_var type="molodtsov-cyr">кымраԍан</l_var>
+     <compg drv="V:Suf»Prc" type="Der">
+       <comp ms="V" ord="E1" pos="V"></comp>
+       <comp ord="E2" pos="Suf" type="Der/Ан"></comp> </compg>
+   </lg>
+   <mg>
+     <tg xml:lang="rus">
+       <t pos="A">1. пасмурный, сумрачный</t>
+     </tg>
+   </mg>
+   <mg>2.
+     <tg xml:lang="rus">
+       <t pos="A"><acronym title="в переносном значении"><em>перен.</em></acronym> хмурый</t>
+     </tg>
+     <xg>
+       <x>кымрасян чужӧма</x>
+       <xt xml:lang="rus">с хмурым лицом</xt>
+     </xg>
+   </mg>
+</e>
+<e>
+   <lg t1="К" t2="Ы" t3="Н" uri="26790-kyntan" id="26790"><l pos="A">кынтан</l>
+       <l_var type="molodtsov-cyr">кынтан</l_var>
+     <compg drv="V:Suf»Prc" type="Der">
+       <comp ms="V" ord="E1" pos="V"></comp>
+       <comp ord="E2" pos="Suf" type="Der/Ан"></comp> </compg>
+   </lg>
+   <mg>
+     <tg xml:lang="rus">
+       <t pos="A">сопровождающийся ознобом</t>
+     </tg>
+     <xg>
+       <x>кынтан висьӧм</x>
+       <xt xml:lang="rus">лихорадка</xt>
+     </xg>
+   </mg>
+</e>
+<e>
+   <lg t1="К" t2="Ы" t3="П" uri="26874-kyp-dchan" id="26874"><l pos="A">кыпӧдчан</l>
+       <l_var type="molodtsov-cyr">кыпӧччан</l_var>
+     <compg drv="V:Suf»Prc" type="Der">
+       <comp ms="V" ord="E1" pos="V"></comp>
+       <comp ord="E2" pos="Suf" type="Der/Ан"></comp> </compg>
+   </lg>
+   <mg>
+     <tg xml:lang="rus">
+       <t pos="A">восходящий</t>
+     </tg>
+     <xg>
+       <x>кыпӧдчан шонді</x>
+       <xt xml:lang="rus">восходящее солнце</xt>
+     </xg>
+   </mg>
+</e>
+<e>
+   <lg t1="К" t2="Ы" t3="С" uri="27039-kyskalan" id="27039"><l pos="A">кыскалан</l>
+       <l_var type="molodtsov-cyr">кыскалан</l_var>
+     <compg drv="V:Suf»Prc" type="Der">
+       <comp ms="V" ord="E1" pos="V"></comp>
+       <comp ord="E2" pos="Suf" type="Der/Ан"></comp> </compg>
+   </lg>
+   <mg>
+     <tg xml:lang="rus">
+       <t pos="A">вывозной, подвозный</t>
+     </tg>
+     <xg>
+       <x>ва кыскалан бӧчка</x>
+       <xt xml:lang="rus">водовозная бочка</xt>
+     </xg>
+     <xg>
+       <x>ва кыскалан вӧв</x>
+       <xt xml:lang="rus">водовозная лошадь</xt>
+     </xg>
+     <xg>
+       <x>кер кыскалан машина</x>
+       <xt xml:lang="rus">лесовозная машина</xt>
+     </xg>
+     <xg>
+       <x>кер кыскалан туй</x>
+       <xt xml:lang="rus">лесовозная дорога</xt>
+     </xg>
+     <xg>
+       <x>куйӧд кыскалан додь</x>
+       <xt xml:lang="rus">навозные сани</xt>
+     </xg>
+     <xg>
+       <x>ям кыскалан туй</x>
+       <xt xml:lang="rus">ямская дорога</xt>
+     </xg>
+   </mg>
+</e>
+<e>
+   <lg t1="К" t2="Ы" t3="С" uri="27086-kyskysyan" id="27086"><l pos="A">кыскысян</l>
+       <l_var type="molodtsov-cyr">кыскыԍан</l_var>
+     <compg drv="V:Suf»Prc" type="Der">
+       <comp ms="V" ord="E1" pos="V"></comp>
+       <comp ord="E2" pos="Suf" type="Der/Ан"></comp> </compg>
+   </lg>
+   <mg>
+     <tg xml:lang="rus">
+       <t pos="A">выдвигающийся, выдвижной</t>
+     </tg>
+     <xg>
+       <x>кыскысян пызан йӧр</x>
+       <xt xml:lang="rus">выдвижной ящик стола</xt>
+     </xg>
+   </mg>
+</e>
+<e>
+   <lg t1="К" t2="Ы" t3="Т" uri="27174-kytshalan" id="27174"><l pos="A">кытшалан</l>
+       <l_var type="molodtsov-cyr">кыщалан</l_var>
+     <compg drv="V:Suf»Prc" type="Der">
+       <comp ms="V" ord="E1" pos="V"></comp>
+       <comp ord="E2" pos="Suf" type="Der/Ан"></comp> </compg>
+   </lg>
+   <mg>
+     <tg xml:lang="rus">
+       <t pos="A">обходный, окружающий</t>
+     </tg>
+     <xg>
+       <x>кытшалан туй</x>
+       <xt xml:lang="rus">обходная дорога</xt>
+     </xg>
+   </mg>
+</e>
+<e>
+   <lg t1="К" t2="Ы" t3="Т" uri="27221-kytshovtan" id="27221"><l pos="A">кытшовтан</l>
+       <l_var type="molodtsov-cyr">кыщовтан</l_var>
+     <compg drv="V:Suf»Prc" type="Der">
+       <comp ms="V" ord="E1" pos="V"></comp>
+       <comp ord="E2" pos="Suf" type="Der/Ан"></comp> </compg>
+   </lg>
+   <mg>
+     <tg xml:lang="rus">
+       <t pos="A">обводный; обходный, обходной; объезжающий</t>
+     </tg>
+     <xg>
+       <x>кытшовтан канал</x>
+       <xt xml:lang="rus">обводный канал</xt>
+     </xg>
+     <xg>
+       <x>кытшовтан туй</x>
+       <xt xml:lang="rus">обходный путь</xt>
+     </xg>
+   </mg>
+</e>
+<e>
+   <lg t1="К" t2="Ы" t3="Ш" uri="27325-kyshsyan" id="27325"><l pos="A">кышсян</l>
+       <l_var type="molodtsov-cyr">кышԍан</l_var>
+     <compg drv="V:Suf»Prc" type="Der">
+       <comp ms="V" ord="E1" pos="V"></comp>
+       <comp ord="E2" pos="Suf" type="Der/Ан"></comp> </compg>
+   </lg>
+   <mg>
+     <tg xml:lang="rus">
+       <t pos="A">облицовочный</t>
+     </tg>
+     <xg>
+       <x>кышсян уджъяс</x>
+       <xt xml:lang="rus">облицовочные работы</xt>
+     </xg>
+   </mg>
+</e>
+<e>
+   <lg t1="К" t2="Ы" t3="Я" uri="27343-kyyan" id="27343"><l pos="A">кыян</l>
+       <l_var type="molodtsov-cyr">кыјан</l_var>
+     <compg drv="V:Suf»Prc" type="Der">
+       <comp ms="V" ord="E1" pos="V"></comp>
+       <comp ord="E2" pos="Suf" type="Der/Ан"></comp> </compg>
+   </lg>
+   <mg>
+     <tg xml:lang="rus">
+       <t pos="A"><em>от</em> <xref link="кыйны"> кыйны</xref></t>
+     </tg>
+     <xg>
+       <x>кӧч кыян гу</x>
+       <xt xml:lang="rus">яма на зайца</xt>
+     </xg>
+     <xg>
+       <x>ош кыян зарад</x>
+       <xt xml:lang="rus">заряд на медведя, крупный заряд</xt>
+     </xg>
+     <xg>
+       <x>ур кыян шапка</x>
+       <xt xml:lang="rus">охотничья шапка</xt>
+     </xg>
+     <xg>
+       <x>чери кыян артель</x>
+       <xt xml:lang="rus">рыбачья, рыболовецкая артель</xt>
+     </xg>
+     <xg>
+       <x>чери кыян керка</x>
+       <xt xml:lang="rus">рыбацкая избушка</xt>
+     </xg>
+     <xg>
+       <x>чери кыян пыж</x>
+       <xt xml:lang="rus">рыбачья лодка</xt>
+     </xg>
+     <xg>
+       <x>чери кыян угоддьӧ</x>
+       <xt xml:lang="rus">а) рыболовное угодье</xt>
+       <xt xml:lang="rus">б) рыболовные снасти</xt>
+     </xg>
+   </mg>
+</e>
+<e>
+   <lg t1="Л" t2="А" t3="Й" uri="27573-laijk-yalan" id="27573"><l pos="A">лайкъялан</l>
+       <l_var type="molodtsov-cyr">лајкјалан</l_var>
+     <compg drv="V:Suf»Prc" type="Der">
+       <comp ms="V" ord="E1" pos="V"></comp>
+       <comp ord="E2" pos="Suf" type="Der/Ан"></comp> </compg>
+   </lg>
+   <mg>
+     <tg xml:lang="rus">
+       <t pos="A">шаткий, зыбкий</t>
+     </tg>
+     <xg>
+       <x>лайкъялан нюр</x>
+       <xt xml:lang="rus">зыбкое болото</xt>
+     </xg>
+     <xg>
+       <x>лайкъялан пос</x>
+       <xt xml:lang="rus">шаткий трап</xt>
+     </xg>
+     <xg>
+       <x>чеччавны лайкъялан керъяс вывті</x>
+       <xt xml:lang="rus">прыгать по шатким брёвнам</xt>
+     </xg>
+   </mg>
+</e>
+<e>
+   <lg t1="Л" t2="А" t3="Й" uri="27556-laijk-dan" id="27556"><l pos="A">лайкӧдан</l>
+       <l_var type="molodtsov-cyr">лајкӧԁан</l_var>
+     <compg drv="V:Suf»Prc" type="Der">
+       <comp ms="V" ord="E1" pos="V"></comp>
+       <comp ord="E2" pos="Suf" type="Der/Ан"></comp> </compg>
+   </lg>
+   <mg>
+     <tg xml:lang="rus">
+       <t pos="A">1. укачивающий</t>
+     </tg>
+   </mg>
+   <mg>2.
+     <tg xml:lang="rus">
+       <t pos="A">убаюкивающий</t>
+     </tg><br />
+     <xg>
+       <x>лайкӧдан мойд</x>
+       <xt> убаюкивающая сказка</xt>
+     </xg>; <span class="underline">смотри также:</span> <xref link="баййӧдлан"> баййӧдлан</xref>
+   </mg>
+</e>
+<e>
+   <lg t1="Л" t2="Е" t3="Г" uri="27819-legan" id="27819"><l pos="A">леган</l>
+       <l_var type="molodtsov-cyr">ԉеган</l_var>
+     <compg drv="V:Suf»Prc" type="Der">
+       <comp ms="V" ord="E1" pos="V"></comp>
+       <comp ord="E2" pos="Suf" type="Der/Ан"></comp> </compg>
+   </lg>
+   <mg>
+     <tg xml:lang="rus">
+       <t pos="A">1. шатающийся; шаткий; качкий</t>
+     </tg>
+     <xg>
+       <x>леган пинь</x>
+       <xt xml:lang="rus">шатающийся зуб</xt>
+     </xg>
+     <xg>
+       <x>леган пос</x>
+       <xt xml:lang="rus">качкий мост</xt>
+     </xg>
+     <xg>
+       <x>леган пызан</x>
+       <xt xml:lang="rus">шаткий стол</xt>
+     </xg>
+     <xg>
+       <x>леган сюръя</x>
+       <xt xml:lang="rus">неустойчивый столб</xt>
+     </xg>
+   </mg>
+   <mg>2.
+     <tg xml:lang="rus">
+       <t pos="A">тряский</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg t1="Л" t2="О" t3="Й" uri="28629-loijsyan" id="28629"><l pos="A">лойсян</l>
+       <l_var type="molodtsov-cyr">лојԍан</l_var>
+     <compg drv="V:Suf»Prc" type="Der">
+       <comp ms="V" ord="E1" pos="V"></comp>
+       <comp ord="E2" pos="Suf" type="Der/Ан"></comp> </compg>
+   </lg>
+   <mg>
+     <tg xml:lang="rus">
+       <t pos="A">месильный</t>
+     </tg>
+     <xg>
+       <x>лойсян тшан</x>
+       <xt xml:lang="rus">месильный чан</xt>
+     </xg>
+   </mg>
+</e>
+<e>
+   <lg t1="Л" t2="О" t3="М" uri="28694-lomalan" id="28694"><l pos="A">ломалан</l>
+       <l_var type="molodtsov-cyr">ломалан</l_var>
+     <compg drv="V:Suf»Prc" type="Der">
+       <comp ms="V" ord="E1" pos="V"></comp>
+       <comp ord="E2" pos="Suf" type="Der/Ан"></comp> </compg>
+   </lg>
+   <mg>
+     <tg xml:lang="rus">
+       <t pos="A">1. горящий</t>
+     </tg>
+   </mg>
+   <mg>2.
+     <tg xml:lang="rus">
+       <t pos="A">сверкающий</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg t1="Л" t2="Ы" t3="Д" uri="29461-lydd-ysyan" id="29461"><l pos="A">лыддьысян</l>
+       <l_var type="molodtsov-cyr">лыԁԃыԍан</l_var>
+     <compg drv="V:Suf»Prc" type="Der">
+       <comp ms="V" ord="E1" pos="V"></comp>
+       <comp ord="E2" pos="Suf" type="Der/Ан"></comp> </compg>
+   </lg>
+   <mg>
+     <tg xml:lang="rus">
+       <t pos="A">читальный</t>
+     </tg>
+     <xg>
+       <x>лыддьысян зал</x>
+       <xt xml:lang="rus">читальный зал</xt>
+     </xg>
+     <xg>
+       <x>лыддьысян керка</x>
+       <xt xml:lang="rus">изба-читальня</xt>
+     </xg>
+   </mg>
+</e>
+<e>
+   <lg t1="Л" t2="Ӧ" t3="Н" uri="29016-l-nyalan" id="29016"><l pos="A">лӧнялан</l>
+       <l_var type="molodtsov-cyr">лӧԋалан</l_var>
+     <compg drv="V:Suf»Prc" type="Der">
+       <comp ms="V" ord="E1" pos="V"></comp>
+       <comp ord="E2" pos="Suf" type="Der/Ан"></comp> </compg>
+   </lg>
+   <mg>
+     <tg xml:lang="rus">
+       <t pos="A">замирающий</t>
+     </tg>
+     <xg>
+       <x>лӧнялан шыяс</x>
+       <xt xml:lang="rus">замирающие звуки</xt>
+     </xg>
+   </mg>
+</e>
+<e>
+   <lg t1="Л" t2="Ӧ" t3="С" uri="29102-l-s-dchan" id="29102"><l pos="A">лӧсьӧдчан</l>
+       <l_var type="molodtsov-cyr">лӧԍӧччан</l_var>
+     <compg drv="V:Suf»Prc" type="Der">
+       <comp ms="V" ord="E1" pos="V"></comp>
+       <comp ord="E2" pos="Suf" type="Der/Ан"></comp> </compg>
+   </lg>
+   <mg>
+     <tg xml:lang="rus">
+       <t pos="A">приготовительный</t>
+     </tg>
+     <xg>
+       <x>лӧсьӧдчан уджъяс</x>
+       <xt xml:lang="rus">приготовительные работы</xt>
+     </xg>
+   </mg>
+</e>
+<e>
+   <lg t1="М" t2="А" t3="Й" uri="30507-maijshasyan" id="30507"><l pos="A">майшасян</l>
+       <l_var type="molodtsov-cyr">мајшаԍан</l_var>
+     <compg drv="V:Suf»Prc" type="Der">
+       <comp ms="V" ord="E1" pos="V"></comp>
+       <comp ord="E2" pos="Suf" type="Der/Ан"></comp> </compg>
+   </lg>
+   <mg>
+     <tg xml:lang="rus">
+       <t pos="A">взволнованный; тревожный; встревоженный</t>
+     </tg>
+     <xg>
+       <x>майшасян гӧлӧс</x>
+       <xt xml:lang="rus">взволнованный голос</xt>
+     </xg>
+     <xg>
+       <x>майшасян думъяс</x>
+       <xt xml:lang="rus">тревожные мысли</xt>
+     </xg>
+     <xg>
+       <x>майшасян син</x>
+       <xt xml:lang="rus">встревоженные глаза</xt>
+     </xg>
+   </mg>
+</e>
+<e>
+   <lg t1="М" t2="Е" t3="Л" uri="31334-melialan" id="31334"><l pos="A">меліалан</l>
+       <l_var type="molodtsov-cyr">меліалан</l_var>
+     <compg drv="V:Suf»Prc" type="Der">
+       <comp ms="V" ord="E1" pos="V"></comp>
+       <comp ord="E2" pos="Suf" type="Der/Ан"></comp> </compg>
+   </lg>
+   <mg>
+     <tg xml:lang="rus">
+       <t pos="A">ласкающий</t>
+     </tg>
+     <xg>
+       <x>меліалан видзӧдлас</x>
+       <xt xml:lang="rus">ласкающий взгляд</xt>
+     </xg>
+   </mg>
+</e>
+<e>
+   <lg t1="М" t2="Ӧ" t3="Р" uri="32263-m-rchchan" id="32263"><l pos="A">мӧрччан</l>
+       <l_var type="molodtsov-cyr">мӧрччан</l_var>
+     <compg drv="V:Suf»Prc" type="Der">
+       <comp ms="V" ord="E1" pos="V"></comp>
+       <comp ord="E2" pos="Suf" type="Der/Ан"></comp> </compg>
+   </lg>
+   <mg>
+     <tg xml:lang="rus">
+       <t pos="A">внушительный, убедительный; проникновенный</t>
+     </tg>
+     <xg>
+       <x>мӧрччан кывъяс</x>
+       <xt xml:lang="rus">проникновенные слова</xt>
+     </xg>
+     <xg>
+       <x>сьӧлӧмӧ мӧрччан реч</x>
+       <xt xml:lang="rus">яркая речь</xt>
+     </xg>
+   </mg>
+</e>
+<e>
+   <lg t1="Н" t2="А" t3="З" uri="33568-naz-dchan" id="33568"><l pos="A">назӧдчан</l>
+       <l_var type="molodtsov-cyr">назӧччан</l_var>
+     <compg drv="V:Suf»Prc" type="Der">
+       <comp ms="V" ord="E1" pos="V"></comp>
+       <comp ord="E2" pos="Suf" type="Der/Ан"></comp> </compg>
+   </lg>
+   <mg>
+     <tg xml:lang="rus">
+       <t pos="A">гнусавый</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg t1="Н" t2="А" t3="Ч" uri="33843-nachkysyan" id="33843"><l pos="A">начкысян</l>
+       <l_var type="molodtsov-cyr">начкыԍан</l_var>
+     <compg drv="V:Suf»Prc" type="Der">
+       <comp ms="V" ord="E1" pos="V"></comp>
+       <comp ord="E2" pos="Suf" type="Der/Ан"></comp> </compg>
+   </lg>
+   <mg>
+     <tg xml:lang="rus">
+       <t pos="A"><em>от</em> <xref link="начкысьны"> начкысьны</xref></t>
+     </tg>
+     <xg>
+       <x>начкысян пурт</x>
+       <xt xml:lang="rus">нож для забоя и свежевания</xt>
+     </xg><br /><stress>&#160;&#160;&#160;начкысян места</stress> <span class="underline">смотри:</span> <xref link="начкысянін"> начкысянін</xref><br />
+     <xg>
+       <x>начкысян ремеслӧ</x>
+       <xt xml:lang="rus">ремесло свежевальщика</xt>
+     </xg>
+   </mg>
+</e>
+<e>
+   <lg t1="Н" t2="Е" t3="С" uri="34219-nesij-dlan" id="34219"><l pos="A">несйӧдлан</l>
+       <l_var type="molodtsov-cyr">ԋесјӧԁлан</l_var>
+     <compg drv="V:Suf»Prc" type="Der">
+       <comp ms="V" ord="E1" pos="V"></comp>
+       <comp ord="E2" pos="Suf" type="Der/Ан"></comp> </compg>
+   </lg>
+   <mg>
+     <tg xml:lang="rus">
+       <t pos="A">чихательный; вызывающий чиханье</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg t1="Н" t2="Е" t3="Т" uri="34240-netshkan" id="34240"><l pos="A">нетшкан</l>
+       <l_var type="molodtsov-cyr">ԋещкан</l_var>
+     <compg drv="V:Suf»Prc" type="Der">
+       <comp ms="V" ord="E1" pos="V"></comp>
+       <comp ord="E2" pos="Suf" type="Der/Ан"></comp> </compg>
+   </lg>
+   <mg>
+     <tg xml:lang="rus">
+       <t pos="A"><em>от</em> <xref link="нетшкыны"> нетшкыны</xref></t>
+     </tg>
+     <xg>
+       <x>шабді нетшкан кад</x>
+       <xt xml:lang="rus">время теребления льна</xt>
+     </xg>
+     <xg>
+       <x>шабді нетшкан машина</x>
+       <xt xml:lang="rus">льнотеребилка</xt>
+     </xg>
+   </mg>
+</e>
+<e>
+   <lg t1="Н" t2="Е" t3="Т" uri="34251-netshkysyan" id="34251"><l pos="A">нетшкысян</l>
+       <l_var type="molodtsov-cyr">ԋещкыԍан</l_var>
+     <compg drv="V:Suf»Prc" type="Der">
+       <comp ms="V" ord="E1" pos="V"></comp>
+       <comp ord="E2" pos="Suf" type="Der/Ан"></comp> </compg>
+   </lg>
+   <mg>
+     <tg xml:lang="rus">
+       <t pos="A">подлежащее тереблению</t>
+     </tg>
+     <xg>
+       <x>нетшкысян миян уна на</x>
+       <xt xml:lang="rus">теребить нам ещё много</xt>
+     </xg>
+   </mg>
+</e>
+<e>
+   <lg t1="Н" t2="О" t3="В" uri="34733-novlan" id="34733"><l pos="A">новлан</l>
+       <l_var type="molodtsov-cyr">новлан</l_var>
+     <compg drv="V:Suf»Prc" type="Der">
+       <comp ms="V" ord="E1" pos="V"></comp>
+       <comp ord="E2" pos="Suf" type="Der/Ан"></comp> </compg>
+   </lg>
+   <mg>
+     <tg xml:lang="rus">
+       <t pos="A"><em>от</em> <xref link="новлыны"> новлыны</xref>1. предназначенный для того, чтобы носить; носимый; носильный</t>
+     </tg>
+     <xg>
+       <x>новлан дӧрӧм</x>
+       <xt xml:lang="rus">а) рубашка, носимая в данный момент</xt>
+       <xt xml:lang="rus">б) годная для носки рубашка</xt>
+     </xg><br />
+     <xg>
+       <x>новлан кӧлуй</x>
+       <xt xml:lang="rus">носильные вещи</xt>
+     </xg>
+     <xg>
+       <x>пыр новлан паськӧм</x>
+       <xt xml:lang="rus">повседневно носимая одежда, будничная одежда; рабочая одежда</xt>
+     </xg>
+     <xg>
+       <x>туйын новлан паськӧм</x>
+       <xt xml:lang="rus">дорожный костюм</xt>
+     </xg>
+   </mg>
+   <mg>2.
+     <tg xml:lang="rus">
+       <t pos="A">предназначенный для того, чтобы возить</t>
+     </tg>
+     <xg>
+       <x>пошта новлан машина</x>
+       <xt xml:lang="rus">машина, развозящая почту</xt>
+     </xg>
+   </mg>
+</e>
+<e>
+   <lg t1="Н" t2="Ё" t3="Н" uri="34390-nyon-dchan" id="34390"><l pos="A">нёньӧдчан</l>
+       <l_var type="molodtsov-cyr">ԋоԋӧччан</l_var>
+     <compg drv="V:Suf»Prc" type="Der">
+       <comp ms="V" ord="E1" pos="V"></comp>
+       <comp ord="E2" pos="Suf" type="Der/Ан"></comp> </compg>
+   </lg>
+   <mg>
+     <tg xml:lang="rus">
+       <t pos="A"><em>от</em> <xref link="нёньӧдчыны"> нёньӧдчыны</xref></t>
+     </tg>
+     <xg>
+       <x>нёньӧдчан кад</x>
+       <xt xml:lang="rus">а) время кормления грудью</xt>
+       <xt xml:lang="rus">б) лактационный период</xt>
+     </xg><br />
+     <xg>
+       <x>нёньӧдчан нывбабаяс</x>
+       <xt xml:lang="rus">кормящие (грудью) женщины</xt>
+     </xg>
+   </mg>
+</e>
+<e>
+   <lg t1="О" t2="В" t3="М" uri="36302-ovman" id="36302"><l pos="A">овман</l>
+       <l_var type="molodtsov-cyr">овман</l_var>
+     <compg drv="V:Suf»Prc" type="Der">
+       <comp ms="V" ord="E1" pos="V"></comp>
+       <comp ord="E2" pos="Suf" type="Der/Ан"></comp> </compg>
+   </lg>
+   <mg>
+     <tg xml:lang="rus">
+       <t pos="A">находящийся в состоянии брожения</t>
+     </tg>
+     <xg>
+       <x>овман сур</x>
+       <xt xml:lang="rus">пиво, находящееся в состоянии брожения</xt>
+     </xg>
+   </mg>
+</e>
+<e>
+   <lg t1="О" t2="Й" t3="Д" uri="36420-oijdlan" id="36420"><l pos="A">ойдлан</l>
+       <l_var type="molodtsov-cyr">ојԁлан</l_var>
+     <compg drv="V:Suf»Prc" type="Der">
+       <comp ms="V" ord="E1" pos="V"></comp>
+       <comp ord="E2" pos="Suf" type="Der/Ан"></comp> </compg>
+   </lg>
+   <mg>
+     <tg xml:lang="rus">
+       <t pos="A">заливной</t>
+     </tg>
+     <xg>
+       <x>ойдлан видз</x>
+       <xt xml:lang="rus">заливной луг, пойменный луг</xt>
+     </xg>
+   </mg>
+</e>
+<e>
+   <lg t1="О" t2="Л" t3="А" uri="36576-olan" id="36576"><l pos="A">олан</l>
+       <l_var type="molodtsov-cyr">олан</l_var>
+     <compg drv="V:Suf»Prc" type="Der">
+       <comp ms="V" ord="E1" pos="V"></comp>
+       <comp ord="E2" pos="Suf" type="Der/Ан"></comp> </compg>
+   </lg>
+   <mg>
+     <tg xml:lang="rus">
+       <t pos="A">1. жилой</t>
+     </tg>
+     <xg>
+       <x>олан керка</x>
+       <xt xml:lang="rus">жилой дом</xt>
+     </xg>
+   </mg>
+   <mg>2.
+     <tg xml:lang="rus">
+       <t pos="A">жилищный</t>
+     </tg>
+     <xg>
+       <x>олан условиеяс</x>
+       <xt xml:lang="rus">жилищные условия</xt>
+     </xg>
+   </mg>
+   <mg>3.
+     <tg xml:lang="rus">
+       <t pos="A">не старый; такой, которому ещё рано умирать, которому бы ещё жить да жить</t>
+     </tg>
+     <xg>
+       <x>вӧлі олан морт на, а кувсьӧма</x>
+       <xt xml:lang="rus">человек он был ещё не старый, а скончался</xt>
+     </xg>
+   </mg>
+   <mg>4.
+     <tg xml:lang="rus">
+       <t pos="A">жизненный</t>
+     </tg>
+     <xg>
+       <x>олан вояс</x>
+       <xt xml:lang="rus">годы жизни</xt>
+     </xg>
+     <xg>
+       <x>олан вын</x>
+       <xt xml:lang="rus">жизненная сила</xt>
+     </xg>
+     <xg>
+       <x>олан ёрт</x>
+       <xt xml:lang="rus">подруга (друг) жизни</xt>
+     </xg>
+     <xg>
+       <x>олан пас</x>
+       <xt xml:lang="rus">признаки жизни</xt>
+     </xg>
+     <xg>
+       <x>олан туй</x>
+       <xt xml:lang="rus">жизненный путь</xt>
+     </xg>
+     <xg>
+       <x>кӧнкӧ ылын кӧк гораа лыддис кодлыськӧ олан вояссӧ</x>
+       <xt xml:lang="rus">где-то далеко громко считала кукушка чьи-то годы жизни</xt>
+     </xg>
+     <xg>
+       <x>пӧрысь понйыдлӧн пӧ олан лунъясыс лыдаӧсь</x>
+       <xt xml:lang="rus">как говорят, дни (жизни) старой собаки сочтены</xt>
+     </xg>
+   </mg>
+   <mg>5.
+     <tg xml:lang="rus">
+       <t pos="A">присущий образу существования <em>кого-либо</em></t>
+     </tg>
+     <xg>
+       <x>олан лад</x>
+       <xt xml:lang="rus">жизненный уклад</xt>
+     </xg>
+     <xg>
+       <x>олан ног</x>
+       <xt xml:lang="rus">режим дня</xt>
+     </xg>
+     <xg>
+       <x>олан сям</x>
+       <xt xml:lang="rus">образ жизни</xt>
+     </xg>
+     <xg>
+       <x>олан этш</x>
+       <xt xml:lang="rus">нравственность</xt>
+     </xg>
+     <xg>
+       <x>◊ олан гаж</x>
+       <xt xml:lang="rus">радость жизни, источник радости, утешение</xt>
+     </xg>
+     <xg>
+       <x>◊ кагаыс сылӧн и олан гажыс</x>
+       <xt xml:lang="rus">ребёнок для неё – утешение</xt>
+     </xg>
+   </mg>
+</e>
+<e>
+   <lg t1="О" t2="Р" t3="Д" uri="36828-ordijysyan" id="36828"><l pos="A">ордйысян</l>
+       <l_var type="molodtsov-cyr">орԁјыԍан</l_var>
+     <compg drv="V:Suf»Prc" type="Der">
+       <comp ms="V" ord="E1" pos="V"></comp>
+       <comp ord="E2" pos="Suf" type="Der/Ан"></comp> </compg>
+   </lg>
+   <mg>
+     <tg xml:lang="rus">
+       <t pos="A">предназначенный для соревнований, состязаний</t>
+     </tg>
+     <xg>
+       <x>ордйысян вӧвъяс</x>
+       <xt xml:lang="rus">беговые лошади</xt>
+     </xg>
+     <xg>
+       <x>ордйысян пыж</x>
+       <xt xml:lang="rus">гоночная лодка</xt>
+     </xg>
+     <xg>
+       <x>ордйысян условиеяс</x>
+       <xt xml:lang="rus">условия соревнований</xt>
+     </xg>
+   </mg>
+</e>
+<e>
+   <lg t1="О" t2="Ш" t3="К" uri="37136-oshkan" id="37136"><l pos="A">ошкан</l>
+       <l_var type="molodtsov-cyr">ошкан</l_var>
+     <compg drv="V:Suf»Prc" type="Der">
+       <comp ms="V" ord="E1" pos="V"></comp>
+       <comp ord="E2" pos="Suf" type="Der/Ан"></comp> </compg>
+   </lg>
+   <mg>
+     <tg xml:lang="rus">
+       <t pos="A">1. хваленный; хвалёный</t>
+     </tg>
+     <xg>
+       <x>ошкан вӧлыс нинӧм дон оз сулав</x>
+       <xt xml:lang="rus">хвалёная лошадь ничего не стоит</xt>
+     </xg>
+   </mg>
+   <mg>2.
+     <tg xml:lang="rus">
+       <t pos="A"><span class="underline">смотри:</span> <xref link="ошкана"> ошкана</xref></t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg t1="П" t2="А" t3="Г" uri="38431-pag-dan" id="38431"><l pos="A">пагӧдан</l>
+       <l_var type="molodtsov-cyr">пагӧԁан</l_var>
+     <compg drv="V:Suf»Prc" type="Der">
+       <comp ms="V" ord="E1" pos="V"></comp>
+       <comp ord="E2" pos="Suf" type="Der/Ан"></comp> </compg>
+   </lg>
+   <mg>
+     <tg xml:lang="rus">
+       <t pos="A">ядовитый</t>
+     </tg>
+     <xg>
+       <x>пагӧдан турун</x>
+       <xt xml:lang="rus">ядовитая трава</xt>
+     </xg>
+     <xg>
+       <x>пагӧдан тшак</x>
+       <xt xml:lang="rus">ядовитый гриб</xt>
+     </xg>
+   </mg>
+</e>
+<e>
+   <lg t1="П" t2="А" t3="Д" uri="38457-padvezhasyan" id="38457"><l pos="A">падвежасян</l>
+       <l_var type="molodtsov-cyr">паԁвежаԍан</l_var>
+     <compg drv="V:Suf»Prc" type="Der">
+       <comp ms="V" ord="E1" pos="V"></comp>
+       <comp ord="E2" pos="Suf" type="Der/Ан"></comp> </compg>
+   </lg>
+   <mg>
+     <tg xml:lang="rus">
+       <t pos="A">пересекающийся</t>
+     </tg>
+     <xg>
+       <x>падвежасян визьяс</x>
+       <xt xml:lang="rus">пересекающиеся линии</xt>
+     </xg>
+   </mg>
+</e>
+<e>
+   <lg t1="П" t2="А" t3="Д" uri="38478-padm-dan" id="38478"><l pos="A">падмӧдан</l>
+       <l_var type="molodtsov-cyr">паԁмӧԁан</l_var>
+     <compg drv="V:Suf»Prc" type="Der">
+       <comp ms="V" ord="E1" pos="V"></comp>
+       <comp ord="E2" pos="Suf" type="Der/Ан"></comp> </compg>
+   </lg>
+   <mg>
+     <tg xml:lang="rus">
+       <t pos="A">ошеломительный</t>
+     </tg>
+     <xg>
+       <x>падмӧдан юалӧм</x>
+       <xt xml:lang="rus">ошеломительный вопрос</xt>
+     </xg>
+   </mg>
+</e>
+<e>
+   <lg t1="П" t2="А" t3="Д" uri="38484-padm-dchan" id="38484"><l pos="A">падмӧдчан</l>
+       <l_var type="molodtsov-cyr">паԁмӧччан</l_var>
+     <compg drv="V:Suf»Prc" type="Der">
+       <comp ms="V" ord="E1" pos="V"></comp>
+       <comp ord="E2" pos="Suf" type="Der/Ан"></comp> </compg>
+   </lg>
+   <mg>
+     <tg xml:lang="rus">
+       <t pos="A">подрывной</t>
+     </tg>
+     <xg>
+       <x>падмӧдчан удж</x>
+       <xt xml:lang="rus">подрывная работа</xt>
+     </xg>
+   </mg>
+</e>
+<e>
+   <lg t1="П" t2="А" t3="Н" uri="38751-panlasyan" id="38751"><l pos="A">панласян</l>
+       <l_var type="molodtsov-cyr">панлаԍан</l_var>
+     <compg drv="V:Suf»Prc" type="Der">
+       <comp ms="V" ord="E1" pos="V"></comp>
+       <comp ord="E2" pos="Suf" type="Der/Ан"></comp> </compg>
+   </lg>
+   <mg>
+     <tg xml:lang="rus">
+       <t pos="A">беговой</t>
+     </tg>
+     <xg>
+       <x>панласян вӧв</x>
+       <xt xml:lang="rus">беговая лошадь</xt>
+     </xg>
+   </mg>
+</e>
+<e>
+   <lg t1="П" t2="Е" t3="Р" uri="39730-perijysyan" id="39730"><l pos="A">перйысян</l>
+       <l_var type="molodtsov-cyr">перјыԍан</l_var>
+     <compg drv="V:Suf»Prc" type="Der">
+       <comp ms="V" ord="E1" pos="V"></comp>
+       <comp ord="E2" pos="Suf" type="Der/Ан"></comp> </compg>
+   </lg>
+   <mg>
+     <tg xml:lang="rus">
+       <t pos="A">съёмный, отъёмный</t>
+     </tg>
+     <xg>
+       <x>перйысян вороп</x>
+       <xt xml:lang="rus">съёмная рукоятка</xt>
+     </xg><br />
+     <xg>
+       <x>перйысян пыдӧс</x>
+       <xt> отъёмное дно</xt>
+     </xg>; <span class="underline">смотри также:</span> <xref link="шедан"> шедан</xref>
+   </mg>
+</e>
+<e>
+   <lg t1="П" t2="Е" t3="Ч" uri="40049-pechlasyan" id="40049"><l pos="A">печласян</l>
+       <l_var type="molodtsov-cyr">печлаԍан</l_var>
+     <compg drv="V:Suf»Prc" type="Der">
+       <comp ms="V" ord="E1" pos="V"></comp>
+       <comp ord="E2" pos="Suf" type="Der/Ан"></comp> </compg>
+   </lg>
+   <mg>
+     <tg xml:lang="rus">
+       <t pos="A">1. трескучий</t>
+     </tg>
+     <xg>
+       <x>печласян кӧдзыд</x>
+       <xt xml:lang="rus">трескучий мороз</xt>
+     </xg>
+     <xg>
+       <x>печласян пес</x>
+       <xt xml:lang="rus">трескучие дрова</xt>
+     </xg>
+   </mg>
+   <mg>2.
+     <tg xml:lang="rus">
+       <t pos="A"><acronym title="в переносном значении"><em>перен.</em></acronym> прыткий</t>
+     </tg>
+     <xg>
+       <x>печласян гаг</x>
+       <xt xml:lang="rus">жук-щелкун</xt>
+     </xg>
+   </mg>
+</e>
+<e>
+   <lg t1="П" t2="Л" t3="А" uri="40405-plav-yalan" id="40405"><l pos="A">плавъялан</l>
+       <l_var type="molodtsov-cyr">плавјалан</l_var>
+     <compg drv="V:Suf»Prc" type="Der">
+       <comp ms="V" ord="E1" pos="V"></comp>
+       <comp ord="E2" pos="Suf" type="Der/Ан"></comp> </compg>
+   </lg>
+   <mg>
+     <tg xml:lang="rus">
+       <t pos="A"></t>
+     </tg><br /><span class="underline">употребляется лишь в составе выражений:</span><br />
+     <xg>
+       <x>плавъялан пос</x>
+       <xt xml:lang="rus">понтонный мост</xt>
+     </xg>
+   </mg>
+</e>
+<e>
+   <lg t1="П" t2="У" t3="Г" uri="43100-pugr-dlan" id="43100"><l pos="A">пугрӧдлан</l>
+       <l_var type="molodtsov-cyr">пугрӧԁлан</l_var>
+     <compg drv="V:Suf»Prc" type="Der">
+       <comp ms="V" ord="E1" pos="V"></comp>
+       <comp ord="E2" pos="Suf" type="Der/Ан"></comp> </compg>
+   </lg>
+   <mg>
+     <tg xml:lang="rus">
+       <t pos="A">порывистый</t>
+     </tg>
+     <xg>
+       <x>пугрӧдлан тӧв</x>
+       <xt xml:lang="rus">порывистый ветер</xt>
+     </xg>
+   </mg>
+</e>
+<e>
+   <lg t1="П" t2="У" t3="К" uri="43230-pukalan" id="43230">
+     <l hid="Hom1">пукалан</l>
+       <l_var type="molodtsov-cyr">пукалан</l_var>
+     <compg drv="V:Suf»Prc" type="Der">
+       <comp ms="V" ord="E1" pos="V"></comp>
+       <comp ord="E2" pos="Suf" type="Der/Ан"></comp> </compg>
+   </lg>
+   <mg>
+     <tg xml:lang="rus">
+       <t pos="A">1. сидячий</t>
+     </tg>
+     <xg>
+       <x>поездын пукалан места</x>
+       <xt xml:lang="rus">сидячее место в поезде</xt>
+     </xg>
+   </mg>
+   <mg>2.
+     <tg xml:lang="rus">
+       <t pos="A">стоячий, застаивающийся</t>
+     </tg>
+     <xg>
+       <x>пукалан ва писькӧдны</x>
+       <xt xml:lang="rus"> отвести застаивающуюся <em>(стоячую)</em> воду</xt>
+     </xg>
+   </mg>
+</e>
+<e>
+   <lg t1="П" t2="У" t3="Р" uri="43421-purk-sitan" id="43421"><l pos="A">пуркӧситан</l>
+       <l_var type="molodtsov-cyr">пуркӧԍітан</l_var>
+     <compg drv="V:Suf»Prc" type="Der">
+       <comp ms="V" ord="E1" pos="V"></comp>
+       <comp ord="E2" pos="Suf" type="Der/Ан"></comp> </compg>
+   </lg>
+   <mg>
+     <tg xml:lang="rus">
+       <t pos="A">вьюжный</t>
+     </tg>
+     <xg>
+       <x>пуркӧситан тӧв</x>
+       <xt xml:lang="rus">вьюжный ветер</xt>
+     </xg>
+   </mg>
+</e>
+<e>
+   <lg t1="П" t2="У" t3="Р" uri="43482-pur-yalan" id="43482"><l pos="A">пуръялан</l>
+       <l_var type="molodtsov-cyr">пурјалан</l_var>
+     <compg drv="V:Suf»Prc" type="Der">
+       <comp ms="V" ord="E1" pos="V"></comp>
+       <comp ord="E2" pos="Suf" type="Der/Ан"></comp> </compg>
+   </lg>
+   <mg>
+     <tg xml:lang="rus">
+       <t pos="A">предназначенный для сплачивания в плот</t>
+     </tg>
+     <xg>
+       <x>пуръялан вӧр</x>
+       <xt xml:lang="rus">лес, предназначенный для сплачивания в плот</xt>
+     </xg>
+   </mg>
+</e>
+<e>
+   <lg t1="П" t2="Ӧ" t3="Л" uri="41909-p-l-tan" id="41909"><l pos="A">пӧльтан</l>
+       <l_var type="molodtsov-cyr">пӧԉтан</l_var>
+     <compg drv="V:Suf»Prc" type="Der">
+       <comp ms="V" ord="E1" pos="V"></comp>
+       <comp ord="E2" pos="Suf" type="Der/Ан"></comp> </compg>
+   </lg>
+   <mg>
+     <tg xml:lang="rus">
+       <t pos="A">надувной</t>
+     </tg>
+     <xg>
+       <x>пӧльтан чачаяс</x>
+       <xt xml:lang="rus">надувные игрушки</xt>
+     </xg>
+     <xg>
+       <x>пӧльтан юрлӧс</x>
+       <xt xml:lang="rus">надувная подушка</xt>
+     </xg>
+     <xg>
+       <x>сынӧд пӧльтан машина</x>
+       <xt xml:lang="rus">воздуходувная машина</xt>
+     </xg>
+   </mg>
+</e>
+<e>
+   <lg t1="П" t2="Ӧ" t3="Р" uri="42090-p-r-yasyan" id="42090"><l pos="A">пӧръясян</l>
+       <l_var type="molodtsov-cyr">пӧрјаԍан</l_var>
+     <compg drv="V:Suf»Prc" type="Der">
+       <comp ms="V" ord="E1" pos="V"></comp>
+       <comp ord="E2" pos="Suf" type="Der/Ан"></comp> </compg>
+   </lg>
+   <mg>
+     <tg xml:lang="rus">
+       <t pos="A">обманчивый</t>
+     </tg>
+     <xg>
+       <x>пӧръясян поводдя</x>
+       <xt xml:lang="rus">обманчивая погода</xt>
+     </xg>
+     <xg>
+       <x>пӧръясян чӧв-лӧнь</x>
+       <xt xml:lang="rus">обманчивое затишье</xt>
+     </xg>
+   </mg>
+</e>
+<e>
+   <lg t1="П" t2="Ӧ" t3="С" uri="42161-p-s-dan" id="42161"><l pos="A">пӧсьӧдан</l>
+       <l_var type="molodtsov-cyr">пӧԍӧԁан</l_var>
+     <compg drv="V:Suf»Prc" type="Der">
+       <comp ms="V" ord="E1" pos="V"></comp>
+       <comp ord="E2" pos="Suf" type="Der/Ан"></comp> </compg>
+   </lg>
+   <mg>
+     <tg xml:lang="rus">
+       <t pos="A">потогонный</t>
+     </tg>
+     <xg>
+       <x>пӧсьӧдан зелля</x>
+       <xt xml:lang="rus">потогонное лекарство</xt>
+     </xg>
+     <xg>
+       <x>пӧсьӧдан чай</x>
+       <xt xml:lang="rus">потогонный чай</xt>
+     </xg>
+   </mg>
+</e>
+<e>
+   <lg t1="Р" t2="А" t3="Д" uri="44270-radeijtchan" id="44270"><l pos="A">радейтчан</l>
+       <l_var type="molodtsov-cyr">раԃејччан</l_var>
+     <compg drv="V:Suf»Prc" type="Der">
+       <comp ms="V" ord="E1" pos="V"></comp>
+       <comp ord="E2" pos="Suf" type="Der/Ан"></comp> </compg>
+   </lg>
+   <mg>
+     <tg xml:lang="rus">
+       <t pos="A">любовный</t>
+     </tg><br />
+     <xg>
+       <x>тадзи миян костын радейтчан <acronym title="причастие"><em>прич.</em></acronym> гӧрӧдыд и гӧрддзысис</x>
+       <xt> так мы и полюбили друг друга; так у нас и родилась любовь</xt>
+     </xg>
+   </mg>
+</e>
+<e>
+   <lg t1="Р" t2="А" t3="З" uri="44471-raz-syan" id="44471"><l pos="A">разьсян</l>
+       <l_var type="molodtsov-cyr">раԅԍан</l_var>
+     <compg drv="V:Suf»Prc" type="Der">
+       <comp ms="V" ord="E1" pos="V"></comp>
+       <comp ord="E2" pos="Suf" type="Der/Ан"></comp> </compg>
+   </lg>
+   <mg>
+     <tg xml:lang="rus">
+       <t pos="A">1. развязывающийся, распутывающийся</t>
+     </tg>
+   </mg>
+   <mg>2.
+     <tg xml:lang="rus">
+       <t pos="A">расстёгивающийся, отстёгивающийся</t>
+     </tg>
+   </mg>
+   <mg>3.
+     <tg xml:lang="rus">
+       <t pos="A">расплетающийся, распускающийся</t>
+     </tg>
+   </mg>
+   <mg>4.
+     <tg xml:lang="rus">
+       <t pos="A">разматывающийся</t>
+     </tg>
+   </mg>
+   <mg>5.
+     <tg xml:lang="rus">
+       <t pos="A">откручивающийся</t>
+     </tg>
+   </mg>
+   <mg>6.
+     <tg xml:lang="rus">
+       <t pos="A">разборный</t>
+     </tg>
+     <xg>
+       <x>разьсян керка</x>
+       <xt xml:lang="rus">разборный дом</xt>
+     </xg>
+   </mg>
+</e>
+<e>
+   <lg t1="Р" t2="Е" t3="К" uri="44940-rektysyan" id="44940"><l pos="A">ректысян</l>
+       <l_var type="molodtsov-cyr">ректыԍан</l_var>
+     <compg drv="V:Suf»Prc" type="Der">
+       <comp ms="V" ord="E1" pos="V"></comp>
+       <comp ord="E2" pos="Suf" type="Der/Ан"></comp> </compg>
+   </lg>
+   <mg>
+     <tg xml:lang="rus">
+       <t pos="A">разгрузочный</t>
+     </tg><br />
+     <xg>
+       <x>ректысян <acronym title="причастие"><em>прич.</em></acronym> уджъяс</x>
+       <xt> разгрузочные работы</xt>
+     </xg>
+   </mg>
+</e>
+<e>
+   <lg t1="Р" t2="И" t3="С" uri="45142-risuijtchan" id="45142"><l pos="A">рисуйтчан</l>
+       <l_var type="molodtsov-cyr">рісујччан</l_var>
+     <compg drv="V:Suf»Prc" type="Der">
+       <comp ms="V" ord="E1" pos="V"></comp>
+       <comp ord="E2" pos="Suf" type="Der/Ан"></comp> </compg>
+   </lg>
+   <mg>
+     <tg xml:lang="rus">
+       <t pos="A">рисовальный</t>
+     </tg>
+     <xg>
+       <x>рисуйтчан кабала</x>
+       <xt xml:lang="rus">рисовальная бумага</xt>
+     </xg>
+   </mg>
+</e>
+<e>
+   <lg t1="Р" t2="О" t3="З" uri="45221-roz-yalan" id="45221"><l pos="A">розъялан</l>
+       <l_var type="molodtsov-cyr">розјалан</l_var>
+     <compg drv="V:Suf»Prc" type="Der">
+       <comp ms="V" ord="E1" pos="V"></comp>
+       <comp ord="E2" pos="Suf" type="Der/Ан"></comp> </compg>
+   </lg>
+   <mg>
+     <tg xml:lang="rus">
+       <t pos="A">цветущий</t>
+     </tg>
+     <xg>
+       <x>розъялан быдмӧгъяс</x>
+       <xt xml:lang="rus">цветущие растения</xt>
+     </xg>
+   </mg>
+</e>
+<e>
+   <lg t1="Р" t2="Ӧ" t3="М" uri="45602-r-midztan" id="45602"><l pos="A">рӧмидзтан</l>
+       <l_var type="molodtsov-cyr">рӧмічтан</l_var>
+     <compg drv="V:Suf»Prc" type="Der">
+       <comp ms="V" ord="E1" pos="V"></comp>
+       <comp ord="E2" pos="Suf" type="Der/Ан"></comp> </compg>
+   </lg>
+   <mg>
+     <tg xml:lang="rus">
+       <t pos="A">жвачный</t>
+     </tg>
+     <xg>
+       <x>рӧмидзтан пемӧсъяс</x>
+       <xt xml:lang="rus">жвачные животные</xt>
+     </xg>
+   </mg>
+</e>
+<e>
+   <lg t1="С" t2="И" t3="Б" uri="47194-sibdalan" id="47194"><l pos="A">сибдалан</l>
+       <l_var type="molodtsov-cyr">ԍібԁалан</l_var>
+     <compg drv="V:Suf»Prc" type="Der">
+       <comp ms="V" ord="E1" pos="V"></comp>
+       <comp ord="E2" pos="Suf" type="Der/Ан"></comp> </compg>
+   </lg>
+   <mg>
+     <tg xml:lang="rus">
+       <t pos="A">1. вязкий</t>
+     </tg>
+     <xg>
+       <x>сибдалан нюр</x>
+       <xt xml:lang="rus">топкое болото</xt>
+     </xg>
+   </mg>
+   <mg>2.
+     <tg xml:lang="rus">
+       <t pos="A">сиплый</t>
+     </tg>
+     <xg>
+       <x>сибдалан гӧлӧс</x>
+       <xt xml:lang="rus">сиплый голос</xt>
+     </xg>
+     <xg>
+       <x>сибдалан сир</x>
+       <xt xml:lang="rus">живица</xt>
+     </xg>
+   </mg>
+</e>
+<e>
+   <lg t1="С" t2="О" t3="Т" uri="48418-sotchan" id="48418"><l pos="A">сотчан</l>
+       <l_var type="molodtsov-cyr">соччан</l_var>
+     <compg drv="V:Suf»Prc" type="Der">
+       <comp ms="V" ord="E1" pos="V"></comp>
+       <comp ord="E2" pos="Suf" type="Der/Ан"></comp> </compg>
+   </lg>
+   <mg>
+     <tg xml:lang="rus">
+       <t pos="A">горючий</t>
+     </tg>
+     <xg>
+       <x>сотчан материал</x>
+       <xt xml:lang="rus">горючий материал</xt>
+     </xg>
+     <xg>
+       <x>сотчан сланеч</x>
+       <xt xml:lang="rus">горючий сланец</xt>
+     </xg>
+   </mg>
+</e>
+<e>
+   <lg t1="С" t2="Т" t3="Р" uri="49305-struzhitchan" id="49305"><l pos="A">стружитчан</l>
+       <l_var type="molodtsov-cyr">стружіччан</l_var>
+     <compg drv="V:Suf»Prc" type="Der">
+       <comp ms="V" ord="E1" pos="V"></comp>
+       <comp ord="E2" pos="Suf" type="Der/Ан"></comp> </compg>
+   </lg>
+   <mg>
+     <tg xml:lang="rus">
+       <t pos="A">строгальный</t>
+     </tg>
+     <xg>
+       <x>стружитчан станок</x>
+       <xt xml:lang="rus">строгальный станок</xt>
+     </xg>
+   </mg>
+</e>
+<e>
+   <lg t1="С" t2="У" t3="К" uri="49574-suklyasyan" id="49574"><l pos="A">суклясян</l>
+       <l_var type="molodtsov-cyr">сукԉаԍан</l_var>
+     <compg drv="V:Suf»Prc" type="Der">
+       <comp ms="V" ord="E1" pos="V"></comp>
+       <comp ord="E2" pos="Suf" type="Der/Ан"></comp> </compg>
+   </lg>
+   <mg>
+     <tg xml:lang="rus">
+       <t pos="A">клеветнический</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg t1="С" t2="У" t3="Л" uri="49599-sulalan" id="49599"><l pos="A">сулалан</l>
+       <l_var type="molodtsov-cyr">сулалан</l_var>
+     <compg drv="V:Suf»Prc" type="Der">
+       <comp ms="V" ord="E1" pos="V"></comp>
+       <comp ord="E2" pos="Suf" type="Der/Ан"></comp> </compg>
+   </lg>
+   <mg>
+     <tg xml:lang="rus">
+       <t pos="A">стоящий, стоячий</t>
+     </tg>
+     <xg>
+       <x>сулалан ва</x>
+       <xt xml:lang="rus">стоячая вода</xt>
+     </xg>
+     <xg>
+       <x>сулалан вӧр</x>
+       <xt xml:lang="rus">стоящий на корню лес</xt>
+     </xg>
+     <xg>
+       <x>сулалан мӧс</x>
+       <xt xml:lang="rus">сухостойная, не доящаяся корова</xt>
+     </xg>
+     <xg>
+       <x>сулалан нянь</x>
+       <xt xml:lang="rus">а) не полёгший хлеб</xt>
+       <xt xml:lang="rus">б) неубранный хлеб</xt>
+     </xg><br />
+     <xg>
+       <x>сулалан мӧвп</x>
+       <xt xml:lang="rus">стоящая мысль</xt>
+     </xg>
+   </mg>
+</e>
+<e>
+   <lg t1="С" t2="І" t3="С" uri="47634-sis-man" id="47634"><l pos="A">сісьман</l>
+       <l_var type="molodtsov-cyr">сіԍман</l_var>
+     <compg drv="V:Suf»Prc" type="Der">
+       <comp ms="V" ord="E1" pos="V"></comp>
+       <comp ord="E2" pos="Suf" type="Der/Ан"></comp> </compg>
+   </lg>
+   <mg>
+     <tg xml:lang="rus">
+       <t pos="A">подверженный гниению</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg t1="Т" t2="И" t3="В" uri="51675-tivk-yalan" id="51675"><l pos="A">тивкъялан</l>
+       <l_var type="molodtsov-cyr">ԏівкјалан</l_var>
+     <compg drv="V:Suf»Prc" type="Der">
+       <comp ms="V" ord="E1" pos="V"></comp>
+       <comp ord="E2" pos="Suf" type="Der/Ан"></comp> </compg>
+   </lg>
+   <mg>
+     <tg xml:lang="rus">
+       <t pos="A">1. скользящий</t>
+     </tg>
+   </mg>
+   <mg>2.
+     <tg xml:lang="rus">
+       <t pos="A"><acronym title="в переносном значении"><em>перен.</em></acronym> летающий, порхающий</t>
+     </tg>
+   </mg>
+   <mg>3.
+     <tg xml:lang="rus">
+       <t pos="A">подпрыгивающий</t>
+     </tg>
+     <xg>
+       <x>тивкъялан ветлас</x>
+       <xt xml:lang="rus">подпрыгивающая походка</xt>
+     </xg>
+   </mg>
+</e>
+<e>
+   <lg t1="Т" t2="О" t3="Й" uri="52023-toijtm-dan" id="52023"><l pos="A">тойтмӧдан</l>
+       <l_var type="molodtsov-cyr">тојтмӧԁан</l_var>
+     <compg drv="V:Suf»Prc" type="Der">
+       <comp ms="V" ord="E1" pos="V"></comp>
+       <comp ord="E2" pos="Suf" type="Der/Ан"></comp> </compg>
+   </lg>
+   <mg>
+     <tg xml:lang="rus">
+       <t pos="A">изнуряющий, изнурительный; утомительный</t>
+     </tg>
+     <xg>
+       <x>тойтмӧдан удж</x>
+       <xt xml:lang="rus">изнурительная работа</xt>
+     </xg>
+   </mg>
+</e>
+<e>
+   <lg t1="Т" t2="О" t3="М" uri="52131-tommortalan" id="52131"><l pos="A">томморталан</l>
+       <l_var type="molodtsov-cyr">томморталан</l_var>
+     <compg drv="V:Suf»Prc" type="Der">
+       <comp ms="V" ord="E1" pos="V"></comp>
+       <comp ord="E2" pos="Suf" type="Der/Ан"></comp> </compg>
+   </lg>
+   <mg>
+     <tg xml:lang="rus">
+       <t pos="A">холостяцкий</t>
+     </tg><br />
+     <xg>
+       <x>томморталан паськӧм </x>
+       <xt><acronym title="в переносном значении"><em>перен.</em></acronym> праздничная одежда</xt>
+     </xg>
+   </mg>
+</e>
+<e>
+   <lg t1="Т" t2="Р" t3="А" uri="53177-trachkakylan" id="53177"><l pos="A">трачкакылан</l>
+       <l_var type="molodtsov-cyr">трачкакылан</l_var>
+     <compg drv="V:Suf»Prc" type="Der">
+       <comp ms="V" ord="E1" pos="V"></comp>
+       <comp ord="E2" pos="Suf" type="Der/Ан"></comp> </compg>
+   </lg>
+   <mg>
+     <tg xml:lang="rus">
+       <t pos="A"><span class="underline">смотри:</span> <xref link="трачкӧдчан"> трачкӧдчан</xref></t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg t1="Т" t2="У" t3="Б" uri="53481-tubyrtan" id="53481"><l pos="A">тубыртан</l>
+       <l_var type="molodtsov-cyr">тубыртан</l_var>
+     <compg drv="V:Suf»Prc" type="Der">
+       <comp ms="V" ord="E1" pos="V"></comp>
+       <comp ord="E2" pos="Suf" type="Der/Ан"></comp> </compg>
+   </lg>
+   <mg>
+     <tg xml:lang="rus">
+       <t pos="A">обёрточный</t>
+     </tg>
+     <xg>
+       <x>тубыртан бумага</x>
+       <xt xml:lang="rus">обёрточная бумага</xt>
+     </xg>
+   </mg>
+</e>
+<e>
+   <lg t1="Т" t2="У" t3="П" uri="53869-tuplyasyan" id="53869"><l pos="A">туплясян</l>
+       <l_var type="molodtsov-cyr">тупԉаԍан</l_var>
+     <compg drv="V:Suf»Prc" type="Der">
+       <comp ms="V" ord="E1" pos="V"></comp>
+       <comp ord="E2" pos="Suf" type="Der/Ан"></comp> </compg>
+   </lg>
+   <mg>
+     <tg xml:lang="rus">
+       <t pos="A">1. каткий <acronym title="областное слово, выражение"><em>обл.</em></acronym></t>
+     </tg>
+   </mg>
+   <mg>2.
+     <tg xml:lang="rus">
+       <t pos="A">валяющийся; лежачий</t>
+     </tg>
+     <xg>
+       <x>туплясян кӧлуй</x>
+       <xt xml:lang="rus">валяющиеся вещи</xt>
+     </xg>
+     <xg>
+       <x>морт кызь колины туплясян</x>
+       <xt xml:lang="rus">человек двадцать остались лежать</xt>
+     </xg>
+   </mg>
+   <mg>3.
+     <tg xml:lang="rus">
+       <t pos="A">легко превращающийся в ком <em>(о снеге)</em></t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg t1="Т" t2="У" t3="Р" uri="54035-turunasyan" id="54035"><l pos="A">турунасян</l>
+       <l_var type="molodtsov-cyr">турунаԍан</l_var>
+     <compg drv="V:Suf»Prc" type="Der">
+       <comp ms="V" ord="E1" pos="V"></comp>
+       <comp ord="E2" pos="Suf" type="Der/Ан"></comp> </compg>
+   </lg>
+   <mg>
+     <tg xml:lang="rus">
+       <t pos="A">сенокосный</t>
+     </tg>
+     <xg>
+       <x>турунасян кад</x>
+       <xt xml:lang="rus">сенокосная пора</xt>
+     </xg>
+     <xg>
+       <x>турунасян керка</x>
+       <xt xml:lang="rus">избушка на сенокосном участке</xt>
+     </xg>
+   </mg>
+</e>
+<e>
+   <lg t1="Т" t2="Ш" t3="Ы" uri="54684-tshyn-dan" id="54684"><l pos="A">тшынӧдан</l>
+       <l_var type="molodtsov-cyr">щынӧԁан</l_var>
+     <compg drv="V:Suf»Prc" type="Der">
+       <comp ms="V" ord="E1" pos="V"></comp>
+       <comp ord="E2" pos="Suf" type="Der/Ан"></comp> </compg>
+   </lg>
+   <mg>
+     <tg xml:lang="rus">
+       <t pos="A">дымящий</t>
+     </tg>
+     <xg>
+       <x>тшынӧдан пач</x>
+       <xt xml:lang="rus">дымящая печь</xt>
+     </xg>
+   </mg>
+</e>
+<e>
+   <lg t1="Т" t2="І" t3="Г" uri="51753-tigijysyan" id="51753"><l pos="A">тігйысян</l>
+       <l_var type="molodtsov-cyr">тігјыԍан</l_var>
+     <compg drv="V:Suf»Prc" type="Der">
+       <comp ms="V" ord="E1" pos="V"></comp>
+       <comp ord="E2" pos="Suf" type="Der/Ан"></comp> </compg>
+   </lg>
+   <mg>
+     <tg xml:lang="rus">
+       <t pos="A">1. бьющийся, колотящийся</t>
+     </tg>
+     <xg>
+       <x>тігйысян сьӧлӧмӧн</x>
+       <xt xml:lang="rus">с бьющимся сердцем</xt>
+     </xg>
+   </mg>
+   <mg>2.
+     <tg xml:lang="rus">
+       <t pos="A">шевелящийся, дёргающийся</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg t1="Т" t2="І" t3="Н" uri="51845-tin-sidzan" id="51845"><l pos="A">тіньсидзан</l>
+       <l_var type="molodtsov-cyr">тіԋԍіԇан</l_var>
+     <compg drv="V:Suf»Prc" type="Der">
+       <comp ms="V" ord="E1" pos="V"></comp>
+       <comp ord="E2" pos="Suf" type="Der/Ан"></comp> </compg>
+   </lg>
+   <mg>
+     <tg xml:lang="rus">
+       <t pos="A"></t>
+     </tg><br /><span class="underline">употребляется лишь в составе выражений:</span><br />
+     <xg>
+       <x>тіньсидзан чӧв</x>
+       <xt xml:lang="rus">звенящая тишина; мёртвая тишина</xt>
+     </xg>
+   </mg>
+</e>
+<e>
+   <lg t1="Т" t2="І" t3="П" uri="51849-tipiktan" id="51849"><l pos="A">тіпиктан</l>
+       <l_var type="molodtsov-cyr">тіпіктан</l_var>
+     <compg drv="V:Suf»Prc" type="Der">
+       <comp ms="V" ord="E1" pos="V"></comp>
+       <comp ord="E2" pos="Suf" type="Der/Ан"></comp> </compg>
+   </lg>
+   <mg>
+     <tg xml:lang="rus">
+       <t pos="A">бьющийся, стучащий <em>(о сердце, пульсе)</em></t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg t1="Т" t2="І" t3="Р" uri="51880-tirzyan" id="51880"><l pos="A">тірзян</l>
+       <l_var type="molodtsov-cyr">тірԅан</l_var>
+     <compg drv="V:Suf»Prc" type="Der">
+       <comp ms="V" ord="E1" pos="V"></comp>
+       <comp ord="E2" pos="Suf" type="Der/Ан"></comp> </compg>
+   </lg>
+   <mg>
+     <tg xml:lang="rus">
+       <t pos="A">1. дрожащий, трясущийся</t>
+     </tg>
+     <xg>
+       <x>тірзян висьӧм</x>
+       <xt xml:lang="rus">озноб, лихорадка</xt>
+     </xg>
+   </mg>
+   <mg>2.
+     <tg xml:lang="rus">
+       <t pos="A">колеблющийся</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg t1="Т" t2="Ӧ" t3="Б" uri="52564-t-ban" id="52564"><l pos="A">тӧбан</l>
+       <l_var type="molodtsov-cyr">тӧбан</l_var>
+     <compg drv="V:Suf»Prc" type="Der">
+       <comp ms="V" ord="E1" pos="V"></comp>
+       <comp ord="E2" pos="Suf" type="Der/Ан"></comp> </compg>
+   </lg>
+   <mg>
+     <tg xml:lang="rus">
+       <t pos="A">обёрточный</t>
+     </tg>
+     <xg>
+       <x>тӧбан кабала</x>
+       <xt xml:lang="rus">обёрточная бумага</xt>
+     </xg>
+   </mg>
+</e>
+<e>
+   <lg t1="Т" t2="Ӧ" t3="Г" uri="52662-t-g-dan" id="52662"><l pos="A">тӧгӧдан</l>
+       <l_var type="molodtsov-cyr">тӧгӧԁан</l_var>
+     <compg drv="V:Suf»Prc" type="Der">
+       <comp ms="V" ord="E1" pos="V"></comp>
+       <comp ord="E2" pos="Suf" type="Der/Ан"></comp> </compg>
+   </lg>
+   <mg>
+     <tg xml:lang="rus">
+       <t pos="A">волнующий, возбуждающий</t>
+     </tg>
+     <xg>
+       <x>тӧгӧдан пӧсь</x>
+       <xt xml:lang="rus">волнующий жар</xt>
+     </xg>
+   </mg>
+</e>
+<e>
+   <lg t1="Т" t2="Ӧ" t3="Р" uri="53028-t-r-schitan" id="53028"><l pos="A">тӧрӧщитан</l>
+       <l_var type="molodtsov-cyr">тӧрӧшшітан</l_var>
+     <compg drv="V:Suf»Prc" type="Der">
+       <comp ms="V" ord="E1" pos="V"></comp>
+       <comp ord="E2" pos="Suf" type="Der/Ан"></comp> </compg>
+   </lg>
+   <mg>
+     <tg xml:lang="rus">
+       <t pos="A">ноющий</t>
+     </tg>
+     <xg>
+       <x>тӧрӧщитан дой</x>
+       <xt xml:lang="rus">ноющая рана</xt>
+     </xg>
+   </mg>
+</e>
+<e>
+   <lg t1="У" t2="В" t3="Т" uri="55581-uvtchan" id="55581"><l pos="A">увтчан</l>
+       <l_var type="molodtsov-cyr">увччан</l_var>
+     <compg drv="V:Suf»Prc" type="Der">
+       <comp ms="V" ord="E1" pos="V"></comp>
+       <comp ord="E2" pos="Suf" type="Der/Ан"></comp> </compg>
+   </lg>
+   <mg>
+     <tg xml:lang="rus">
+       <t pos="A">лающий</t>
+     </tg><br />
+     <xg>
+       <x>◊ увтчан понлӧн увтчӧмыс и олӧмыс </x>
+       <xt><acronym title="поговорка"><em>погов.</em></acronym> у собаки-пустолайки вся жизнь – лай </xt><com>(<acronym title="соответствует"><em>соотв.</em></acronym> собака лает, ветер носит)</com>
+     </xg>
+   </mg>
+</e>
+<e>
+   <lg t1="У" t2="Д" t3="Ж" uri="55676-udzhalan" id="55676"><l pos="A">уджалан</l>
+       <l_var type="molodtsov-cyr">уҗалан</l_var>
+     <compg drv="V:Suf»Prc" type="Der">
+       <comp ms="V" ord="E1" pos="V"></comp>
+       <comp ord="E2" pos="Suf" type="Der/Ан"></comp> </compg>
+   </lg>
+   <mg>
+     <tg xml:lang="rus">
+       <t pos="A">1. рабочий</t>
+     </tg>
+     <xg>
+       <x>видз-му уджалан машинаяс</x>
+       <xt xml:lang="rus">земледельческие машины</xt>
+     </xg>
+     <xg>
+       <x>уджалан кад</x>
+       <xt xml:lang="rus">рабочее время</xt>
+     </xg>
+     <xg>
+       <x>уджалан кӧлуй</x>
+       <xt xml:lang="rus">рабочая одежда</xt>
+     </xg>
+     <xg>
+       <x>уджалан места</x>
+       <xt xml:lang="rus">рабочее место</xt>
+     </xg>
+   </mg>
+   <mg>2.
+     <tg xml:lang="rus">
+       <t pos="A">трудовой</t>
+     </tg>
+     <xg>
+       <x>уджалан войтыр</x>
+       <xt xml:lang="rus">трудовой народ</xt>
+     </xg>
+     <xg>
+       <x>уджалан вояс</x>
+       <xt xml:lang="rus">трудовые годы</xt>
+     </xg>
+     <xg>
+       <x>уджалан стаж</x>
+       <xt xml:lang="rus">трудовой стаж</xt>
+     </xg>
+     <xg>
+       <x>◊ уджалан ёрт</x>
+       <xt xml:lang="rus">коллега</xt>
+     </xg>
+   </mg>
+   <mg>3.
+     <tg xml:lang="rus">
+       <t pos="A">производственный</t>
+     </tg>
+     <xg>
+       <x>уджалан эмбур</x>
+       <xt xml:lang="rus">средства производства</xt>
+     </xg>
+   </mg>
+</e>
+<e>
+   <lg t1="У" t2="З" t3="Ь" uri="55844-uz-t-dan" id="55844"><l pos="A">узьтӧдан</l>
+       <l_var type="molodtsov-cyr">уԅтӧԁан</l_var>
+     <compg drv="V:Suf»Prc" type="Der">
+       <comp ms="V" ord="E1" pos="V"></comp>
+       <comp ord="E2" pos="Suf" type="Der/Ан"></comp> </compg>
+   </lg>
+   <mg>
+     <tg xml:lang="rus">
+       <t pos="A">сонный, снотворный</t>
+     </tg>
+     <xg>
+       <x>узьтӧдан зелля</x>
+       <xt xml:lang="rus">сонное лекарство</xt>
+     </xg>
+     <xg>
+       <x>узьтӧдан юантор</x>
+       <xt xml:lang="rus">сонный напиток</xt>
+     </xg>
+   </mg>
+</e>
+<e>
+   <lg t1="У" t2="Л" t3="Я" uri="56104-ulyalan" id="56104"><l pos="A">улялан</l>
+       <l_var type="molodtsov-cyr">уԉалан</l_var>
+     <compg drv="V:Suf»Prc" type="Der">
+       <comp ms="V" ord="E1" pos="V"></comp>
+       <comp ord="E2" pos="Suf" type="Der/Ан"></comp> </compg>
+   </lg>
+   <mg>
+     <tg xml:lang="rus">
+       <t pos="A">1. оттепельный</t>
+     </tg>
+     <xg>
+       <x>улялан лун</x>
+       <xt xml:lang="rus">оттепельный день</xt>
+     </xg>
+   </mg>
+   <mg>2.
+     <tg xml:lang="rus">
+       <t pos="A">сочащийся</t>
+     </tg>
+     <xg>
+       <x>улялан дой</x>
+       <xt xml:lang="rus">сочащаяся рана</xt>
+     </xg>
+   </mg>
+</e>
+<e>
+   <lg t1="Ч" t2="А" t3="Ж" uri="56918-chazhakylan" id="56918"><l pos="A">чажакылан</l>
+       <l_var type="molodtsov-cyr">чажакылан</l_var>
+     <compg drv="V:Suf»Prc" type="Der">
+       <comp ms="V" ord="E1" pos="V"></comp>
+       <comp ord="E2" pos="Suf" type="Der/Ан"></comp> </compg>
+   </lg>
+   <mg>
+     <tg xml:lang="rus">
+       <t pos="A">хрустящий, трескучий; скрипучий</t>
+     </tg>
+     <xg>
+       <x>чажакылан увъяс</x>
+       <xt xml:lang="rus">хрустящие ветки</xt>
+     </xg>
+     <xg>
+       <x>чажакылан турун</x>
+       <xt xml:lang="rus">хрустящее сено</xt>
+     </xg>
+     <xg>
+       <x>чажакылан тусяпу</x>
+       <xt xml:lang="rus">трескучий можжевельник</xt>
+     </xg>
+   </mg>
+</e>
+<e>
+   <lg t1="Ч" t2="А" t3="З" uri="56963-chaz-dan" id="56963"><l pos="A">чазӧдан</l>
+       <l_var type="molodtsov-cyr">чазӧԁан</l_var>
+     <compg drv="V:Suf»Prc" type="Der">
+       <comp ms="V" ord="E1" pos="V"></comp>
+       <comp ord="E2" pos="Suf" type="Der/Ан"></comp> </compg>
+   </lg>
+   <mg>
+     <tg xml:lang="rus">
+       <t pos="A">щекочущий, щиплющий</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg t1="Ч" t2="А" t3="Ш" uri="57262-chashvartan" id="57262"><l pos="A">чашвартан</l>
+       <l_var type="molodtsov-cyr">чашвартан</l_var>
+     <compg drv="V:Suf»Prc" type="Der">
+       <comp ms="V" ord="E1" pos="V"></comp>
+       <comp ord="E2" pos="Suf" type="Der/Ан"></comp> </compg>
+   </lg>
+   <mg>
+     <tg xml:lang="rus">
+       <t pos="A">разрывной</t>
+     </tg>
+     <xg>
+       <x>чашвартан пуля</x>
+       <xt xml:lang="rus">разрывная пуля</xt>
+     </xg>
+   </mg>
+</e>
+<e>
+   <lg t1="Ч" t2="А" t3="Я" uri="57333-chayasyan" id="57333"><l pos="A">чаясян</l>
+       <l_var type="molodtsov-cyr">чајаԍан</l_var>
+     <compg drv="V:Suf»Prc" type="Der">
+       <comp ms="V" ord="E1" pos="V"></comp>
+       <comp ord="E2" pos="Suf" type="Der/Ан"></comp> </compg>
+   </lg>
+   <mg>
+     <tg xml:lang="rus">
+       <t pos="A">чайный</t>
+     </tg>
+     <xg>
+       <x>чаясян кӧлуй</x>
+       <xt xml:lang="rus">чайный прибор</xt>
+     </xg>
+   </mg>
+</e>
+<e>
+   <lg t1="Ч" t2="Е" t3="Ж" uri="57372-chezhm-dlan" id="57372"><l pos="A">чежмӧдлан</l>
+       <l_var type="molodtsov-cyr">чежмӧԁлан</l_var>
+     <compg drv="V:Suf»Prc" type="Der">
+       <comp ms="V" ord="E1" pos="V"></comp>
+       <comp ord="E2" pos="Suf" type="Der/Ан"></comp> </compg>
+   </lg>
+   <mg>
+     <tg xml:lang="rus">
+       <t pos="A">влекущий</t>
+     </tg>
+     <xg>
+       <x>чежмӧдлан гусятор</x>
+       <xt xml:lang="rus">влекущая тайна</xt>
+     </xg>
+   </mg>
+</e>
+<e>
+   <lg t1="Ч" t2="Е" t3="Ч" uri="57681-chechchalan" id="57681"><l pos="A">чеччалан</l>
+       <l_var type="molodtsov-cyr">чеччалан</l_var>
+     <compg drv="V:Suf»Prc" type="Der">
+       <comp ms="V" ord="E1" pos="V"></comp>
+       <comp ord="E2" pos="Suf" type="Der/Ан"></comp> </compg>
+   </lg>
+   <mg>
+     <tg xml:lang="rus">
+       <t pos="A">предназначенный, служащий для прыганья, скакания</t>
+     </tg>
+     <xg>
+       <x>чеччалан пӧв</x>
+       <xt xml:lang="rus">доска для прыганья</xt>
+     </xg>
+   </mg>
+</e>
+<e>
+   <lg t1="Ч" t2="Е" t3="Ч" uri="57686-chechchan" id="57686"><l pos="A">чеччан</l>
+       <l_var type="molodtsov-cyr">чеччан</l_var>
+     <compg drv="V:Suf»Prc" type="Der">
+       <comp ms="V" ord="E1" pos="V"></comp>
+       <comp ord="E2" pos="Suf" type="Der/Ан"></comp> </compg>
+   </lg>
+   <mg>
+     <tg xml:lang="rus">
+       <t pos="A"></t>
+     </tg><br /><span class="underline">употребляется лишь в составе выражений:</span><br /><stress>&#160;&#160;&#160;чеччан кад</stress> <span class="underline">смотри:</span> <xref link="чеччандыр"> чеччандыр</xref><br />
+     <xg>
+       <x>синмӧ чеччан</x>
+       <xt xml:lang="rus">бросающийся в глаза</xt>
+     </xg>
+   </mg>
+</e>
+<e>
+   <lg t1="Ч" t2="И" t3="К" uri="57878-chiktylan" id="57878"><l pos="A">чиктылан</l>
+       <l_var type="molodtsov-cyr">чіктылан</l_var>
+     <compg drv="V:Suf»Prc" type="Der">
+       <comp ms="V" ord="E1" pos="V"></comp>
+       <comp ord="E2" pos="Suf" type="Der/Ан"></comp> </compg>
+   </lg>
+   <mg>
+     <tg xml:lang="rus">
+       <t pos="A">восторженный; радостный</t>
+     </tg>
+     <xg>
+       <x>чиктылан видзӧдлас</x>
+       <xt xml:lang="rus">восторженный взгляд</xt>
+     </xg>
+     <xg>
+       <x>чиктылан нюм</x>
+       <xt xml:lang="rus">радостная улыбка</xt>
+     </xg>
+   </mg>
+</e>
+<e>
+   <lg t1="Ч" t2="И" t3="Н" uri="57982-chinan" id="57982"><l pos="A">чинан</l>
+       <l_var type="molodtsov-cyr">чінан</l_var>
+     <compg drv="V:Suf»Prc" type="Der">
+       <comp ms="V" ord="E1" pos="V"></comp>
+       <comp ord="E2" pos="Suf" type="Der/Ан"></comp> </compg>
+   </lg>
+   <mg>
+     <tg xml:lang="rus">
+       <t pos="A">нисходящий; убывающий</t>
+     </tg>
+     <xg>
+       <x>чинан тӧлысь</x>
+       <xt xml:lang="rus">убывающая луна</xt>
+     </xg>
+   </mg>
+</e>
+<e>
+   <lg t1="Ч" t2="И" t3="Р" uri="58088-chirzan" id="58088"><l pos="A">чирзан</l>
+       <l_var type="molodtsov-cyr">чірзан</l_var>
+     <compg drv="V:Suf»Prc" type="Der">
+       <comp ms="V" ord="E1" pos="V"></comp>
+       <comp ord="E2" pos="Suf" type="Der/Ан"></comp> </compg>
+   </lg>
+   <mg>
+     <tg xml:lang="rus">
+       <t pos="A">визгливый, пискливый</t>
+     </tg>
+     <xg>
+       <x>чирзан гӧлӧс</x>
+       <xt xml:lang="rus">визгливый голос</xt>
+     </xg>
+   </mg>
+</e>
+<e>
+   <lg t1="Ч" t2="И" t3="Ш" uri="58282-chishkalan" id="58282"><l pos="A">чишкалан</l>
+       <l_var type="molodtsov-cyr">чішкалан</l_var>
+     <compg drv="V:Suf»Prc" type="Der">
+       <comp ms="V" ord="E1" pos="V"></comp>
+       <comp ord="E2" pos="Suf" type="Der/Ан"></comp> </compg>
+   </lg>
+   <mg>
+     <tg xml:lang="rus">
+       <t pos="A">жгучий</t>
+     </tg>
+     <xg>
+       <x>чишкалан кӧдзыд</x>
+       <xt xml:lang="rus">жгучий мороз</xt>
+     </xg>
+     <xg>
+       <x>чишкалан шонді югӧръяс</x>
+       <xt xml:lang="rus">жгучие лучи солнца</xt>
+     </xg>
+   </mg>
+</e>
+<e>
+   <lg t1="Ч" t2="У" t3="К" uri="59084-chuk-yalan" id="59084"><l pos="A">чукъялан</l>
+       <l_var type="molodtsov-cyr">чукјалан</l_var>
+     <compg drv="V:Suf»Prc" type="Der">
+       <comp ms="V" ord="E1" pos="V"></comp>
+       <comp ord="E2" pos="Suf" type="Der/Ан"></comp> </compg>
+   </lg>
+   <mg>
+     <tg xml:lang="rus">
+       <t pos="A">возвышающийся</t>
+     </tg>
+     <xg>
+       <x>водзын лӧзалісны лымъя чукъялан мылькъяс</x>
+       <xt xml:lang="rus">впереди синели возвышающиеся снежные холмы</xt>
+     </xg>
+   </mg>
+</e>
+<e>
+   <lg t1="Ч" t2="У" t3="С" uri="59370-chusalan" id="59370"><l pos="A">чусалан</l>
+       <l_var type="molodtsov-cyr">чусалан</l_var>
+     <compg drv="V:Suf»Prc" type="Der">
+       <comp ms="V" ord="E1" pos="V"></comp>
+       <comp ord="E2" pos="Suf" type="Der/Ан"></comp> </compg>
+   </lg>
+   <mg>
+     <tg xml:lang="rus">
+       <t pos="A">едва тлеющий; еле виднеющийся</t>
+     </tg>
+     <xg>
+       <x>чусалан ӧгыр</x>
+       <xt xml:lang="rus">тлеющие угли</xt>
+     </xg>
+     <xg>
+       <x>чусалан пес</x>
+       <xt xml:lang="rus">тлеющие дрова</xt>
+     </xg>
+   </mg>
+</e>
+<e>
+   <lg t1="Ч" t2="У" t3="Ш" uri="59471-chushkan" id="59471">
+     <l hid="Hom2">чушкан</l>
+       <l_var type="molodtsov-cyr">чушкан</l_var>
+     <compg drv="V:Suf»Prc" type="Der">
+       <comp ms="V" ord="E1" pos="V"></comp>
+       <comp ord="E2" pos="Suf" type="Der/Ан"></comp> </compg>
+   </lg>
+   <mg>
+     <tg xml:lang="rus">
+       <t pos="A">нюхательный</t>
+     </tg>
+     <xg>
+       <x>чушкан доз</x>
+       <xt xml:lang="rus">табакерка</xt>
+     </xg>
+     <xg>
+       <x>чушкан табак</x>
+       <xt xml:lang="rus">нюхательный табак</xt>
+     </xg>
+   </mg>
+</e>
+<e>
+   <lg t1="Ч" t2="Ы" t3="Ш" uri="59520-chyshkan" id="59520"><l pos="A">чышкан</l>
+       <l_var type="molodtsov-cyr">чышкан</l_var>
+     <compg drv="V:Suf»Prc" type="Der">
+       <comp ms="V" ord="E1" pos="V"></comp>
+       <comp ord="E2" pos="Suf" type="Der/Ан"></comp> </compg>
+   </lg>
+   <mg>
+     <tg xml:lang="rus">
+       <t pos="A">служащий для вытирания, подметания</t>
+     </tg>
+     <xg>
+       <x>джодж чышкан корӧсь</x>
+       <xt xml:lang="rus">веник для подметания пола</xt>
+     </xg>
+     <xg>
+       <x>кок чышкан рос</x>
+       <xt xml:lang="rus">голик для вытирания ног</xt>
+     </xg>
+   </mg>
+</e>
+<e>
+   <lg t1="Ч" t2="Ы" t3="Ш" uri="59522-chyshkasyan" id="59522"><l pos="A">чышкасян</l>
+       <l_var type="molodtsov-cyr">чышкаԍан</l_var>
+     <compg drv="V:Suf»Prc" type="Der">
+       <comp ms="V" ord="E1" pos="V"></comp>
+       <comp ord="E2" pos="Suf" type="Der/Ан"></comp> </compg>
+   </lg>
+   <mg>
+     <tg xml:lang="rus">
+       <t pos="A">обтирочный, протирочный</t>
+     </tg>
+     <xg>
+       <x>чышкасян бумага</x>
+       <xt xml:lang="rus">туалетная бумага</xt>
+     </xg>
+     <xg>
+       <x>чышкасян рот</x>
+       <xt xml:lang="rus">обтирочная тряпка</xt>
+     </xg>
+   </mg>
+</e>
+<e>
+   <lg t1="Ш" t2="А" t3="В" uri="59604-shav-yalan" id="59604"><l pos="A">шавъялан</l>
+       <l_var type="molodtsov-cyr">шавјалан</l_var>
+     <compg drv="V:Suf»Prc" type="Der">
+       <comp ms="V" ord="E1" pos="V"></comp>
+       <comp ord="E2" pos="Suf" type="Der/Ан"></comp> </compg>
+   </lg>
+   <mg>
+     <tg xml:lang="rus">
+       <t pos="A">рассыпчатый; рассыпающийся</t>
+     </tg>
+     <xg>
+       <x>шавъялан лым</x>
+       <xt xml:lang="rus">рассыпчатый снег</xt>
+     </xg>
+     <xg>
+       <x>шавъялан лыа кодь</x>
+       <xt xml:lang="rus">как рассыпчатый песок</xt>
+     </xg>
+     <xg>
+       <x>шавъялан юрсиа ныв</x>
+       <xt xml:lang="rus">девушка с рассыпающимися волосами</xt>
+     </xg>
+   </mg>
+</e>
+<e>
+   <lg t1="Ш" t2="А" t3="Н" uri="59720-shan-m-dan" id="59720"><l pos="A">шаньмӧдан</l>
+       <l_var type="molodtsov-cyr">шаԋмӧԁан</l_var>
+     <compg drv="V:Suf»Prc" type="Der">
+       <comp ms="V" ord="E1" pos="V"></comp>
+       <comp ord="E2" pos="Suf" type="Der/Ан"></comp> </compg>
+   </lg>
+   <mg>
+     <tg xml:lang="rus">
+       <t pos="A">успокаивающий; расслабляющий</t>
+     </tg>
+     <xg>
+       <x>залын кыліс небыдик, шаньмӧдан музыка</x>
+       <xt xml:lang="rus">в зале звучала тихая, успокаивающая музыка</xt>
+     </xg>
+   </mg>
+</e>
+<e>
+   <lg t1="Ш" t2="А" t3="Т" uri="59902-shatlasyan" id="59902"><l pos="A">шатласян</l>
+       <l_var type="molodtsov-cyr">шатлаԍан</l_var>
+     <compg drv="V:Suf»Prc" type="Der">
+       <comp ms="V" ord="E1" pos="V"></comp>
+       <comp ord="E2" pos="Suf" type="Der/Ан"></comp> </compg>
+   </lg>
+   <mg>
+     <tg xml:lang="rus">
+       <t pos="A">нетвёрдый</t>
+     </tg>
+     <xg>
+       <x>шатласян восьлас</x>
+       <xt xml:lang="rus">нетвёрдая походка</xt>
+     </xg>
+   </mg>
+</e>
+<e>
+   <lg t1="Ш" t2="В" t3="А" uri="59977-shvachkakylan" id="59977"><l pos="A">швачкакылан</l>
+       <l_var type="molodtsov-cyr">швачкакылан</l_var>
+     <compg drv="V:Suf»Prc" type="Der">
+       <comp ms="V" ord="E1" pos="V"></comp>
+       <comp ord="E2" pos="Suf" type="Der/Ан"></comp> </compg>
+   </lg>
+   <mg>
+     <tg xml:lang="rus">
+       <t pos="A">трескучий</t>
+     </tg>
+     <xg>
+       <x>швачкакылан кӧдзыд</x>
+       <xt xml:lang="rus">трескучий мороз</xt>
+     </xg>
+   </mg>
+</e>
+<e>
+   <lg t1="Ш" t2="Е" t3="Н" uri="60289-shenz-dan" id="60289"><l pos="A">шензьӧдан</l>
+       <l_var type="molodtsov-cyr">шенԅӧԁан</l_var>
+     <compg drv="V:Suf»Prc" type="Der">
+       <comp ms="V" ord="E1" pos="V"></comp>
+       <comp ord="E2" pos="Suf" type="Der/Ан"></comp> </compg>
+   </lg>
+   <mg>
+     <tg xml:lang="rus">
+       <t pos="A">удивительный, изумительный, замечательный</t>
+     </tg>
+     <xg>
+       <x>шензьӧдан выльторъяс</x>
+       <xt xml:lang="rus">удивительные новости</xt>
+     </xg>
+     <xg>
+       <x>шензьӧдан паськӧм</x>
+       <xt xml:lang="rus">изумительная одежда</xt>
+     </xg>
+     <xg>
+       <x>сёрнитны Печӧра юлӧн шензьӧдан мичлун йылысь</x>
+       <xt xml:lang="rus">говорить об изумительной красоте реки Печоры</xt>
+     </xg>
+   </mg>
+</e>
+<e>
+   <lg t1="Ш" t2="Л" t3="Ю" uri="60860-shlyupkakylan" id="60860"><l pos="A">шлюпкакылан</l>
+       <l_var type="molodtsov-cyr">шԉупкакылан</l_var>
+     <compg drv="V:Suf»Prc" type="Der">
+       <comp ms="V" ord="E1" pos="V"></comp>
+       <comp ord="E2" pos="Suf" type="Der/Ан"></comp> </compg>
+   </lg>
+   <mg>
+     <tg xml:lang="rus">
+       <t pos="A">хлюпающий</t>
+     </tg>
+     <xg>
+       <x>шлюпкакылан няйт</x>
+       <xt xml:lang="rus">хлюпающая грязь</xt>
+     </xg>
+   </mg>
+</e>
+<e>
+   <lg t1="Ш" t2="Л" t3="Ё" uri="60655-shlyoch-dchan" id="60655"><l pos="A">шлёчӧдчан</l>
+       <l_var type="molodtsov-cyr">шԉочӧччан</l_var>
+     <compg drv="V:Suf»Prc" type="Der">
+       <comp ms="V" ord="E1" pos="V"></comp>
+       <comp ord="E2" pos="Suf" type="Der/Ан"></comp> </compg>
+   </lg>
+   <mg>
+     <tg xml:lang="rus">
+       <t pos="A">шлёпающий</t>
+     </tg>
+     <xg>
+       <x>шлёчӧдчан шыяс</x>
+       <xt xml:lang="rus">шлёпающие звуки</xt>
+     </xg>
+   </mg>
+</e>
+<e>
+   <lg t1="Ш" t2="М" t3="У" uri="61032-shmutkakylan" id="61032"><l pos="A">шмуткакылан</l>
+       <l_var type="molodtsov-cyr">шмуткакылан</l_var>
+     <compg drv="V:Suf»Prc" type="Der">
+       <comp ms="V" ord="E1" pos="V"></comp>
+       <comp ord="E2" pos="Suf" type="Der/Ан"></comp> </compg>
+   </lg>
+   <mg>
+     <tg xml:lang="rus">
+       <t pos="A"><span class="underline">смотри:</span> <xref link="шлюпкакылан"> шлюпкакылан</xref></t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg t1="Ш" t2="О" t3="Г" uri="61215-shogsyan" id="61215"><l pos="A">шогсян</l>
+       <l_var type="molodtsov-cyr">шогԍан</l_var>
+     <compg drv="V:Suf»Prc" type="Der">
+       <comp ms="V" ord="E1" pos="V"></comp>
+       <comp ord="E2" pos="Suf" type="Der/Ан"></comp> </compg>
+   </lg>
+   <mg>
+     <tg xml:lang="rus">
+       <t pos="A">печальный, грустный, тоскливый; невесёлый</t>
+     </tg>
+     <xg>
+       <x>шогсян синъяса</x>
+       <xt xml:lang="rus">с печальными глазами</xt>
+     </xg>
+     <xg>
+       <x>шогсян сьыланкыв</x>
+       <xt xml:lang="rus">грустная песня</xt>
+     </xg>
+   </mg>
+</e>
+<e>
+   <lg t1="Ш" t2="О" t3="Н" uri="61435-shontysyan" id="61435"><l pos="A">шонтысян</l>
+       <l_var type="molodtsov-cyr">шонтыԍан</l_var>
+     <compg drv="V:Suf»Prc" type="Der">
+       <comp ms="V" ord="E1" pos="V"></comp>
+       <comp ord="E2" pos="Suf" type="Der/Ан"></comp> </compg>
+   </lg>
+   <mg>
+     <tg xml:lang="rus">
+       <t pos="A">1. согревательный</t>
+     </tg>
+     <xg>
+       <x>шонтысян доз</x>
+       <xt xml:lang="rus">согревательный прибор</xt>
+     </xg>
+   </mg>
+   <mg>2.
+     <tg xml:lang="rus">
+       <t pos="A">согревающее питьё <em>(о спиртном)</em></t>
+     </tg>
+     <xg>
+       <x>шонтысянла ветлыны</x>
+       <xt xml:lang="rus">сходить за спиртным</xt>
+     </xg>
+   </mg>
+</e>
+<e>
+   <lg t1="Ш" t2="П" t3="Ы" uri="61814-shpynnyalan" id="61814"><l pos="A">шпыннялан</l>
+       <l_var type="molodtsov-cyr">шпыԋԋалан</l_var>
+     <compg drv="V:Suf»Prc" type="Der">
+       <comp ms="V" ord="E1" pos="V"></comp>
+       <comp ord="E2" pos="Suf" type="Der/Ан"></comp> </compg>
+   </lg>
+   <mg>
+     <tg xml:lang="rus">
+       <t pos="A">улыбающийся; ухмыляющийся</t>
+     </tg>
+     <xg>
+       <x>видзӧдліс миян шпыннялан чужӧмъяс вылӧ</x>
+       <xt xml:lang="rus">посмотрел на наши улыбающиеся лица</xt>
+     </xg>
+   </mg>
+</e>
+<e>
+   <lg t1="Ш" t2="У" t3="Б" uri="61930-shubyrtan" id="61930"><l pos="A">шубыртан</l>
+       <l_var type="molodtsov-cyr">шубыртан</l_var>
+     <compg drv="V:Suf»Prc" type="Der">
+       <comp ms="V" ord="E1" pos="V"></comp>
+       <comp ord="E2" pos="Suf" type="Der/Ан"></comp> </compg>
+   </lg>
+   <mg>
+     <tg xml:lang="rus">
+       <t pos="A">накидной</t>
+     </tg>
+     <xg>
+       <x>шубыртан пась</x>
+       <xt xml:lang="rus">накидная шуба</xt>
+     </xg>
+   </mg>
+</e>
+<e>
+   <lg t1="Ш" t2="У" t3="З" uri="62005-shuzyan" id="62005"><l pos="A">шузян</l>
+       <l_var type="molodtsov-cyr">шуԅан</l_var>
+     <compg drv="V:Suf»Prc" type="Der">
+       <comp ms="V" ord="E1" pos="V"></comp>
+       <comp ord="E2" pos="Suf" type="Der/Ан"></comp> </compg>
+   </lg>
+   <mg>
+     <tg xml:lang="rus">
+       <t pos="A">скисающий</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg t1="Ш" t2="Ы" t3="Б" uri="62394-shyblalan" id="62394"><l pos="A">шыблалан</l>
+       <l_var type="molodtsov-cyr">шыблалан</l_var>
+     <compg drv="V:Suf»Prc" type="Der">
+       <comp ms="V" ord="E1" pos="V"></comp>
+       <comp ord="E2" pos="Suf" type="Der/Ан"></comp> </compg>
+   </lg>
+   <mg>
+     <tg xml:lang="rus">
+       <t pos="A"></t>
+     </tg><br /><span class="underline">употребляется лишь в составе выражений:</span><br />
+     <xg>
+       <x>шыблалан висьӧм</x>
+       <xt xml:lang="rus">эпилепсия</xt>
+     </xg>
+     <xg>
+       <x>из шыблалан</x>
+       <xt xml:lang="rus">камнемёт</xt>
+     </xg>
+   </mg>
+</e>
+<e>
+   <lg t1="Ш" t2="Ы" t3="Л" uri="62513-shyl-kvidzan" id="62513"><l pos="A">шыльквидзан</l>
+       <l_var type="molodtsov-cyr">шыԉквіԇан</l_var>
+     <compg drv="V:Suf»Prc" type="Der">
+       <comp ms="V" ord="E1" pos="V"></comp>
+       <comp ord="E2" pos="Suf" type="Der/Ан"></comp> </compg>
+   </lg>
+   <mg>
+     <tg xml:lang="rus">
+       <t pos="A">гладкий, ровный; раскинувшийся на ровном пространстве</t>
+     </tg>
+     <xg>
+       <x>шыльквидзан му</x>
+       <xt xml:lang="rus">ровная земля</xt>
+     </xg>
+     <xg>
+       <x>шыльквидзан пемыд нюр</x>
+       <xt xml:lang="rus">ровное тёмное болото</xt>
+     </xg>
+     <xg>
+       <x>шыльквидзан лымъя эрд</x>
+       <xt xml:lang="rus">гладкая снежная равнина</xt>
+     </xg>
+   </mg>
+</e>
+<e>
+   <lg t1="Ш" t2="Ӧ" t3="Й" uri="61499-sh-ij-voshan" id="61499"><l pos="A">шӧйӧвошан</l>
+       <l_var type="molodtsov-cyr">шӧјӧвошан</l_var>
+     <compg drv="V:Suf»Prc" type="Der">
+       <comp ms="V" ord="E1" pos="V"></comp>
+       <comp ord="E2" pos="Suf" type="Der/Ан"></comp> </compg>
+   </lg>
+   <mg>
+     <tg xml:lang="rus">
+       <t pos="A">панический</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg t1="Ш" t2="Ӧ" t3="Й" uri="61509-sh-ij-voshtan" id="61509"><l pos="A">шӧйӧвоштан</l>
+       <l_var type="molodtsov-cyr">шӧјӧвоштан</l_var>
+     <compg drv="V:Suf»Prc" type="Der">
+       <comp ms="V" ord="E1" pos="V"></comp>
+       <comp ord="E2" pos="Suf" type="Der/Ан"></comp> </compg>
+   </lg>
+   <mg>
+     <tg xml:lang="rus">
+       <t pos="A">ошеломляющий; загадочный</t>
+     </tg>
+     <xg>
+       <x>шӧйӧвоштан чӧвлун</x>
+       <xt xml:lang="rus">загадочная тишина</xt>
+     </xg>
+     <xg>
+       <x>шӧйӧвоштан юалӧм</x>
+       <xt xml:lang="rus">ошеломляющий вопрос</xt>
+     </xg>
+   </mg>
+</e>
+<e>
+   <lg t1="Ы" t2="Д" t3="Ж" uri="62845-ydzhd-dan" id="62845"><l pos="A">ыдждӧдан</l>
+       <l_var type="molodtsov-cyr">ыҗԁӧԁан</l_var>
+     <compg drv="V:Suf»Prc" type="Der">
+       <comp ms="V" ord="E1" pos="V"></comp>
+       <comp ord="E2" pos="Suf" type="Der/Ан"></comp> </compg>
+   </lg>
+   <mg>
+     <tg xml:lang="rus">
+       <t pos="A">увеличительный</t>
+     </tg>
+     <xg>
+       <x>ыдждӧдан стеклӧ</x>
+       <xt xml:lang="rus">увеличительное стекло; лупа</xt>
+     </xg>
+   </mg>
+</e>
+<e>
+   <lg t1="Ы" t2="З" t3="А" uri="62920-yzakylan" id="62920"><l pos="A">ызакылан</l>
+       <l_var type="molodtsov-cyr">ызакылан</l_var>
+     <compg drv="V:Suf»Prc" type="Der">
+       <comp ms="V" ord="E1" pos="V"></comp>
+       <comp ord="E2" pos="Suf" type="Der/Ан"></comp> </compg>
+   </lg>
+   <mg>
+     <tg xml:lang="rus">
+       <t pos="A">1. бурлящий, клокочущий</t>
+     </tg>
+     <xg>
+       <x>ызакылан ю</x>
+       <xt xml:lang="rus">бурлящая река</xt>
+     </xg>
+   </mg>
+   <mg>2.
+     <tg xml:lang="rus">
+       <t pos="A">шумящий; галдящий</t>
+     </tg>
+   </mg>
+   <mg>3.
+     <tg xml:lang="rus">
+       <t pos="A">болтающий</t>
+     </tg>
+   </mg>
+   <mg>4.
+     <tg xml:lang="rus">
+       <t pos="A">гудящий, жужжащий <em>(о насекомых)</em></t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg t1="Ы" t2="З" t3="З" uri="62951-yzzyan" id="62951"><l pos="A">ыззян</l>
+       <l_var type="molodtsov-cyr">ызԅан</l_var>
+     <compg drv="V:Suf»Prc" type="Der">
+       <comp ms="V" ord="E1" pos="V"></comp>
+       <comp ord="E2" pos="Suf" type="Der/Ан"></comp> </compg>
+   </lg>
+   <mg>
+     <tg xml:lang="rus">
+       <t pos="A">возбуждённый, взволнованный</t>
+     </tg>
+     <xg>
+       <x>ыззян сьӧлӧмӧн мунны</x>
+       <xt xml:lang="rus">пойти возбуждённым, в возбуждённом состоянии</xt>
+     </xg>
+   </mg>
+</e>
+<e>
+   <lg t1="Ы" t2="Л" t3="Ӧ" uri="63120-yl-salan" id="63120"><l pos="A">ылӧсалан</l>
+       <l_var type="molodtsov-cyr">ылӧсалан</l_var>
+     <compg drv="V:Suf»Prc" type="Der">
+       <comp ms="V" ord="E1" pos="V"></comp>
+       <comp ord="E2" pos="Suf" type="Der/Ан"></comp> </compg>
+   </lg>
+   <mg>
+     <tg xml:lang="rus">
+       <t pos="A">ориентировочный, предварительный, приблизительный</t>
+     </tg>
+     <xg>
+       <x>ылӧсалан лыдпасъяс</x>
+       <xt xml:lang="rus">ориентировочные цифры</xt>
+     </xg>
+   </mg>
+</e>
+<e>
+   <lg t1="Ы" t2="М" t3="Р" uri="63204-ymrasyan" id="63204"><l pos="A">ымрасян</l>
+       <l_var type="molodtsov-cyr">ымраԍан</l_var>
+     <compg drv="V:Suf»Prc" type="Der">
+       <comp ms="V" ord="E1" pos="V"></comp>
+       <comp ord="E2" pos="Suf" type="Der/Ан"></comp> </compg>
+   </lg>
+   <mg>
+     <tg xml:lang="rus">
+       <t pos="A">1. пахнущий</t>
+     </tg>
+   </mg>
+   <mg>2.
+     <tg xml:lang="rus">
+       <t pos="A">пылающий</t>
+     </tg>
+     <xg>
+       <x>ымрасян шонді сывдіс лым</x>
+       <xt xml:lang="rus">пылающее солнце растопило снег</xt>
+     </xg>
+   </mg>
+</e>
+<e>
+   <lg t1="Ы" t2="Р" t3="Г" uri="63262-yrgan" id="63262"><l pos="A">ырган</l>
+       <l_var type="molodtsov-cyr">ырган</l_var>
+     <compg drv="V:Suf»Prc" type="Der">
+       <comp ms="V" ord="E1" pos="V"></comp>
+       <comp ord="E2" pos="Suf" type="Der/Ан"></comp> </compg>
+   </lg>
+   <mg>
+     <tg xml:lang="rus">
+       <t pos="A">дующий; пронизывающий</t>
+     </tg>
+     <xg>
+       <x>ырган кӧдзыд</x>
+       <xt xml:lang="rus">пронизывающий холод</xt>
+     </xg>
+   </mg>
+</e>
+<e>
+   <lg t1="Ы" t2="Р" t3="З" uri="63285-yrzyan" id="63285"><l pos="A">ырзян</l>
+       <l_var type="molodtsov-cyr">ырԅан</l_var>
+     <compg drv="V:Suf»Prc" type="Der">
+       <comp ms="V" ord="E1" pos="V"></comp>
+       <comp ord="E2" pos="Suf" type="Der/Ан"></comp> </compg>
+   </lg>
+   <mg>
+     <tg xml:lang="rus">
+       <t pos="A">1. взволнованный</t>
+     </tg>
+   </mg>
+   <mg>2.
+     <tg xml:lang="rus">
+       <t pos="A">приподнятый</t>
+     </tg>
+     <xg>
+       <x>ырзян ру</x>
+       <xt xml:lang="rus">приподнятое настроение</xt>
+     </xg>
+   </mg>
+</e>
+<e>
+   <lg t1="Ы" t2="Р" t3="Н" uri="63353-yrnyalan" id="63353"><l pos="A">ырнялан</l>
+       <l_var type="molodtsov-cyr">ырԋалан</l_var>
+     <compg drv="V:Suf»Prc" type="Der">
+       <comp ms="V" ord="E1" pos="V"></comp>
+       <comp ord="E2" pos="Suf" type="Der/Ан"></comp> </compg>
+   </lg>
+   <mg>
+     <tg xml:lang="rus">
+       <t pos="A"><span class="underline">смотри:</span> <xref link="ыпъялан"> ыпъялан</xref></t>
+     </tg>
+     <xg>
+       <x>ырнялан кыа</x>
+       <xt xml:lang="rus">пылающая заря</xt>
+     </xg>
+     <xg>
+       <x>петіс пывсянысь ырнялан чужӧма</x>
+       <xt xml:lang="rus">он вышел из бани с красным лицом</xt>
+     </xg>
+   </mg>
+</e>
+<e>
+   <lg t1="Ы" t2="Р" t3="Ы" uri="63422-yryshtchan" id="63422"><l pos="A">ырыштчан</l>
+       <l_var type="molodtsov-cyr">ырышчан</l_var>
+     <compg drv="V:Suf»Prc" type="Der">
+       <comp ms="V" ord="E1" pos="V"></comp>
+       <comp ord="E2" pos="Suf" type="Der/Ан"></comp> </compg>
+   </lg>
+   <mg>
+     <tg xml:lang="rus">
+       <t pos="A">угрожающий</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg t1="Ы" t2="С" t3="Т" uri="63444-ystan" id="63444"><l pos="A">ыстан</l>
+       <l_var type="molodtsov-cyr">ыстан</l_var>
+     <compg drv="V:Suf»Prc" type="Der">
+       <comp ms="V" ord="E1" pos="V"></comp>
+       <comp ord="E2" pos="Suf" type="Der/Ан"></comp> </compg>
+   </lg>
+   <mg>
+     <tg xml:lang="rus">
+       <t pos="A">1. отправной, переправочный</t>
+     </tg>
+   </mg>
+   <mg>2.
+     <tg xml:lang="rus">
+       <t pos="A">отправленный</t>
+     </tg>
+     <xg>
+       <x>ыстан гижӧд</x>
+       <xt xml:lang="rus">отправленная записка</xt>
+     </xg>
+   </mg>
+</e>
+<e>
+   <lg t1="Ы" t2="С" t3="Т" uri="63472-ystysyan" id="63472"><l pos="A">ыстысян</l>
+       <l_var type="molodtsov-cyr">ыстыԍан</l_var>
+     <compg drv="V:Suf»Prc" type="Der">
+       <comp ms="V" ord="E1" pos="V"></comp>
+       <comp ord="E2" pos="Suf" type="Der/Ан"></comp> </compg>
+   </lg>
+   <mg>
+     <tg xml:lang="rus">
+       <t pos="A">побудительный</t>
+     </tg>
+     <xg>
+       <x>ыстысян помка</x>
+       <xt xml:lang="rus">побудительная причина</xt>
+     </xg>
+   </mg>
+</e>
+<e>
+   <lg t1="Ы" t2="Ш" t3="Т" uri="63609-ysht-dan" id="63609"><l pos="A">ыштӧдан</l>
+       <l_var type="molodtsov-cyr">ыштӧԁан</l_var>
+     <compg drv="V:Suf»Prc" type="Der">
+       <comp ms="V" ord="E1" pos="V"></comp>
+       <comp ord="E2" pos="Suf" type="Der/Ан"></comp> </compg>
+   </lg>
+   <mg>
+     <tg xml:lang="rus">
+       <t pos="A">соблазнительный, заманчивый</t>
+     </tg>
+     <xg>
+       <x>ыштӧдан вӧрса лӧнь</x>
+       <xt xml:lang="rus">заманчивая лесная тишь</xt>
+     </xg>
+   </mg>
+</e>
+<e>
+   <lg t1="Ы" t2="Ш" t3="Ӧ" uri="63592-ysh-dan" id="63592"><l pos="A">ышӧдан</l>
+       <l_var type="molodtsov-cyr">ышӧԁан</l_var>
+     <compg drv="V:Suf»Prc" type="Der">
+       <comp ms="V" ord="E1" pos="V"></comp>
+       <comp ord="E2" pos="Suf" type="Der/Ан"></comp> </compg>
+   </lg>
+   <mg>
+     <tg xml:lang="rus">
+       <t pos="A">поощрительный; вдохновляющий</t>
+     </tg>
+     <xg>
+       <x>серпасалысьлы ышӧдан премия</x>
+       <xt xml:lang="rus">поощрительная премия художнику</xt>
+     </xg>
+   </mg>
+</e>
+<e>
+   <lg t1="Э" t2="Ж" t3="С" uri="63726-ezhsyan" id="63726"><l pos="A">эжсян</l>
+       <l_var type="molodtsov-cyr">ежԍан</l_var>
+     <compg drv="V:Suf»Prc" type="Der">
+       <comp ms="V" ord="E1" pos="V"></comp>
+       <comp ord="E2" pos="Suf" type="Der/Ан"></comp> </compg>
+   </lg>
+   <mg>
+     <tg xml:lang="rus">
+       <t pos="A">обивочный, облицовочный</t>
+     </tg>
+     <xg>
+       <x>эжсян дӧра</x>
+       <xt xml:lang="rus">обивочная ткань</xt>
+     </xg>
+   </mg>
+</e>
+<e>
+   <lg t1="Э" t2="Л" t3="Я" uri="63833-elyasyan" id="63833"><l pos="A">элясян</l>
+       <l_var type="molodtsov-cyr">еԉаԍан</l_var>
+     <compg drv="V:Suf»Prc" type="Der">
+       <comp ms="V" ord="E1" pos="V"></comp>
+       <comp ord="E2" pos="Suf" type="Der/Ан"></comp> </compg>
+   </lg>
+   <mg>
+     <tg xml:lang="rus">
+       <t pos="A">жалобный</t>
+     </tg>
+     <xg>
+       <x>элясян небӧг</x>
+       <xt xml:lang="rus">жалобная книга; книга жалоб</xt>
+     </xg>
+   </mg>
+</e>
+<e>
+   <lg t1="Э" t2="Р" t3="С" uri="64022-ersvidzan" id="64022"><l pos="A">эрсвидзан</l>
+       <l_var type="molodtsov-cyr">ерсвіԇан</l_var>
+     <compg drv="V:Suf»Prc" type="Der">
+       <comp ms="V" ord="E1" pos="V"></comp>
+       <comp ord="E2" pos="Suf" type="Der/Ан"></comp> </compg>
+   </lg>
+   <mg>
+     <tg xml:lang="rus">
+       <t pos="A">раскрытый; обнажённый; зияющий</t>
+     </tg>
+     <xg>
+       <x>эрсвидзан дой</x>
+       <xt xml:lang="rus">зияющая рана</xt>
+     </xg>
+   </mg>
+</e>
+<e>
+   <lg t1="Ю" t2="А" t3="Л" uri="64346-yualan" id="64346"><l pos="A">юалан</l>
+       <l_var type="molodtsov-cyr">јуалан</l_var>
+     <compg drv="V:Suf»Prc" type="Der">
+       <comp ms="V" ord="E1" pos="V"></comp>
+       <comp ord="E2" pos="Suf" type="Der/Ан"></comp> </compg>
+   </lg>
+   <mg>
+     <tg xml:lang="rus">
+       <t pos="A">спрашивающий; вопросительный</t>
+     </tg>
+     <xg>
+       <x>юалан синъяс</x>
+       <xt xml:lang="rus">спрашивающие глаза</xt>
+     </xg>
+   </mg>
+</e>
+<e>
+   <lg t1="Ю" t2="Г" t3="В" uri="64402-yugvidzan" id="64402"><l pos="A">югвидзан</l>
+       <l_var type="molodtsov-cyr">југвіԇан</l_var>
+     <compg drv="V:Suf»Prc" type="Der">
+       <comp ms="V" ord="E1" pos="V"></comp>
+       <comp ord="E2" pos="Suf" type="Der/Ан"></comp> </compg>
+   </lg>
+   <mg>
+     <tg xml:lang="rus">
+       <t pos="A"><span class="underline">смотри:</span> <xref link="югъялан"> югъялан</xref></t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg t1="Ю" t2="Г" t3="Д" uri="64412-yugd-dan" id="64412"><l pos="A">югдӧдан</l>
+       <l_var type="molodtsov-cyr">југԁӧԁан</l_var>
+     <compg drv="V:Suf»Prc" type="Der">
+       <comp ms="V" ord="E1" pos="V"></comp>
+       <comp ord="E2" pos="Suf" type="Der/Ан"></comp> </compg>
+   </lg>
+   <mg>
+     <tg xml:lang="rus">
+       <t pos="A">освещающий, осветительный</t>
+     </tg>
+     <xg>
+       <x>югдӧдан лампа</x>
+       <xt xml:lang="rus">осветительная лампа</xt>
+     </xg>
+   </mg>
+</e>
+<e>
+   <lg t1="Ю" t2="К" t3="А" uri="64587-yukalan" id="64587"><l pos="A">юкалан</l>
+       <l_var type="molodtsov-cyr">јукалан</l_var>
+     <compg drv="V:Suf»Prc" type="Der">
+       <comp ms="V" ord="E1" pos="V"></comp>
+       <comp ord="E2" pos="Suf" type="Der/Ан"></comp> </compg>
+   </lg>
+   <mg>
+     <tg xml:lang="rus">
+       <t pos="A">1. <span class="underline">смотри:</span> <xref link="юкасян"> юкасян в 1 значении</xref></t>
+     </tg><br />
+     <xg>
+       <x>сартас юкалан <acronym title="причастие"><em>прич.</em></acronym> пурт</x>
+       <xt> нож для щепания лучины; косарь</xt>
+     </xg>
+   </mg>
+   <mg>2.
+     <tg xml:lang="rus">
+       <t pos="A">ноющий</t>
+     </tg>
+     <xg>
+       <x>юкалан висьӧм</x>
+       <xt xml:lang="rus">ноющая боль</xt>
+     </xg>
+   </mg>
+</e>
+<e>
+   <lg t1="Ю" t2="К" t3="А" uri="64602-yukasyan" id="64602"><l pos="A">юкасян</l>
+       <l_var type="molodtsov-cyr">јукаԍан</l_var>
+     <compg drv="V:Suf»Prc" type="Der">
+       <comp ms="V" ord="E1" pos="V"></comp>
+       <comp ord="E2" pos="Suf" type="Der/Ан"></comp> </compg>
+   </lg>
+   <mg>
+     <tg xml:lang="rus">
+       <t pos="A">1. служащий для щепания</t>
+     </tg>
+     <xg>
+       <x>юкасян пурт</x>
+       <xt xml:lang="rus"> нож для щепания <em>(лучины, дранок)</em>; косарь</xt>
+     </xg>
+   </mg>
+   <mg>2.
+     <tg xml:lang="rus">
+       <t pos="A">колкий</t>
+     </tg>
+     <xg>
+       <x>юкасян пу</x>
+       <xt xml:lang="rus">колкая древесина</xt>
+     </xg>
+     <xg>
+       <x>юкасян чурка</x>
+       <xt xml:lang="rus">колкое полено</xt>
+     </xg>
+   </mg>
+</e>
+<e>
+   <lg t1="Ю" t2="К" t3="С" uri="64645-yuksyan" id="64645"><l pos="A">юксян</l>
+       <l_var type="molodtsov-cyr">јукԍан</l_var>
+     <compg drv="V:Suf»Prc" type="Der">
+       <comp ms="V" ord="E1" pos="V"></comp>
+       <comp ord="E2" pos="Suf" type="Der/Ан"></comp> </compg>
+   </lg>
+   <mg>
+     <tg xml:lang="rus">
+       <t pos="A">1. <acronym title="математика"><em>мат.</em></acronym> кратный</t>
+     </tg>
+     <xg>
+       <x>колястӧг юксян числӧ</x>
+       <xt xml:lang="rus">кратное число</xt>
+     </xg>
+   </mg>
+   <mg>2.
+     <tg xml:lang="rus">
+       <t pos="A">служащий для раздела, для развода</t>
+     </tg>
+     <xg>
+       <x>лӧсьӧдны юксян комиссия</x>
+       <xt xml:lang="rus"> создать комиссию по разделу <em>(имущества)</em></xt>
+     </xg>
+   </mg>
+</e>
+<e>
+   <lg t1="Ю" t2="М" t3="М" uri="64693-yumman" id="64693"><l pos="A">юмман</l>
+       <l_var type="molodtsov-cyr">јумман</l_var>
+     <compg drv="V:Suf»Prc" type="Der">
+       <comp ms="V" ord="E1" pos="V"></comp>
+       <comp ord="E2" pos="Suf" type="Der/Ан"></comp> </compg>
+   </lg>
+   <mg>
+     <tg xml:lang="rus">
+       <t pos="A">дающий сладость</t>
+     </tg>
+     <xg>
+       <x>юмман пызь</x>
+       <xt xml:lang="rus"> мука, дающая сахарное брожение <em>(полученная из проросшего зерна или замёрзшего на корню хлеба)</em></xt>
+     </xg>
+   </mg>
+</e>
+<e>
+   <lg t1="Ю" t2="Р" t3="Н" uri="64878-yurnu-dan" id="64878"><l pos="A">юрнуӧдан</l>
+       <l_var type="molodtsov-cyr">јурнуӧԁан</l_var>
+     <compg drv="V:Suf»Prc" type="Der">
+       <comp ms="V" ord="E1" pos="V"></comp>
+       <comp ord="E2" pos="Suf" type="Der/Ан"></comp> </compg>
+   </lg>
+   <mg>
+     <tg xml:lang="rus">
+       <t pos="A">1. ведущий, главный, возглавляющий</t>
+     </tg>
+     <xg>
+       <x>миян олӧмын юрнуӧдан визь</x>
+       <xt xml:lang="rus">главная линия в нашей жизни</xt>
+     </xg>
+     <xg>
+       <x>юрнуӧдан роль</x>
+       <xt xml:lang="rus">ведущая роль</xt>
+     </xg>
+   </mg>
+   <mg>2.
+     <tg xml:lang="rus">
+       <t pos="A">заголовочный</t>
+     </tg>
+     <xg>
+       <x>юрнуӧдан кыв</x>
+       <xt xml:lang="rus">заголовочное слово</xt>
+     </xg>
+   </mg>
+</e>
+<e>
+   <lg t1="Я" t2="Н" t3="С" uri="65217-yansalan" id="65217"><l pos="A">янсалан</l>
+       <l_var type="molodtsov-cyr">јансалан</l_var>
+     <compg drv="V:Suf»Prc" type="Der">
+       <comp ms="V" ord="E1" pos="V"></comp>
+       <comp ord="E2" pos="Suf" type="Der/Ан"></comp> </compg>
+   </lg>
+   <mg>
+     <tg xml:lang="rus">
+       <t pos="A">отчётливый, отличный</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg t1="Ё" t2="Р" t3="А" uri="15631-yoran" id="15631"><l pos="A">ёран</l>
+       <l_var type="molodtsov-cyr">јоран</l_var>
+     <compg drv="V:Suf»Prc" type="Der">
+       <comp ms="V" ord="E1" pos="V"></comp>
+       <comp ord="E2" pos="Suf" type="Der/Ан"></comp> </compg>
+   </lg>
+   <mg>
+     <tg xml:lang="rus">
+       <t pos="A">ослепляющий, ослепительный</t>
+     </tg>
+     <xg>
+       <x>син ёран шонді</x>
+       <xt xml:lang="rus">ослепительно яркое солнце</xt>
+     </xg>
+     <xg>
+       <x>син ёран югыд</x>
+       <xt xml:lang="rus">ослепляющий, ослепительный свет</xt>
+     </xg>
+   </mg>
+</e>
+<e>
+   <lg t1="Ӧ" t2="Д" t3="А" uri="37332-dan" id="37332"><l pos="A">ӧдан</l>
+       <l_var type="molodtsov-cyr">ӧԁан</l_var>
+     <compg drv="V:Suf»Prc" type="Der">
+       <comp ms="V" ord="E1" pos="V"></comp>
+       <comp ord="E2" pos="Suf" type="Der/Ан"></comp> </compg>
+   </lg>
+   <mg>
+     <tg xml:lang="rus">
+       <t pos="A"><em>от</em> <xref link="ӧдны"> ӧдны</xref></t>
+     </tg>
+     <xg>
+       <x>ӧдан яй</x>
+       <xt xml:lang="rus">подверженный воспалительным процессам организм</xt>
+     </xg>
+   </mg>
+</e>
+<e>
+   <lg t1="Ӧ" t2="З" t3="Т" uri="37498-ztan" id="37498"><l pos="A">ӧзтан</l>
+       <l_var type="molodtsov-cyr">ӧстан</l_var>
+     <compg drv="V:Suf»Prc" type="Der">
+       <comp ms="V" ord="E1" pos="V"></comp>
+       <comp ord="E2" pos="Suf" type="Der/Ан"></comp> </compg>
+   </lg>
+   <mg>
+     <tg xml:lang="rus">
+       <t pos="A"><acronym title="в прямом значении"><em>прям.</em></acronym> <em>и</em> <acronym title="в переносном значении"><em>перен.</em></acronym> зажигательный</t>
+     </tg>
+     <xg>
+       <x>сьӧлӧм ӧзтан сёрни</x>
+       <xt xml:lang="rus">зажигательная речь</xt>
+     </xg>
+   </mg>
+</e>
+<e>
+   <lg t1="Ӧ" t2="Т" t3="У" uri="38192-tuvtchan" id="38192"><l pos="A">ӧтувтчан</l>
+       <l_var type="molodtsov-cyr">ӧтувччан</l_var>
+     <compg drv="V:Suf»Prc" type="Der">
+       <comp ms="V" ord="E1" pos="V"></comp>
+       <comp ord="E2" pos="Suf" type="Der/Ан"></comp> </compg>
+   </lg>
+   <mg>
+     <tg xml:lang="rus">
+       <t pos="A"><em>от</em> <xref link="ӧтувтчыны"> ӧтувтчыны</xref>; объединительный</t>
+     </tg>
+     <xg>
+       <x>ӧтувтчан съезд</x>
+       <xt xml:lang="rus">объединительный съезд</xt>
+     </xg>
+   </mg>
+</e>
+<e>
+   <lg t1="Ӧ" t2="Ш" t3="А" uri="38279-shalan" id="38279"><l pos="A">ӧшалан</l>
+       <l_var type="molodtsov-cyr">ӧшалан</l_var>
+     <compg drv="V:Suf»Prc" type="Der">
+       <comp ms="V" ord="E1" pos="V"></comp>
+       <comp ord="E2" pos="Suf" type="Der/Ан"></comp> </compg>
+   </lg>
+   <mg>
+     <tg xml:lang="rus">
+       <t pos="A">висячий</t>
+     </tg>
+     <xg>
+       <x>ӧшалан лампа</x>
+       <xt xml:lang="rus">висячая лампа</xt>
+     </xg>
+     <xg>
+       <x>ӧшалан томан</x>
+       <xt xml:lang="rus">висячий замок</xt>
+     </xg>
    </mg>
 </e>
 
