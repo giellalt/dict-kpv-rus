@@ -17,7 +17,7 @@
        <xt xml:lang="rus">что ты сказал? а?</xt>
      </xg>
    </mg>
-   <mg>2.
+   <mg relId="1">
      <tg xml:lang="rus">
        <t><acronym title="усилительная (частица)"><em>усил.</em></acronym> только, ведь</t>
      </tg>
@@ -30,7 +30,7 @@
        <xt xml:lang="rus">он не пришёл, обещал ведь</xt>
      </xg>
    </mg>
-   <mg>3.
+   <mg relId="2">
      <tg xml:lang="rus">
        <t><acronym title="побудительная (частица)"><em>побуд.</em></acronym> а</t>
      </tg>
@@ -39,7 +39,7 @@
        <xt xml:lang="rus">а, ну-ка, подумайте</xt>
      </xg>
    </mg>
-   <mg>4.
+   <mg relId="3">
      <tg xml:lang="rus">
        <t><em>чаще в <acronym title="сочетание"><em>сочет.</em></acronym> с некоторыми частицами</em> и</t>
      </tg>
@@ -48,7 +48,7 @@
        <xt xml:lang="rus">и что ты только мелешь?</xt>
      </xg>
    </mg>
-   <mg>5.
+   <mg relId="4">
      <tg xml:lang="rus">
        <t><em>чаще в <acronym title="сочетание"><em>сочет.</em></acronym> с некоторыми частицами</em> должно быть; может быть; видимо, видно; вероятно</t>
      </tg>
@@ -67,7 +67,7 @@
      <l pos="Pcle">абу</l>
        <l_var type="molodtsov-cyr">aбу</l_var>
    </lg>
-   <mg>1.
+   <mg relId="0">
      <tg xml:lang="rus">
        <t pos="Pcle"><acronym title="отрицательное (частица, предложение)">отриц.</acronym> не</t>
      </tg>
@@ -84,7 +84,7 @@
        <xt xml:lang="rus">это у меня не своё, а чужое</xt>
      </xg>
    </mg>
-   <mg>2.
+   <mg relId="1">
      <tg xml:lang="rus">
        <t pos="Pcle">в некоторых <acronym title="сочетание">сочет.</acronym> <acronym title="соответствует">соотв.</acronym> <acronym title="отрицательное (частица, предложение)">отриц.</acronym> приставке не-</t>
      </tg>
@@ -101,7 +101,7 @@
        <xt xml:lang="rus">невиновный, невинный</xt>
      </xg>
    </mg>
-   <mg>3.
+   <mg relId="2">
      <tg xml:lang="rus">
        <t pos="Pcle">нет</t>
      </tg>
@@ -277,7 +277,7 @@
      <l pos="Pcle">инӧ</l>
        <l_var type="molodtsov-cyr">інӧ</l_var>
    </lg>
-   <mg>1.
+   <mg relId="0">
      <tg xml:lang="rus">
        <t pos="Pcle"><acronym title="уступительный (союз, частица)"><em>уступ.</em></acronym> тогда, в таком случае</t>
      </tg>
@@ -290,7 +290,7 @@
        <xt> я тогда пойду</xt>
      </xg>; <sg><s pos="Pcle" s_type="seeAlso">либӧ Ⅱ</s></sg>
    </mg>
-   <mg>2.
+   <mg relId="1">
      <tg xml:lang="rus">
        <t><acronym title="вводное слово"><em>вводн.сл.</em></acronym> значит</t>
      </tg>
@@ -409,7 +409,7 @@
        <xt><acronym title="поговорка"><em>погов.</em></acronym> если бы не кожа, кости бы уже рассыпались <em>(о старых людях)</em></xt>
      </xg><br /><stress>&#160;&#160;&#160;тэныд рок не рок дай пань не пань </stress><acronym title="поговорка"><em>погов.</em></acronym> тебе каша не каша и ложка не ложка <em>(<acronym title="то есть"><em>т.е.</em></acronym> всем недоволен)</em>
    </mg>
-   <mg>2.
+   <mg relId="1">
      <tg xml:lang="rus">
        <t><em>в составе союза</em></t>
      </tg>
@@ -430,7 +430,7 @@
        <xt xml:lang="rus">она поглядывает на нас не то виноватыми, не то злыми глазами</xt>
      </xg>
    </mg>
-   <mg>3.
+   <mg relId="2">
      <tg xml:lang="rus">
        <t>нет</t>
      </tg>
@@ -462,7 +462,7 @@
        <xt xml:lang="rus">откуда же я знаю!</xt>
      </xg>
    </mg>
-   <mg>2.
+   <mg relId="1">
      <tg xml:lang="rus">
        <t>разве</t>
      </tg>

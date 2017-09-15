@@ -4,7 +4,7 @@
      <l pos="CC">а</l>
        <l_var type="molodtsov-cyr">a</l_var>
    </lg>
-   <mg>1.
+   <mg relId="0">
      <tg xml:lang="rus">
        <t pos="CC" type="противит.">а, но; же</t>
      </tg>
@@ -21,7 +21,7 @@
        <xt xml:lang="rus">он уже стар, но ещё крепок</xt>
      </xg>
    </mg>
-   <mg>2.
+   <mg relId="1">
      <tg xml:lang="rus">
        <t pos="CC" type="присоед.">а</t>
      </tg>
@@ -30,7 +30,7 @@
        <xt xml:lang="rus">на горе дом, а под горою ручей</xt>
      </xg>
    </mg>
-   <mg>3.
+   <mg relId="2">
      <tg xml:lang="rus">
        <t pos="CC" type="сопост.">а</t>
      </tg>
@@ -39,7 +39,7 @@
        <xt xml:lang="rus">у нас уже сеют, а там ещё пашут</xt>
      </xg>
    </mg>
-   <mg>4.
+   <mg relId="3">
      <tg xml:lang="rus">
        <t pos="CC"><acronym title="употребляется"><em>употр.</em></acronym> <em>для усиления выразительности, убедительности</em></t>
      </tg>

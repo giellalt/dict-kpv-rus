@@ -4,7 +4,7 @@
      <l pos="Adv">абуджык</l>
        <l_var type="molodtsov-cyr">aбуҗык</l_var>
    </lg>
-   <mg>1.
+   <mg relId="0">
      <tg xml:lang="rus">
        <t pos="Adv">менее</t>
      </tg>
@@ -21,7 +21,7 @@
        <xt xml:lang="rus">менее понятно</xt>
      </xg>
    </mg>
-   <mg>2.
+   <mg relId="1">
      <tg xml:lang="rus">
        <t pos="Adv">не совсем; не окончательно; не вполне</t>
      </tg>
@@ -66,7 +66,7 @@
      <l pos="Adv">аддзымӧн</l>
        <l_var type="molodtsov-cyr">aԇԇымӧн</l_var>
    </lg>
-   <mg>1.
+   <mg relId="0">
      <tg xml:lang="rus">
        <t pos="Adv">заметно; на глазах</t>
      </tg>
@@ -79,7 +79,7 @@
        <xt xml:lang="rus">заметно начала прибывать вода</xt>
      </xg>
    </mg>
-   <mg>2.
+   <mg relId="1">
      <tg xml:lang="rus">
        <t pos="Adv">до видимости</t>
      </tg>
@@ -116,7 +116,7 @@
      <l pos="Adv">азыма</l>
        <l_var type="molodtsov-cyr">aзыма</l_var>
    </lg>
-   <mg>1.
+   <mg relId="0">
      <tg xml:lang="rus">
        <t pos="Adv">с аппетитом, аппетитно</t>
      </tg>
@@ -125,7 +125,7 @@
        <xt xml:lang="rus">есть с аппетитом</xt>
      </xg>
    </mg>
-   <mg>2.
+   <mg relId="1">
      <tg xml:lang="rus">
        <t pos="Adv"><acronym title="в переносном значении"><em>перен.</em></acronym> с охотой, охотно</t>
      </tg>
@@ -134,7 +134,7 @@
        <xt xml:lang="rus">с охотой косить</xt>
      </xg>
    </mg>
-   <mg>3.
+   <mg relId="2">
      <tg xml:lang="rus">
        <t pos="Adv"><acronym title="в переносном значении"><em>перен.</em></acronym> увлечённо</t>
      </tg>
@@ -143,7 +143,7 @@
        <xt xml:lang="rus">увлечённо разговаривать</xt>
      </xg>
    </mg>
-   <mg>4.
+   <mg relId="3">
      <tg xml:lang="rus">
        <t pos="Adv"><acronym title="в переносном значении"><em>перен.</em></acronym> пристально; с чувством</t>
      </tg>
@@ -152,7 +152,7 @@
        <xt xml:lang="rus">пристально смотреть на девушку</xt>
      </xg>
    </mg>
-   <mg>5.
+   <mg relId="4">
      <tg xml:lang="rus">
        <t pos="Adv"><acronym title="в переносном значении"><em>перен.</em></acronym> жадно</t>
      </tg>
@@ -161,7 +161,7 @@
        <xt xml:lang="rus">жадно затянуться папиросой</xt>
      </xg>
    </mg>
-   <mg>6.
+   <mg relId="5">
      <tg xml:lang="rus">
        <t pos="Adv"><acronym title="в переносном значении"><em>перен.</em></acronym> остервенело</t>
      </tg>
@@ -170,7 +170,7 @@
        <xt xml:lang="rus">остервенело рваться вперёд</xt>
      </xg>
    </mg>
-   <mg>7.
+   <mg relId="6">
      <tg xml:lang="rus">
        <t pos="Adv"><acronym title="в переносном значении"><em>перен.</em></acronym> ярко</t>
      </tg>
@@ -282,7 +282,7 @@
      <l pos="Adv">аснаукӧн</l>
        <l_var type="molodtsov-cyr">aснаукӧн</l_var>
    </lg>
-   <mg>1.
+   <mg relId="0">
      <tg xml:lang="rus">
        <t pos="Adv">самовольно, своевольно, самочинно || самовольный, самочинный</t>
      </tg>
@@ -303,7 +303,7 @@
        <xt xml:lang="rus">самочинный обыск</xt>
      </xg>
    </mg>
-   <mg>2.
+   <mg relId="1">
      <tg xml:lang="rus">
        <t pos="Adv">самоучкой</t>
      </tg>
@@ -318,7 +318,7 @@
      <l pos="Adv">асшодйӧн</l>
        <l_var type="molodtsov-cyr">aшшоԁјӧн</l_var>
    </lg>
-   <mg>1.
+   <mg relId="0">
      <tg xml:lang="rus">
        <t pos="Adv">самотёком</t>
      </tg>
@@ -327,7 +327,7 @@
        <xt xml:lang="rus">вода поступает самотёком</xt>
      </xg>
    </mg>
-   <mg>2.
+   <mg relId="1">
      <tg xml:lang="rus">
        <t pos="Adv">своим чередом</t>
      </tg>
@@ -336,7 +336,7 @@
        <xt xml:lang="rus">дела шли своим чередом</xt>
      </xg>
    </mg>
-   <mg>3.
+   <mg relId="2">
      <tg xml:lang="rus">
        <t pos="Adv">свободно, вольно</t>
      </tg>
@@ -503,7 +503,7 @@
      <l pos="Adv">боквыв</l>
        <l_var type="molodtsov-cyr">боквыв</l_var>
    </lg>
-   <mg>1.
+   <mg relId="0">
      <tg xml:lang="rus">
        <t pos="Adv">в сторону</t>
      </tg>
@@ -516,7 +516,7 @@
        <xt xml:lang="rus">лошадь метнулась в сторону</xt>
      </xg>
    </mg>
-   <mg>2.
+   <mg relId="1">
      <tg xml:lang="rus">
        <t pos="Adv">на́бок</t>
      </tg>
@@ -533,7 +533,7 @@
        <xt xml:lang="rus">шляпа сбилась набок</xt>
      </xg>
    </mg>
-   <mg>3.
+   <mg relId="2">
      <sg><s pos="Adv" s_type="see">бокала</s></sg><tg xml:lang="rus">
        <t pos="Adv"></t>
      </tg>
@@ -548,7 +548,7 @@
      <l pos="Adv">бокын</l>
        <l_var type="molodtsov-cyr">бокын</l_var>
    </lg>
-   <mg>1.
+   <mg relId="0">
      <tg xml:lang="rus">
        <t pos="Adv"><acronym title="наречие"><em>нареч.</em></acronym></t>
      </tg><br />&#160;&#160;&#160;1) на стороне<br />
@@ -569,7 +569,7 @@
        <xt xml:lang="rus">вне общества</xt>
      </xg>
    </mg>
-   <mg>2.
+   <mg relId="1">
      <tg xml:lang="rus">
        <t pos="Adv"><em>послелог</em> <acronym title="местный падеж"><em>мест.п.</em></acronym> у, возле, около <em>кого-чего-либо (сбоку)</em></t>
      </tg>
@@ -797,7 +797,7 @@
      <l pos="Adv">буретша</l>
        <l_var type="molodtsov-cyr">буреща</l_var>
    </lg>
-   <mg>1.
+   <mg relId="0">
      <tg xml:lang="rus">
        <t pos="Adv">нормально; как раз</t>
      </tg>
@@ -814,7 +814,7 @@
        <xt xml:lang="rus">поленика как раз поспела</xt>
      </xg>
    </mg>
-   <mg>2.
+   <mg relId="1">
      <tg xml:lang="rus">
        <t pos="Adv"><acronym title="неологизм"><em>неол.</em></acronym> ограниченный, поставленный в какие-либо рамки</t>
      </tg>
@@ -894,7 +894,7 @@
      <l pos="Adv">бурӧн</l>
        <l_var type="molodtsov-cyr">бурӧн</l_var>
    </lg>
-   <mg>1.
+   <mg relId="0">
      <tg xml:lang="rus">
        <t pos="Adv">добром; по-доброму</t>
      </tg>
@@ -915,7 +915,7 @@
        <xt><acronym title="пословица"><em>посл.</em></acronym> как аукнется, так и откликнется </xt><com>(<acronym title="буквально"><em>букв.</em></acronym> сделаешь добро, добром прославишься)</com>
      </xg>
    </mg>
-   <mg>2.
+   <mg relId="1">
      <tg xml:lang="rus">
        <t pos="Adv">легко</t>
      </tg>
@@ -1032,7 +1032,7 @@
      <l pos="Adv">бытьӧна</l>
        <l_var type="molodtsov-cyr">быԏӧна</l_var>
    </lg>
-   <mg>1.
+   <mg relId="0">
      <tg xml:lang="rus">
        <t pos="Adv">неохотно, с неохотой</t>
      </tg>
@@ -1041,7 +1041,7 @@
        <xt xml:lang="rus">сесть неохотно</xt>
      </xg>
    </mg>
-   <mg>2.
+   <mg relId="1">
      <tg xml:lang="rus">
        <t pos="Adv">поневоле; обязательно</t>
      </tg>
@@ -1101,7 +1101,7 @@
      <l pos="Adv">бӧр-водз</l>
        <l_var type="molodtsov-cyr">бӧр-воԇ</l_var>
    </lg>
-   <mg>1.
+   <mg relId="0">
      <tg xml:lang="rus">
        <t pos="Adv">туда и обратно; взад и вперёд</t>
      </tg>
@@ -1110,7 +1110,7 @@
        <xt xml:lang="rus">сбегать туда и обратно</xt>
      </xg>
    </mg>
-   <mg>2.
+   <mg relId="1">
      <tg xml:lang="rus">
        <t pos="Adv">ненадолго, не задерживаясь</t>
      </tg>
@@ -1144,12 +1144,12 @@
      <l pos="Adv">бӧра-водза</l>
        <l_var type="molodtsov-cyr">бӧра-воԇа</l_var>
    </lg>
-   <mg>1.
+   <mg relId="0">
      <sg><s pos="Adv" s_type="see">бӧр-водз</s></sg><tg xml:lang="rus">
        <t pos="Adv"></t>
      </tg>
    </mg>
-   <mg>2.
+   <mg relId="1">
      <tg xml:lang="rus">
        <t pos="Adv"><acronym title="в переносном значении"><em>перен.</em></acronym></t>
      </tg><br /><span class="underline">употребляется лишь в составе выражений:</span><br />
@@ -1224,12 +1224,12 @@
      <l pos="Adv">бӧръявывнас</l>
        <l_var type="molodtsov-cyr">бӧрјавывнас</l_var>
    </lg>
-   <mg>1.
+   <mg relId="0">
      <sg><s pos="Adv" s_type="see">бӧръявыв</s></sg><tg xml:lang="rus">
        <t pos="Adv"></t>
      </tg>
    </mg>
-   <mg>2.
+   <mg relId="1">
      <tg xml:lang="rus">
        <t pos="Adv">в последнее время</t>
      </tg>
@@ -1244,7 +1244,7 @@
      <l pos="Adv">бӧръяпом</l>
        <l_var type="molodtsov-cyr">бӧрјапом</l_var>
    </lg>
-   <mg>1.
+   <mg relId="0">
      <sg><s pos="Adv" s_type="see">бӧръявыв</s></sg><tg xml:lang="rus">
        <t pos="Adv"></t>
      </tg>
@@ -1257,7 +1257,7 @@
        <xt xml:lang="rus">он обдумывал, что сказать напоследок</xt>
      </xg>
    </mg>
-   <mg>2.
+   <mg relId="1">
      <tg xml:lang="rus">
        <t pos="Adv">наконец</t>
      </tg>
@@ -1287,7 +1287,7 @@
      <l pos="Adv">бӧрыннас</l>
        <l_var type="molodtsov-cyr">бӧрыннас</l_var>
    </lg>
-   <mg>1.
+   <mg relId="0">
      <sg><s pos="Adv" s_type="see">бӧрын 1 во 2 значении</s></sg><tg xml:lang="rus">
        <t pos="Adv"></t>
      </tg>
@@ -1300,7 +1300,7 @@
        <xt xml:lang="rus">после не жалуйся</xt>
      </xg>
    </mg>
-   <mg>2.
+   <mg relId="1">
      <tg xml:lang="rus">
        <t pos="Adv">наконец</t>
      </tg>
@@ -1424,7 +1424,7 @@
      <l pos="Adv">важӧн</l>
        <l_var type="molodtsov-cyr">важӧн</l_var>
    </lg>
-   <mg>1.
+   <mg relId="0">
      <tg xml:lang="rus">
        <t pos="Adv">раньше, прежде</t>
      </tg>
@@ -1433,7 +1433,7 @@
        <xt xml:lang="rus">раньше здесь был лес</xt>
      </xg>
    </mg>
-   <mg>2.
+   <mg relId="1">
      <tg xml:lang="rus">
        <t pos="Adv">давно</t>
      </tg>
@@ -1524,7 +1524,7 @@
      <l pos="Adv">варова</l>
        <l_var type="molodtsov-cyr">варова</l_var>
    </lg>
-   <mg>1.
+   <mg relId="0">
      <tg xml:lang="rus">
        <t pos="Adv">живо; оживлённо</t>
      </tg>
@@ -1533,7 +1533,7 @@
        <xt xml:lang="rus">оживлённо разговаривать</xt>
      </xg>
    </mg>
-   <mg>2. <acronym title="диалектное"><em>диал.</em></acronym>
+   <mg relId="1"> <acronym title="диалектное"><em>диал.</em></acronym>
      <tg xml:lang="rus">
        <t pos="Adv"> быстро, проворно, расторопно, ловко, бойко</t>
      </tg>
@@ -1542,7 +1542,7 @@
        <xt xml:lang="rus">быстро текла река</xt>
      </xg>
    </mg>
-   <mg>3.
+   <mg relId="2">
      <tg xml:lang="rus">
        <t pos="Adv">с журчанием</t>
      </tg>
@@ -1569,7 +1569,7 @@
      <l pos="Adv">вевсьӧн</l>
        <l_var type="molodtsov-cyr">вевԍӧн</l_var>
    </lg>
-   <mg>1.
+   <mg relId="0">
      <tg xml:lang="rus">
        <t pos="Adv">одно на другое, одно на другом</t>
      </tg>
@@ -1582,7 +1582,7 @@
        <xt xml:lang="rus">положить две книги одну на другую</xt>
      </xg>
    </mg>
-   <mg>2.
+   <mg relId="1">
      <tg xml:lang="rus">
        <t pos="Adv">стопкой</t>
      </tg>
@@ -1591,7 +1591,7 @@
        <xt xml:lang="rus">сложить ватрушки стопкой</xt>
      </xg>
    </mg>
-   <mg>3.
+   <mg relId="2">
      <tg xml:lang="rus">
        <t pos="Adv"><acronym title="в переносном значении"><em>перен.</em></acronym> с лихвой, с избытком</t>
      </tg>
@@ -1763,12 +1763,12 @@
      <l pos="Adv">велавтӧма</l>
        <l_var type="molodtsov-cyr">велавтӧма</l_var>
    </lg>
-   <mg>1.
+   <mg relId="0">
      <tg xml:lang="rus">
        <t pos="Adv">без привычки, неумеючи</t>
      </tg>
    </mg>
-   <mg>2.
+   <mg relId="1">
      <tg xml:lang="rus">
        <t pos="Adv">невнятно, неотчётливо</t>
      </tg>
@@ -1810,12 +1810,12 @@
      <l pos="Adv">велӧдана</l>
        <l_var type="molodtsov-cyr">велӧԁана</l_var>
    </lg>
-   <mg>1.
+   <mg relId="0">
      <sg><s pos="Adv" s_type="see">велӧдан</s></sg><tg xml:lang="rus">
        <t pos="Adv"></t>
      </tg>
    </mg>
-   <mg>2.
+   <mg relId="1">
      <tg xml:lang="rus">
        <t pos="Adv">внушительно</t>
      </tg>
@@ -1935,7 +1935,7 @@
      <l pos="Adv">весь</l>
        <l_var type="molodtsov-cyr">веԍ</l_var>
    </lg>
-   <mg>1.
+   <mg relId="0">
      <tg xml:lang="rus">
        <t pos="Adv">зря, напрасно, даром, попусту</t>
      </tg>
@@ -1948,7 +1948,7 @@
        <xt xml:lang="rus">вечер пропал даром</xt>
      </xg>
    </mg>
-   <mg>2.
+   <mg relId="1">
      <tg xml:lang="rus">
        <t pos="Adv">праздно, бесцельно</t>
      </tg>
@@ -1997,7 +1997,7 @@
      <l pos="Adv">веськыда</l>
        <l_var type="molodtsov-cyr">веԍкыԁа</l_var>
    </lg>
-   <mg>1.
+   <mg relId="0">
      <tg xml:lang="rus">
        <t pos="Adv">прямо; напрямик</t>
      </tg>
@@ -2006,7 +2006,7 @@
        <xt xml:lang="rus">идти прямо</xt>
      </xg>
    </mg>
-   <mg>2.
+   <mg relId="1">
      <tg xml:lang="rus">
        <t pos="Adv"><acronym title="в переносном значении"><em>перен.</em></acronym> прямо, без обиняков, открыто, откровенно</t>
      </tg>
@@ -2101,12 +2101,12 @@
      <l pos="Adv">видзчысьӧмпырысь</l>
        <l_var type="molodtsov-cyr">віччыԍӧмпырыԍ</l_var>
    </lg>
-   <mg>1.
+   <mg relId="0">
      <tg xml:lang="rus">
        <t pos="Adv">осторожно</t>
      </tg>
    </mg>
-   <mg>2.
+   <mg relId="1">
      <tg xml:lang="rus">
        <t pos="Adv">сдержанно</t>
      </tg>
@@ -2317,7 +2317,7 @@
      <l pos="Adv">водзджык</l>
        <l_var type="molodtsov-cyr">воԇҗык</l_var>
    </lg>
-   <mg>1.
+   <mg relId="0">
      <tg xml:lang="rus">
        <t pos="Adv">раньше, пораньше</t>
      </tg>
@@ -2334,7 +2334,7 @@
        <xt xml:lang="rus">раньше я думал иначе</xt>
      </xg>
    </mg>
-   <mg>2.
+   <mg relId="1">
      <tg xml:lang="rus">
        <t pos="Adv">прежде</t>
      </tg>
@@ -2528,7 +2528,7 @@
      <l pos="Adv">войдӧр</l>
        <l_var type="molodtsov-cyr">војԁӧр</l_var>
    </lg>
-   <mg>1.
+   <mg relId="0">
      <tg xml:lang="rus">
        <t pos="Adv"><acronym title="наречие"><em>нареч.</em></acronym></t>
      </tg><br />&#160;&#160;&#160;1) прежде, раньше<br />
@@ -2541,7 +2541,7 @@
        <xt xml:lang="rus">сперва подумай</xt>
      </xg><br /><stress>&#160;&#160;&#160;&#160;&#160;&#160;войдӧр-войдӧр шлоп-шлоп, бӧрын-бӧрын ыджыд гор</stress> <em>загадка</em> сначала хлоп-хлоп, а затем резкий крик (<em>отгадка</em> <stress>петук</stress> петух)
    </mg>
-   <mg>2.
+   <mg relId="1">
      <tg xml:lang="rus">
        <t pos="Adv"><em>послелог</em> <acronym title="временной вид"><em>врем.</em></acronym></t>
      </tg><br />&#160;&#160;&#160;1) за<br />
@@ -2629,7 +2629,7 @@
      <l pos="Adv">востера</l>
        <l_var type="molodtsov-cyr">воԍԏера</l_var>
    </lg>
-   <mg>1.
+   <mg relId="0">
      <tg xml:lang="rus">
        <t pos="Adv">бойко</t>
      </tg>
@@ -2638,7 +2638,7 @@
        <xt xml:lang="rus">бойко говорить</xt>
      </xg>
    </mg>
-   <mg>2.
+   <mg relId="1">
      <tg xml:lang="rus">
        <t pos="Adv"><acronym title="в переносном значении"><em>перен.</em></acronym> остроумно</t>
      </tg>
@@ -2747,7 +2747,7 @@
      <l pos="Adv">выльвылысь</l>
        <l_var type="molodtsov-cyr">выԉвылыԍ</l_var>
    </lg>
-   <mg>1.
+   <mg relId="0">
      <tg xml:lang="rus">
        <t pos="Adv">снову, пока ещё новый</t>
      </tg>
@@ -2756,7 +2756,7 @@
        <xt xml:lang="rus">береги одежду снову</xt>
      </xg>
    </mg>
-   <mg>2.
+   <mg relId="1">
      <tg xml:lang="rus">
        <t pos="Adv">по свежему следу</t>
      </tg>
@@ -2786,7 +2786,7 @@
      <l pos="Adv">выльысь</l>
        <l_var type="molodtsov-cyr">выԉыԍ</l_var>
    </lg>
-   <mg>1.
+   <mg relId="0">
      <tg xml:lang="rus">
        <t pos="Adv">вновь, снова, заново</t>
      </tg>
@@ -2803,7 +2803,7 @@
        <xt xml:lang="rus">начинай снова</xt>
      </xg>
    </mg>
-   <mg>2.
+   <mg relId="1">
      <tg xml:lang="rus">
        <t pos="Adv"><em>иногда <acronym title="соответствует"><em>соотв.</em></acronym>приставке</em> пере-</t>
      </tg>
@@ -2826,7 +2826,7 @@
      <l pos="Adv">выльӧн</l>
        <l_var type="molodtsov-cyr">выԉӧн</l_var>
    </lg>
-   <mg>1.
+   <mg relId="0">
      <tg xml:lang="rus">
        <t pos="Adv">только что, совсем недавно</t>
      </tg>
@@ -2835,7 +2835,7 @@
        <xt xml:lang="rus">медведь недавно перешёл дорогу</xt>
      </xg>
    </mg>
-   <mg>2.
+   <mg relId="1">
      <tg xml:lang="rus">
        <t pos="Adv">вновь</t>
      </tg>
@@ -2865,7 +2865,7 @@
      <l pos="Adv">вӧлись</l>
        <l_var type="molodtsov-cyr">вӧԉіԍ</l_var>
    </lg>
-   <mg>1.
+   <mg relId="0">
      <tg xml:lang="rus">
        <t pos="Adv">только</t>
      </tg>
@@ -2874,7 +2874,7 @@
        <xt xml:lang="rus">он только что пришёл</xt>
      </xg>
    </mg>
-   <mg>2.
+   <mg relId="1">
      <tg xml:lang="rus">
        <t pos="Adv">потом</t>
      </tg>
@@ -2889,7 +2889,7 @@
      <l pos="Adv">вӧльнӧя</l>
        <l_var type="molodtsov-cyr">вӧԉнӧја</l_var>
    </lg>
-   <mg>1.
+   <mg relId="0">
      <tg xml:lang="rus">
        <t pos="Adv">свободно, просторно</t>
      </tg>
@@ -2898,7 +2898,7 @@
        <xt xml:lang="rus">шить одежду свободно</xt>
      </xg>
    </mg>
-   <mg>2.
+   <mg relId="1">
      <tg xml:lang="rus">
        <t pos="Adv">вольно, свободно</t>
      </tg>
@@ -2907,7 +2907,7 @@
        <xt xml:lang="rus">жить вольно</xt>
      </xg>
    </mg>
-   <mg>3.
+   <mg relId="2">
      <tg xml:lang="rus">
        <t pos="Adv">вольно, тихо, не торопясь</t>
      </tg>
@@ -3013,7 +3013,7 @@
      <l pos="Adv">гажапырысь</l>
        <l_var type="molodtsov-cyr">гажапырыԍ</l_var>
    </lg>
-   <mg>1.
+   <mg relId="0">
      <tg xml:lang="rus">
        <t pos="Adv">охотно, с охотой</t>
      </tg>
@@ -3022,7 +3022,7 @@
        <xt xml:lang="rus">идти охотно</xt>
      </xg>
    </mg>
-   <mg>2.
+   <mg relId="1">
      <tg xml:lang="rus">
        <t pos="Adv">весело</t>
      </tg>
@@ -3037,7 +3037,7 @@
      <l pos="Adv">гажтӧма</l>
        <l_var type="molodtsov-cyr">гажтӧма</l_var>
    </lg>
-   <mg>1.
+   <mg relId="0">
      <tg xml:lang="rus">
        <t pos="Adv">грустно, тоскливо</t>
      </tg>
@@ -3058,7 +3058,7 @@
        <xt xml:lang="rus">тоскливо шелестели редкие листья берёз</xt>
      </xg>
    </mg>
-   <mg>2.
+   <mg relId="1">
      <tg xml:lang="rus">
        <t pos="Adv">жутко</t>
      </tg>
@@ -3163,7 +3163,7 @@
      <l hid="Hom1" pos="Adv">гатша</l>
        <l_var type="molodtsov-cyr">гаща</l_var>
    </lg>
-   <mg arabId="1.">
+   <mg relId="0">
      <tg xml:lang="rus">
        <t pos="Adv"> лежащий навзничь, на спине</t>
      </tg>
@@ -3172,7 +3172,7 @@
        <xt xml:lang="rus"> <em>примета</em> перед морозами месяц рогами вверх</xt>
      </xg>
    </mg>
-   <mg>2.
+   <mg relId="1">
      <tg xml:lang="rus">
        <t pos="Adv">неопрокинутый, неперевёрнутый вверх дном</t>
      </tg>
@@ -3338,7 +3338,7 @@
      <l pos="Adv">гораа</l>
        <l_var type="molodtsov-cyr">гораа</l_var>
    </lg>
-   <mg>1.
+   <mg relId="0">
      <tg xml:lang="rus">
        <t pos="Adv">громко, звонко, звучно, гулко</t>
      </tg>
@@ -3359,7 +3359,7 @@
        <xt xml:lang="rus">ещё громче грянул хохот</xt>
      </xg>
    </mg>
-   <mg>2.
+   <mg relId="1">
      <tg xml:lang="rus">
        <t pos="Adv">вслух</t>
      </tg>
@@ -3389,7 +3389,7 @@
      <l pos="Adv">гортладор</l>
        <l_var type="molodtsov-cyr">гортлаԁор</l_var>
    </lg>
-   <mg>1.
+   <mg relId="0">
      <tg xml:lang="rus">
        <t pos="Adv">окрестности дома, ближайшие к дому места</t>
      </tg>
@@ -3398,7 +3398,7 @@
        <xt xml:lang="rus">обкосить ближайшие к дому места</xt>
      </xg>
    </mg>
-   <mg>2.
+   <mg relId="1">
      <tg xml:lang="rus">
        <t pos="Adv">родные места</t>
      </tg>
@@ -3411,7 +3411,7 @@
        <xt xml:lang="rus">и всё же мою душу тянет в родные места</xt>
      </xg>
    </mg>
-   <mg>3.
+   <mg relId="2">
      <tg xml:lang="rus">
        <t pos="Adv">этот <em>(наш, на котором живём)</em> берег</t>
      </tg>
@@ -3586,12 +3586,12 @@
      <l pos="Adv">гудыр-гадыр</l>
        <l_var type="molodtsov-cyr">гуԁыр-гаԁыр</l_var>
    </lg>
-   <mg>1.
+   <mg relId="0">
      <sg><s pos="Adv" s_type="see">гудыр в 1 значении</s></sg><tg xml:lang="rus">
        <t pos="Adv"></t>
      </tg>
    </mg>
-   <mg>2. <acronym title="диалектное"><em>диал.</em></acronym>
+   <mg relId="1"> <acronym title="диалектное"><em>диал.</em></acronym>
      <tg xml:lang="rus">
        <t pos="Adv"> объедки</t>
      </tg><br />
@@ -3625,7 +3625,7 @@
      <l pos="Adv">гудыра</l>
        <l_var type="molodtsov-cyr">гуԁыра</l_var>
    </lg>
-   <mg>1.
+   <mg relId="0">
      <tg xml:lang="rus">
        <t pos="Adv">мутно</t>
      </tg>
@@ -3634,7 +3634,7 @@
        <xt xml:lang="rus">с одной стороны сухой гряды бурлила, вихрилась мутная вода</xt>
      </xg>
    </mg>
-   <mg>2.
+   <mg relId="1">
      <tg xml:lang="rus">
        <t pos="Adv">тускло</t>
      </tg>
@@ -3649,7 +3649,7 @@
      <l pos="Adv">гулыда</l>
        <l_var type="molodtsov-cyr">гулыԁа</l_var>
    </lg>
-   <mg>1.
+   <mg relId="0">
      <tg xml:lang="rus">
        <t pos="Adv">ярко</t>
      </tg>
@@ -3658,7 +3658,7 @@
        <xt xml:lang="rus">гореть ярко, пылать</xt>
      </xg>
    </mg>
-   <mg>2.
+   <mg relId="1">
      <tg xml:lang="rus">
        <t pos="Adv">громко; гулко</t>
      </tg>
@@ -3673,7 +3673,7 @@
      <l pos="Adv">гумыль-гамыль</l>
        <l_var type="molodtsov-cyr">гумыԉ-гамыԉ</l_var>
    </lg>
-   <mg>1.
+   <mg relId="0">
      <tg xml:lang="rus">
        <t pos="Adv">торопливо, быстро</t>
      </tg>
@@ -3682,7 +3682,7 @@
        <xt xml:lang="rus">быстро, с жадностью проглотить</xt>
      </xg>
    </mg>
-   <mg>2.
+   <mg relId="1">
      <tg xml:lang="rus">
        <t pos="Adv">вихрем</t>
      </tg>
@@ -3697,12 +3697,12 @@
      <l pos="Adv">гурйӧн-гарйӧн</l>
        <l_var type="molodtsov-cyr">гурјӧн-гарјӧн</l_var> <acronym title="диалектное"><em>диал.</em></acronym>
    </lg>
-   <mg arabId="1.">
+   <mg relId="0">
      <sg><s pos="Adv" s_type="see">гур-гар</s></sg><tg xml:lang="rus">
        <t pos="Adv"></t>
      </tg>
    </mg>
-   <mg>2.
+   <mg relId="1">
      <sg><s pos="Adv" s_type="see">гири-люки</s></sg><tg xml:lang="rus">
        <t pos="Adv"></t>
      </tg>
@@ -3724,7 +3724,7 @@
      <l pos="Adv">гусьӧник</l>
        <l_var type="molodtsov-cyr">гуԍӧԋік</l_var>
    </lg>
-   <mg>1.
+   <mg relId="0">
      <tg xml:lang="rus">
        <t pos="Adv">тихонько, шёпотом</t>
      </tg>
@@ -3737,7 +3737,7 @@
        <xt xml:lang="rus">тихонько разговаривать</xt>
      </xg>
    </mg>
-   <mg>2.
+   <mg relId="1">
      <tg xml:lang="rus">
        <t pos="Adv">про себя</t>
      </tg>
@@ -3746,7 +3746,7 @@
        <xt xml:lang="rus">читать про себя</xt>
      </xg>
    </mg>
-   <mg>3.
+   <mg relId="2">
      <tg xml:lang="rus">
        <t pos="Adv">скрытно, незаметно</t>
      </tg>
@@ -3794,7 +3794,7 @@
      <l pos="Adv">гылыда</l>
        <l_var type="molodtsov-cyr">гылыԁа</l_var>
    </lg>
-   <mg>1.
+   <mg relId="0">
      <tg xml:lang="rus">
        <t pos="Adv">беспрепятственно, легко, без особых усилий; гладко</t>
      </tg>
@@ -3815,7 +3815,7 @@
        <xt><acronym title="пословица"><em>посл.</em></acronym> мягко стелет, да жёстко спать </xt><com>(<acronym title="буквально"><em>букв.</em></acronym> гладко говорит, но глубоко закидывает)</com>
      </xg>
    </mg>
-   <mg>2.
+   <mg relId="1">
      <tg xml:lang="rus">
        <t pos="Adv">раскатисто</t>
      </tg>
@@ -3852,7 +3852,7 @@
      <l pos="Adv">гырксӧн</l>
        <l_var type="molodtsov-cyr">гырксӧн</l_var>
    </lg>
-   <mg>1.
+   <mg relId="0">
      <tg xml:lang="rus">
        <t pos="Adv">чулком; целиком, без разрезов <em>(о снимаемой шкуре, коже)</em></t>
      </tg>
@@ -3861,7 +3861,7 @@
        <xt xml:lang="rus">шкура зайца и кролика снимается чулком</xt>
      </xg>
    </mg>
-   <mg>2.
+   <mg relId="1">
      <tg xml:lang="rus">
        <t pos="Adv"><acronym title="в переносном значении"><em>перен.</em></acronym> дудкой, трубой</t>
      </tg>
@@ -3925,12 +3925,12 @@
      <l pos="Adv">гӧгӧрбок</l>
        <l_var type="molodtsov-cyr">гӧгӧрбок</l_var>
    </lg>
-   <mg>1.
+   <mg relId="0">
      <sg><s pos="Adv" s_type="see">гӧгӧр Ⅰ в 1 значении</s></sg><tg xml:lang="rus">
        <t pos="Adv"></t>
      </tg>
    </mg>
-   <mg>2.
+   <mg relId="1">
      <tg xml:lang="rus">
        <t pos="Adv">всесторонне; досконально</t>
      </tg>
@@ -4032,7 +4032,7 @@
      <l pos="Adv">гӧльпырысь</l>
        <l_var type="molodtsov-cyr">гӧԉпырыԍ</l_var>
    </lg>
-   <mg>1.
+   <mg relId="0">
      <tg xml:lang="rus">
        <t pos="Adv">бедновато</t>
      </tg>
@@ -4041,7 +4041,7 @@
        <xt xml:lang="rus">жить бедновато</xt>
      </xg>
    </mg>
-   <mg>2.
+   <mg relId="1">
      <tg xml:lang="rus">
        <t pos="Adv">скудновато</t>
      </tg>
@@ -4075,7 +4075,7 @@
      <l pos="Adv">гӧнечӧн</l>
        <l_var type="molodtsov-cyr">гӧԋечӧн</l_var>
    </lg>
-   <mg>1.
+   <mg relId="0">
      <tg xml:lang="rus">
        <t pos="Adv">бегом</t>
      </tg>
@@ -4088,7 +4088,7 @@
        <xt xml:lang="rus">лес продолжает гореть, огонь распространяется с большой скоростью</xt>
      </xg>
    </mg>
-   <mg>2.
+   <mg relId="1">
      <tg xml:lang="rus">
        <t pos="Adv">рысью</t>
      </tg>
@@ -4114,7 +4114,7 @@
      <l pos="Adv">дарӧм</l>
        <l_var type="molodtsov-cyr">ԁарӧм</l_var>
    </lg>
-   <mg>1.
+   <mg relId="0">
      <tg xml:lang="rus">
        <t pos="Adv">даром, бесплатно</t>
      </tg>
@@ -4123,7 +4123,7 @@
        <xt xml:lang="rus">работать даром</xt>
      </xg>
    </mg>
-   <mg>2.
+   <mg relId="1">
      <tg xml:lang="rus">
        <t pos="Adv">хотя и, несмотря на то, что; даром что <acronym title="просторечное"><em>прост.</em></acronym></t>
      </tg>
@@ -4252,7 +4252,7 @@
      <l pos="Adv">джуджыда</l>
        <l_var type="molodtsov-cyr">җуҗыԁа</l_var>
    </lg>
-   <mg>1.
+   <mg relId="0">
      <tg xml:lang="rus">
        <t pos="Adv">высоко</t>
      </tg>
@@ -4261,7 +4261,7 @@
        <xt xml:lang="rus">высоко сложить</xt>
      </xg>
    </mg>
-   <mg>2.
+   <mg relId="1">
      <tg xml:lang="rus">
        <t pos="Adv">глубоко</t>
      </tg>
@@ -4276,7 +4276,7 @@
      <l pos="Adv">джынвыйӧ</l>
        <l_var type="molodtsov-cyr">җынвыјӧ</l_var>
    </lg>
-   <mg>1.
+   <mg relId="0">
      <tg xml:lang="rus">
        <t pos="Adv">наполовину</t>
      </tg>
@@ -4321,7 +4321,7 @@
        <xt xml:lang="rus">надломить</xt>
      </xg>
    </mg>
-   <mg>2.
+   <mg relId="1">
      <tg xml:lang="rus">
        <t pos="Adv"><em>редко</em> половина</t>
      </tg>
@@ -4393,7 +4393,7 @@
      <l pos="Adv">дзескыда</l>
        <l_var type="molodtsov-cyr">ԇескыԁа</l_var>
    </lg>
-   <mg>1.
+   <mg relId="0">
      <tg xml:lang="rus">
        <t pos="Adv">тесно</t>
      </tg>
@@ -4411,7 +4411,7 @@
        <xt xml:lang="rus">б) тесно застроились</xt>
      </xg>
    </mg>
-   <mg>2.
+   <mg relId="1">
      <tg xml:lang="rus">
        <t pos="Adv"><acronym title="в переносном значении"><em>перен.</em></acronym> в лишениях, в нужде</t>
      </tg>
@@ -4441,7 +4441,7 @@
      <l pos="Adv">дзим-дзурк</l>
        <l_var type="molodtsov-cyr">ԇім-ԇурк</l_var>
    </lg>
-   <mg>1.
+   <mg relId="0">
      <tg xml:lang="rus">
        <t pos="Adv">аккуратно, опрятно, чисто</t>
      </tg>
@@ -4454,7 +4454,7 @@
        <xt xml:lang="rus">чисто убрать</xt>
      </xg>
    </mg>
-   <mg>2.
+   <mg relId="1">
      <tg xml:lang="rus">
        <t pos="Adv">нарядно; хорошо</t>
      </tg>
@@ -4495,7 +4495,7 @@
      <l pos="Adv">дзирыда</l>
        <l_var type="molodtsov-cyr">ԇірыԁа</l_var>
    </lg>
-   <mg>1.
+   <mg relId="0">
      <tg xml:lang="rus">
        <t pos="Adv">ярко; переливаясь; сверкая</t>
      </tg>
@@ -4512,7 +4512,7 @@
        <xt xml:lang="rus">ярко светиться</xt>
      </xg>
    </mg>
-   <mg>2.
+   <mg relId="1">
      <tg xml:lang="rus">
        <t pos="Adv"><acronym title="в переносном значении"><em>перен.</em></acronym> кокетливо, жеманно</t>
      </tg>
@@ -4717,7 +4717,7 @@
      <l pos="Adv">дивъя</l>
        <l_var type="molodtsov-cyr">ԃівја</l_var>
    </lg>
-   <mg>1.
+   <mg relId="0">
      <tg xml:lang="rus">
        <t pos="Adv">не диво, не удивительно</t>
      </tg>
@@ -4730,7 +4730,7 @@
        <xt xml:lang="rus">хорошо гулять, когда работа закончена</xt>
      </xg>
    </mg>
-   <mg>2.
+   <mg relId="1">
      <tg xml:lang="rus">
        <t pos="Adv">неплохо, недурно; хорошо</t>
      </tg>
@@ -4936,7 +4936,7 @@
      <l pos="Adv">дорала</l>
        <l_var type="molodtsov-cyr">ԁорала</l_var>
    </lg>
-   <mg>1.
+   <mg relId="0">
      <tg xml:lang="rus">
        <t pos="Adv">беспрерывно; подряд</t>
      </tg>
@@ -4949,7 +4949,7 @@
        <xt xml:lang="rus">собака стала беспрерывно лаять</xt>
      </xg>
    </mg>
-   <mg>2.
+   <mg relId="1">
      <tg xml:lang="rus">
        <t pos="Adv">запоем</t>
      </tg>
@@ -4983,7 +4983,7 @@
      <l pos="Adv">дорыньӧн</l>
        <l_var type="molodtsov-cyr">ԁорыԋӧн</l_var>
    </lg>
-   <mg>1.
+   <mg relId="0">
      <tg xml:lang="rus">
        <t pos="Adv">наклонно, с наклонным краем</t>
      </tg>
@@ -4992,7 +4992,7 @@
        <xt xml:lang="rus">поставить наклонно</xt>
      </xg>
    </mg>
-   <mg>2.
+   <mg relId="1">
      <tg xml:lang="rus">
        <t pos="Adv">боком, одним плечом вперёд</t>
      </tg>
@@ -5001,7 +5001,7 @@
        <xt xml:lang="rus">ходить боком</xt>
      </xg>
    </mg>
-   <mg>3.
+   <mg relId="2">
      <tg xml:lang="rus">
        <t pos="Adv"><acronym title="в переносном значении"><em>перен.</em></acronym> косо</t>
      </tg>
@@ -5084,7 +5084,7 @@
      <l pos="Adv">дув</l>
        <l_var type="molodtsov-cyr">ԁув</l_var>
    </lg>
-   <mg>1.
+   <mg relId="0">
      <tg xml:lang="rus">
        <t pos="Adv">неподвижно</t>
      </tg>
@@ -5093,7 +5093,7 @@
        <xt xml:lang="rus"> вода стоит <em>(неподвижно)</em></xt>
      </xg>
    </mg>
-   <mg>2.
+   <mg relId="1">
      <tg xml:lang="rus">
        <t pos="Adv">вдруг, неожиданно, внезапно</t>
      </tg>
@@ -5102,7 +5102,7 @@
        <xt xml:lang="rus">неожиданно остановился от страха</xt>
      </xg>
    </mg>
-   <mg>3.
+   <mg relId="2">
      <tg xml:lang="rus">
        <t pos="Adv">плавно</t>
      </tg>
@@ -5128,7 +5128,7 @@
      <l pos="Adv">дузӧба</l>
        <l_var type="molodtsov-cyr">ԁузӧба</l_var>
    </lg>
-   <mg>1.
+   <mg relId="0">
      <tg xml:lang="rus">
        <t pos="Adv">недовольно</t>
      </tg>
@@ -5137,7 +5137,7 @@
        <xt xml:lang="rus">недовольно ответить</xt>
      </xg>
    </mg>
-   <mg>2.
+   <mg relId="1">
      <tg xml:lang="rus">
        <t pos="Adv">обидчиво</t>
      </tg>
@@ -5187,7 +5187,7 @@
      <l pos="Adv">дурка</l>
        <l_var type="molodtsov-cyr">ԁурка</l_var>
    </lg>
-   <mg>1.
+   <mg relId="0">
      <tg xml:lang="rus">
        <t pos="Adv">неопрятно; неаккуратно, неряшливо; небрежно, нечистоплотно</t>
      </tg>
@@ -5204,7 +5204,7 @@
        <xt xml:lang="rus">неаккуратно одеваться</xt>
      </xg>
    </mg>
-   <mg>2.
+   <mg relId="1">
      <tg xml:lang="rus">
        <t pos="Adv">неуклюже</t>
      </tg>
@@ -5339,17 +5339,17 @@
      <l pos="Adv">дышпырысь</l>
        <l_var type="molodtsov-cyr">ԁышпырыԍ</l_var>
    </lg>
-   <mg>1.
+   <mg relId="0">
      <tg xml:lang="rus">
        <t pos="Adv">лениво</t>
      </tg>
    </mg>
-   <mg>2.
+   <mg relId="1">
      <tg xml:lang="rus">
        <t pos="Adv">нехотя, неохотно</t>
      </tg>
    </mg>
-   <mg>3.
+   <mg relId="2">
      <tg xml:lang="rus">
        <t pos="Adv">халатно</t>
      </tg>
@@ -5573,7 +5573,7 @@
      <l pos="Adv">дӧзмӧмвылысь</l>
        <l_var type="molodtsov-cyr">ԁӧзмӧмвылыԍ</l_var>
    </lg>
-   <mg>1.
+   <mg relId="0">
      <tg xml:lang="rus">
        <t pos="Adv">раздражённо, зло; со злостью; с раздражением; от злости</t>
      </tg>
@@ -5590,7 +5590,7 @@
        <xt xml:lang="rus">из-за раздражительности нормальной беседы не получилось</xt>
      </xg>
    </mg>
-   <mg>2.
+   <mg relId="1">
      <tg xml:lang="rus">
        <t pos="Adv">от обиды</t>
      </tg>
@@ -5646,7 +5646,7 @@
      <l pos="Adv">дӧсаднӧ</l>
        <l_var type="molodtsov-cyr">ԁӧсаԁнӧ</l_var>
    </lg>
-   <mg>1.
+   <mg relId="0">
      <tg xml:lang="rus">
        <t pos="Adv">неудобно, неловко, неприятно</t>
      </tg>
@@ -5659,7 +5659,7 @@
        <xt xml:lang="rus">когда много овода, скоту тяжело, трудно</xt>
      </xg>
    </mg>
-   <mg>2.
+   <mg relId="1">
      <tg xml:lang="rus">
        <t pos="Adv">досадно</t>
      </tg>
@@ -5668,7 +5668,7 @@
        <xt xml:lang="rus">досадно, что я опоздал</xt>
      </xg>
    </mg>
-   <mg>3.
+   <mg relId="2">
      <tg xml:lang="rus">
        <t pos="Adv"><acronym title="в переносном значении"><em>перен.</em></acronym> больно</t>
      </tg>
@@ -5778,7 +5778,7 @@
      <l pos="Adv">жальпырысь</l>
        <l_var type="molodtsov-cyr">жаԉпырыԍ</l_var>
    </lg>
-   <mg>1.
+   <mg relId="0">
      <tg xml:lang="rus">
        <t pos="Adv">с жалостью</t>
      </tg>
@@ -5787,7 +5787,7 @@
        <xt xml:lang="rus">соседи с грустью и жалостью поглядывали на нас</xt>
      </xg>
    </mg>
-   <mg>2.
+   <mg relId="1">
      <tg xml:lang="rus">
        <t pos="Adv">нехотя, неохотно <em>(<acronym title="например"><em>напр.</em></acronym>, дать что-либо)</em></t>
      </tg>
@@ -5798,7 +5798,7 @@
      <l pos="Adv">жаляддза</l>
        <l_var type="molodtsov-cyr">жаԉаԇԇа</l_var>
    </lg>
-   <mg>1.
+   <mg relId="0">
      <tg xml:lang="rus">
        <t pos="Adv">из жалости, из сострадания</t>
      </tg>
@@ -5811,7 +5811,7 @@
        <xt xml:lang="rus">его сердце сжималось от жалости</xt>
      </xg>
    </mg>
-   <mg>2.
+   <mg relId="1">
      <tg xml:lang="rus">
        <t pos="Adv">жалея, щадя, оберегая</t>
      </tg>
@@ -5820,7 +5820,7 @@
        <xt xml:lang="rus">мать растила единственного сына, очень оберегая его</xt>
      </xg>
    </mg>
-   <mg>3.
+   <mg relId="2">
      <tg xml:lang="rus">
        <t pos="Adv">с жалостью, сочувственно</t>
      </tg>
@@ -5829,7 +5829,7 @@
        <xt xml:lang="rus">посмотреть сочувственно</xt>
      </xg>
    </mg>
-   <mg>4.
+   <mg relId="3">
      <tg xml:lang="rus">
        <t pos="Adv">с сожалением</t>
      </tg>
@@ -5874,7 +5874,7 @@
      <l pos="Adv">жеба</l>
        <l_var type="molodtsov-cyr">жеба</l_var>
    </lg>
-   <mg>1.
+   <mg relId="0">
      <tg xml:lang="rus">
        <t pos="Adv">слабо</t>
      </tg>
@@ -5883,7 +5883,7 @@
        <xt xml:lang="rus">слабо скатанные валенки</xt>
      </xg>
    </mg>
-   <mg>2.
+   <mg relId="1">
      <tg xml:lang="rus">
        <t pos="Adv">плохо, вяло</t>
      </tg>
@@ -5892,7 +5892,7 @@
        <xt xml:lang="rus">вяло работать</xt>
      </xg>
    </mg>
-   <mg>3.
+   <mg relId="2">
      <tg xml:lang="rus">
        <t pos="Adv">скудно</t>
      </tg>
@@ -5911,7 +5911,7 @@
      <l pos="Adv">жлеча</l>
        <l_var type="molodtsov-cyr">жԉеча</l_var>
    </lg>
-   <mg>1.
+   <mg relId="0">
      <tg xml:lang="rus">
        <t pos="Adv">шаловливо; игриво</t>
      </tg>
@@ -5920,7 +5920,7 @@
        <xt xml:lang="rus">шаловливо сказать</xt>
      </xg>
    </mg>
-   <mg>2.
+   <mg relId="1">
      <tg xml:lang="rus">
        <t pos="Adv">задиристо</t>
      </tg>
@@ -6014,7 +6014,7 @@
      <l pos="Adv">забеднӧ</l>
        <l_var type="molodtsov-cyr">забеԁнӧ</l_var>
    </lg>
-   <mg>1.
+   <mg relId="0">
      <tg xml:lang="rus">
        <t pos="Adv">обидно || обида</t>
      </tg>
@@ -6031,7 +6031,7 @@
        <xt xml:lang="rus">его сердце чуть не разорвалось от обиды</xt>
      </xg>
    </mg>
-   <mg>2.
+   <mg relId="1">
      <tg xml:lang="rus">
        <t pos="Adv"><acronym title="в переносном значении"><em>перен.</em></acronym> больно</t>
      </tg>
@@ -6117,7 +6117,7 @@
      <l pos="Adv">завидьтана</l>
        <l_var type="molodtsov-cyr">завіԃтана</l_var>
    </lg>
-   <mg>1.
+   <mg relId="0">
      <tg xml:lang="rus">
        <t pos="Adv">вызывающий зависть; завидный || завидно; завистливо</t>
      </tg>
@@ -6130,7 +6130,7 @@
        <xt xml:lang="rus">у народа коми есть и завидная прямолинейность</xt>
      </xg>
    </mg>
-   <mg>2.
+   <mg relId="1">
      <tg xml:lang="rus">
        <t pos="Adv"><acronym title="в переносном значении"><em>перен.</em></acronym> добротный, отличный || добротно, отлично</t>
      </tg>
@@ -6235,7 +6235,7 @@
      <l pos="Adv">збодера</l>
        <l_var type="molodtsov-cyr">збоԃера</l_var>
    </lg>
-   <mg>1.
+   <mg relId="0">
      <tg xml:lang="rus">
        <t pos="Adv">бодро</t>
      </tg>
@@ -6244,7 +6244,7 @@
        <xt xml:lang="rus">он чувствовал себя бодро</xt>
      </xg>
    </mg>
-   <mg>2.
+   <mg relId="1">
      <tg xml:lang="rus">
        <t pos="Adv">щеголевато</t>
      </tg>
@@ -6274,7 +6274,7 @@
      <l pos="Adv">збоя</l>
        <l_var type="molodtsov-cyr">збоја</l_var>
    </lg>
-   <mg>1.
+   <mg relId="0">
      <tg xml:lang="rus">
        <t pos="Adv">бойко; мужественно, решительно, смело</t>
      </tg>
@@ -6283,7 +6283,7 @@
        <xt xml:lang="rus">бойко ответить</xt>
      </xg>
    </mg>
-   <mg>2.
+   <mg relId="1">
      <tg xml:lang="rus">
        <t pos="Adv">быстро; бодро</t>
      </tg>
@@ -6313,7 +6313,7 @@
      <l pos="Adv">збыльысь</l>
        <l_var type="molodtsov-cyr">збыԉыԍ</l_var>
    </lg>
-   <mg>1.
+   <mg relId="0">
      <tg xml:lang="rus">
        <t pos="Adv">серьёзно, действительно, фактически || действительный, неподдельный</t>
      </tg>
@@ -6334,7 +6334,7 @@
        <xt xml:lang="rus">наши успехи действительно огромны</xt>
      </xg>
    </mg>
-   <mg>2.
+   <mg relId="1">
      <tg xml:lang="rus">
        <t pos="Adv"><em>в роли</em> <acronym title="вводное слово"><em>вводн.сл.</em></acronym> право, действительно</t>
      </tg>
@@ -6361,7 +6361,7 @@
      <l pos="Adv">звено</l>
        <l_var type="molodtsov-cyr">ԅвено</l_var>
    </lg>
-   <mg>1.
+   <mg relId="0">
      <tg xml:lang="rus">
        <t pos="Adv">звено <em>(составная часть целого)</em></t>
      </tg>
@@ -6374,7 +6374,7 @@
        <xt xml:lang="rus">звено кормо-заготовителей</xt>
      </xg>
    </mg>
-   <mg>2.
+   <mg relId="1">
      <tg xml:lang="rus">
        <t pos="Adv">звено <em>(кольцо, являющееся частью цепи)</em></t>
      </tg>
@@ -6473,7 +6473,7 @@
      <l pos="Adv">здӧвӧльпырысь</l>
        <l_var type="molodtsov-cyr">зԁӧвӧԉпырыԍ</l_var>
    </lg>
-   <mg>1.
+   <mg relId="0">
      <tg xml:lang="rus">
        <t pos="Adv">довольно</t>
      </tg>
@@ -6486,7 +6486,7 @@
        <xt> довольно улыбнуться</xt>
      </xg>; <sg><s pos="Adv" s_type="seeAlso">дӧвӧльпырысь</s><s pos="Adv" s_type="seeAlso">дӧвӧля</s></sg>
    </mg>
-   <mg>2.
+   <mg relId="1">
      <tg xml:lang="rus">
        <t pos="Adv">не ощущая нужды, в достатке</t>
      </tg>
@@ -6501,7 +6501,7 @@
      <l pos="Adv">зумыда</l>
        <l_var type="molodtsov-cyr">зумыԁа</l_var>
    </lg>
-   <mg>1.
+   <mg relId="0">
      <tg xml:lang="rus">
        <t pos="Adv">устойчиво; прочно; глубоко</t>
      </tg>
@@ -6518,7 +6518,7 @@
        <xt xml:lang="rus">стоять устойчиво</xt>
      </xg>
    </mg>
-   <mg>2.
+   <mg relId="1">
      <tg xml:lang="rus">
        <t pos="Adv">уверенно</t>
      </tg>
@@ -6537,12 +6537,12 @@
      <l pos="Adv">зумыдакодь</l>
        <l_var type="molodtsov-cyr">зумыԁакоԃ</l_var>
    </lg>
-   <mg>1.
+   <mg relId="0">
      <tg xml:lang="rus">
        <t pos="Adv">довольно устойчиво, прочно</t>
      </tg>
    </mg>
-   <mg>2.
+   <mg relId="1">
      <tg xml:lang="rus">
        <t pos="Adv">довольно уверенно</t>
      </tg>
@@ -6553,7 +6553,7 @@
      <l pos="Adv">зумыша</l>
        <l_var type="molodtsov-cyr">зумыша</l_var>
    </lg>
-   <mg>1.
+   <mg relId="0">
      <tg xml:lang="rus">
        <t pos="Adv">хмуро; мрачно; угрюмо</t>
      </tg>
@@ -6562,7 +6562,7 @@
        <xt xml:lang="rus">хмуро посмотреть</xt>
      </xg>
    </mg>
-   <mg>2.
+   <mg relId="1">
      <tg xml:lang="rus">
        <t pos="Adv">пасмурно; уныло</t>
      </tg>
@@ -6710,7 +6710,7 @@
      <l pos="Adv">зэлыда</l>
        <l_var type="molodtsov-cyr">зелыԁа</l_var>
    </lg>
-   <mg>1.
+   <mg relId="0">
      <tg xml:lang="rus">
        <t pos="Adv">туго</t>
      </tg>
@@ -6723,7 +6723,7 @@
        <xt xml:lang="rus">туго связать, туго сплести</xt>
      </xg>
    </mg>
-   <mg>2.
+   <mg relId="1">
      <tg xml:lang="rus">
        <t pos="Adv">крепко</t>
      </tg>
@@ -6738,12 +6738,12 @@
      <l pos="Adv">зэлыдакодь</l>
        <l_var type="molodtsov-cyr">зелыԁакоԃ</l_var>
    </lg>
-   <mg>1.
+   <mg relId="0">
      <tg xml:lang="rus">
        <t pos="Adv">довольно туго</t>
      </tg>
    </mg>
-   <mg>2.
+   <mg relId="1">
      <tg xml:lang="rus">
        <t pos="Adv">довольно крепко</t>
      </tg>
@@ -7065,12 +7065,12 @@
      <l pos="Adv">кальӧба</l>
        <l_var type="molodtsov-cyr">каԉӧба</l_var>
    </lg>
-   <mg>1.
+   <mg relId="0">
      <tg xml:lang="rus">
        <t pos="Adv">боязливо, робко</t>
      </tg>
    </mg>
-   <mg>2.
+   <mg relId="1">
      <tg xml:lang="rus">
        <t pos="Adv">нервно</t>
      </tg>
@@ -7100,7 +7100,7 @@
      <l pos="Adv">каля-маля</l>
        <l_var type="molodtsov-cyr">каԉа-маԉа</l_var>
    </lg>
-   <mg>1.
+   <mg relId="0">
      <tg xml:lang="rus">
        <t pos="Adv"><acronym title="собирательное (существительное)"><em>собир.</em></acronym> мелюзга</t>
      </tg>
@@ -7109,7 +7109,7 @@
        <xt xml:lang="rus">вся мелюзга высыпала на улицу</xt>
      </xg>
    </mg>
-   <mg>2. <acronym title="диалектное"><em>диал.</em></acronym>
+   <mg relId="1"> <acronym title="диалектное"><em>диал.</em></acronym>
      <tg xml:lang="rus">
        <t pos="Adv"> болтун, сплетница</t>
      </tg>
@@ -7196,12 +7196,12 @@
      <l pos="Adv">кельыда</l>
        <l_var type="molodtsov-cyr">кеԉыԁа</l_var>
    </lg>
-   <mg>1.
+   <mg relId="0">
      <tg xml:lang="rus">
        <t pos="Adv">бледно</t>
      </tg>
    </mg>
-   <mg>2.
+   <mg relId="1">
      <tg xml:lang="rus">
        <t pos="Adv">слабо</t>
      </tg>
@@ -7216,7 +7216,7 @@
      <l pos="Adv">кивыв</l>
        <l_var type="molodtsov-cyr">ківыв</l_var>
    </lg>
-   <mg>1.
+   <mg relId="0">
      <tg xml:lang="rus">
        <t pos="Adv">на руку</t>
      </tg>
@@ -7233,7 +7233,7 @@
        <xt xml:lang="rus">это только им на руку</xt>
      </xg>
    </mg>
-   <mg>2.
+   <mg relId="1">
      <tg xml:lang="rus">
        <t pos="Adv">удобно, сподручно, с руки</t>
      </tg>
@@ -7313,7 +7313,7 @@
      <l pos="Adv">кикимльӧс</l>
        <l_var type="molodtsov-cyr">кікімԉӧс</l_var>
    </lg>
-   <mg>1.
+   <mg relId="0">
      <tg xml:lang="rus">
        <t pos="Adv">наотмашь</t>
      </tg>
@@ -7322,7 +7322,7 @@
        <xt xml:lang="rus">ударить наотмашь</xt>
      </xg>
    </mg>
-   <mg>2.
+   <mg relId="1">
      <tg xml:lang="rus">
        <t pos="Adv">в сторону</t>
      </tg>
@@ -7341,7 +7341,7 @@
      <l pos="Adv">кикурӧда</l>
        <l_var type="molodtsov-cyr">кікурӧԁа</l_var>
    </lg>
-   <mg>1.
+   <mg relId="0">
      <tg xml:lang="rus">
        <t pos="Adv">неаккуратно, неряшливо; грубо || неаккуратный, неряшливый; грубый</t>
      </tg>
@@ -7366,7 +7366,7 @@
        <xt xml:lang="rus">работать неряшливо; халтурить</xt>
      </xg>
    </mg>
-   <mg>2.
+   <mg relId="1">
      <tg xml:lang="rus">
        <t pos="Adv">нерадиво || нерадивый</t>
      </tg>
@@ -7606,7 +7606,7 @@
      <l pos="Adv">кокниа</l>
        <l_var type="molodtsov-cyr">кокԋіа</l_var>
    </lg>
-   <mg>1.
+   <mg relId="0">
      <tg xml:lang="rus">
        <t pos="Adv">легко</t>
      </tg>
@@ -7627,7 +7627,7 @@
        <xt xml:lang="rus">легко попасть</xt>
      </xg>
    </mg>
-   <mg>2.
+   <mg relId="1">
      <tg xml:lang="rus">
        <t pos="Adv">свободно</t>
      </tg>
@@ -7640,7 +7640,7 @@
        <xt xml:lang="rus">свободно войти в дверь</xt>
      </xg>
    </mg>
-   <mg>3.
+   <mg relId="2">
      <tg xml:lang="rus">
        <t pos="Adv">облегчённо, с облегчением</t>
      </tg>
@@ -7670,7 +7670,7 @@
      <l pos="Adv">кокнипырысь</l>
        <l_var type="molodtsov-cyr">кокԋіпырыԍ</l_var>
    </lg>
-   <mg>1.
+   <mg relId="0">
      <tg xml:lang="rus">
        <t pos="Adv">довольно легко</t>
      </tg>
@@ -7683,7 +7683,7 @@
        <xt xml:lang="rus">довольно легко поднять бревно</xt>
      </xg>
    </mg>
-   <mg>2.
+   <mg relId="1">
      <tg xml:lang="rus">
        <t pos="Adv">охотно, с желанием</t>
      </tg>
@@ -7781,7 +7781,7 @@
      <l pos="Adv">коланінӧ</l>
        <l_var type="molodtsov-cyr">коланінӧ</l_var>
    </lg>
-   <mg>1.
+   <mg relId="0">
      <tg xml:lang="rus">
        <t pos="Adv">на случай необходимости</t>
      </tg>
@@ -7790,7 +7790,7 @@
        <xt xml:lang="rus">приберечь на случай необходимости</xt>
      </xg>
    </mg>
-   <mg>2.
+   <mg relId="1">
      <tg xml:lang="rus">
        <t pos="Adv">в нужде</t>
      </tg>
@@ -7799,7 +7799,7 @@
        <xt xml:lang="rus">помочь в нужде</xt>
      </xg>
    </mg>
-   <mg>3.
+   <mg relId="2">
      <tg xml:lang="rus">
        <t pos="Adv">кстати</t>
      </tg>
@@ -7829,7 +7829,7 @@
      <l pos="Adv">колігӧн</l>
        <l_var type="molodtsov-cyr">колігӧн</l_var>
    </lg>
-   <mg>1.
+   <mg relId="0">
      <tg xml:lang="rus">
        <t pos="Adv">при желании</t>
      </tg>
@@ -7838,7 +7838,7 @@
        <xt xml:lang="rus">при желании всё достанешь</xt>
      </xg>
    </mg>
-   <mg>2.
+   <mg relId="1">
      <tg xml:lang="rus">
        <t pos="Adv">к месту; вовремя</t>
      </tg>
@@ -7865,7 +7865,7 @@
        <xt xml:lang="rus">вот, оказывается, и человек! ну и человек, оказывается!</xt>
      </xg>
    </mg>
-   <mg>2.
+   <mg relId="1">
      <tg xml:lang="rus">
        <t pos="Adv">возможно, может быть, быть может; может</t>
      </tg>
@@ -7948,7 +7948,7 @@
      <l pos="Adv">коркӧ</l>
        <l_var type="molodtsov-cyr">коркӧ</l_var>
    </lg>
-   <mg>1.
+   <mg relId="0">
      <tg xml:lang="rus">
        <t pos="Adv">когда-то; некогда</t>
      </tg>
@@ -7965,7 +7965,7 @@
        <xt xml:lang="rus">некогда здесь было озеро</xt>
      </xg>
    </mg>
-   <mg>2.
+   <mg relId="1">
      <tg xml:lang="rus">
        <t pos="Adv">когда-нибудь; со временем; когда-то</t>
      </tg>
@@ -8270,7 +8270,7 @@
      <l pos="Adv">крута</l>
        <l_var type="molodtsov-cyr">крута</l_var>
    </lg>
-   <mg>1.
+   <mg relId="0">
      <tg xml:lang="rus">
        <t pos="Adv">круто</t>
      </tg>
@@ -8283,7 +8283,7 @@
        <xt xml:lang="rus">круто остановить</xt>
      </xg>
    </mg>
-   <mg>2.
+   <mg relId="1">
      <tg xml:lang="rus">
        <t pos="Adv"><acronym title="в переносном значении"><em>перен.</em></acronym> круто, горячо, запальчиво</t>
      </tg>
@@ -8446,7 +8446,7 @@
        <xt xml:lang="rus">неслышно прийти</xt>
      </xg>
    </mg>
-   <mg>2.
+   <mg relId="1">
      <tg xml:lang="rus">
        <t pos="Adv">подкрадываясь, крадучись</t>
      </tg>
@@ -8474,7 +8474,7 @@
        <xt xml:lang="rus">неслышно прийти</xt>
      </xg>
    </mg>
-   <mg>2.
+   <mg relId="1">
      <tg xml:lang="rus">
        <t pos="Adv">подкрадываясь, крадучись</t>
      </tg>
@@ -8531,7 +8531,7 @@
      <l pos="Adv">курыдпырысь</l>
        <l_var type="molodtsov-cyr">курытпырыԍ</l_var>
    </lg>
-   <mg>1.
+   <mg relId="0">
      <tg xml:lang="rus">
        <t pos="Adv">горьковатый</t>
      </tg>
@@ -8540,7 +8540,7 @@
        <xt xml:lang="rus">вкус горьковатый</xt>
      </xg>
    </mg>
-   <mg>2.
+   <mg relId="1">
      <sg><s pos="Adv" s_type="see">курыдакодь</s></sg><tg xml:lang="rus">
        <t pos="Adv"></t>
      </tg>
@@ -8571,7 +8571,7 @@
        <xt xml:lang="rus">об этом писал некий Сирвойтов</xt>
      </xg>
    </mg>
-   <mg>2.
+   <mg relId="1">
      <tg xml:lang="rus">
        <t pos="Adv">какой-нибудь</t>
      </tg>
@@ -8660,7 +8660,7 @@
        <xt xml:lang="rus">громко вздохнуть</xt>
      </xg>
    </mg>
-   <mg>2.
+   <mg relId="1">
      <tg xml:lang="rus">
        <t pos="Adv">отчётливо, разборчиво, внятно</t>
      </tg>
@@ -8702,7 +8702,7 @@
      <l pos="Adv">кыдзкӧ</l>
        <l_var type="molodtsov-cyr">кычкӧ</l_var>
    </lg>
-   <mg>1.
+   <mg relId="0">
      <tg xml:lang="rus">
        <t pos="Adv">как-нибудь; как-либо</t>
      </tg>
@@ -8715,7 +8715,7 @@
        <xt xml:lang="rus">как-либо надо выяснить</xt>
      </xg>
    </mg>
-   <mg>2.
+   <mg relId="1">
      <tg xml:lang="rus">
        <t pos="Adv">как-то; каким-то образом</t>
      </tg>
@@ -8827,7 +8827,7 @@
        <t pos="Adv">1. выглядывая</t>
      </tg>
    </mg>
-   <mg>2.
+   <mg relId="1">
      <tg xml:lang="rus">
        <t pos="Adv">озираясь</t>
      </tg>
@@ -8842,7 +8842,7 @@
      <l pos="Adv">кылан</l>
        <l_var type="molodtsov-cyr">кылан</l_var>
    </lg>
-   <mg>1.
+   <mg relId="0">
      <tg xml:lang="rus">
        <t pos="Adv">слуховой</t>
      </tg>
@@ -8851,7 +8851,7 @@
        <xt xml:lang="rus">слуховые органы</xt>
      </xg>
    </mg>
-   <mg>2.
+   <mg relId="1">
      <tg xml:lang="rus">
        <t pos="Adv">слышный</t>
      </tg>
@@ -8860,7 +8860,7 @@
        <xt xml:lang="rus">еле слышный голос</xt>
      </xg>
    </mg>
-   <mg>3.
+   <mg relId="2">
      <tg xml:lang="rus">
        <t pos="Adv">чувствующий</t>
      </tg>
@@ -8869,7 +8869,7 @@
        <xt xml:lang="rus">всё чувствующее сердце</xt>
      </xg>
    </mg>
-   <mg>4.
+   <mg relId="3">
      <tg xml:lang="rus">
        <t pos="Adv"><acronym title="вводное слово"><em>вводн.сл.</em></acronym> слышишь</t>
      </tg>
@@ -8884,7 +8884,7 @@
      <l pos="Adv">кымынь</l>
        <l_var type="molodtsov-cyr">кымыԋ</l_var>
    </lg>
-   <mg>1.
+   <mg relId="0">
      <tg xml:lang="rus">
        <t pos="Adv">ничком</t>
      </tg>
@@ -8897,7 +8897,7 @@
        <xt xml:lang="rus">упасть ничком</xt>
      </xg>
    </mg>
-   <mg>2.
+   <mg relId="1">
      <tg xml:lang="rus">
        <t pos="Adv">вверх дном, кверху дном</t>
      </tg>
@@ -8949,7 +8949,7 @@
      <l pos="Adv">кыпыда</l>
        <l_var type="molodtsov-cyr">кыпыԁа</l_var>
    </lg>
-   <mg>1.
+   <mg relId="0">
      <tg xml:lang="rus">
        <t pos="Adv">весело, радостно</t>
      </tg>
@@ -8962,7 +8962,7 @@
        <xt xml:lang="rus">весело смеяться</xt>
      </xg>
    </mg>
-   <mg>2.
+   <mg relId="1">
      <tg xml:lang="rus">
        <t pos="Adv">с подъёмом, с воодушевлением; вдохновенно</t>
      </tg>
@@ -8975,7 +8975,7 @@
        <xt xml:lang="rus">вдохновенно работать</xt>
      </xg>
    </mg>
-   <mg>3.
+   <mg relId="2">
      <tg xml:lang="rus">
        <t pos="Adv">торжественно</t>
      </tg>
@@ -9001,7 +9001,7 @@
      <l pos="Adv">кытшолӧн</l>
        <l_var type="molodtsov-cyr">кыщолӧн</l_var>
    </lg>
-   <mg>1.
+   <mg relId="0">
      <tg xml:lang="rus">
        <t pos="Adv">обходом, в обход</t>
      </tg>
@@ -9014,7 +9014,7 @@
        <xt xml:lang="rus">тропинка вела в обход</xt>
      </xg>
    </mg>
-   <mg>2.
+   <mg relId="1">
      <tg xml:lang="rus">
        <t pos="Adv"><acronym title="в переносном значении"><em>перен.</em></acronym> обиняками, намёком</t>
      </tg>
@@ -9172,7 +9172,7 @@
      <l pos="Adv">кӧлена</l>
        <l_var type="molodtsov-cyr">кӧԉена</l_var>
    </lg>
-   <mg>1.
+   <mg relId="0">
      <tg xml:lang="rus">
        <t pos="Adv">колено, поколение в родословной</t>
      </tg>
@@ -9185,7 +9185,7 @@
        <xt xml:lang="rus">вырастить целое поколение детей</xt>
      </xg>
    </mg>
-   <mg>2.
+   <mg relId="1">
      <tg xml:lang="rus">
        <t pos="Adv">потомки</t>
      </tg>
@@ -9291,7 +9291,7 @@
      <l pos="Adv">кӧсӧя</l>
        <l_var type="molodtsov-cyr">кӧсӧја</l_var>
    </lg>
-   <mg>1.
+   <mg relId="0">
      <tg xml:lang="rus">
        <t pos="Adv">косо</t>
      </tg>
@@ -9300,7 +9300,7 @@
        <xt xml:lang="rus">уложить косо</xt>
      </xg>
    </mg>
-   <mg>2.
+   <mg relId="1">
      <tg xml:lang="rus">
        <t pos="Adv"><acronym title="в переносном значении"><em>перен.</em></acronym> косо, искоса</t>
      </tg>
@@ -9315,7 +9315,7 @@
      <l pos="Adv">лабутнӧя</l>
        <l_var type="molodtsov-cyr">лабутнӧја</l_var>
    </lg>
-   <mg>1.
+   <mg relId="0">
      <tg xml:lang="rus">
        <t pos="Adv">степенно; серьёзно</t>
      </tg>
@@ -9324,7 +9324,7 @@
        <xt xml:lang="rus">говорить степенно</xt>
      </xg>
    </mg>
-   <mg>2.
+   <mg relId="1">
      <tg xml:lang="rus">
        <t pos="Adv">неторопливо</t>
      </tg>
@@ -9440,12 +9440,12 @@
      <l pos="Adv">лайкӧдана</l>
        <l_var type="molodtsov-cyr">лајкӧԁана</l_var>
    </lg>
-   <mg>1.
+   <mg relId="0">
      <tg xml:lang="rus">
        <t pos="Adv">качая, укачивая</t>
      </tg>
    </mg>
-   <mg>2.
+   <mg relId="1">
      <tg xml:lang="rus">
        <t pos="Adv">убаюкивая</t>
      </tg>
@@ -9516,7 +9516,7 @@
      <l pos="Adv">ловйӧн</l>
        <l_var type="molodtsov-cyr">ловјӧн</l_var>
    </lg>
-   <mg>1.
+   <mg relId="0">
      <tg xml:lang="rus">
        <t pos="Adv">живьём</t>
      </tg>
@@ -9529,7 +9529,7 @@
        <xt xml:lang="rus">проглотить живьём</xt>
      </xg>
    </mg>
-   <mg>2.
+   <mg relId="1">
      <tg xml:lang="rus">
        <t pos="Adv">живым</t>
      </tg>
@@ -9706,7 +9706,7 @@
      <l pos="Adv">лэчыда</l>
        <l_var type="molodtsov-cyr">лечыԁа</l_var>
    </lg>
-   <mg>1.
+   <mg relId="0">
      <tg xml:lang="rus">
        <t pos="Adv">остро</t>
      </tg>
@@ -9719,7 +9719,7 @@
        <xt xml:lang="rus">остро наточенный топор</xt>
      </xg>
    </mg>
-   <mg>2.
+   <mg relId="1">
      <tg xml:lang="rus">
        <t pos="Adv"><acronym title="в переносном значении"><em>перен.</em></acronym> резко</t>
      </tg>
@@ -9728,7 +9728,7 @@
        <xt xml:lang="rus">его голос прозвучал резко</xt>
      </xg>
    </mg>
-   <mg>3.
+   <mg relId="2">
      <tg xml:lang="rus">
        <t pos="Adv"><acronym title="в переносном значении"><em>перен.</em></acronym> пронзительно</t>
      </tg>
@@ -9737,7 +9737,7 @@
        <xt xml:lang="rus">пронзительно крикнуть</xt>
      </xg>
    </mg>
-   <mg>4.
+   <mg relId="3">
      <tg xml:lang="rus">
        <t pos="Adv"><acronym title="в переносном значении"><em>перен.</em></acronym> зло</t>
      </tg>
@@ -9752,7 +9752,7 @@
      <l pos="Adv">люб</l>
        <l_var type="molodtsov-cyr">ԉуб</l_var> <acronym title="диалектное"><em>диал.</em></acronym>
    </lg>
-   <mg arabId="1.">
+   <mg relId="0">
      <tg xml:lang="rus">
        <t pos="Adv"> полюбовно</t>
      </tg>
@@ -9761,7 +9761,7 @@
        <xt xml:lang="rus">договориться полюбовно</xt>
      </xg>
    </mg>
-   <mg>2.
+   <mg relId="1">
      <tg xml:lang="rus">
        <t pos="Adv">добровольно</t>
      </tg><br />
@@ -9896,7 +9896,7 @@
      <l pos="Adv">лючки</l>
        <l_var type="molodtsov-cyr">ԉучкі</l_var>
    </lg>
-   <mg>1.
+   <mg relId="0">
      <tg xml:lang="rus">
        <t pos="Adv">благополучно</t>
      </tg>
@@ -9905,7 +9905,7 @@
        <xt xml:lang="rus">благополучно добраться до дома</xt>
      </xg>
    </mg>
-   <mg>2.
+   <mg relId="1">
      <tg xml:lang="rus">
        <t pos="Adv">хорошо, толком</t>
      </tg>
@@ -9922,7 +9922,7 @@
        <xt xml:lang="rus">делать всё хорошо, обстоятельно</xt>
      </xg>
    </mg>
-   <mg>3.
+   <mg relId="2">
      <tg xml:lang="rus">
        <t pos="Adv">внимательно</t>
      </tg>
@@ -9931,7 +9931,7 @@
        <xt xml:lang="rus">внимательно слушать</xt>
      </xg>
    </mg>
-   <mg>4.
+   <mg relId="3">
      <tg xml:lang="rus">
        <t pos="Adv">аккуратно</t>
      </tg>
@@ -9940,7 +9940,7 @@
        <xt xml:lang="rus">аккуратно одеться</xt>
      </xg>
    </mg>
-   <mg>5.
+   <mg relId="4">
      <tg xml:lang="rus">
        <t pos="Adv"><acronym title="в переносном значении"><em>перен.</em></acronym> близкий</t>
      </tg>
@@ -10023,7 +10023,7 @@
      <l pos="Adv">ляпкыда</l>
        <l_var type="molodtsov-cyr">ԉапкыԁа</l_var>
    </lg>
-   <mg>1.
+   <mg relId="0">
      <tg xml:lang="rus">
        <t pos="Adv">низко</t>
      </tg>
@@ -10032,7 +10032,7 @@
        <xt xml:lang="rus">низко сложить поленницу дров</xt>
      </xg>
    </mg>
-   <mg>2.
+   <mg relId="1">
      <tg xml:lang="rus">
        <t pos="Adv">мелко</t>
      </tg>
@@ -10118,7 +10118,7 @@
      <l pos="Adv">лёкысь</l>
        <l_var type="molodtsov-cyr">ԉокыԍ</l_var>
    </lg>
-   <mg>1.
+   <mg relId="0">
      <tg xml:lang="rus">
        <t pos="Adv">злобно, зло, грубо</t>
      </tg>
@@ -10135,7 +10135,7 @@
        <xt xml:lang="rus">грубо толкнуть</xt>
      </xg>
    </mg>
-   <mg>2.
+   <mg relId="1">
      <tg xml:lang="rus">
        <t pos="Adv">сильно; истошно</t>
      </tg>
@@ -10282,7 +10282,7 @@
      <l pos="Adv">лӧня</l>
        <l_var type="molodtsov-cyr">лӧԋа</l_var>
    </lg>
-   <mg>1.
+   <mg relId="0">
      <tg xml:lang="rus">
        <t pos="Adv">тихо, спокойно</t>
      </tg>
@@ -10299,7 +10299,7 @@
        <xt xml:lang="rus">тихо текла река</xt>
      </xg>
    </mg>
-   <mg>2.
+   <mg relId="1">
      <tg xml:lang="rus">
        <t pos="Adv">скромно</t>
      </tg>
@@ -10314,7 +10314,7 @@
      <l pos="Adv">лӧсьыда</l>
        <l_var type="molodtsov-cyr">лӧԍыԁа</l_var>
    </lg>
-   <mg>1.
+   <mg relId="0">
      <tg xml:lang="rus">
        <t pos="Adv">хорошо, хорошенько; мило</t>
      </tg>
@@ -10331,7 +10331,7 @@
        <xt xml:lang="rus">хорошенько расспросить</xt>
      </xg>
    </mg>
-   <mg>2.
+   <mg relId="1">
      <tg xml:lang="rus">
        <t pos="Adv">красиво</t>
      </tg>
@@ -10340,7 +10340,7 @@
        <xt xml:lang="rus">красиво петь</xt>
      </xg>
    </mg>
-   <mg>3.
+   <mg relId="2">
      <tg xml:lang="rus">
        <t pos="Adv">удобно</t>
      </tg>
@@ -10349,7 +10349,7 @@
        <xt xml:lang="rus">удобно усесться</xt>
      </xg>
    </mg>
-   <mg>4.
+   <mg relId="3">
      <tg xml:lang="rus">
        <t pos="Adv">аккуратно</t>
      </tg>
@@ -10362,7 +10362,7 @@
        <xt xml:lang="rus">аккуратно ставить силки на рябчиков</xt>
      </xg>
    </mg>
-   <mg>5.
+   <mg relId="4">
      <tg xml:lang="rus">
        <t pos="Adv">приятно</t>
      </tg>
@@ -10371,7 +10371,7 @@
        <xt xml:lang="rus">приятно веет лёгкий ветерок</xt>
      </xg>
    </mg>
-   <mg>6.
+   <mg relId="5">
      <tg xml:lang="rus">
        <t pos="Adv">удачно</t>
      </tg>
@@ -10380,7 +10380,7 @@
        <xt xml:lang="rus">удачно сделанный перевод</xt>
      </xg>
    </mg>
-   <mg>7.
+   <mg relId="6">
      <tg xml:lang="rus">
        <t pos="Adv">спокойно</t>
      </tg>
@@ -10406,7 +10406,7 @@
      <l pos="Adv">лӧсьыдтӧма</l>
        <l_var type="molodtsov-cyr">лӧԍыттӧма</l_var>
    </lg>
-   <mg>1.
+   <mg relId="0">
      <tg xml:lang="rus">
        <t pos="Adv">некрасиво</t>
      </tg>
@@ -10415,7 +10415,7 @@
        <xt xml:lang="rus">некрасиво говорить</xt>
      </xg>
    </mg>
-   <mg>2.
+   <mg relId="1">
      <tg xml:lang="rus">
        <t pos="Adv">неудобно</t>
      </tg>
@@ -10424,7 +10424,7 @@
        <xt xml:lang="rus">неудобно сидеть</xt>
      </xg>
    </mg>
-   <mg>3.
+   <mg relId="2">
      <tg xml:lang="rus">
        <t pos="Adv">нехорошо</t>
      </tg>
@@ -10437,7 +10437,7 @@
        <xt xml:lang="rus">на нём костюм сидит нехорошо</xt>
      </xg>
    </mg>
-   <mg>4.
+   <mg relId="3">
      <tg xml:lang="rus">
        <t pos="Adv">неаккуратно</t>
      </tg>
@@ -10945,7 +10945,7 @@
      <l pos="Adv">мисьтӧма</l>
        <l_var type="molodtsov-cyr">міԍтӧма</l_var>
    </lg>
-   <mg>1.
+   <mg relId="0">
      <tg xml:lang="rus">
        <t pos="Adv">некрасиво, плохо</t>
      </tg>
@@ -10954,7 +10954,7 @@
        <xt xml:lang="rus">некрасиво писать</xt>
      </xg>
    </mg>
-   <mg>2.
+   <mg relId="1">
      <tg xml:lang="rus">
        <t pos="Adv">некрасиво, дурно; неприлично, непристойно; безобразно</t>
      </tg>
@@ -10973,7 +10973,7 @@
      <l pos="Adv">мичаа</l>
        <l_var type="molodtsov-cyr">мічаа</l_var>
    </lg>
-   <mg>1.
+   <mg relId="0">
      <tg xml:lang="rus">
        <t pos="Adv">красиво; прекрасно</t>
      </tg>
@@ -10990,7 +10990,7 @@
        <xt xml:lang="rus">красиво говорить</xt>
      </xg>
    </mg>
-   <mg>2.
+   <mg relId="1">
      <tg xml:lang="rus">
        <t pos="Adv">хорошо</t>
      </tg>
@@ -11003,7 +11003,7 @@
        <xt xml:lang="rus">хорошо видно</xt>
      </xg>
    </mg>
-   <mg>3.
+   <mg relId="2">
      <tg xml:lang="rus">
        <t pos="Adv">чисто, аккуратно</t>
      </tg>
@@ -11279,7 +11279,7 @@
      <l pos="Adv">мустӧма</l>
        <l_var type="molodtsov-cyr">мустӧма</l_var>
    </lg>
-   <mg>1.
+   <mg relId="0">
      <tg xml:lang="rus">
        <t pos="Adv">неприязненно, с неприязнью, с ненавистью</t>
      </tg>
@@ -11292,7 +11292,7 @@
        <xt xml:lang="rus">неприязненно говорить</xt>
      </xg>
    </mg>
-   <mg>2.
+   <mg relId="1">
      <tg xml:lang="rus">
        <t pos="Adv">противно, неприятно</t>
      </tg>
@@ -11322,7 +11322,7 @@
      <l pos="Adv">мывкыда</l>
        <l_var type="molodtsov-cyr">мывкыԁа</l_var>
    </lg>
-   <mg>1.
+   <mg relId="0">
      <tg xml:lang="rus">
        <t pos="Adv">с каким-либо умом, разумом</t>
      </tg>
@@ -11355,7 +11355,7 @@
        <xt xml:lang="rus">с детским отношением (к жизни)</xt>
      </xg>
    </mg>
-   <mg>2.
+   <mg relId="1">
      <tg xml:lang="rus">
        <t pos="Adv">умный, толковый, рассудительный</t>
      </tg><br />
@@ -11492,7 +11492,7 @@
      <l pos="Adv">мырдысьӧн</l>
        <l_var type="molodtsov-cyr">мырԁыԍӧн</l_var>
    </lg>
-   <mg>1.
+   <mg relId="0">
      <sg><s pos="Adv" s_type="see">мырдӧн</s></sg><tg xml:lang="rus">
        <t pos="Adv"></t>
      </tg>
@@ -11509,7 +11509,7 @@
        <xt xml:lang="rus">работать не по принуждению</xt>
      </xg>
    </mg>
-   <mg>2.
+   <mg relId="1">
      <tg xml:lang="rus">
        <t pos="Adv">через силу, преодолевая слабость</t>
      </tg>
@@ -11644,7 +11644,7 @@
      <l pos="Adv">мӧвпалана</l>
        <l_var type="molodtsov-cyr">мӧвпалана</l_var>
    </lg>
-   <mg>1.
+   <mg relId="0">
      <tg xml:lang="rus">
        <t pos="Adv">задумчиво</t>
      </tg>
@@ -11657,7 +11657,7 @@
        <xt xml:lang="rus">задумчиво сказать</xt>
      </xg>
    </mg>
-   <mg>2.
+   <mg relId="1">
      <sg><s pos="Adv" s_type="see">мӧвпалан</s></sg><tg xml:lang="rus">
        <t pos="Adv"></t>
      </tg>
@@ -11861,7 +11861,7 @@
        <xt xml:lang="rus">он сегодня, вероятно, прибудет</xt>
      </xg>
    </mg>
-   <mg>2.
+   <mg relId="1">
      <tg xml:lang="rus">
        <t pos="Adv">несомненно, наверняка</t>
      </tg>
@@ -11938,7 +11938,7 @@
        <xt xml:lang="rus">дело продвигается медленно</xt>
      </xg>
    </mg>
-   <mg>2.
+   <mg relId="1">
      <tg xml:lang="rus">
        <t pos="Adv">тихо, негромко</t>
      </tg>
@@ -11982,7 +11982,7 @@
        <xt><acronym title="поговорка"><em>погов.</em></acronym> будешь копошиться, так печь остынет</xt>
      </xg>
    </mg>
-   <mg>2.
+   <mg relId="1">
      <tg xml:lang="rus">
        <t pos="Adv">тихо, негромко</t>
      </tg>
@@ -12023,7 +12023,7 @@
      <l pos="Adv">надзӧникӧн</l>
        <l_var type="molodtsov-cyr">наԇӧԋікӧн</l_var>
    </lg>
-   <mg>1.
+   <mg relId="0">
      <tg xml:lang="rus">
        <t pos="Adv">потихоньку; со временем, с течением времени; мало-помалу</t>
      </tg>
@@ -12036,7 +12036,7 @@
        <xt xml:lang="rus">потихоньку, но работа движется</xt>
      </xg>
    </mg>
-   <mg>2.
+   <mg relId="1">
      <tg xml:lang="rus">
        <t pos="Adv">тихонько; потихоньку; негромко</t>
      </tg>
@@ -12093,7 +12093,7 @@
      <l pos="Adv">накӧсӧн</l>
        <l_var type="molodtsov-cyr">накӧсӧн</l_var>
    </lg>
-   <mg>1.
+   <mg relId="0">
      <tg xml:lang="rus">
        <t pos="Adv">наискось, наискосок</t>
      </tg>
@@ -12102,7 +12102,7 @@
        <xt xml:lang="rus"> прибить <em>что-либо</em> наискось</xt>
      </xg>
    </mg>
-   <mg>2.
+   <mg relId="1">
      <tg xml:lang="rus">
        <t pos="Adv">косо</t>
      </tg><br /><stress>&#160;&#160;&#160;накӧсӧн пырысь шонді югӧръяс эз на пӧжны</stress> косые (<acronym title="буквально"><em>букв.</em></acronym> косо проникающие) солнечные лучи ещё не обжигали
@@ -12113,12 +12113,12 @@
      <l pos="Adv">наладорысь</l>
        <l_var type="molodtsov-cyr">налаԁорыԍ</l_var>
    </lg>
-   <mg>1.
+   <mg relId="0">
      <tg xml:lang="rus">
        <t pos="Adv">с их стороны</t>
      </tg>
    </mg>
-   <mg>2.
+   <mg relId="1">
      <tg xml:lang="rus">
        <t pos="Adv">с их половины (дома)</t>
      </tg>
@@ -12141,7 +12141,7 @@
      <l pos="Adv">наперво</l>
        <l_var type="molodtsov-cyr">наперво</l_var>
    </lg>
-   <mg>1.
+   <mg relId="0">
      <tg xml:lang="rus">
        <t pos="Adv">прежде всего</t>
      </tg>
@@ -12154,7 +12154,7 @@
        <xt xml:lang="rus">большое внимание будет уделено, прежде всего, повышению производительности труда</xt>
      </xg>
    </mg>
-   <mg>2.
+   <mg relId="1">
      <tg xml:lang="rus">
        <t pos="Adv">лично, со своей стороны</t>
      </tg>
@@ -12171,7 +12171,7 @@
        <xt xml:lang="rus">я, со своей стороны, обещаю...</xt>
      </xg>
    </mg>
-   <mg>3.
+   <mg relId="2">
      <tg xml:lang="rus">
        <t pos="Adv">только</t>
      </tg>
@@ -12184,7 +12184,7 @@
        <xt xml:lang="rus">не знаю, что там, только что-то очень тяжёлое</xt>
      </xg>
    </mg>
-   <mg>4.
+   <mg relId="3">
      <tg xml:lang="rus">
        <t pos="Adv">по крайней мере; во всяком случае</t>
      </tg>
@@ -12207,7 +12207,7 @@
        <xt xml:lang="rus">нарочно прийти</xt>
      </xg>
    </mg>
-   <mg>2.
+   <mg relId="1">
      <tg xml:lang="rus">
        <t pos="Adv">нарочито, неестественно</t>
      </tg>
@@ -12241,12 +12241,12 @@
      <l pos="Adv">наянпырысь</l>
        <l_var type="molodtsov-cyr">најанпырыԍ</l_var>
    </lg>
-   <mg>1.
+   <mg relId="0">
      <sg><s pos="Adv" s_type="see">наяна</s></sg><tg xml:lang="rus">
        <t pos="Adv"></t>
      </tg>
    </mg>
-   <mg>2.
+   <mg relId="1">
      <tg xml:lang="rus">
        <t pos="Adv">нахально</t>
      </tg>
@@ -12295,12 +12295,12 @@
      <l pos="Adv">небыдика</l>
        <l_var type="molodtsov-cyr">ԋебыԃіка</l_var>
    </lg>
-   <mg>1.
+   <mg relId="0">
      <sg><s pos="Adv" s_type="see">небыда</s></sg><tg xml:lang="rus">
        <t pos="Adv"></t>
      </tg>
    </mg>
-   <mg>2.
+   <mg relId="1">
      <tg xml:lang="rus">
        <t pos="Adv">слегка</t>
      </tg>
@@ -12526,7 +12526,7 @@
      <l pos="Adv">немкӧ</l>
        <l_var type="molodtsov-cyr">ԋемкӧ</l_var> <acronym title="диалектное"><em>диал.</em></acronym>
    </lg>
-   <mg arabId="1.">
+   <mg relId="0">
      <tg xml:lang="rus">
        <t pos="Adv"> неудобно, неловко; нехорошо</t>
      </tg>
@@ -12535,7 +12535,7 @@
        <xt xml:lang="rus">от этого самому стало неловко</xt>
      </xg>
    </mg>
-   <mg>2.
+   <mg relId="1">
      <tg xml:lang="rus">
        <t pos="Adv">тяжело</t>
      </tg>
@@ -12581,7 +12581,7 @@
      <l pos="Adv">неногӧн</l>
        <l_var type="molodtsov-cyr">ԋеногӧн</l_var>
    </lg>
-   <mg>1.
+   <mg relId="0">
      <tg xml:lang="rus">
        <t pos="Adv">бестолково</t>
      </tg>
@@ -12590,7 +12590,7 @@
        <xt xml:lang="rus">жить бестолково</xt>
      </xg>
    </mg>
-   <mg>2.
+   <mg relId="1">
      <tg xml:lang="rus">
        <t pos="Adv">необычно, неестественно; нехорошо; не так, как следует</t>
      </tg>
@@ -12624,7 +12624,7 @@
      <l pos="Adv">непременнӧ</l>
        <l_var type="molodtsov-cyr">ԋепременнӧ</l_var>
    </lg>
-   <mg>1.
+   <mg relId="0">
      <tg xml:lang="rus">
        <t pos="Adv">непременно</t>
      </tg>
@@ -12633,7 +12633,7 @@
        <xt xml:lang="rus">непременно приду</xt>
      </xg>
    </mg>
-   <mg>2.
+   <mg relId="1">
      <tg xml:lang="rus">
        <t pos="Adv">несомненно</t>
      </tg>
@@ -12715,7 +12715,7 @@
      <l pos="Adv">нивӧю</l>
        <l_var type="molodtsov-cyr">ԋівӧју</l_var>
    </lg>
-   <mg>1.
+   <mg relId="0">
      <tg xml:lang="rus">
        <t pos="Adv">целиком; совсем, совершенно</t>
      </tg>
@@ -12724,12 +12724,12 @@
        <xt xml:lang="rus">совершенно промокший; насквозь промокший</xt>
      </xg>
    </mg>
-   <mg>2.
+   <mg relId="1">
      <tg xml:lang="rus">
        <t pos="Adv">сплошь, подряд</t>
      </tg>
    </mg>
-   <mg>3.
+   <mg relId="2">
      <tg xml:lang="rus">
        <t pos="Adv">беспрерывно</t>
      </tg>
@@ -12744,7 +12744,7 @@
      <l pos="Adv">нимкодьпырысь</l>
        <l_var type="molodtsov-cyr">ԋімкоԃпырыԍ</l_var>
    </lg>
-   <mg>1.
+   <mg relId="0">
      <tg xml:lang="rus">
        <t pos="Adv">с радостью</t>
      </tg>
@@ -12753,7 +12753,7 @@
        <xt xml:lang="rus">он с радостью согласился</xt>
      </xg>
    </mg>
-   <mg>2.
+   <mg relId="1">
      <tg xml:lang="rus">
        <t pos="Adv">с воодушевлением</t>
      </tg>
@@ -12762,7 +12762,7 @@
        <xt xml:lang="rus">с воодушевлением приняться за работу</xt>
      </xg>
    </mg>
-   <mg>3.
+   <mg relId="2">
      <tg xml:lang="rus">
        <t pos="Adv">с восхищением</t>
      </tg>
@@ -12906,7 +12906,7 @@
      <l pos="Adv">нырвыв</l>
        <l_var type="molodtsov-cyr">нырвыв</l_var>
    </lg>
-   <mg>1.
+   <mg relId="0">
      <tg xml:lang="rus">
        <t pos="Adv">с перевесом на носовую часть <em>(лодки)</em>; с перегрузкой передка <em>(саней)</em></t>
      </tg>
@@ -12919,7 +12919,7 @@
        <xt xml:lang="rus"> перегрузить носовую часть <em>чего-либо</em></xt>
      </xg>
    </mg>
-   <mg>2.
+   <mg relId="1">
      <tg xml:lang="rus">
        <t pos="Adv">с перевесом на носки</t>
      </tg>
@@ -13120,7 +13120,7 @@
      <l pos="Adv">няра</l>
        <l_var type="molodtsov-cyr">ԋара</l_var>
    </lg>
-   <mg>1.
+   <mg relId="0">
      <tg xml:lang="rus">
        <t pos="Adv">слезливо</t>
      </tg>
@@ -13129,7 +13129,7 @@
        <xt xml:lang="rus">слезливо жаловаться</xt>
      </xg>
    </mg>
-   <mg>2. <acronym title="диалектное"><em>диал.</em></acronym>
+   <mg relId="1"> <acronym title="диалектное"><em>диал.</em></acronym>
      <tg xml:lang="rus">
        <t pos="Adv"> слабо</t>
      </tg>
@@ -13216,7 +13216,7 @@
      <l pos="Adv">омӧлика</l>
        <l_var type="molodtsov-cyr">омӧԉіка</l_var>
    </lg>
-   <mg>1.
+   <mg relId="0">
      <tg xml:lang="rus">
        <t pos="Adv">плохо, неважно</t>
      </tg>
@@ -13225,7 +13225,7 @@
        <xt xml:lang="rus">они живут плохо</xt>
      </xg>
    </mg>
-   <mg>2.
+   <mg relId="1">
      <tg xml:lang="rus">
        <t pos="Adv">немного, немножко</t>
      </tg><br />
@@ -13240,7 +13240,7 @@
      <l pos="Adv">омӧля</l>
        <l_var type="molodtsov-cyr">омӧԉа</l_var>
    </lg>
-   <mg>1.
+   <mg relId="0">
      <tg xml:lang="rus">
        <t pos="Adv">плохо; худо; дурно</t>
      </tg>
@@ -13261,7 +13261,7 @@
        <xt xml:lang="rus">он плохо учится</xt>
      </xg>
    </mg>
-   <mg>2.
+   <mg relId="1">
      <tg xml:lang="rus">
        <t pos="Adv">слабо, плохо, недостаточно</t>
      </tg>
@@ -13286,7 +13286,7 @@
        <xt xml:lang="rus">малоубедительный</xt>
      </xg>
    </mg>
-   <mg>3.
+   <mg relId="2">
      <tg xml:lang="rus">
        <t pos="Adv">редко</t>
      </tg>
@@ -13350,7 +13350,7 @@
      <l pos="Adv">ортсын</l>
        <l_var type="molodtsov-cyr">ортсын</l_var>
    </lg>
-   <mg>1.
+   <mg relId="0">
      <tg xml:lang="rus">
        <t pos="Adv">на стороне</t>
      </tg>
@@ -13359,7 +13359,7 @@
        <xt xml:lang="rus"> жить на стороне <em>(не дома)</em></xt>
      </xg>
    </mg>
-   <mg>2.
+   <mg relId="1">
      <tg xml:lang="rus">
        <t pos="Adv">снаружи, вовне</t>
      </tg>
@@ -13378,7 +13378,7 @@
      <l pos="Adv">ортсысь</l>
        <l_var type="molodtsov-cyr">ортсыԍ</l_var>
    </lg>
-   <mg>1.
+   <mg relId="0">
      <tg xml:lang="rus">
        <t pos="Adv">со стороны</t>
      </tg>
@@ -13387,7 +13387,7 @@
        <xt xml:lang="rus">пригласить помощника со стороны</xt>
      </xg>
    </mg>
-   <mg>2.
+   <mg relId="1">
      <tg xml:lang="rus">
        <t pos="Adv">извне; снаружи; с улицы</t>
      </tg>
@@ -13402,7 +13402,7 @@
      <l pos="Adv">ортсысянь</l>
        <l_var type="molodtsov-cyr">ортсыԍаԋ</l_var>
    </lg>
-   <mg>1.
+   <mg relId="0">
      <tg xml:lang="rus">
        <t pos="Adv">извне, снаружи, с наружной стороны</t>
      </tg>
@@ -13419,7 +13419,7 @@
        <xt xml:lang="rus">запереть дверь снаружи</xt>
      </xg>
    </mg>
-   <mg>2.
+   <mg relId="1">
      <tg xml:lang="rus">
        <t pos="Adv">внешне; наружно</t>
      </tg>
@@ -13864,7 +13864,7 @@
      <l pos="Adv">поводнӧя</l>
        <l_var type="molodtsov-cyr">повоԁнӧја</l_var>
    </lg>
-   <mg>1.
+   <mg relId="0">
      <tg xml:lang="rus">
        <t pos="Adv">довольно много; изрядно; порядочно <acronym title="разговорное"><em>разг.</em></acronym></t>
      </tg>
@@ -13877,7 +13877,7 @@
        <xt xml:lang="rus">сена накошено уже порядочно</xt>
      </xg>
    </mg>
-   <mg>2.
+   <mg relId="1">
      <tg xml:lang="rus">
        <t pos="Adv">довольно сильно; порядком <acronym title="разговорное"><em>разг.</em></acronym></t>
      </tg>
@@ -14002,7 +14002,7 @@
      <l pos="Adv">помвыв</l>
        <l_var type="molodtsov-cyr">помвыв</l_var>
    </lg>
-   <mg>1.
+   <mg relId="0">
      <tg xml:lang="rus">
        <t pos="Adv">стоймя</t>
      </tg>
@@ -14011,7 +14011,7 @@
        <xt xml:lang="rus">поставить стоймя</xt>
      </xg>
    </mg>
-   <mg>2.
+   <mg relId="1">
      <tg xml:lang="rus">
        <t pos="Adv">концом вперёд</t>
      </tg>
@@ -14020,7 +14020,7 @@
        <xt xml:lang="rus">толкать бревно концом вперёд</xt>
      </xg>
    </mg>
-   <mg>3.
+   <mg relId="2">
      <tg xml:lang="rus">
        <t pos="Adv">подряд</t>
      </tg><br />
@@ -14035,12 +14035,12 @@
      <l pos="Adv">помын-дорын</l>
        <l_var type="molodtsov-cyr">помын-ԁорын</l_var>
    </lg>
-   <mg>1.
+   <mg relId="0">
      <tg xml:lang="rus">
        <t pos="Adv">на сносях, скоро должна родить <em>(о женщине)</em></t>
      </tg>
    </mg>
-   <mg>2.
+   <mg relId="1">
      <tg xml:lang="rus">
        <t pos="Adv">в последние дни перед отёлом <em>(о корове)</em></t>
      </tg>
@@ -14055,7 +14055,7 @@
      <l pos="Adv">посклоннӧ</l>
        <l_var type="molodtsov-cyr">посклоннӧ</l_var>
    </lg>
-   <mg>1.
+   <mg relId="0">
      <tg xml:lang="rus">
        <t pos="Adv">толково, с толком</t>
      </tg>
@@ -14064,7 +14064,7 @@
        <xt xml:lang="rus">толково написать</xt>
      </xg>
    </mg>
-   <mg>2.
+   <mg relId="1">
      <tg xml:lang="rus">
        <t pos="Adv">подробно, детально</t>
      </tg>
@@ -14083,7 +14083,7 @@
      <l pos="Adv">посниа</l>
        <l_var type="molodtsov-cyr">посԋіа</l_var>
    </lg>
-   <mg>1.
+   <mg relId="0">
      <tg xml:lang="rus">
        <t pos="Adv">мелко</t>
      </tg>
@@ -14100,7 +14100,7 @@
        <xt xml:lang="rus">колоть мельче</xt>
      </xg>
    </mg>
-   <mg>2.
+   <mg relId="1">
      <tg xml:lang="rus">
        <t pos="Adv">убористо</t>
      </tg>
@@ -14145,7 +14145,7 @@
      <l pos="Adv">прамӧя</l>
        <l_var type="molodtsov-cyr">прамӧја</l_var>
    </lg>
-   <mg>1.
+   <mg relId="0">
      <tg xml:lang="rus">
        <t pos="Adv">по-настоящему, настоящим образом</t>
      </tg>
@@ -14154,7 +14154,7 @@
        <xt xml:lang="rus">он несколько дней по-настоящему не ел</xt>
      </xg>
    </mg>
-   <mg>2.
+   <mg relId="1">
      <tg xml:lang="rus">
        <t pos="Adv">вплотную</t>
      </tg>
@@ -14163,7 +14163,7 @@
        <xt xml:lang="rus">приняться вплотную за работу</xt>
      </xg>
    </mg>
-   <mg>3.
+   <mg relId="2">
      <tg xml:lang="rus">
        <t pos="Adv">хорошо; здорово</t>
      </tg>
@@ -14235,7 +14235,7 @@
      <l pos="Adv">прӧстӧ</l>
        <l_var type="molodtsov-cyr">прӧстӧ</l_var>
    </lg>
-   <mg>1.
+   <mg relId="0">
      <tg xml:lang="rus">
        <t pos="Adv">просто</t>
      </tg>
@@ -14252,12 +14252,12 @@
        <xt xml:lang="rus">это совсем просто</xt>
      </xg>
    </mg>
-   <mg>2.
+   <mg relId="1">
      <sg><s pos="Adv" s_type="see">прӧста Ⅰ в 1-4 значениях</s></sg><tg xml:lang="rus">
        <t pos="Adv"></t>
      </tg>
    </mg>
-   <mg>3.
+   <mg relId="2">
      <sg><s pos="Adv" s_type="see">прӧста Ⅱ</s></sg><tg xml:lang="rus">
        <t pos="Adv"></t>
      </tg>
@@ -14268,7 +14268,7 @@
      <l pos="Adv">прӧстӧя</l>
        <l_var type="molodtsov-cyr">прӧстӧја</l_var>
    </lg>
-   <mg>1.
+   <mg relId="0">
      <tg xml:lang="rus">
        <t pos="Adv">просто, скромно</t>
      </tg>
@@ -14277,7 +14277,7 @@
        <xt xml:lang="rus">просто, скромно одеваться</xt>
      </xg>
    </mg>
-   <mg>2.
+   <mg relId="1">
      <tg xml:lang="rus">
        <t pos="Adv">запросто <acronym title="разговорное"><em>разг.</em></acronym></t>
      </tg>
@@ -14292,7 +14292,7 @@
      <l pos="Adv">пугырӧн</l>
        <l_var type="molodtsov-cyr">пугырӧн</l_var>
    </lg>
-   <mg>1.
+   <mg relId="0">
      <tg xml:lang="rus">
        <t pos="Adv">порывом, порывами, меняя направление <em>(о ветре)</em></t>
      </tg>
@@ -14301,7 +14301,7 @@
        <xt xml:lang="rus">порывистый ветер</xt>
      </xg>
    </mg>
-   <mg>2.
+   <mg relId="1">
      <tg xml:lang="rus">
        <t pos="Adv">неравномерно, островками</t>
      </tg><br />
@@ -14327,7 +14327,7 @@
      <l pos="Adv">пуксӧн</l>
        <l_var type="molodtsov-cyr">пуксӧн</l_var>
    </lg>
-   <mg>1.
+   <mg relId="0">
      <tg xml:lang="rus">
        <t pos="Adv">сидя, в сидячем положении</t>
      </tg>
@@ -14336,7 +14336,7 @@
        <xt xml:lang="rus">сидя спать</xt>
      </xg>
    </mg>
-   <mg>2.
+   <mg relId="1">
      <tg xml:lang="rus">
        <t pos="Adv">не опрокинув; килем вниз</t>
      </tg>
@@ -14373,7 +14373,7 @@
      <l pos="Adv">пыдӧ</l>
        <l_var type="molodtsov-cyr">пыԁӧ</l_var>
    </lg>
-   <mg>1.
+   <mg relId="0">
      <tg xml:lang="rus">
        <t pos="Adv">глубоко</t>
      </tg>
@@ -14386,7 +14386,7 @@
        <xt xml:lang="rus">глаза его глубоко запали</xt>
      </xg>
    </mg>
-   <mg>2.
+   <mg relId="1">
      <tg xml:lang="rus">
        <t pos="Adv">далеко</t>
      </tg>
@@ -14401,12 +14401,12 @@
      <l pos="Adv">пыдӧдз</l>
        <l_var type="molodtsov-cyr">пыԁӧԇ</l_var>
    </lg>
-   <mg>1.
+   <mg relId="0">
      <sg><s pos="Adv" s_type="see">пыдӧ в 1 значении</s></sg><tg xml:lang="rus">
        <t pos="Adv"></t>
      </tg>
    </mg>
-   <mg>2.
+   <mg relId="1">
      <tg xml:lang="rus">
        <t pos="Adv">окончательно; полностью; до конца</t>
      </tg>
@@ -14467,7 +14467,7 @@
      <l pos="Adv">пырысь</l>
        <l_var type="molodtsov-cyr">пырыԍ</l_var>
    </lg>
-   <mg>1.
+   <mg relId="0">
      <tg xml:lang="rus">
        <t pos="Adv">вошедший</t>
      </tg>
@@ -14476,7 +14476,7 @@
        <xt xml:lang="rus">вошедшие уселись</xt>
      </xg>
    </mg>
-   <mg>2.
+   <mg relId="1">
      <tg xml:lang="rus">
        <t pos="Adv">поступивший</t>
      </tg>
@@ -14574,7 +14574,7 @@
      <l pos="Adv">пӧпуттьӧ</l>
        <l_var type="molodtsov-cyr">пӧпуԏԏӧ</l_var>
    </lg>
-   <mg>1.
+   <mg relId="0">
      <tg xml:lang="rus">
        <t pos="Adv">попутно || попутный</t>
      </tg>
@@ -14587,7 +14587,7 @@
        <xt xml:lang="rus">попутный ветер помогает подниматься против течения</xt>
      </xg>
    </mg>
-   <mg>2.
+   <mg relId="1">
      <tg xml:lang="rus">
        <t pos="Adv">по пути</t>
      </tg>
@@ -14655,7 +14655,7 @@
      <l pos="Adv">пӧся</l>
        <l_var type="molodtsov-cyr">пӧԍа</l_var>
    </lg>
-   <mg>1.
+   <mg relId="0">
      <tg xml:lang="rus">
        <t pos="Adv">горячо, тепло, пылко, с жаром || горячий, тёплый</t>
      </tg>
@@ -14680,7 +14680,7 @@
        <xt xml:lang="rus">горячо, тепло приветствовать</xt>
      </xg>
    </mg>
-   <mg>2.
+   <mg relId="1">
      <tg xml:lang="rus">
        <t pos="Adv">пылко || пылкий</t>
      </tg>
@@ -14849,7 +14849,7 @@
      <l pos="Adv">регыдик</l>
        <l_var type="molodtsov-cyr">регыԃік</l_var>
    </lg>
-   <mg>1.
+   <mg relId="0">
      <tg xml:lang="rus">
        <t pos="Adv">недолго, ненадолго</t>
      </tg>
@@ -14862,7 +14862,7 @@
        <xt xml:lang="rus">недолго пожить</xt>
      </xg>
    </mg>
-   <mg>2.
+   <mg relId="1">
      <tg xml:lang="rus">
        <t pos="Adv">немного, чуть-чуть</t>
      </tg>
@@ -15144,7 +15144,7 @@
      <l pos="Adv">сап</l>
        <l_var type="molodtsov-cyr">сап</l_var>
    </lg>
-   <mg>1.
+   <mg relId="0">
      <tg xml:lang="rus">
        <t pos="Adv">совсем, совершенно <em>(темно)</em></t>
      </tg>
@@ -15153,7 +15153,7 @@
        <xt xml:lang="rus">совершенно темно; ни зги не видно</xt>
      </xg>
    </mg>
-   <mg>2. <acronym title="диалектное"><em>диал.</em></acronym>
+   <mg relId="1"> <acronym title="диалектное"><em>диал.</em></acronym>
      <tg xml:lang="rus">
        <t pos="Adv"> совсем, совершенно; нисколько</t>
      </tg>
@@ -15333,7 +15333,7 @@
      <l pos="Adv">скӧнь</l>
        <l_var type="molodtsov-cyr">скӧԋ</l_var>
    </lg>
-   <mg>1.
+   <mg relId="0">
      <tg xml:lang="rus">
        <t pos="Adv">окончательно, совсем</t>
      </tg>
@@ -15350,7 +15350,7 @@
        <xt> я совсем забыл</xt>
      </xg>; <sg><s pos="Adv" s_type="seeAlso">дзикӧдз во 2 значении</s></sg>
    </mg>
-   <mg>2.
+   <mg relId="1">
      <tg xml:lang="rus">
        <t pos="Adv">решительно, твёрдо; категорически</t>
      </tg><br />
@@ -15516,7 +15516,7 @@
      <l pos="Adv">смела</l>
        <l_var type="molodtsov-cyr">ԍмела</l_var>
    </lg>
-   <mg>1.
+   <mg relId="0">
      <tg xml:lang="rus">
        <t pos="Adv">безбоязненно, без опаски, смело, отважно</t>
      </tg><br />
@@ -15525,7 +15525,7 @@
        <xt> он держался смело</xt>
      </xg>; <sg><s pos="Adv" s_type="seeAlso">повтӧг</s><s pos="Adv" s_type="seeAlso">збоя в 1 значении</s></sg>
    </mg>
-   <mg>2.
+   <mg relId="1">
      <tg xml:lang="rus">
        <t pos="Adv"><acronym title="в переносном значении"><em>перен.</em></acronym> без сомнений, без колебаний</t>
      </tg><br />
@@ -15781,7 +15781,7 @@
      <l pos="Adv">сувтсӧн</l>
        <l_var type="molodtsov-cyr">сувтсӧн</l_var>
    </lg>
-   <mg>1.
+   <mg relId="0">
      <tg xml:lang="rus">
        <t pos="Adv">стоя, в стоячем положении</t>
      </tg>
@@ -15790,7 +15790,7 @@
        <xt xml:lang="rus">есть стоя</xt>
      </xg>
    </mg>
-   <mg>2.
+   <mg relId="1">
      <tg xml:lang="rus">
        <t pos="Adv">стоймя</t>
      </tg>
@@ -15803,7 +15803,7 @@
        <xt xml:lang="rus">поставить стоймя</xt>
      </xg>
    </mg>
-   <mg>3.
+   <mg relId="2">
      <tg xml:lang="rus">
        <t pos="Adv">дыбом; торчком</t>
      </tg>
@@ -16009,7 +16009,7 @@
      <l pos="Adv">сьӧкыда</l>
        <l_var type="molodtsov-cyr">ԍӧкыԁа</l_var>
    </lg>
-   <mg>1.
+   <mg relId="0">
      <tg xml:lang="rus">
        <t pos="Adv">тяжело; трудно, с трудом, плохо</t>
      </tg>
@@ -16030,7 +16030,7 @@
        <xt xml:lang="rus">плохо говорить; говорить так, что трудно слушать</xt>
      </xg>
    </mg>
-   <mg>2.
+   <mg relId="1">
      <tg xml:lang="rus">
        <t pos="Adv">тяжело</t>
      </tg>
@@ -16039,7 +16039,7 @@
        <xt xml:lang="rus">тяжело нагруженный воз</xt>
      </xg>
    </mg>
-   <mg>3.
+   <mg relId="2">
      <tg xml:lang="rus">
        <t pos="Adv">тяжело, тяжко</t>
      </tg>
@@ -16052,7 +16052,7 @@
        <xt xml:lang="rus">умереть в мучениях</xt>
      </xg>
    </mg>
-   <mg>4.
+   <mg relId="3">
      <tg xml:lang="rus">
        <t pos="Adv">крепко</t>
      </tg>
@@ -16061,7 +16061,7 @@
        <xt xml:lang="rus">крепко спать</xt>
      </xg>
    </mg>
-   <mg>5.
+   <mg relId="4">
      <tg xml:lang="rus">
        <t pos="Adv">трудно, грузно</t>
      </tg>
@@ -16076,7 +16076,7 @@
      <l pos="Adv">сьӧкыдапырысь</l>
        <l_var type="molodtsov-cyr">ԍӧкыԁапырыԍ</l_var>
    </lg>
-   <mg>1.
+   <mg relId="0">
      <tg xml:lang="rus">
        <t pos="Adv">трудновато, с трудом, с перенапряжением, через силу</t>
      </tg>
@@ -16089,7 +16089,7 @@
        <xt xml:lang="rus">лошадь с трудом стронула воз</xt>
      </xg>
    </mg>
-   <mg>2.
+   <mg relId="1">
      <tg xml:lang="rus">
        <t pos="Adv">тяжеловато; грузно</t>
      </tg>
@@ -16130,7 +16130,7 @@
      <l pos="Adv">сьӧрсьӧн-бӧрсьӧн</l>
        <l_var type="molodtsov-cyr">ԍӧрԍӧн-бӧрԍӧн</l_var>
    </lg>
-   <mg>1.
+   <mg relId="0">
      <tg xml:lang="rus">
        <t pos="Adv">друг за другом; вереницей, гуськом</t>
      </tg>
@@ -16147,7 +16147,7 @@
        <xt xml:lang="rus">расставить друг за другом</xt>
      </xg>
    </mg>
-   <mg>2.
+   <mg relId="1">
      <tg xml:lang="rus">
        <t pos="Adv">последовательно</t>
      </tg>
@@ -16245,7 +16245,7 @@
      <l pos="Adv">сэсянь</l>
        <l_var type="molodtsov-cyr">сеԍаԋ</l_var>
    </lg>
-   <mg>1.
+   <mg relId="0">
      <tg xml:lang="rus">
        <t pos="Adv">оттуда, с того места</t>
      </tg>
@@ -16258,7 +16258,7 @@
        <xt xml:lang="rus">оттуда не достанешь</xt>
      </xg>
    </mg>
-   <mg>2.
+   <mg relId="1">
      <sg><s pos="Adv" s_type="see">сэксянь</s></sg><tg xml:lang="rus">
        <t pos="Adv"></t>
      </tg>
@@ -16411,7 +16411,7 @@
      <l pos="Adv">сюся</l>
        <l_var type="molodtsov-cyr">ԍуԍа</l_var>
    </lg>
-   <mg>1.
+   <mg relId="0">
      <tg xml:lang="rus">
        <t pos="Adv">толково; умело; ловко</t>
      </tg>
@@ -16420,7 +16420,7 @@
        <xt xml:lang="rus">ловко работать</xt>
      </xg>
    </mg>
-   <mg>2.
+   <mg relId="1">
      <tg xml:lang="rus">
        <t pos="Adv">внимательно, с интересом</t>
      </tg>
@@ -16433,7 +16433,7 @@
        <xt xml:lang="rus">слушать внимательно; слушать с интересом</xt>
      </xg>
    </mg>
-   <mg>3.
+   <mg relId="2">
      <tg xml:lang="rus">
        <t pos="Adv">бдительно; зорко</t>
      </tg>
@@ -16623,7 +16623,7 @@
      <l pos="Adv">сідз-тадз</l>
        <l_var type="molodtsov-cyr">сіԇ-таԇ</l_var>
    </lg>
-   <mg>1.
+   <mg relId="0">
      <tg xml:lang="rus">
        <t pos="Adv">так-сяк; кое-как, неважно; ни шатко, ни валко</t>
      </tg>
@@ -16644,7 +16644,7 @@
        <xt xml:lang="rus">он одет неважно</xt>
      </xg>
    </mg>
-   <mg>2.
+   <mg relId="1">
      <tg xml:lang="rus">
        <t pos="Adv">просто, без особого намерения</t>
      </tg>
@@ -16717,7 +16717,7 @@
        <xt xml:lang="rus">устал? тогда отдохни</xt>
      </xg>
    </mg>
-   <mg>2.
+   <mg relId="1">
      <tg xml:lang="rus">
        <t pos="Adv"><acronym title="вводное слово"><em>вводн.сл.</em></acronym> значит, следовательно, стало быть; выходит</t>
      </tg>
@@ -16738,7 +16738,7 @@
        <xt xml:lang="rus">стало быть, ты не хочешь идти?</xt>
      </xg>
    </mg>
-   <mg>3.
+   <mg relId="2">
      <tg xml:lang="rus">
        <t pos="Adv">постольку</t>
      </tg>
@@ -16753,7 +16753,7 @@
      <l pos="Adv">сӧвсем</l>
        <l_var type="molodtsov-cyr">сӧвԍем</l_var>
    </lg>
-   <mg>1.
+   <mg relId="0">
      <tg xml:lang="rus">
        <t pos="Adv">совсем, совершенно; вполне</t>
      </tg>
@@ -16766,7 +16766,7 @@
        <xt> это нас совсем не прельщает</xt>
      </xg>; <sg><s pos="Adv" s_type="seeAlso">дзик в 1 значении</s><s pos="Adv" s_type="seeAlso">дзикӧдз в 1 значении</s></sg>
    </mg>
-   <mg>2.
+   <mg relId="1">
      <tg xml:lang="rus">
        <t pos="Adv"><em>перед отрицанием</em> в какой степени, нисколько</t>
      </tg>
@@ -16804,7 +16804,7 @@
      <l pos="Adv">сӧстӧма</l>
        <l_var type="molodtsov-cyr">сӧстӧма</l_var>
    </lg>
-   <mg>1.
+   <mg relId="0">
      <tg xml:lang="rus">
        <t pos="Adv">чисто, опрятно; чистоплотно</t>
      </tg>
@@ -16821,7 +16821,7 @@
        <xt xml:lang="rus">текучая вода твёрдые камни шлифует чисто</xt>
      </xg>
    </mg>
-   <mg>2.
+   <mg relId="1">
      <tg xml:lang="rus">
        <t pos="Adv">свято</t>
      </tg>
@@ -17009,7 +17009,7 @@
      <l pos="Adv">талун-аски</l>
        <l_var type="molodtsov-cyr">талун-аскі</l_var>
    </lg>
-   <mg>1.
+   <mg relId="0">
      <tg xml:lang="rus">
        <t pos="Adv">на днях, вскоре</t>
      </tg>
@@ -17026,7 +17026,7 @@
        <xt xml:lang="rus">его дни сочтены; не сегодня-завтра умрёт</xt>
      </xg>
    </mg>
-   <mg>2.
+   <mg relId="1">
      <tg xml:lang="rus">
        <t pos="Adv">эти дни</t>
      </tg>
@@ -17243,7 +17243,7 @@
      <l pos="Adv">терпиттӧма</l>
        <l_var type="molodtsov-cyr">ԏерпіттӧма</l_var>
    </lg>
-   <mg>1.
+   <mg relId="0">
      <tg xml:lang="rus">
        <t pos="Adv">с нетерпением</t>
      </tg>
@@ -17252,7 +17252,7 @@
        <xt xml:lang="rus">ждать с нетерпением</xt>
      </xg>
    </mg>
-   <mg>2.
+   <mg relId="1">
      <tg xml:lang="rus">
        <t pos="Adv">невыносимо</t>
      </tg>
@@ -17267,7 +17267,7 @@
      <l pos="Adv">тешкодя</l>
        <l_var type="molodtsov-cyr">ԏешкоԃа</l_var>
    </lg>
-   <mg>1.
+   <mg relId="0">
      <tg xml:lang="rus">
        <t pos="Adv">забавно, потешно, смешно</t>
      </tg>
@@ -17280,7 +17280,7 @@
        <xt xml:lang="rus">смешно упал</xt>
      </xg>
    </mg>
-   <mg>2.
+   <mg relId="1">
      <tg xml:lang="rus">
        <t pos="Adv">странно</t>
      </tg>
@@ -17307,7 +17307,7 @@
        <xt xml:lang="rus">с громким стоном полетел кулик-прибрежник</xt>
      </xg>
    </mg>
-   <mg>2.
+   <mg relId="1">
      <tg xml:lang="rus">
        <t pos="Adv">со свистом; свистя</t>
      </tg>
@@ -17400,7 +17400,7 @@
      <l pos="Adv">топ</l>
        <l_var type="molodtsov-cyr">топ</l_var>
    </lg>
-   <mg>1.
+   <mg relId="0">
      <tg xml:lang="rus">
        <t pos="Adv">плотно, вплотную</t>
      </tg>
@@ -17409,7 +17409,7 @@
        <xt xml:lang="rus">окно закрылось плотно</xt>
      </xg>
    </mg>
-   <mg>2.
+   <mg relId="1">
      <tg xml:lang="rus">
        <t pos="Adv">точно, точь-в-точь</t>
      </tg>
@@ -17426,7 +17426,7 @@
        <xt xml:lang="rus"> точно как огонь от сухой травы <em>(о вспыльчивом человеке)</em></xt>
      </xg>
    </mg>
-   <mg>3.
+   <mg relId="2">
      <sg><s pos="Adv" s_type="see">тан Ⅰ</s></sg><tg xml:lang="rus">
        <t pos="Adv"></t>
      </tg>
@@ -17456,7 +17456,7 @@
      <l pos="Adv">торйӧн-торйӧн</l>
        <l_var type="molodtsov-cyr">торјӧн-торјӧн</l_var>
    </lg>
-   <mg>1.
+   <mg relId="0">
      <tg xml:lang="rus">
        <t pos="Adv">в отдельности, по отдельности; в одиночку, поодиночке</t>
      </tg>
@@ -17465,7 +17465,7 @@
        <xt xml:lang="rus">люди собирались в клубе поодиночке</xt>
      </xg>
    </mg>
-   <mg>2.
+   <mg relId="1">
      <tg xml:lang="rus">
        <t pos="Adv">небольшими группами, частями, по частям, вразбивку, кусками</t>
      </tg>
@@ -17519,7 +17519,7 @@
        <xt xml:lang="rus">б) контрастные цвета</xt>
      </xg>
    </mg>
-   <mg>2.
+   <mg relId="1">
      <tg xml:lang="rus">
        <t pos="Adv">заметный; необыкновенный; незаурядный</t>
      </tg>
@@ -17740,7 +17740,7 @@
        <xt xml:lang="rus">щеголять</xt>
      </xg>
    </mg>
-   <mg>2.
+   <mg relId="1">
      <tg xml:lang="rus">
        <t pos="Adv">важно; гордо, горделиво; высокомерно; надменно</t>
      </tg>
@@ -17753,7 +17753,7 @@
        <xt xml:lang="rus">надменно ходить</xt>
      </xg>
    </mg>
-   <mg>2.
+   <mg relId="1">
      <tg xml:lang="rus">
        <t pos="Adv">манерно, жеманно</t>
      </tg>
@@ -17766,12 +17766,12 @@
        <xt xml:lang="rus">говорить жеманно</xt>
      </xg>
    </mg>
-   <mg>4.
+   <mg relId="3">
      <tg xml:lang="rus">
        <t pos="Adv">деланно, искусственно</t>
      </tg>
    </mg>
-   <mg>5.
+   <mg relId="4">
      <tg xml:lang="rus">
        <t pos="Adv">лихо</t>
      </tg>
@@ -17846,12 +17846,12 @@
      <l pos="Adv">тшӧга</l>
        <l_var type="molodtsov-cyr">щӧга</l_var>
    </lg>
-   <mg>1.
+   <mg relId="0">
      <tg xml:lang="rus">
        <t pos="Adv">жирно</t>
      </tg>
    </mg>
-   <mg>2.
+   <mg relId="1">
      <tg xml:lang="rus">
        <t pos="Adv">сочно</t>
      </tg>
@@ -17866,7 +17866,7 @@
      <l pos="Adv">тшӧкыда</l>
        <l_var type="molodtsov-cyr">щӧкыԁа</l_var>
    </lg>
-   <mg>1.
+   <mg relId="0">
      <tg xml:lang="rus">
        <t pos="Adv">густо</t>
      </tg>
@@ -17875,7 +17875,7 @@
        <xt xml:lang="rus">рожь взошла густо</xt>
      </xg>
    </mg>
-   <mg>2.
+   <mg relId="1">
      <tg xml:lang="rus">
        <t pos="Adv">часто</t>
      </tg>
@@ -18033,7 +18033,7 @@
        <xt xml:lang="rus">заготовить сена в достаточном количестве</xt>
      </xg>
    </mg>
-   <mg>2.
+   <mg relId="1">
      <tg xml:lang="rus">
        <t pos="Adv">вдоволь, достаточно</t>
      </tg>
@@ -18106,12 +18106,12 @@
      <l pos="Adv">тыртӧма</l>
        <l_var type="molodtsov-cyr">тыртӧма</l_var>
    </lg>
-   <mg>1.
+   <mg relId="0">
      <tg xml:lang="rus">
        <t pos="Adv">зря, напрасно, попусту</t>
      </tg>
    </mg>
-   <mg>2.
+   <mg relId="1">
      <sg><s pos="Adv" s_type="see">тыртӧг во 2 значении</s></sg><tg xml:lang="rus">
        <t pos="Adv"></t>
      </tg>
@@ -18528,7 +18528,7 @@
      <l pos="Adv">тӧдчытӧма</l>
        <l_var type="molodtsov-cyr">тӧччытӧма</l_var>
    </lg>
-   <mg>1.
+   <mg relId="0">
      <tg xml:lang="rus">
        <t pos="Adv">незаметно, невидимо</t>
      </tg>
@@ -18537,7 +18537,7 @@
        <xt xml:lang="rus">незаметно прибывает возраст</xt>
      </xg>
    </mg>
-   <mg>2.
+   <mg relId="1">
      <tg xml:lang="rus">
        <t pos="Adv">незначительно</t>
      </tg>
@@ -18744,7 +18744,7 @@
      <l pos="Adv">укшаля</l>
        <l_var type="molodtsov-cyr">укшаԉа</l_var>
    </lg>
-   <mg>1.
+   <mg relId="0">
      <tg xml:lang="rus">
        <t pos="Adv">неуклюже, неловко</t>
      </tg>
@@ -18753,7 +18753,7 @@
        <xt xml:lang="rus">неуклюже сесть</xt>
      </xg>
    </mg>
-   <mg>2.
+   <mg relId="1">
      <tg xml:lang="rus">
        <t pos="Adv">вразвалку, неповоротливо</t>
      </tg>
@@ -18764,7 +18764,7 @@
      <l pos="Adv">улиспырысь</l>
        <l_var type="molodtsov-cyr">уԉіспырыԍ</l_var>
    </lg>
-   <mg>1.
+   <mg relId="0">
      <tg xml:lang="rus">
        <t pos="Adv">влажно, сыро || влажный, сырой</t>
      </tg>
@@ -18777,7 +18777,7 @@
        <xt xml:lang="rus">в этот стог заметали влажноватое сено</xt>
      </xg>
    </mg>
-   <mg>2.
+   <mg relId="1">
      <tg xml:lang="rus">
        <t pos="Adv"><acronym title="в переносном значении"><em>перен.</em></acronym> хорошо, быстро</t>
      </tg>
@@ -18786,7 +18786,7 @@
        <xt xml:lang="rus"> хорошо развиваться <em>(о детях, животных, растениях)</em></xt>
      </xg>
    </mg>
-   <mg>3.
+   <mg relId="2">
      <tg xml:lang="rus">
        <t pos="Adv"><acronym title="в переносном значении"><em>перен.</em></acronym> сочно</t>
      </tg>
@@ -18805,7 +18805,7 @@
      <l pos="Adv">уллюнйӧн</l>
        <l_var type="molodtsov-cyr">уԉԉунјӧн</l_var>
    </lg>
-   <mg>1.
+   <mg relId="0">
      <tg xml:lang="rus">
        <t pos="Adv"></t>
      </tg><br /><span class="underline">употребляется лишь в составе выражений:</span><br />
@@ -18814,7 +18814,7 @@
        <xt xml:lang="rus">есть скоромное, скоромничать</xt>
      </xg>
    </mg>
-   <mg>2.
+   <mg relId="1">
      <tg xml:lang="rus">
        <t pos="Adv"><acronym title="в переносном значении"><em>перен.</em></acronym> смачно, непристойно</t>
      </tg>
@@ -19009,7 +19009,7 @@
      <l pos="Adv">урӧда</l>
        <l_var type="molodtsov-cyr">урӧԁа</l_var>
    </lg>
-   <mg>1.
+   <mg relId="0">
      <tg xml:lang="rus">
        <t pos="Adv">нечистоплотно; неряшливо</t>
      </tg>
@@ -19022,7 +19022,7 @@
        <xt xml:lang="rus">быть неряшливым в быту</xt>
      </xg>
    </mg>
-   <mg>2.
+   <mg relId="1">
      <tg xml:lang="rus">
        <t pos="Adv">небрежно</t>
      </tg>
@@ -19041,12 +19041,12 @@
      <l pos="Adv">урӧдакодь</l>
        <l_var type="molodtsov-cyr">урӧԁакоԃ</l_var>
    </lg>
-   <mg>1.
+   <mg relId="0">
      <tg xml:lang="rus">
        <t pos="Adv">довольно неряшливо</t>
      </tg>
    </mg>
-   <mg>2.
+   <mg relId="1">
      <tg xml:lang="rus">
        <t pos="Adv">довольно небрежно</t>
      </tg>
@@ -19482,7 +19482,7 @@
      <l pos="Adv">чукыльӧн-мукыльӧн</l>
        <l_var type="molodtsov-cyr">чукыԉӧн-мукыԉӧн</l_var>
    </lg>
-   <mg>1.
+   <mg relId="0">
      <tg xml:lang="rus">
        <t pos="Adv">зигзагами, извилисто; криво, косо; вкривь и вкось</t>
      </tg>
@@ -19499,7 +19499,7 @@
        <xt xml:lang="rus">ручей бежит извилисто</xt>
      </xg>
    </mg>
-   <mg>2.
+   <mg relId="1">
      <tg xml:lang="rus">
        <t pos="Adv"><acronym title="в переносном значении"><em>перен.</em></acronym> обиняком</t>
      </tg>
@@ -19529,7 +19529,7 @@
      <l pos="Adv">чукӧрӧн-чукӧрӧн</l>
        <l_var type="molodtsov-cyr">чукӧрӧн-чукӧрӧн</l_var>
    </lg>
-   <mg>1.
+   <mg relId="0">
      <tg xml:lang="rus">
        <t pos="Adv">кучами, грудами</t>
      </tg>
@@ -19538,7 +19538,7 @@
        <xt xml:lang="rus">кучами сложить</xt>
      </xg>
    </mg>
-   <mg>2.
+   <mg relId="1">
      <tg xml:lang="rus">
        <t pos="Adv">гурьбой; толпой; группами; сплошной массой</t>
      </tg>
@@ -19613,7 +19613,7 @@
      <l pos="Adv">чусыда</l>
        <l_var type="molodtsov-cyr">чусыԁа</l_var>
    </lg>
-   <mg>1.
+   <mg relId="0">
      <tg xml:lang="rus">
        <t pos="Adv">тускло</t>
      </tg>
@@ -19626,7 +19626,7 @@
        <xt xml:lang="rus">на улице тускло горели фонари</xt>
      </xg>
    </mg>
-   <mg>2.
+   <mg relId="1">
      <tg xml:lang="rus">
        <t pos="Adv"><acronym title="в переносном значении"><em>перен.</em></acronym> вяло</t>
      </tg>
@@ -19641,7 +19641,7 @@
      <l pos="Adv">чуть</l>
        <l_var type="molodtsov-cyr">чуԏ</l_var>
    </lg>
-   <mg>1.
+   <mg relId="0">
      <tg xml:lang="rus">
        <t pos="Adv">чуть, едва, еле</t>
      </tg>
@@ -19654,7 +19654,7 @@
        <xt xml:lang="rus">едва не заплакал</xt>
      </xg>
    </mg>
-   <mg>2.
+   <mg relId="1">
      <tg xml:lang="rus">
        <t pos="Adv">едва, только, только что</t>
      </tg><br />
@@ -19771,7 +19771,7 @@
      <l pos="Adv">чӧскыда</l>
        <l_var type="molodtsov-cyr">чӧскыԁа</l_var>
    </lg>
-   <mg>1.
+   <mg relId="0">
      <tg xml:lang="rus">
        <t pos="Adv">вкусно</t>
      </tg>
@@ -19784,7 +19784,7 @@
        <xt xml:lang="rus">вкусно приготовить</xt>
      </xg>
    </mg>
-   <mg>2.
+   <mg relId="1">
      <tg xml:lang="rus">
        <t pos="Adv">аппетитно, с аппетитом</t>
      </tg>
@@ -19793,7 +19793,7 @@
        <xt xml:lang="rus">хорошо поработаешь, с аппетитом покушаешь</xt>
      </xg>
    </mg>
-   <mg>3.
+   <mg relId="2">
      <tg xml:lang="rus">
        <t pos="Adv"><acronym title="в переносном значении"><em>перен.</em></acronym> крепко, сладко</t>
      </tg>
@@ -19910,7 +19910,7 @@
      <l pos="Adv">швичӧга</l>
        <l_var type="molodtsov-cyr">швічӧга</l_var>
    </lg>
-   <mg>1.
+   <mg relId="0">
      <tg xml:lang="rus">
        <t pos="Adv">хлёстко, звучно; звонко</t>
      </tg>
@@ -19919,7 +19919,7 @@
        <xt xml:lang="rus">хлёстко ударить</xt>
      </xg>
    </mg>
-   <mg>2.
+   <mg relId="1">
      <tg xml:lang="rus">
        <t pos="Adv">звонко, звучно <em>(о звуках)</em></t>
      </tg>
@@ -19960,7 +19960,7 @@
      <l pos="Adv">швычӧка</l>
        <l_var type="molodtsov-cyr">швычӧка</l_var> <acronym title="диалектное"><em>диал.</em></acronym>
    </lg>
-   <mg arabId="1.">
+   <mg relId="0">
      <tg xml:lang="rus">
        <t pos="Adv"> быстро, проворно, шустро</t>
      </tg>
@@ -19973,7 +19973,7 @@
        <xt xml:lang="rus">быстро идти</xt>
      </xg>
    </mg>
-   <mg>2.
+   <mg relId="1">
      <tg xml:lang="rus">
        <t pos="Adv">гибко</t>
      </tg>
@@ -20271,7 +20271,7 @@
      <l pos="Adv">шоналӧмвылысь</l>
        <l_var type="molodtsov-cyr">шоналӧмвылыԍ</l_var>
    </lg>
-   <mg>1.
+   <mg relId="0">
      <tg xml:lang="rus">
        <t pos="Adv">от жары; будучи разгорячённым</t>
      </tg>
@@ -20280,7 +20280,7 @@
        <xt xml:lang="rus">от жары жадно пить воду</xt>
      </xg>
    </mg>
-   <mg>2.
+   <mg relId="1">
      <tg xml:lang="rus">
        <t pos="Adv">в возбуждении; сгоряча</t>
      </tg>
@@ -20582,7 +20582,7 @@
      <l pos="Adv">шуштӧма</l>
        <l_var type="molodtsov-cyr">шуштӧма</l_var>
    </lg>
-   <mg>1.
+   <mg relId="0">
      <tg xml:lang="rus">
        <t pos="Adv">невесело</t>
      </tg>
@@ -20591,7 +20591,7 @@
        <xt xml:lang="rus">невесело живёте</xt>
      </xg>
    </mg>
-   <mg>2.
+   <mg relId="1">
      <tg xml:lang="rus">
        <t pos="Adv">жутко, мрачно</t>
      </tg>
@@ -20610,7 +20610,7 @@
      <l pos="Adv">шыльыда</l>
        <l_var type="molodtsov-cyr">шыԉыԁа</l_var>
    </lg>
-   <mg>1.
+   <mg relId="0">
      <tg xml:lang="rus">
        <t pos="Adv">гладко, ровно</t>
      </tg>
@@ -20635,7 +20635,7 @@
        <xt xml:lang="rus">всё закончилось гладко</xt>
      </xg>
    </mg>
-   <mg>2.
+   <mg relId="1">
      <tg xml:lang="rus">
        <t pos="Adv">слаженно</t>
      </tg>
@@ -20786,7 +20786,7 @@
      <l pos="Adv">шӧрипӧв</l>
        <l_var type="molodtsov-cyr">шӧріпӧв</l_var>
    </lg>
-   <mg>1.
+   <mg relId="0">
      <tg xml:lang="rus">
        <t pos="Adv">на две части; вдвое</t>
      </tg>
@@ -20799,7 +20799,7 @@
        <xt xml:lang="rus">отломить на две части</xt>
      </xg>
    </mg>
-   <mg>2.
+   <mg relId="1">
      <tg xml:lang="rus">
        <t pos="Adv">наполовину</t>
      </tg>
@@ -20902,7 +20902,7 @@
      <l pos="Adv">ыджыда</l>
        <l_var type="molodtsov-cyr">ыҗыԁа</l_var>
    </lg>
-   <mg>1.
+   <mg relId="0">
      <tg xml:lang="rus">
        <t pos="Adv">крупно</t>
      </tg>
@@ -20924,7 +20924,7 @@
        <xt xml:lang="rus">возлагать большие надежды</xt>
      </xg>
    </mg>
-   <mg>2.
+   <mg relId="1">
      <tg xml:lang="rus">
        <t pos="Adv">тяжело; громко</t>
      </tg>
@@ -20945,7 +20945,7 @@
        <xt xml:lang="rus">тяжело вздыхать</xt>
      </xg>
    </mg>
-   <mg>3.
+   <mg relId="2">
      <tg xml:lang="rus">
        <t pos="Adv">великовато, просторно; свободно</t>
      </tg>
@@ -21067,7 +21067,7 @@
      <l pos="Adv">ыкшаа</l>
        <l_var type="molodtsov-cyr">ыкшаа</l_var>
    </lg>
-   <mg>1.
+   <mg relId="0">
      <tg xml:lang="rus">
        <t pos="Adv">высокомерно, горделиво, заносчиво, кичливо</t>
      </tg>
@@ -21076,7 +21076,7 @@
        <xt xml:lang="rus">высокомерно поклониться</xt>
      </xg>
    </mg>
-   <mg>2.
+   <mg relId="1">
      <tg xml:lang="rus">
        <t pos="Adv">хвастливо</t>
      </tg>
@@ -21132,7 +21132,7 @@
      <l pos="Adv">ыльӧбӧн</l>
        <l_var type="molodtsov-cyr">ыԉӧбӧн</l_var>
    </lg>
-   <mg>1.
+   <mg relId="0">
      <tg xml:lang="rus">
        <t pos="Adv">потоком, ручьём, струёй; фонтаном</t>
      </tg>
@@ -21153,7 +21153,7 @@
        <xt xml:lang="rus">по лицу струился пот</xt>
      </xg>
    </mg>
-   <mg>2.
+   <mg relId="1">
      <tg xml:lang="rus">
        <t pos="Adv">толпой, массой</t>
      </tg>
@@ -21970,7 +21970,7 @@
      <l pos="Adv">этшапырысь</l>
        <l_var type="molodtsov-cyr">ещапырыԍ</l_var>
    </lg>
-   <mg>1.
+   <mg relId="0">
      <tg xml:lang="rus">
        <t pos="Adv">по меньшей мере; самое малое</t>
      </tg>
@@ -21983,7 +21983,7 @@
        <xt xml:lang="rus">здесь было по меньшей мере около ста человек</xt>
      </xg>
    </mg>
-   <mg>2.
+   <mg relId="1">
      <tg xml:lang="rus">
        <t pos="Adv">по крайней мере, во всяком случае</t>
      </tg>
@@ -22059,7 +22059,7 @@
      <l pos="Adv">юмова</l>
        <l_var type="molodtsov-cyr">јумова</l_var>
    </lg>
-   <mg>1.
+   <mg relId="0">
      <tg xml:lang="rus">
        <t pos="Adv">сладко</t>
      </tg>
@@ -22068,7 +22068,7 @@
        <xt xml:lang="rus">пить очень сладкий чай</xt>
      </xg>
    </mg>
-   <mg>2.
+   <mg relId="1">
      <tg xml:lang="rus">
        <t pos="Adv">слащаво</t>
      </tg>
@@ -22147,7 +22147,7 @@
      <l pos="Adv">явӧ</l>
        <l_var type="molodtsov-cyr">јавӧ</l_var>
    </lg>
-   <mg>1.
+   <mg relId="0">
      <tg xml:lang="rus">
        <t pos="Adv">открыто, явно</t>
      </tg>
@@ -22164,7 +22164,7 @@
        <xt xml:lang="rus">открыто показать жалость</xt>
      </xg>
    </mg>
-   <mg>2.
+   <mg relId="1">
      <tg xml:lang="rus">
        <t pos="Adv">наяву</t>
      </tg>
@@ -22173,7 +22173,7 @@
        <xt xml:lang="rus">закроет глаза, словно наяву видит</xt>
      </xg>
    </mg>
-   <mg>3.
+   <mg relId="2">
      <sg><s pos="Adv" s_type="see">явнӧ</s></sg><tg xml:lang="rus">
        <t pos="Adv"></t>
      </tg>
@@ -22304,7 +22304,7 @@
      <l pos="Adv">ярскӧба</l>
        <l_var type="molodtsov-cyr">јарскӧба</l_var>
    </lg>
-   <mg>1.
+   <mg relId="0">
      <tg xml:lang="rus">
        <t pos="Adv">отчётливо, чётко</t>
      </tg>
@@ -22317,7 +22317,7 @@
        <xt xml:lang="rus">чётко произнести</xt>
      </xg>
    </mg>
-   <mg>2.
+   <mg relId="1">
      <tg xml:lang="rus">
        <t pos="Adv"><acronym title="в переносном значении"><em>перен.</em></acronym> резко; сердито</t>
      </tg>
@@ -22362,7 +22362,7 @@
      <l pos="Adv">яръюгыда</l>
        <l_var type="molodtsov-cyr">јарјугыԁа</l_var>
    </lg>
-   <mg>1.
+   <mg relId="0">
      <tg xml:lang="rus">
        <t pos="Adv">ярко</t>
      </tg>
@@ -22371,7 +22371,7 @@
        <xt xml:lang="rus">ярко вспыхнуть</xt>
      </xg>
    </mg>
-   <mg>2.
+   <mg relId="1">
      <tg xml:lang="rus">
        <t pos="Adv">красочно</t>
      </tg>
@@ -22447,7 +22447,7 @@
      <l pos="Adv">ёнджыка</l>
        <l_var type="molodtsov-cyr">јонҗыка</l_var>
    </lg>
-   <mg>1.
+   <mg relId="0">
      <tg xml:lang="rus">
        <t pos="Adv"><acronym title="сравнительная степень"><em>сравнит.ст.</em></acronym> <em>от</em> <xref link="ёна"> ёна в 1 значении</xref></t>
      </tg>
@@ -22456,7 +22456,7 @@
        <xt xml:lang="rus">смех стал ещё громче</xt>
      </xg>
    </mg>
-   <mg>2.
+   <mg relId="1">
      <tg xml:lang="rus">
        <t pos="Adv">более, больше, главным образом</t>
      </tg>
@@ -22498,7 +22498,7 @@
      <l pos="Adv">ёнпырысь</l>
        <l_var type="molodtsov-cyr">јонпырыԍ</l_var>
    </lg>
-   <mg>1.
+   <mg relId="0">
      <tg xml:lang="rus">
        <t pos="Adv">прочно</t>
      </tg>
@@ -22554,7 +22554,7 @@
      <l pos="Adv">ёся</l>
        <l_var type="molodtsov-cyr">јоԍа</l_var>
    </lg>
-   <mg>1.
+   <mg relId="0">
      <tg xml:lang="rus">
        <t pos="Adv">остро; резко</t>
      </tg>
@@ -22567,7 +22567,7 @@
        <xt xml:lang="rus">вопрос был поставлен остро</xt>
      </xg>
    </mg>
-   <mg>2.
+   <mg relId="1">
      <tg xml:lang="rus">
        <t pos="Adv">испытующе, внимательно</t>
      </tg>
@@ -22655,7 +22655,7 @@
      <l pos="Adv">ӧддзӧмвылысь</l>
        <l_var type="molodtsov-cyr">ӧԇԇӧмвылыԍ</l_var>
    </lg>
-   <mg>1.
+   <mg relId="0">
      <tg xml:lang="rus">
        <t pos="Adv">с разбегу</t>
      </tg>
@@ -22664,7 +22664,7 @@
        <xt xml:lang="rus">с разбегу сразу не смог остановиться</xt>
      </xg>
    </mg>
-   <mg>2.
+   <mg relId="1">
      <tg xml:lang="rus">
        <t pos="Adv">разгорячившись</t>
      </tg>
@@ -22780,7 +22780,7 @@
      <l pos="Adv">ӧкрӧметь</l>
        <l_var type="molodtsov-cyr">ӧкрӧмеԏ</l_var>
    </lg>
-   <mg>1.
+   <mg relId="0">
      <tg xml:lang="rus">
        <t pos="Adv">чересчур, слишком</t>
      </tg>
@@ -22789,7 +22789,7 @@
        <xt xml:lang="rus">он не слишком утруждает себя</xt>
      </xg>
    </mg>
-   <mg>2.
+   <mg relId="1">
      <tg xml:lang="rus">
        <t pos="Adv">совсем, совершенно</t>
      </tg>
@@ -22798,7 +22798,7 @@
        <xt xml:lang="rus">совершенно глупый</xt>
      </xg>
    </mg>
-   <mg>3.
+   <mg relId="2">
      <tg xml:lang="rus">
        <t pos="Adv">напрасно</t>
      </tg>
@@ -22915,7 +22915,7 @@
      <l pos="Adv">ӧні</l>
        <l_var type="molodtsov-cyr">ӧні</l_var>
    </lg>
-   <mg>1.
+   <mg relId="0">
      <tg xml:lang="rus">
        <t pos="Adv">теперь, в настоящее время, сейчас; нынче <acronym title="разговорное"><em>разг.</em></acronym>; ныне <acronym title="устаревшее слово"><em>уст.</em></acronym></t>
      </tg>
@@ -22948,7 +22948,7 @@
        <xt><acronym title="поговорка"><em>погов.</em></acronym> теперь люди один умнее и лучше другого</xt>
      </xg>
    </mg>
-   <mg>2.
+   <mg relId="1">
      <tg xml:lang="rus">
        <t pos="Adv">настоящее</t>
      </tg>
@@ -23024,7 +23024,7 @@
      <l pos="Adv">ӧтарвыв</l>
        <l_var type="molodtsov-cyr">ӧтарвыв</l_var>
    </lg>
-   <mg>1.
+   <mg relId="0">
      <tg xml:lang="rus">
        <t pos="Adv">с перевесом на один край, на один бок, на одну сторону</t>
      </tg>
@@ -23037,12 +23037,12 @@
        <xt xml:lang="rus">воз наложили на один бок, и он развалился</xt>
      </xg>
    </mg>
-   <mg>2.
+   <mg relId="1">
      <tg xml:lang="rus">
        <t pos="Adv">на одну руку, с преимущественным напряжением одной руки <em>(при рабочих процессах, требующих поочерёдного напряжения, усилия то правой, то левой руки)</em></t>
      </tg><br /><stress>&#160;&#160;&#160;ытшкыны ӧтарвыв</stress> косить на одну руку <em>(<acronym title="то есть"><em>т.е.</em></acronym> в одну сторону)</em>
    </mg>
-   <mg>3.
+   <mg relId="2">
      <tg xml:lang="rus">
        <t pos="Adv">односторонний</t>
      </tg>
@@ -23051,7 +23051,7 @@
        <xt xml:lang="rus">одностороннее движение на дороге</xt>
      </xg>
    </mg>
-   <mg>4.
+   <mg relId="3">
      <tg xml:lang="rus">
        <t pos="Adv"><acronym title="в переносном значении"><em>перен.</em></acronym> однобокий</t>
      </tg>
@@ -23170,17 +23170,17 @@
      <l pos="Adv">ӧтвесьтын</l>
        <l_var type="molodtsov-cyr">ӧтвеԍтын</l_var>
    </lg>
-   <mg>1.
+   <mg relId="0">
      <tg xml:lang="rus">
        <t pos="Adv">друг против друга</t>
      </tg>
    </mg>
-   <mg>2.
+   <mg relId="1">
      <tg xml:lang="rus">
        <t pos="Adv">напротив</t>
      </tg>
    </mg>
-   <mg>3.
+   <mg relId="2">
      <tg xml:lang="rus">
        <t pos="Adv">на одной линии, на одном уровне</t>
      </tg>
@@ -23195,12 +23195,12 @@
      <l pos="Adv">ӧтвесьтӧ</l>
        <l_var type="molodtsov-cyr">ӧтвеԍтӧ</l_var>
    </lg>
-   <mg>1.
+   <mg relId="0">
      <tg xml:lang="rus">
        <t pos="Adv">друг против друга</t>
      </tg>
    </mg>
-   <mg>2.
+   <mg relId="1">
      <tg xml:lang="rus">
        <t pos="Adv">напротив</t>
      </tg>
@@ -23209,7 +23209,7 @@
        <xt xml:lang="rus">напротив школы</xt>
      </xg>
    </mg>
-   <mg>3.
+   <mg relId="2">
      <tg xml:lang="rus">
        <t pos="Adv">на одном уровне</t>
      </tg>
@@ -23224,7 +23224,7 @@
      <l pos="Adv">ӧтвыв</l>
        <l_var type="molodtsov-cyr">ӧтвыв</l_var>
    </lg>
-   <mg>1.
+   <mg relId="0">
      <sg><s pos="Adv" s_type="see">ӧтвылысь</s></sg><tg xml:lang="rus">
        <t pos="Adv"></t>
      </tg>
@@ -23241,7 +23241,7 @@
        <xt xml:lang="rus">решили единодушно</xt>
      </xg>
    </mg>
-   <mg>2.
+   <mg relId="1">
      <tg xml:lang="rus">
        <t pos="Adv">слитный || слитно</t>
      </tg>
@@ -23256,7 +23256,7 @@
      <l pos="Adv">ӧтгудыр</l>
        <l_var type="molodtsov-cyr">ӧԁгуԁыр</l_var>
    </lg>
-   <mg>1.
+   <mg relId="0">
      <tg xml:lang="rus">
        <t pos="Adv">все вместе</t>
      </tg>
@@ -23269,12 +23269,12 @@
        <xt xml:lang="rus">до сих пор жили все вместе и дальше будем жить</xt>
      </xg>
    </mg>
-   <mg>2.
+   <mg relId="1">
      <tg xml:lang="rus">
        <t pos="Adv">без разбора; как попало</t>
      </tg>
    </mg>
-   <mg>3.
+   <mg relId="2">
      <tg xml:lang="rus">
        <t pos="Adv">вперемешку</t>
      </tg>
@@ -23320,7 +23320,7 @@
      <l pos="Adv">ӧтдор</l>
        <l_var type="molodtsov-cyr">ӧԁԁор</l_var>
    </lg>
-   <mg>1.
+   <mg relId="0">
      <tg xml:lang="rus">
        <t pos="Adv"><em>послелог</em></t>
      </tg><br />&#160;&#160;&#160;1) кроме, помимо <em>кого-чего-либо</em><br />
@@ -23345,7 +23345,7 @@
        <xt xml:lang="rus">сверх плана</xt>
      </xg><br />&#160;&#160;&#160;&#160;&#160;&#160;<sg><s pos="Adv" s_type="seeAlso">кындзи</s></sg>
    </mg>
-   <mg>2. <acronym title="диалектное"><em>диал.</em></acronym>
+   <mg relId="1"> <acronym title="диалектное"><em>диал.</em></acronym>
      <tg xml:lang="rus">
        <t pos="Adv"> чужой, посторонний</t>
      </tg>
@@ -23401,7 +23401,7 @@
      <l pos="Adv">ӧтилаті</l>
        <l_var type="molodtsov-cyr">ӧԏілаті</l_var>
    </lg>
-   <mg>1.
+   <mg relId="0">
      <tg xml:lang="rus">
        <t pos="Adv">по одному месту; в одном месте</t>
      </tg>
@@ -23414,7 +23414,7 @@
        <xt><acronym title="поговорка"><em>погов.</em></acronym> если в одном месте порвалось, в другом месте обязательно порвётся</xt>
      </xg>
    </mg>
-   <mg>2.
+   <mg relId="1">
      <tg xml:lang="rus">
        <t pos="Adv">местный</t>
      </tg>
@@ -23606,7 +23606,7 @@
      <l pos="Adv">ӧткӧн</l>
        <l_var type="molodtsov-cyr">ӧткӧн</l_var>
    </lg>
-   <mg>1.
+   <mg relId="0">
      <tg xml:lang="rus">
        <t pos="Adv">одиноко, одиночкой</t>
      </tg>
@@ -23619,7 +23619,7 @@
        <xt xml:lang="rus">жить одиноко</xt>
      </xg>
    </mg>
-   <mg>2.
+   <mg relId="1">
      <tg xml:lang="rus">
        <t pos="Adv">в одиночку <em>(без участия посторонних, не на совместных началах)</em></t>
      </tg>
@@ -23644,7 +23644,7 @@
        <xt><acronym title="поговорка"><em>погов.</em></acronym> в одиночку с сотней людей не справиться</xt>
      </xg>
    </mg>
-   <mg>3.
+   <mg relId="2">
      <tg xml:lang="rus">
        <t pos="Adv">индивидуально, единолично</t>
      </tg>
@@ -23653,7 +23653,7 @@
        <xt xml:lang="rus">единоличное управление</xt>
      </xg>
    </mg>
-   <mg>4.
+   <mg relId="3">
      <tg xml:lang="rus">
        <t pos="Adv">поодиночке</t>
      </tg><br /><stress>&#160;&#160;&#160;ӧткӧн пукалысь</stress> сидящий в одиночном заключении; одиночник <acronym title="разговорное"><em>разг.</em></acronym><br />
@@ -23668,7 +23668,7 @@
      <l pos="Adv">ӧткӧн-ӧткӧн</l>
        <l_var type="molodtsov-cyr">ӧткӧн-ӧткӧн</l_var>
    </lg>
-   <mg>1.
+   <mg relId="0">
      <tg xml:lang="rus">
        <t pos="Adv">очень редко, одиночками</t>
      </tg>
@@ -23677,7 +23677,7 @@
        <xt xml:lang="rus">репа взошла очень редко</xt>
      </xg>
    </mg>
-   <mg>2.
+   <mg relId="1">
      <tg xml:lang="rus">
        <t pos="Adv">по одному; поодиночке</t>
      </tg>
@@ -23742,7 +23742,7 @@
        <xt xml:lang="rus">они одинаково дружно работают</xt>
      </xg>
    </mg>
-   <mg>2.
+   <mg relId="1">
      <tg xml:lang="rus">
        <t pos="Adv">наравне</t>
      </tg>
@@ -23751,7 +23751,7 @@
        <xt xml:lang="rus">наравне с мужчинами</xt>
      </xg>
    </mg>
-   <mg>3.
+   <mg relId="2">
      <tg xml:lang="rus">
        <t pos="Adv">поровну</t>
      </tg>
@@ -23760,7 +23760,7 @@
        <xt xml:lang="rus">добычу разделят между всеми поровну</xt>
      </xg>
    </mg>
-   <mg>4.
+   <mg relId="3">
      <tg xml:lang="rus">
        <t pos="Adv">однообразно</t>
      </tg>
@@ -23773,7 +23773,7 @@
        <xt xml:lang="rus">однообразно тикали часы</xt>
      </xg>
    </mg>
-   <mg>5.
+   <mg relId="4">
      <tg xml:lang="rus">
        <t pos="Adv">ровно</t>
      </tg>
@@ -23801,7 +23801,7 @@
        <xt xml:lang="rus">одинаково одеться </xt>
      </xg>
    </mg>
-   <mg>2.
+   <mg relId="1">
      <tg xml:lang="rus">
        <t pos="Adv">наравне</t>
      </tg>
@@ -23810,7 +23810,7 @@
        <xt xml:lang="rus">наравне с мужчинами</xt>
      </xg>
    </mg>
-   <mg>3.
+   <mg relId="2">
      <tg xml:lang="rus">
        <t pos="Adv">поровну</t>
      </tg>
@@ -23819,7 +23819,7 @@
        <xt xml:lang="rus">добычу разделят между всеми поровну</xt>
      </xg>
    </mg>
-   <mg>4.
+   <mg relId="3">
      <tg xml:lang="rus">
        <t pos="Adv">однообразно</t>
      </tg>
@@ -23832,7 +23832,7 @@
        <xt xml:lang="rus">однообразно тикали часы</xt>
      </xg>
    </mg>
-   <mg>5.
+   <mg relId="4">
      <tg xml:lang="rus">
        <t pos="Adv">ровно</t>
      </tg>
@@ -23958,7 +23958,7 @@
      <l pos="Adv">ӧтни</l>
        <l_var type="molodtsov-cyr">ӧтԋі</l_var> <acronym title="диалектное"><em>диал.</em></acronym>
    </lg>
-   <mg arabId="1.">
+   <mg relId="0">
      <tg xml:lang="rus">
        <t pos="Adv"> то и дело</t>
      </tg>
@@ -23967,7 +23967,7 @@
        <xt xml:lang="rus">то и дело спит</xt>
      </xg>
    </mg>
-   <mg>2.
+   <mg relId="1">
      <tg xml:lang="rus">
        <t pos="Adv">беспрерывно</t>
      </tg><br />
@@ -23982,7 +23982,7 @@
      <l pos="Adv">ӧтног</l>
        <l_var type="molodtsov-cyr">ӧтног</l_var>
    </lg>
-   <mg>1.
+   <mg relId="0">
      <tg xml:lang="rus">
        <t pos="Adv">одинаково, одинаковым образом</t>
      </tg>
@@ -23991,7 +23991,7 @@
        <xt xml:lang="rus">сшить одинаково</xt>
      </xg>
    </mg>
-   <mg>2.
+   <mg relId="1">
      <tg xml:lang="rus">
        <t pos="Adv">одним образом, так</t>
      </tg>
@@ -24017,7 +24017,7 @@
      <l pos="Adv">ӧтпыр</l>
        <l_var type="molodtsov-cyr">ӧтпыр</l_var>
    </lg>
-   <mg>1.
+   <mg relId="0">
      <tg xml:lang="rus">
        <t pos="Adv">однажды</t>
      </tg>
@@ -24026,7 +24026,7 @@
        <xt xml:lang="rus">однажды поздним вечером</xt>
      </xg>
    </mg>
-   <mg>2.
+   <mg relId="1">
      <tg xml:lang="rus">
        <t pos="Adv">один раз</t>
      </tg>
@@ -24060,7 +24060,7 @@
      <l pos="Adv">ӧтпырйӧ</l>
        <l_var type="molodtsov-cyr">ӧтпырјӧ</l_var>
    </lg>
-   <mg>1.
+   <mg relId="0">
      <tg xml:lang="rus">
        <t pos="Adv">одновременно, разом</t>
      </tg>
@@ -24077,7 +24077,7 @@
        <xt xml:lang="rus">не все сразу; по очереди, пожалуйста</xt>
      </xg>
    </mg>
-   <mg>2.
+   <mg relId="1">
      <tg xml:lang="rus">
        <t pos="Adv">за один раз, в один приём, сразу; залпом; зара́з <acronym title="разговорное"><em>разг.</em></acronym></t>
      </tg>
@@ -24148,12 +24148,12 @@
      <l pos="Adv">ӧтпӧвсӧн</l>
        <l_var type="molodtsov-cyr">ӧтпӧвсӧн</l_var>
    </lg>
-   <mg>1.
+   <mg relId="0">
      <sg><s pos="Adv" s_type="see">ӧтпӧвстӧн</s></sg><tg xml:lang="rus">
        <t pos="Adv"></t>
      </tg>
    </mg>
-   <mg>2.
+   <mg relId="1">
      <sg><s pos="Adv" s_type="see">ӧтпӧлӧсӧн</s></sg><tg xml:lang="rus">
        <t pos="Adv"></t>
      </tg>
@@ -24183,7 +24183,7 @@
      <l pos="Adv">ӧтрӧвнӧ</l>
        <l_var type="molodtsov-cyr">ӧтрӧвнӧ</l_var>
    </lg>
-   <mg>1.
+   <mg relId="0">
      <tg xml:lang="rus">
        <t pos="Adv">ровный || ровно</t>
      </tg>
@@ -24200,7 +24200,7 @@
        <xt xml:lang="rus">брёвна отпилены ровно</xt>
      </xg>
    </mg>
-   <mg>2.
+   <mg relId="1">
      <tg xml:lang="rus">
        <t pos="Adv">вровень</t>
      </tg>
@@ -24211,12 +24211,12 @@
      <l pos="Adv">ӧтрӧвнӧя</l>
        <l_var type="molodtsov-cyr">ӧтрӧвнӧја</l_var>
    </lg>
-   <mg>1.
+   <mg relId="0">
      <tg xml:lang="rus">
        <t pos="Adv">ровно</t>
      </tg>
    </mg>
-   <mg>2.
+   <mg relId="1">
      <tg xml:lang="rus">
        <t pos="Adv">вровень; </t>
      </tg>
@@ -24228,7 +24228,7 @@
      <l pos="Adv">ӧтторйӧн</l>
        <l_var type="molodtsov-cyr">ӧтторјӧн</l_var>
    </lg>
-   <mg>1.
+   <mg relId="0">
      <tg xml:lang="rus">
        <t pos="Adv">целый, без наставки</t>
      </tg>
@@ -24241,7 +24241,7 @@
        <xt xml:lang="rus">из цельного куска не выходит, придётся сделать с наставкой</xt>
      </xg>
    </mg>
-   <mg>2.
+   <mg relId="1">
      <tg xml:lang="rus">
        <t pos="Adv">то и дело, не переставая; непрерывно; беспрерывно, постоянно</t>
      </tg>
@@ -24466,7 +24466,7 @@
      <l pos="Adv">ӧтчыдӧн</l>
        <l_var type="molodtsov-cyr">ӧччыԁӧн</l_var>
    </lg>
-   <mg>1.
+   <mg relId="0">
      <tg xml:lang="rus">
        <t pos="Adv">по разу</t>
      </tg>
@@ -24475,7 +24475,7 @@
        <xt xml:lang="rus">по разу съездили все подводы</xt>
      </xg>
    </mg>
-   <mg>2.
+   <mg relId="1">
      <tg xml:lang="rus">
        <t pos="Adv">сразу; за один раз; за один присест; зара́з <acronym title="разговорное"><em>разг.</em></acronym></t>
      </tg>
@@ -24490,7 +24490,7 @@
      <l pos="Adv">ӧтырышъя</l>
        <l_var type="molodtsov-cyr">ӧтырышја</l_var>
    </lg>
-   <mg>1.
+   <mg relId="0">
      <tg xml:lang="rus">
        <t pos="Adv">то и дело; беспрерывно, постоянно || беспрерывный, постоянный</t>
      </tg>
@@ -24511,7 +24511,7 @@
        <xt xml:lang="rus">до середины мая постоянно дул резкий северный ветер</xt>
      </xg>
    </mg>
-   <mg>2.
+   <mg relId="1">
      <tg xml:lang="rus">
        <t pos="Adv">заодно; кстати; попутно</t>
      </tg>
@@ -24560,7 +24560,7 @@
        <t pos="Adv">1. бряк</t>
      </tg>
    </mg>
-   <mg>2.
+   <mg relId="1">
      <tg xml:lang="rus">
        <t pos="Adv">брык</t>
      </tg>
@@ -24569,7 +24569,7 @@
        <xt xml:lang="rus">корова – брык, лягнула подойник</xt>
      </xg>
    </mg>
-   <mg>3.
+   <mg relId="2">
      <tg xml:lang="rus">
        <t pos="Adv">прыг</t>
      </tg>
@@ -24828,7 +24828,7 @@
        <xt xml:lang="rus">детвора рядком расселась на диване</xt>
      </xg>
    </mg>
-   <mg>2.
+   <mg relId="1">
      <tg xml:lang="rus">
        <t pos="Adv">беспорядочной шумной гурьбой, толпой, массой</t>
      </tg>
@@ -24915,7 +24915,7 @@
        <xt xml:lang="rus">стражник, шатаясь, грохоча, спустился в трюм</xt>
      </xg>
    </mg>
-   <mg>2.
+   <mg relId="1">
      <tg xml:lang="rus">
        <t pos="Adv">волоком</t>
      </tg>
@@ -25029,7 +25029,7 @@
      <l pos="Adv" type="Descr">гузь</l>
        <l_var type="molodtsov-cyr">гуԅ</l_var>
    </lg>
-   <mg>1.
+   <mg relId="0">
      <tg xml:lang="rus">
        <t pos="Adv"><em>подражание шуму падения сыпучих тел, массы воды</em></t>
      </tg>
@@ -25039,7 +25039,7 @@
        <xt xml:lang="rus">б) высыпать <em>что-либо</em></xt>
      </xg>
    </mg>
-   <mg>2.
+   <mg relId="1">
      <sg><s pos="Adv" s_type="see">гузьӧбӧн</s></sg><tg xml:lang="rus">
        <t pos="Adv"></t>
      </tg>
@@ -25050,12 +25050,12 @@
      <l pos="Adv" type="Descr">гульс-гольс</l>
        <l_var type="molodtsov-cyr">гуԉс-гоԉс</l_var>
    </lg>
-   <mg>1.
+   <mg relId="0">
      <sg><s pos="Adv" s_type="see">гуль-голь</s></sg><tg xml:lang="rus">
        <t pos="Adv"></t>
      </tg>
    </mg>
-   <mg>2.
+   <mg relId="1">
      <tg xml:lang="rus">
        <t pos="Adv">звонко и гулко <em>(о звуке)</em></t>
      </tg>
@@ -25195,7 +25195,7 @@
        <xt xml:lang="rus">утка юрк в воду и пропала</xt>
      </xg>
    </mg>
-   <mg>2. <acronym title="диалектное"><em>диал.</em></acronym>
+   <mg relId="1"> <acronym title="диалектное"><em>диал.</em></acronym>
      <tg xml:lang="rus">
        <t pos="Adv"> плотно, вплотную; крепко</t>
      </tg>
@@ -25360,7 +25360,7 @@
        <t pos="Adv">1. <em>подражание стрекотанию сороки</em></t>
      </tg>
    </mg>
-   <mg>2.
+   <mg relId="1">
      <tg xml:lang="rus">
        <t pos="Adv">хи-хи</t>
      </tg>
@@ -25435,7 +25435,7 @@
      <l pos="Adv" type="Descr">кутов-катов</l>
        <l_var type="molodtsov-cyr">кутов-катов</l_var>
    </lg>
-   <mg>1.
+   <mg relId="0">
      <tg xml:lang="rus">
        <t pos="Adv">шатаясь, едва держась на ногах <em>(из-за худобы)</em></t>
      </tg>
@@ -25444,7 +25444,7 @@
        <xt xml:lang="rus">идти шатаясь</xt>
      </xg>
    </mg>
-   <mg>2.
+   <mg relId="1">
      <tg xml:lang="rus">
        <t pos="Adv">переваливаясь с боку на бок</t>
      </tg>
@@ -25519,7 +25519,7 @@
      <l pos="Adv" type="Descr">луйк-лайк</l>
        <l_var type="molodtsov-cyr">лујк-лајк</l_var>
    </lg>
-   <mg>1.
+   <mg relId="0">
      <tg xml:lang="rus">
        <t pos="Adv"><em>в роли</em> <acronym title="сказуемое"><em>сказ.</em></acronym> шаткий</t>
      </tg>
@@ -25528,7 +25528,7 @@
        <xt xml:lang="rus">пол шаткий</xt>
      </xg><br /><stress>&#160;&#160;&#160;керкаын луйк-лайк, ывлаын гунь-гонь</stress> <em>загадка</em> в избе шаткий, на улице быстрый (<em>отгадка</em> <stress>тшын</stress> дым)
    </mg>
-   <mg>2.
+   <mg relId="1">
      <tg xml:lang="rus">
        <t pos="Adv">качаясь, пружиня</t>
      </tg>
@@ -25578,7 +25578,7 @@
        <xt xml:lang="rus">непрочно, кое-как забить кол</xt>
      </xg>
    </mg>
-   <mg>2.
+   <mg relId="1">
      <tg xml:lang="rus">
        <t pos="Adv">неуклюже, неловко <em>(взять, нести что-либо)</em></t>
      </tg>
@@ -25730,7 +25730,7 @@
        <xt xml:lang="rus">разбиться вдребезги</xt>
      </xg>
    </mg>
-   <mg>2.
+   <mg relId="1">
      <tg xml:lang="rus">
        <t pos="Adv">кавардак <acronym title="разговорное"><em>разг.</em></acronym></t>
      </tg>
@@ -25753,7 +25753,7 @@
        <t pos="Adv">1. раскидистый <em>(о дереве)</em></t>
      </tg>
    </mg>
-   <mg>2.
+   <mg relId="1">
      <tg xml:lang="rus">
        <t pos="Adv">пушистый <em>(о шерсти, волосах)</em></t>
      </tg>
@@ -25856,7 +25856,7 @@
        <xt xml:lang="rus">вещи разбросаны как попало</xt>
      </xg>
    </mg>
-   <mg>2. <acronym title="диалектное"><em>диал.</em></acronym>
+   <mg relId="1"> <acronym title="диалектное"><em>диал.</em></acronym>
      <tg xml:lang="rus">
        <t pos="Adv"> вдребезги; </t>
      </tg>
@@ -26025,7 +26025,7 @@
        <t pos="Adv">1. бесшумно</t>
      </tg>
    </mg>
-   <mg>2.
+   <mg relId="1">
      <tg xml:lang="rus">
        <t pos="Adv">плавно</t>
      </tg>
@@ -26400,7 +26400,7 @@
        <xt xml:lang="rus">б) надменный, высокомерный</xt>
      </xg>
    </mg>
-   <mg>2.
+   <mg relId="1">
      <tg xml:lang="rus">
        <t pos="Adv">загнутый, вздёрнутый</t>
      </tg>
@@ -26438,12 +26438,12 @@
      <l pos="Adv" type="Descr">чикыш-кокыш</l>
        <l_var type="molodtsov-cyr">чікыш-кокыш</l_var>
    </lg>
-   <mg>1.
+   <mg relId="0">
      <tg xml:lang="rus">
        <t pos="Adv">неспокойный; вертлявый</t>
      </tg>
    </mg>
-   <mg>2.
+   <mg relId="1">
      <tg xml:lang="rus">
        <t pos="Adv"><acronym title="в переносном значении"><em>перен.</em></acronym> легкомысленный</t>
      </tg>
@@ -26573,7 +26573,7 @@
        <xt xml:lang="rus">за спиной бах-бах</xt>
      </xg>
    </mg>
-   <mg>2.
+   <mg relId="1">
      <tg xml:lang="rus">
        <t pos="Adv">гулко</t>
      </tg>
@@ -26821,7 +26821,7 @@
      <l pos="Adv" type="Descr">шынь-шынь</l>
        <l_var type="molodtsov-cyr">шыԋ-шыԋ</l_var>
    </lg>
-   <mg>1.
+   <mg relId="0">
      <tg xml:lang="rus">
        <t pos="Adv">тихо, незаметно, бесшумно</t>
      </tg>
@@ -26830,7 +26830,7 @@
        <xt xml:lang="rus">бесшумно подойти</xt>
      </xg>
    </mg>
-   <mg>2.
+   <mg relId="1">
      <tg xml:lang="rus">
        <t pos="Adv">легко, едва заметно, чуть</t>
      </tg>
@@ -26942,7 +26942,7 @@
      <l pos="Adv" type="Descr">ыри-зули</l>
        <l_var type="molodtsov-cyr">ырі-зуԉі</l_var>
    </lg>
-   <mg>1.
+   <mg relId="0">
      <tg xml:lang="rus">
        <t pos="Adv">неуклюжий, неловкий || неуклюже, неловко</t>
      </tg>
@@ -26955,7 +26955,7 @@
        <xt xml:lang="rus">идти неуклюже</xt>
      </xg>
    </mg>
-   <mg>2.
+   <mg relId="1">
      <tg xml:lang="rus">
        <t pos="Adv">растяпа; неряха</t>
      </tg>
@@ -27022,19 +27022,19 @@
      <l pos="Adv" type="Descr">ышки-пошки</l>
        <l_var type="molodtsov-cyr">ышкі-пошкі</l_var>
    </lg>
-   <mg>
+   <mg relId="0">
      <tg xml:lang="rus">
        <t pos="Adv"><acronym title="изобразительное слово"><em>изобр.</em></acronym></t>
      </tg><br />
      <tg xml:lang="rus">
-       <t pos="Adv">1. тяжело дыша</t>
+       <t pos="Adv">тяжело дыша</t>
      </tg>
      <xg>
        <x>ышки-пошки пырны</x>
        <xt xml:lang="rus">войти тяжело дыша</xt>
      </xg>
    </mg>
-   <mg>2.
+   <mg relId="1">
      <tg xml:lang="rus">
        <t pos="Adv">тихонько, таясь</t>
      </tg>

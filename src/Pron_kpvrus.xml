@@ -4,7 +4,7 @@
      <l pos="Pron">ме</l>
        <l_var type="molodtsov-cyr">ме</l_var> <comment><em>(<xref link="мен"> мен</xref> – полная основа в <acronym title="косвенные (падежи)"><em>косв.</em></acronym> падежах)</em> <acronym title="местоимение"><em>мест.</em></acronym> <acronym title="личная форма, личное местоимение"><em>личн.</em></acronym></comment>
    </lg>
-   <mg arabId="1.">
+   <mg relId="0">
      <tg xml:lang="rus">
        <t> я</t>
      </tg>
@@ -106,7 +106,7 @@
        <xt xml:lang="rus">я живу ...</xt>
      </xg>
    </mg>
-   <mg>2.
+   <mg relId="1">
      <tg xml:lang="rus">
        <t><em>редко в роли</em> <acronym title="притяжательный (-ая, -ое)"><em>притяж.</em></acronym> <acronym title="местоимение"><em>мест.</em></acronym> мой</t>
      </tg>
@@ -157,7 +157,7 @@
        <xt xml:lang="rus">увидеть своими глазами</xt>
      </xg>
    </mg>
-   <mg>2.
+   <mg relId="1">
      <tg xml:lang="rus">
        <t><acronym title="притяжательный (-ая, -ое)"><em>притяж.</em></acronym> свой, своего изготовления, домашний</t>
      </tg>
@@ -174,7 +174,7 @@
        <xt xml:lang="rus">самосад</xt>
      </xg>
    </mg>
-   <mg>3.
+   <mg relId="2">
      <tg xml:lang="rus">
        <t><acronym title="притяжательный (-ая, -ое)"><em>притяж.</em></acronym> свой, родной</t>
      </tg>
@@ -191,7 +191,7 @@
        <xt xml:lang="rus">родная земля</xt>
      </xg>
    </mg>
-   <mg>4.
+   <mg relId="3">
      <tg xml:lang="rus">
        <t><acronym title="притяжательный (-ая, -ое)"><em>притяж.</em></acronym> свой, местный</t>
      </tg>
@@ -204,7 +204,7 @@
        <xt xml:lang="rus"> местная <em>(непривозная)</em> рыба</xt>
      </xg>
    </mg>
-   <mg>5.
+   <mg relId="4">
      <tg xml:lang="rus">
        <t><acronym title="возвратное (залог, местоимение)"><em>возвр.</em></acronym> себя <em>(чаще <acronym title="употребляется"><em>употр.</em></acronym> с послелогами; в отношении лица может конкретизироваться притяжательными суффиксами, присоединяемыми к послелогу)</em></t>
      </tg>
@@ -272,7 +272,7 @@
      <l pos="Pron">аслад</l>
        <l_var type="molodtsov-cyr">aслаԁ</l_var>
    </lg>
-   <mg>1.
+   <mg relId="0">
      <tg xml:lang="rus">
        <t><acronym title="родительный падеж"><em>род.п.</em></acronym> <em>от</em> <xref link="ачыд"> ачыд</xref></t>
      </tg>
@@ -281,7 +281,7 @@
        <xt xml:lang="rus">у тебя самого ничего не получится</xt>
      </xg>
    </mg>
-   <mg>2.
+   <mg relId="1">
      <tg xml:lang="rus">
        <t><em>в роли</em> <acronym title="притяжательный (-ая, -ое)"><em>притяж.</em></acronym> <acronym title="местоимение"><em>мест.</em></acronym> свой, твой</t>
      </tg>
@@ -304,7 +304,7 @@
      <l pos="Pron">аслам</l>
        <l_var type="molodtsov-cyr">aслам</l_var>
    </lg>
-   <mg>1.
+   <mg relId="0">
      <tg xml:lang="rus">
        <t><acronym title="родительный падеж"><em>род.п.</em></acronym> <em>от</em> <xref link="ачым"> ачым</xref></t>
      </tg>
@@ -313,7 +313,7 @@
        <xt xml:lang="rus">у меня у самого мало</xt>
      </xg>
    </mg>
-   <mg>2.
+   <mg relId="1">
      <tg xml:lang="rus">
        <t><em>в роли</em> <acronym title="притяжательный (-ая, -ое)"><em>притяж.</em></acronym> <acronym title="местоимение"><em>мест.</em></acronym> свой, мне принадлежащий</t>
      </tg>
@@ -332,12 +332,12 @@
      <l pos="Pron">асланым</l>
        <l_var type="molodtsov-cyr">aсланым</l_var>
    </lg>
-   <mg>1.
+   <mg relId="0">
      <tg xml:lang="rus">
        <t><acronym title="родительный падеж"><em>род.п.</em></acronym> <em>от</em> <xref link="асьным"> асьным</xref></t>
      </tg>
    </mg>
-   <mg>2.
+   <mg relId="1">
      <tg xml:lang="rus">
        <t><em>в роли</em> <acronym title="притяжательный (-ая, -ое)"><em>притяж.</em></acronym> <acronym title="местоимение"><em>мест.</em></acronym> свой, наш, нам принадлежащий</t>
      </tg>
@@ -352,7 +352,7 @@
      <l pos="Pron">асланыс</l>
        <l_var type="molodtsov-cyr">aсланыс</l_var>
    </lg>
-   <mg>1.
+   <mg relId="0">
      <tg xml:lang="rus">
        <t><acronym title="родительный падеж"><em>род.п.</em></acronym> <em>от</em> <xref link="асьныс"> асьныс</xref></t>
      </tg>
@@ -361,7 +361,7 @@
        <xt xml:lang="rus"> у них самих нет <em>(чего-либо)</em></xt>
      </xg>
    </mg>
-   <mg>2.
+   <mg relId="1">
      <tg xml:lang="rus">
        <t><em>в роли</em> <acronym title="притяжательный (-ая, -ое)"><em>притяж.</em></acronym> <acronym title="местоимение"><em>мест.</em></acronym> свой, их, им принадлежащий</t>
      </tg>
@@ -376,7 +376,7 @@
      <l pos="Pron">аслас</l>
        <l_var type="molodtsov-cyr">aслас</l_var>
    </lg>
-   <mg>1.
+   <mg relId="0">
      <tg xml:lang="rus">
        <t><acronym title="родительный падеж"><em>род.п.</em></acronym> <em>от</em> <xref link="ачыс"> ачыс</xref></t>
      </tg>
@@ -385,7 +385,7 @@
        <xt xml:lang="rus">у него самого ничего нет</xt>
      </xg>
    </mg>
-   <mg>2.
+   <mg relId="1">
      <tg xml:lang="rus">
        <t><em>в роли</em> <acronym title="притяжательный (-ая, -ое)"><em>притяж.</em></acronym> <acronym title="местоимение"><em>мест.</em></acronym> свой, его, ему принадлежащий</t>
      </tg>
@@ -756,7 +756,7 @@
      <l pos="Pron">мукӧд</l>
        <l_var type="molodtsov-cyr">мукӧԁ</l_var>
    </lg>
-   <mg>1.
+   <mg relId="0">
      <tg xml:lang="rus">
        <t>другой, не данный || другие, прочие</t>
      </tg>
@@ -793,7 +793,7 @@
        <xt xml:lang="rus">один из них – сын, а прочие – посторонние</xt>
      </xg>
    </mg>
-   <mg>2.
+   <mg relId="1">
      <tg xml:lang="rus">
        <t>какой-либо иной, некоторый</t>
      </tg>
@@ -810,7 +810,7 @@
        <xt><acronym title="поговорка"><em>погов.</em></acronym> иная свадьба – веселье на неделю, горе – на всю жизнь</xt>
      </xg>
    </mg>
-   <mg>3.
+   <mg relId="2">
      <tg xml:lang="rus">
        <t>другой, <em>кто-либо</em> иной, посторонний</t>
      </tg>
@@ -837,7 +837,7 @@
      <l pos="Pron">мыя</l>
        <l_var type="molodtsov-cyr">мыја</l_var>
    </lg>
-   <mg>1.
+   <mg relId="0">
      <tg xml:lang="rus">
        <t>в какую цену, почём <acronym title="разговорное"><em>разг.</em></acronym></t>
      </tg>
@@ -846,7 +846,7 @@
        <xt xml:lang="rus">почём кило?</xt>
      </xg>
    </mg>
-   <mg>2.
+   <mg relId="1">
      <tg xml:lang="rus">
        <t>какого достоинства?</t>
      </tg>
@@ -855,7 +855,7 @@
        <xt xml:lang="rus">эта бумажка какого достоинства трёшница или пятёрка?</xt>
      </xg>
    </mg>
-   <mg>3.
+   <mg relId="2">
      <tg xml:lang="rus">
        <t>с чем</t>
      </tg>
@@ -864,7 +864,7 @@
        <xt xml:lang="rus">каша с чем с маслом или с салом?</xt>
      </xg>
    </mg>
-   <mg>4.
+   <mg relId="3">
      <sg><s pos="Pron" s_type="see">мыйла Ⅱ</s></sg><tg xml:lang="rus">
        <t></t>
      </tg>
@@ -875,7 +875,7 @@
      <l pos="Pron">найӧ</l>
        <l_var type="molodtsov-cyr">најӧ</l_var>
    </lg>
-   <mg>1.
+   <mg relId="0">
      <tg xml:lang="rus">
        <t><acronym title="местоимение"><em>мест.</em></acronym> <acronym title="личная форма, личное местоимение"><em>личн.</em></acronym> они</t>
      </tg>
@@ -888,7 +888,7 @@
        <xt><acronym title="поговорка"><em>погов.</em></acronym> они когда-то ложками обменялись <em>(повод к чему-либо, для чего-либо например, для посещений)</em></xt>
      </xg>
    </mg>
-   <mg>2.
+   <mg relId="1">
      <tg xml:lang="rus">
        <t><em>редко <acronym title="употребляется"><em>употр.</em></acronym> в роли</em> <acronym title="притяжательный (-ая, -ое)"><em>притяж.</em></acronym> <acronym title="местоимение"><em>мест.</em></acronym> их</t>
      </tg>
@@ -922,12 +922,12 @@
      <l pos="Pron">наладорын</l>
        <l_var type="molodtsov-cyr">налаԁорын</l_var>
    </lg>
-   <mg>1.
+   <mg relId="0">
      <tg xml:lang="rus">
        <t>на их стороне</t>
      </tg>
    </mg>
-   <mg>2.
+   <mg relId="1">
      <tg xml:lang="rus">
        <t>на их половине (дома)</t>
      </tg>
@@ -938,7 +938,7 @@
      <l pos="Pron">наладорӧ</l>
        <l_var type="molodtsov-cyr">налаԁорӧ</l_var>
    </lg>
-   <mg>1.
+   <mg relId="0">
      <tg xml:lang="rus">
        <t>на их сторону</t>
      </tg>
@@ -951,7 +951,7 @@
        <xt xml:lang="rus">встать на их сторону, заступиться за них</xt>
      </xg>
    </mg>
-   <mg>2.
+   <mg relId="1">
      <tg xml:lang="rus">
        <t>на их половину (дома)</t>
      </tg>
@@ -1024,7 +1024,7 @@
        <xt><acronym title="пословица"><em>посл.</em></acronym> за добро злом не платят</xt>
      </xg>
    </mg>
-   <mg>2.
+   <mg relId="1">
      <tg xml:lang="rus">
        <t>некого</t>
      </tg>
@@ -1037,7 +1037,7 @@
        <xt xml:lang="rus">не к кому обратиться</xt>
      </xg>
    </mg>
-   <mg>3.
+   <mg relId="2">
      <tg xml:lang="rus">
        <t>с <acronym title="притяжательный (-ая, -ое)"><em>притяж.</em></acronym> <acronym title="суффикс"><em>суф.</em></acronym> никто из ..., ни один из ...</t>
      </tg>
@@ -1090,7 +1090,7 @@
      <l pos="Pron">некутшӧма</l>
        <l_var type="molodtsov-cyr">ԋекущӧма</l_var>
    </lg>
-   <mg>1.
+   <mg relId="0">
      <tg xml:lang="rus">
        <t>никак</t>
      </tg>
@@ -1099,7 +1099,7 @@
        <xt xml:lang="rus">никак нельзя</xt>
      </xg>
    </mg>
-   <mg>2.
+   <mg relId="1">
      <tg xml:lang="rus">
        <t>нисколько; совсем</t>
      </tg>
@@ -1161,7 +1161,7 @@
      <l pos="Pron">некысь</l>
        <l_var type="molodtsov-cyr">ԋекыԍ</l_var>
    </lg>
-   <mg>1.
+   <mg relId="0">
      <tg xml:lang="rus">
        <t>нигде</t>
      </tg>
@@ -1170,7 +1170,7 @@
        <xt xml:lang="rus">я такого нигде не видал</xt>
      </xg>
    </mg>
-   <mg>2.
+   <mg relId="1">
      <tg xml:lang="rus">
        <t>негде</t>
      </tg>
@@ -1189,7 +1189,7 @@
      <l pos="Pron">некысянь</l>
        <l_var type="molodtsov-cyr">ԋекыԍаԋ</l_var>
    </lg>
-   <mg>1.
+   <mg relId="0">
      <tg xml:lang="rus">
        <t>ниоткуда</t>
      </tg>
@@ -1198,7 +1198,7 @@
        <xt xml:lang="rus">ниоткуда не видно</xt>
      </xg>
    </mg>
-   <mg>2.
+   <mg relId="1">
      <tg xml:lang="rus">
        <t>неоткуда</t>
      </tg>
@@ -1213,7 +1213,7 @@
      <l pos="Pron">некыт</l>
        <l_var type="molodtsov-cyr">ԋекыт</l_var>
    </lg>
-   <mg>1.
+   <mg relId="0">
      <tg xml:lang="rus">
        <t>нигде</t>
      </tg>
@@ -1222,7 +1222,7 @@
        <xt xml:lang="rus">нигде не болит</xt>
      </xg>
    </mg>
-   <mg>2.
+   <mg relId="1">
      <tg xml:lang="rus">
        <t>негде</t>
      </tg>
@@ -1241,7 +1241,7 @@
      <l pos="Pron">некытчӧ</l>
        <l_var type="molodtsov-cyr">ԋекыччӧ</l_var>
    </lg>
-   <mg>1.
+   <mg relId="0">
      <tg xml:lang="rus">
        <t>никуда</t>
      </tg>
@@ -1262,7 +1262,7 @@
        <xt><acronym title="поговорка"><em>погов.</em></acronym> нигде не пропадёт он, пройдёт сквозь огонь и воду</xt>
      </xg>
    </mg>
-   <mg>2.
+   <mg relId="1">
      <tg xml:lang="rus">
        <t>некуда</t>
      </tg>
@@ -1533,7 +1533,7 @@
      <l pos="Pron">сыысь</l>
        <l_var type="molodtsov-cyr">сыыԍ</l_var>
    </lg>
-   <mg>1.
+   <mg relId="0">
      <tg xml:lang="rus">
        <t><acronym title="исходный падеж"><em>исх.п.</em></acronym> <em>от</em> <xref link="сійӧ"> сійӧ</xref></t>
      </tg>
@@ -1542,7 +1542,7 @@
        <xt xml:lang="rus">от него по-хорошему не избавишься</xt>
      </xg>
    </mg>
-   <mg>2.
+   <mg relId="1">
      <tg xml:lang="rus">
        <t><acronym title="наречие"><em>нареч.</em></acronym> оттого, по той причине</t>
      </tg>
@@ -1565,7 +1565,7 @@
      <l pos="Pron">сэтшӧм-татшӧм</l>
        <l_var type="molodtsov-cyr">сещӧм-тащӧм</l_var>
    </lg>
-   <mg>1.
+   <mg relId="0">
      <tg xml:lang="rus">
        <t>такой-сякой; сомнительный, подозрительный</t>
      </tg>
@@ -1578,7 +1578,7 @@
        <xt xml:lang="rus">заниматься сомнительными делами</xt>
      </xg>
    </mg>
-   <mg>2.
+   <mg relId="1">
      <tg xml:lang="rus">
        <t>неудовлетворительный</t>
      </tg>
@@ -1587,7 +1587,7 @@
        <xt xml:lang="rus">неудовлетворительная работа</xt>
      </xg>
    </mg>
-   <mg>3.
+   <mg relId="2">
      <tg xml:lang="rus">
        <t><em>в роли</em> <acronym title="имя существительное"><em>сущ.</em></acronym> такое, плохое</t>
      </tg>
@@ -1670,7 +1670,7 @@
        <xt xml:lang="rus"> сделать как он <em>(она)</em></xt>
      </xg>
    </mg>
-   <mg>2.
+   <mg relId="1">
      <tg xml:lang="rus">
        <t><em>в роли указ.</em> <acronym title="местоимение"><em>мест.</em></acronym> тот, та, то</t>
      </tg>
@@ -1941,7 +1941,7 @@
      <l pos="Pron">эсійӧ</l>
        <l_var type="molodtsov-cyr">есіјӧ</l_var>
    </lg>
-   <mg>1.
+   <mg relId="0">
      <tg xml:lang="rus">
        <t><acronym title="местоимение"><em>мест.</em></acronym> <acronym title="указательное (местоимение, частица)"><em>указ.</em></acronym> тот</t>
      </tg>
@@ -1954,7 +1954,7 @@
        <xt xml:lang="rus">тот рисунок очень красив</xt>
      </xg>
    </mg>
-   <mg>2.
+   <mg relId="1">
      <tg xml:lang="rus">
        <t>бишь; это, как его <em>(<acronym title="употребляется"><em>употр.</em></acronym> для заполнения в речи паузы)</em></t>
      </tg>
@@ -2098,7 +2098,7 @@
      <l pos="Pron">ӧтар</l>
        <l_var type="molodtsov-cyr">ӧтар</l_var>
    </lg>
-   <mg>1.
+   <mg relId="0">
      <tg xml:lang="rus">
        <t><em>в роли</em> <acronym title="определение"><em>опр.</em></acronym> один <em>(из двух)</em></t>
      </tg>
@@ -2111,7 +2111,7 @@
        <xt><acronym title="поговорка"><em>погов.</em></acronym> от одного берега оттолкнулся, а к другому не пристал</xt>
      </xg>
    </mg>
-   <mg>2.
+   <mg relId="1">
      <tg xml:lang="rus">
        <t><em>в самостоятельном употреблении с падежными суффиксами</em></t>
      </tg><br />
@@ -2119,7 +2119,7 @@
        <t>, <xref link="ӧтарын"> ӧтарын</xref></t>
      </tg>
    </mg>
-   <mg>3.
+   <mg relId="2">
      <sg><s pos="Pron" s_type="see">ӧтдор Ⅰ в 1 значении</s></sg><tg xml:lang="rus">
        <t></t>
      </tg>

@@ -444,7 +444,7 @@
        <xt xml:lang="rus">сказать два раза, сказать дважды</xt>
      </xg><br /><stress>&#160;&#160;&#160;кык Микола воча видзӧдчӧны</stress> <em>загадка</em> два Николая друг на друга смотрят (<em>отгадка</em> <stress>джодж да йирк</stress> пол и потолок)
    </mg>
-   <mg>2.
+   <mg relId="1">
      <tg xml:lang="rus">
        <t pos="Num">двойной, сдвоенный; удвоенный || вдвое; дву-, двух-</t>
      </tg><br /><stress>&#160;&#160;&#160;кык бана</stress> <acronym title="в прямом значении"><em>прям.</em></acronym> <em>и</em> <acronym title="в переносном значении"><em>перен.</em></acronym> двуличный<br />
@@ -820,12 +820,12 @@
 </e>
 <e>
    <lg t1="П" t2="Е" t3="Р" uri="39612-pervoij" id="39612">
-     <l hid="Hom1" pos="Num">первой</l>
+     <l hid="Hom1" pos="Det" type="Ord">первой</l>
        <l_var type="molodtsov-cyr">первој</l_var>
    </lg>
-   <mg arabId="1.">
+   <mg relId="0">
      <tg xml:lang="rus">
-       <t pos="Num"> <acronym title="имя числительное"><em>числ.</em></acronym> <acronym title="порядковое числительное"><em>порядк.</em></acronym> первый</t>
+       <t pos="Det"> <acronym title="имя числительное"><em>числ.</em></acronym> <acronym title="порядковое числительное"><em>порядк.</em></acronym> первый</t>
      </tg>
      <xg>
        <x>первой во</x>
@@ -840,9 +840,9 @@
        <xt xml:lang="rus">в первую осень и хорошая собака недобычлива</xt>
      </xg>
    </mg>
-   <mg>2.
+   <mg relId="1">
      <tg xml:lang="rus">
-       <t pos="Num">первичный</t>
+       <t pos="Det">первичный</t>
      </tg>
      <xg>
        <x>висьӧмлӧн первой кад</x>
@@ -856,15 +856,12 @@
 </e>
 <e>
    <lg t1="П" t2="Е" t3="Р" uri="39612-pervoij" id="39612">
-     <l hid="Hom2" pos="Num">первой</l>
+     <l hid="Hom2" pos="Adv">первой</l>
        <l_var type="molodtsov-cyr">первој</l_var>
    </lg>
-   <mg>
+   <mg relId="0">
      <tg xml:lang="rus">
-       <t pos="Num"><acronym title="наречие"><em>нареч.</em></acronym></t>
-     </tg><br />
-     <tg xml:lang="rus">
-       <t pos="Num">1. сначала, прежде; сперва</t>
+       <t pos="Adv">сначала, прежде; сперва</t>
      </tg>
      <xg>
        <x>первой думышт</x>
@@ -875,7 +872,7 @@
        <xt xml:lang="rus">сперва я, а потом ты</xt>
      </xg><br /><stress>&#160;&#160;&#160;◊ первой лӧсьӧд сютӧ, сэсся мератӧ </stress><acronym title="пословица"><em>посл.</em></acronym> было бы болото, а черти найдутся (<acronym title="буквально"><em>букв.</em></acronym> сначала приготовь рожь, потом и меру); <sg><s pos="Num" s_type="seeAlso">войдӧр 1 в 1 и 2 значениях</s></sg>
    </mg>
-   <mg>2.
+   <mg relId="1">
      <tg xml:lang="rus">
        <t pos="Num">впервые</t>
      </tg><br />
@@ -890,7 +887,7 @@
      <l pos="Num">первойя</l>
        <l_var type="molodtsov-cyr">первојја</l_var>
    </lg>
-   <mg>1.
+   <mg relId="0">
      <tg xml:lang="rus">
        <t pos="Num">первый; первоначальный</t>
      </tg>
@@ -903,7 +900,7 @@
        <xt xml:lang="rus">в первом <em>(с краю)</em> доме</xt>
      </xg>; <sg><s pos="Num" s_type="seeAlso">медводдза</s></sg>
    </mg>
-   <mg>2.
+   <mg relId="1">
      <tg xml:lang="rus">
        <t pos="Num">самый ранний</t>
      </tg>
@@ -1215,7 +1212,7 @@
      <l pos="Num">ӧти</l>
        <l_var type="molodtsov-cyr">ӧԏі</l_var>
    </lg>
-   <mg>1.
+   <mg relId="0">
      <tg xml:lang="rus">
        <t pos="Num"><acronym title="имя числительное"><em>числ.</em></acronym> <acronym title="количественное (послелог, числительное)"><em>колич.</em></acronym>, <em>также в роли</em> <acronym title="имя прилагательное"><em>прил.</em></acronym>, <acronym title="имя существительное"><em>сущ.</em></acronym> один</t>
      </tg>
@@ -1335,7 +1332,7 @@
        <xt xml:lang="rus"><acronym title="поговорка"><em>погов.</em></acronym> скажешь слово, а прибавят десять</xt>
      </xg>
    </mg>
-   <mg>2. <acronym title="диалектное"><em>диал.</em></acronym>
+   <mg relId="1"> <acronym title="диалектное"><em>диал.</em></acronym>
      <tg xml:lang="rus">
        <t pos="Num"></t>
      </tg><br />&#160;&#160;&#160;1) совсем, совершенно<br />
