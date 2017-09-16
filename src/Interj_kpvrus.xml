@@ -4,7 +4,7 @@
      <l pos="Interj">а</l>
        <l_var type="molodtsov-cyr">a</l_var>
    </lg>
-   <mg>
+   <mg relId="0">
      <tg xml:lang="rus">
        <t pos="Interj">а</t>
        <t pos="Interj" range="разг.">ба</t>
@@ -24,7 +24,7 @@
      <l pos="Interj">ӧдтӧ</l>
        <l_var type="molodtsov-cyr">ӧттӧ</l_var>
    </lg>
-   <mg>
+   <mg relId="0">
      <tg xml:lang="rus">
        <t pos="Interj">видишь; вишь; ишь; ишь ты <acronym title="просторечное"><em>прост.</em></acronym></t>
      </tg>
@@ -48,7 +48,7 @@
      <l pos="Interj">ак</l>
        <l_var type="molodtsov-cyr">aк</l_var>
    </lg>
-   <mg>
+   <mg relId="0">
      <tg xml:lang="rus">
        <t pos="Interj">ах <em>(выражает сожаление, гнев, радость)</em></t>
      </tg>
@@ -67,7 +67,7 @@
      <l pos="Interj">аминь-аминь</l>
        <l_var type="molodtsov-cyr">aміԋ-аміԋ</l_var>
    </lg>
-   <mg>
+   <mg relId="0">
      <tg descr_trans="выражает удивление, испуг" xml:lang="rus">
        <t pos="Interj">ой-ой</t>
      </tg>
@@ -78,8 +78,8 @@
      <l pos="Interj">аминьӧй</l>
        <l_var type="molodtsov-cyr">aміԋӧј</l_var>
    </lg>
-   <mg>
-     <sg><s pos="Interj" s_type="see">аминь Ⅱ в 1 значении</s></sg><tg xml:lang="rus">
+   <mg relId="0"> <sg><s pos="Interj" s_type="see">аминь Ⅱ в 1 значении</s></sg>
+     <tg xml:lang="rus">
        <t></t>
      </tg>
    </mg>
@@ -89,7 +89,7 @@
      <l pos="Interj">аттӧ</l>
        <l_var type="molodtsov-cyr">aттӧ</l_var>
    </lg>
-   <mg>
+   <mg relId="0">
      <tg xml:lang="rus">
        <t pos="Interj">ах! ох!</t>
      </tg>
@@ -112,7 +112,7 @@
      <l pos="Interj">бай-бай</l>
        <l_var type="molodtsov-cyr">бај-бај</l_var>
    </lg>
-   <mg>
+   <mg relId="0">
      <tg xml:lang="rus">
        <t pos="Interj"><acronym title="детская речь"><em>дет.</em></acronym> баю-бай</t>
      </tg>
@@ -123,7 +123,7 @@
      <l pos="Interj">баль-баль</l>
        <l_var type="molodtsov-cyr">баԉ-баԉ</l_var>
    </lg>
-   <mg>
+   <mg relId="0">
      <tg xml:lang="rus">
        <t pos="Interj"><em>возглас, которым подзывают овцу</em></t>
      </tg>
@@ -134,7 +134,7 @@
      <l pos="Interj">брысь</l>
        <l_var type="molodtsov-cyr">брыԍ</l_var>
    </lg>
-   <mg>
+   <mg relId="0">
      <tg xml:lang="rus">
        <t pos="Interj"><em>возглас, которым отгоняют кошку</em></t>
      </tg>
@@ -149,7 +149,7 @@
      <l pos="Interj">вайлы</l>
        <l_var type="molodtsov-cyr">вајлы</l_var>
    </lg>
-   <mg>
+   <mg relId="0">
      <tg xml:lang="rus">
        <t><acronym title="повелительное наклонение"><em>повел.</em></acronym> давай, давай-ка</t>
      </tg>
@@ -164,7 +164,7 @@
      <l pos="Interj">вала-вала</l>
        <l_var type="molodtsov-cyr">вала-вала</l_var>
    </lg>
-   <mg>
+   <mg relId="0">
      <tg xml:lang="rus">
        <t pos="Interj"><em>возглас, которым подзывают коров на водопой</em></t>
      </tg>
@@ -175,7 +175,7 @@
      <l pos="Interj">господи</l>
        <l_var type="molodtsov-cyr">госпоԃі</l_var>
    </lg>
-   <mg>
+   <mg relId="0">
      <tg xml:lang="rus">
        <t pos="Interj">боже</t>
      </tg>
@@ -190,7 +190,7 @@
      <l pos="Interj">діль</l>
        <l_var type="molodtsov-cyr">ԁіԉ</l_var>
    </lg>
-   <mg>
+   <mg relId="0">
      <tg xml:lang="rus">
        <t pos="Interj"><acronym title="употребляется"><em>употр.</em></acronym> <em>при поддразнивании</em></t>
      </tg>
@@ -205,14 +205,14 @@
      <l pos="Interj">ей</l>
        <l_var type="molodtsov-cyr">јеј</l_var>
    </lg>
-   <mg><span class="underline">употребляется лишь в составе выражений:</span><br />
+   <mg relId="0"><span class="underline">употребляется лишь в составе выражений:</span><br />
      <xg>
        <x>ей богу </x>
-       <xt><acronym title="междометие"><em>межд.</em></acronym> ей-богу</xt>
+       <xt xml:lang="rus"><acronym title="междометие"><em>межд.</em></acronym> ей-богу</xt>
      </xg><br />
      <xg>
        <x>сё ей бог </x>
-       <xt><acronym title="междометие"><em>межд.</em></acronym> ей-богу</xt>
+       <xt xml:lang="rus"><acronym title="междометие"><em>межд.</em></acronym> ей-богу</xt>
      </xg>
    </mg>
 </e>
@@ -221,7 +221,7 @@
      <l pos="Interj">екуня-ваня</l>
        <l_var type="molodtsov-cyr">јекуԋа-ваԋа</l_var>
    </lg>
-   <mg>
+   <mg relId="0">
      <tg xml:lang="rus">
        <t>ёлки-палки <em>(восклицание, выражающее удивление, негодование, возмущение)</em></t>
      </tg>
@@ -236,7 +236,7 @@
      <l pos="Interj">зы-зы</l>
        <l_var type="molodtsov-cyr">зы-зы</l_var>
    </lg>
-   <mg>
+   <mg relId="0">
      <tg xml:lang="rus">
        <t pos="Interj">у-у!</t>
      </tg>
@@ -251,8 +251,8 @@
      <l pos="Interj">икӧтапызь</l>
        <l_var type="molodtsov-cyr">ікӧтапыԅ</l_var>
    </lg>
-   <mg>
-     <sg><s pos="Interj" s_type="see">икӧта</s></sg><tg xml:lang="rus">
+   <mg relId="0"> <sg><s pos="Interj" s_type="see">икӧта</s></sg>
+     <tg xml:lang="rus">
        <t></t>
      </tg>
    </mg>
@@ -262,7 +262,7 @@
      <l pos="Interj">кас</l>
        <l_var type="molodtsov-cyr">кас</l_var>
    </lg>
-   <mg>
+   <mg relId="0">
      <tg xml:lang="rus">
        <t pos="Interj"><em>знак согласия при игре</em></t>
      </tg>
@@ -273,7 +273,7 @@
      <l pos="Interj">конь-конь</l>
        <l_var type="molodtsov-cyr">коԋ-коԋ</l_var>
    </lg>
-   <mg>
+   <mg relId="0">
      <tg xml:lang="rus">
        <t><em>возглас, которым подзывают телят, быка</em></t>
      </tg>
@@ -284,8 +284,8 @@
      <l pos="Interj">кува</l>
        <l_var type="molodtsov-cyr">кува</l_var>
    </lg>
-   <mg>
-     <sg><s pos="Interj" s_type="see">куа Ⅱ</s></sg><tg xml:lang="rus">
+   <mg relId="0"> <sg><s pos="Interj" s_type="see">куа Ⅱ</s></sg>
+     <tg xml:lang="rus">
        <t></t>
      </tg>
    </mg>
@@ -295,7 +295,7 @@
      <l pos="Interj">куть-куть</l>
        <l_var type="molodtsov-cyr">куԏ-куԏ</l_var>
    </lg>
-   <mg><strong>куть-куть!</strong><br />
+   <mg relId="0"><strong>куть-куть!</strong><br />
      <tg xml:lang="rus">
        <t><em>возглас, которым подзывают собаку, щенка</em></t>
      </tg>
@@ -306,7 +306,7 @@
      <l pos="Interj">кыс-кыс</l>
        <l_var type="molodtsov-cyr">кыс-кыс</l_var>
    </lg>
-   <mg>
+   <mg relId="0">
      <tg xml:lang="rus">
        <t pos="Interj">кис-кис</t>
      </tg>
@@ -317,7 +317,7 @@
      <l pos="Interj">небось</l>
        <l_var type="molodtsov-cyr">ԋебоԍ</l_var>
    </lg>
-   <mg>
+   <mg relId="0">
      <tg xml:lang="rus">
        <t>небось</t>
      </tg>
@@ -340,7 +340,7 @@
      <l pos="Interj">ноко</l>
        <l_var type="molodtsov-cyr">ноко</l_var>
    </lg>
-   <mg>
+   <mg relId="0">
      <tg xml:lang="rus">
        <t pos="Interj">ну-ка</t>
      </tg>
@@ -363,13 +363,13 @@
      <l pos="Interj">нолтӧ</l>
        <l_var type="molodtsov-cyr">нолтӧ</l_var>
    </lg>
-   <mg>
+   <mg relId="0">
      <tg xml:lang="rus">
        <t>ну-ка</t>
      </tg><br />
      <xg>
        <x>нолтӧ, тӧдмалӧй нӧдкыв</x>
-       <xt> ну-ка, отгадайте загадку</xt>
+       <xt xml:lang="rus">ну-ка, отгадайте загадку</xt>
      </xg>; <sg><s pos="Interj" s_type="see">ноко</s></sg>
    </mg>
 </e>
@@ -378,8 +378,8 @@
      <l pos="Interj">нолтӧсь</l>
        <l_var type="molodtsov-cyr">нолтӧԍ</l_var>
    </lg>
-   <mg>
-     <sg><s pos="Interj" s_type="see">нолтӧ</s></sg><tg xml:lang="rus">
+   <mg relId="0"> <sg><s pos="Interj" s_type="see">нолтӧ</s></sg>
+     <tg xml:lang="rus">
        <t></t>
      </tg>
      <xg>
@@ -393,8 +393,8 @@
      <l pos="Interj">нолы</l>
        <l_var type="molodtsov-cyr">нолы</l_var>
    </lg>
-   <mg>
-     <sg><s pos="Interj" s_type="see">нолтӧ</s></sg><tg xml:lang="rus">
+   <mg relId="0"> <sg><s pos="Interj" s_type="see">нолтӧ</s></sg>
+     <tg xml:lang="rus">
        <t></t>
      </tg>
    </mg>
@@ -404,8 +404,8 @@
      <l pos="Interj">нолӧй</l>
        <l_var type="molodtsov-cyr">нолӧј</l_var>
    </lg>
-   <mg><strong>нолӧй!</strong><br />
-     <sg><s pos="Interj" s_type="see">нолӧ</s></sg><tg xml:lang="rus">
+   <mg relId="0"><strong>нолӧй!</strong><br /> <sg><s pos="Interj" s_type="see">нолӧ</s></sg>
+     <tg xml:lang="rus">
        <t></t>
      </tg>
    </mg>
@@ -415,7 +415,7 @@
      <l pos="Interj">нюж</l>
        <l_var type="molodtsov-cyr">ԋуж</l_var>
    </lg>
-   <mg><strong>нюж!</strong><br />
+   <mg relId="0"><strong>нюж!</strong><br />
      <tg xml:lang="rus">
        <t><acronym title="детская речь"><em>дет.</em></acronym> потягушеньки!</t>
      </tg>
@@ -426,7 +426,7 @@
      <l pos="Interj">ой-ёй</l>
        <l_var type="molodtsov-cyr">ој-јој</l_var>
    </lg>
-   <mg>
+   <mg relId="0">
      <tg xml:lang="rus">
        <t pos="Interj">ой, какой! ух, какой! ух, как!</t>
      </tg>
@@ -445,7 +445,7 @@
      <l pos="Interj">ойя</l>
        <l_var type="molodtsov-cyr">ојја</l_var>
    </lg>
-   <mg>
+   <mg relId="0">
      <tg xml:lang="rus">
        <t pos="Interj">, <em>выражающее боязнь, страх</em> ой, ай</t>
      </tg>
@@ -472,7 +472,7 @@
      <l pos="Interj">окма</l>
        <l_var type="molodtsov-cyr">окма</l_var>
    </lg>
-   <mg>
+   <mg relId="0">
      <tg xml:lang="rus">
        <t pos="Interj">эхма <acronym title="разговорное"><em>разг.</em></acronym></t>
      </tg>
@@ -487,7 +487,7 @@
      <l pos="Interj">прутьӧ-прутьӧ</l>
        <l_var type="molodtsov-cyr">пруԏӧ-пруԏӧ</l_var>
    </lg>
-   <mg>
+   <mg relId="0">
      <tg xml:lang="rus">
        <t><em>возглас, которым подзывают телят</em></t>
      </tg>
@@ -498,8 +498,8 @@
      <l pos="Interj">руті-роті</l>
        <l_var type="molodtsov-cyr">руті-роті</l_var>
    </lg>
-   <mg>
-     <sg><s pos="Interj" s_type="see">ризі-ротки</s><s pos="Interj" s_type="see">ротас</s></sg><tg xml:lang="rus">
+   <mg relId="0"> <sg><s pos="Interj" s_type="see">ризі-ротки</s><s pos="Interj" s_type="see">ротас</s></sg>
+     <tg xml:lang="rus">
        <t></t>
      </tg>
    </mg>
@@ -509,7 +509,7 @@
      <l pos="Interj">слабог</l>
        <l_var type="molodtsov-cyr">слабог</l_var>
    </lg>
-   <mg>
+   <mg relId="0">
      <tg xml:lang="rus">
        <t>слава богу; хорошо, благополучно</t>
      </tg>
@@ -519,7 +519,7 @@
      </xg><br />
      <xg>
        <x>◊ кодлы славаыс, а кодлы и слабогыс </x>
-       <xt><acronym title="пословица"><em>посл.</em></acronym> кому пироги и пышки, а кому синяки и шишки </xt><com>(<acronym title="буквально"><em>букв.</em></acronym> кому слава, а кому и «слава богу»)</com>
+       <xt xml:lang="rus"><acronym title="пословица"><em>посл.</em></acronym> кому пироги и пышки, а кому синяки и шишки </xt><com>(<acronym title="буквально"><em>букв.</em></acronym> кому слава, а кому и «слава богу»)</com>
      </xg>
    </mg>
 </e>
@@ -528,7 +528,7 @@
      <l pos="Interj">сьта</l>
        <l_var type="molodtsov-cyr">ԍта</l_var>
    </lg>
-   <mg>
+   <mg relId="0">
      <tg xml:lang="rus">
        <t><em>возглас, которым подзывают собаку</em></t>
      </tg>
@@ -539,7 +539,7 @@
      <l pos="Interj">сьтпро</l>
        <l_var type="molodtsov-cyr">ԍтпро</l_var>
    </lg>
-   <mg>
+   <mg relId="0">
      <tg xml:lang="rus">
        <t><em>возглас, которым подзывают лошадь</em></t>
      </tg>
@@ -550,7 +550,7 @@
      <l pos="Interj">тпру</l>
        <l_var type="molodtsov-cyr">тпру</l_var>
    </lg>
-   <mg>
+   <mg relId="0">
      <tg xml:lang="rus">
        <t pos="Interj">тпру <em>(возглас, которым останавливают лошадь)</em></t>
      </tg>
@@ -565,7 +565,7 @@
      <l pos="Interj">тьпу</l>
        <l_var type="molodtsov-cyr">ԏпу</l_var>
    </lg>
-   <mg>
+   <mg relId="0">
      <tg xml:lang="rus">
        <t pos="Interj">тьфу</t>
      </tg>
@@ -576,7 +576,7 @@
      <l pos="Interj">тэт-тэт</l>
        <l_var type="molodtsov-cyr">тет-тет</l_var>
    </lg>
-   <mg>
+   <mg relId="0">
      <tg xml:lang="rus">
        <t><em>возглас, которым подзывают собаку</em></t>
      </tg>
@@ -587,7 +587,7 @@
      <l pos="Interj">тіджык</l>
        <l_var type="molodtsov-cyr">тіҗык</l_var>
    </lg>
-   <mg>
+   <mg relId="0">
      <tg xml:lang="rus">
        <t><acronym title="шутливое слово, выражение"><em>шутл.</em></acronym> нажимай! давай!</t>
      </tg>
@@ -598,7 +598,7 @@
      <l pos="Interj">уп</l>
        <l_var type="molodtsov-cyr">уп</l_var>
    </lg>
-   <mg>
+   <mg relId="0">
      <tg xml:lang="rus">
        <t pos="Interj">уф</t>
      </tg>
@@ -613,7 +613,7 @@
      <l pos="Interj">чиб-чиб</l>
        <l_var type="molodtsov-cyr">чіб-чіб</l_var>
    </lg>
-   <mg>
+   <mg relId="0">
      <tg xml:lang="rus">
        <t><em>возглас, которым подзывают жеребёнка</em></t>
      </tg>
@@ -624,7 +624,7 @@
      <l pos="Interj">чивк</l>
        <l_var type="molodtsov-cyr">чівк</l_var>
    </lg>
-   <mg>
+   <mg relId="0">
      <tg xml:lang="rus">
        <t pos="Interj"><em>в роли</em> <acronym title="сказуемое"><em>сказ.</em></acronym> прыг</t>
      </tg>
@@ -639,7 +639,7 @@
      <l pos="Interj">чип-чип</l>
        <l_var type="molodtsov-cyr">чіп-чіп</l_var>
    </lg>
-   <mg>
+   <mg relId="0">
      <tg xml:lang="rus">
        <t pos="Interj">цып-цып</t>
      </tg>
@@ -650,7 +650,7 @@
      <l pos="Interj">чур</l>
        <l_var type="molodtsov-cyr">чур</l_var>
    </lg>
-   <mg>
+   <mg relId="0">
      <tg xml:lang="rus">
        <t pos="Interj">чур</t>
      </tg>
@@ -665,7 +665,7 @@
      <l pos="Interj">чӧрту</l>
        <l_var type="molodtsov-cyr">чӧрту</l_var>
    </lg>
-   <mg>
+   <mg relId="0">
      <tg xml:lang="rus">
        <t>к чертям; к чёрту</t>
      </tg>
@@ -680,7 +680,7 @@
      <l pos="Interj">ша</l>
        <l_var type="molodtsov-cyr">ша</l_var>
    </lg>
-   <mg>
+   <mg relId="0">
      <tg xml:lang="rus">
        <t pos="Interj">ша; ни гугу <em>(просьба или требование молчать)</em></t>
      </tg>
@@ -699,8 +699,8 @@
      <l pos="Interj">шыть</l>
        <l_var type="molodtsov-cyr">шыԏ</l_var>
    </lg>
-   <mg>
-     <sg><s pos="Interj" s_type="see">шӧть</s></sg><tg xml:lang="rus">
+   <mg relId="0"> <sg><s pos="Interj" s_type="see">шӧть</s></sg>
+     <tg xml:lang="rus">
        <t></t>
      </tg>
    </mg>
@@ -710,7 +710,7 @@
      <l pos="Interj">шӧть</l>
        <l_var type="molodtsov-cyr">шӧԏ</l_var>
    </lg>
-   <mg>
+   <mg relId="0">
      <tg xml:lang="rus">
        <t pos="Interj"><em>окрик, которым отгоняют собак</em></t>
      </tg>
@@ -721,7 +721,7 @@
      <l pos="Interj">ык</l>
        <l_var type="molodtsov-cyr">ык</l_var>
    </lg>
-   <mg>
+   <mg relId="0">
      <tg xml:lang="rus">
        <t pos="Interj">бр-р</t>
      </tg>
@@ -736,7 +736,7 @@
      <l pos="Interj">ырс</l>
        <l_var type="molodtsov-cyr">ырс</l_var>
    </lg>
-   <mg>
+   <mg relId="0">
      <tg xml:lang="rus">
        <t pos="Interj"></t>
      </tg><br />
@@ -775,7 +775,7 @@
      <l pos="Interj">эй</l>
        <l_var type="molodtsov-cyr">еј</l_var>
    </lg>
-   <mg>
+   <mg relId="0">
      <tg xml:lang="rus">
        <t pos="Interj">эй!</t>
      </tg>
@@ -794,7 +794,7 @@
      <l pos="Interj">эк</l>
        <l_var type="molodtsov-cyr">ек</l_var>
    </lg>
-   <mg>
+   <mg relId="0">
      <tg xml:lang="rus">
        <t pos="Interj">эх!</t>
      </tg>
@@ -804,7 +804,7 @@
      </xg><br />
      <xg>
        <x>◊ эк, ныр улад чужӧма, а юрад абу кӧдзӧма </x>
-       <xt><acronym title="пословица"><em>посл.</em></acronym> под носом взошло, а в голове не посеяно</xt>
+       <xt xml:lang="rus"><acronym title="пословица"><em>посл.</em></acronym> под носом взошло, а в голове не посеяно</xt>
      </xg>
    </mg>
 </e>
@@ -813,7 +813,7 @@
      <l pos="Interj">экма</l>
        <l_var type="molodtsov-cyr">екма</l_var>
    </lg>
-   <mg>
+   <mg relId="0">
      <tg xml:lang="rus">
        <t pos="Interj">эхма!</t>
      </tg>
@@ -823,7 +823,7 @@
      </xg><br />
      <xg>
        <x>◊ экма, чӧскыд ма!</x>
-       <xt> эхма, вкусная хурма! </xt><com>(<acronym title="буквально"><em>букв.</em></acronym> сладкий мёд)</com>
+       <xt xml:lang="rus">эхма, вкусная хурма! </xt><com>(<acronym title="буквально"><em>букв.</em></acronym> сладкий мёд)</com>
      </xg>
    </mg>
 </e>
@@ -856,7 +856,7 @@
      <l pos="Interj">ӧдерень</l>
        <l_var type="molodtsov-cyr">ӧԃереԋ</l_var>
    </lg>
-   <mg>
+   <mg relId="0">
      <tg xml:lang="rus">
        <t pos="Interj">пусть (раз на то пошло); так и быть</t>
      </tg>
@@ -899,7 +899,7 @@
      <l pos="Interj">ӧсьт</l>
        <l_var type="molodtsov-cyr">ӧԍт</l_var>
    </lg>
-   <mg>
+   <mg relId="0">
      <tg xml:lang="rus">
        <t>возглас, которым подзывают овец</t>
      </tg>
@@ -910,7 +910,7 @@
      <l pos="Interj">ӧть-ӧть</l>
        <l_var type="molodtsov-cyr">ӧԏ-ӧԏ</l_var> <acronym title="диалектное"><em>диал.</em></acronym>
    </lg>
-   <mg>
+   <mg relId="0">
      <tg xml:lang="rus">
        <t pos="Interj">возглас, которым погоняют лошадей</t>
      </tg>
@@ -921,7 +921,7 @@
      <l pos="Interj" type="Onom">булы-болы</l>
        <l_var type="molodtsov-cyr">булы-болы</l_var>
    </lg>
-   <mg>
+   <mg relId="0">
      <tg xml:lang="rus">
        <t>тары-бары; болтовня</t>
      </tg>
@@ -936,8 +936,8 @@
      <l pos="Interj" type="Onom">бульс-больс</l>
        <l_var type="molodtsov-cyr">буԉс-боԉс</l_var>
    </lg>
-   <mg>
-     <sg><s pos="Interj" s_type="see">буль-боль</s></sg><tg xml:lang="rus">
+   <mg relId="0"> <sg><s pos="Interj" s_type="see">буль-боль</s></sg>
+     <tg xml:lang="rus">
        <t></t>
      </tg>
    </mg>
@@ -947,7 +947,7 @@
      <l pos="Interj" type="Onom">бум-бом</l>
        <l_var type="molodtsov-cyr">бум-бом</l_var> <acronym title="звукоподражательное слово"><em>звукоподр.</em></acronym>
    </lg>
-   <mg>
+   <mg relId="0">
      <tg xml:lang="rus">
        <t pos="Interj">бум</t>
      </tg>
@@ -962,7 +962,7 @@
      <l pos="Interj" type="Onom">бур-бор</l>
        <l_var type="molodtsov-cyr">бур-бор</l_var> <acronym title="звукоподражательное слово"><em>звукоподр.</em></acronym>
    </lg>
-   <mg>
+   <mg relId="0">
      <tg xml:lang="rus">
        <t pos="Interj">ропот, шёпот</t>
      </tg>
@@ -982,8 +982,8 @@
        <t> тук</t>
      </tg>
    </mg>
-   <mg relId="1">
-     <sg><s pos="Interj" s_type="see">брун</s></sg><tg xml:lang="rus">
+   <mg relId="1"> <sg><s pos="Interj" s_type="see">брун</s></sg>
+     <tg xml:lang="rus">
        <t></t>
      </tg>
    </mg>
@@ -993,8 +993,8 @@
      <l pos="Interj" type="Onom">грыма-йирка</l>
        <l_var type="molodtsov-cyr">грыма-јірка</l_var>
    </lg>
-   <mg>
-     <sg><s pos="Interj" s_type="see">грыма-грама</s></sg><tg xml:lang="rus">
+   <mg relId="0"> <sg><s pos="Interj" s_type="see">грыма-грама</s></sg>
+     <tg xml:lang="rus">
        <t></t>
      </tg>
    </mg>
@@ -1004,7 +1004,7 @@
      <l pos="Interj" type="Onom">гуль-голь</l>
        <l_var type="molodtsov-cyr">гуԉ-гоԉ</l_var> <acronym title="звукоподражательное слово"><em>звукоподр.</em></acronym>
    </lg>
-   <mg>
+   <mg relId="0">
      <tg xml:lang="rus">
        <t pos="Interj">бряк, звяк</t>
      </tg>
@@ -1047,7 +1047,7 @@
      <l pos="Interj" type="Onom">гып</l>
        <l_var type="molodtsov-cyr">гып</l_var> <acronym title="звукоподражательное слово"><em>звукоподр.</em></acronym>
    </lg>
-   <mg>
+   <mg relId="0">
      <tg xml:lang="rus">
        <t pos="Interj">хлоп! <em>(о выстреле, ударе)</em></t>
      </tg>
@@ -1058,7 +1058,7 @@
      <l pos="Interj" type="Onom">дзиз</l>
        <l_var type="molodtsov-cyr">ԇіз</l_var> <acronym title="звукоподражательное слово"><em>звукоподр.</em></acronym>
    </lg>
-   <mg>
+   <mg relId="0">
      <tg xml:lang="rus">
        <t pos="Interj">жужжание <em>(насекомых, пули <acronym title="и так далее"><em>и т.д.</em></acronym>)</em></t>
      </tg>
@@ -1069,7 +1069,7 @@
      <l pos="Interj" type="Onom">дзурлик</l>
        <l_var type="molodtsov-cyr">ԇурԉік</l_var> <acronym title="звукоподражательное слово"><em>звукоподр.</em></acronym>
    </lg>
-   <mg>
+   <mg relId="0">
      <tg xml:lang="rus">
        <t pos="Interj">скрип-скрип</t>
      </tg>
@@ -1080,7 +1080,7 @@
      <l pos="Interj" type="Onom">жбольк-жбольк</l>
        <l_var type="molodtsov-cyr">жбоԉк-жбоԉк</l_var> <acronym title="звукоподражательное слово"><em>звукоподр.</em></acronym>
    </lg>
-   <mg>
+   <mg relId="0">
      <tg xml:lang="rus">
        <t pos="Interj">буль-буль</t>
      </tg>
@@ -1095,7 +1095,7 @@
      <l pos="Interj" type="Onom">жмут</l>
        <l_var type="molodtsov-cyr">жмут</l_var>
    </lg>
-   <mg><strong>жмут!</strong><br />
+   <mg relId="0"><strong>жмут!</strong><br />
      <tg xml:lang="rus">
        <t><acronym title="звукоподражательное слово"><em>звукоподр.</em></acronym> бух!</t>
      </tg>
@@ -1130,8 +1130,8 @@
      <l pos="Interj" type="Onom">зильк-зёльк</l>
        <l_var type="molodtsov-cyr">ԅіԉк-ԅоԉк</l_var>
    </lg>
-   <mg>
-     <sg><s pos="Interj" s_type="see">зиль-зёль</s></sg><tg xml:lang="rus">
+   <mg relId="0"> <sg><s pos="Interj" s_type="see">зиль-зёль</s></sg>
+     <tg xml:lang="rus">
        <t></t>
      </tg>
    </mg>
@@ -1141,7 +1141,7 @@
      <l pos="Interj" type="Onom">зур-зар</l>
        <l_var type="molodtsov-cyr">зур-зар</l_var> <acronym title="звукоподражательное слово"><em>звукоподр.</em></acronym>
    </lg>
-   <mg>
+   <mg relId="0">
      <tg xml:lang="rus">
        <t pos="Interj">с шумом, с треском, ударяясь <em>обо что-либо</em>, натыкаясь <em>на что-либо</em></t>
      </tg>
@@ -1160,8 +1160,8 @@
      <l pos="Interj" type="Onom">зури-зари</l>
        <l_var type="molodtsov-cyr">зурі-зарі</l_var>
    </lg>
-   <mg>
-     <sg><s pos="Interj" s_type="see">зур-зар</s></sg><tg xml:lang="rus">
+   <mg relId="0"> <sg><s pos="Interj" s_type="see">зур-зар</s></sg>
+     <tg xml:lang="rus">
        <t></t>
      </tg>
    </mg>
@@ -1171,8 +1171,8 @@
      <l pos="Interj" type="Onom">зурк-зӧрк</l>
        <l_var type="molodtsov-cyr">зурк-зӧрк</l_var>
    </lg>
-   <mg>
-     <sg><s pos="Interj" s_type="see">зур-зар</s></sg><tg xml:lang="rus">
+   <mg relId="0"> <sg><s pos="Interj" s_type="see">зур-зар</s></sg>
+     <tg xml:lang="rus">
        <t></t>
      </tg>
    </mg>
@@ -1182,7 +1182,7 @@
      <l pos="Interj" type="Onom">зым</l>
        <l_var type="molodtsov-cyr">зым</l_var> <acronym title="звукоподражательное слово"><em>звукоподр.</em></acronym>
    </lg>
-   <mg>
+   <mg relId="0">
      <tg xml:lang="rus">
        <t pos="Interj">бах! грох!</t>
      </tg>
@@ -1201,7 +1201,7 @@
      <l pos="Interj" type="Onom">зырк</l>
        <l_var type="molodtsov-cyr">зырк</l_var> <acronym title="звукоподражательное слово"><em>звукоподр.</em></acronym>
    </lg>
-   <mg>
+   <mg relId="0">
      <tg xml:lang="rus">
        <t pos="Interj">– <em>о грохоте, содрогании</em></t>
      </tg>
@@ -1212,13 +1212,13 @@
      <l pos="Interj" type="Onom">йирки-тарки</l>
        <l_var type="molodtsov-cyr">јіркі-таркі</l_var>
    </lg>
-   <mg>
+   <mg relId="0">
      <tg xml:lang="rus">
        <t>с шумом, с грохотом</t>
      </tg><br />
      <xg>
        <x>йирки-тарки гӧнитны</x>
-       <xt> с грохотом скакать</xt>
+       <xt xml:lang="rus">с грохотом скакать</xt>
      </xg>; <sg><s pos="Interj" s_type="seeAlso">грыма-грама</s></sg>
    </mg>
 </e>
@@ -1243,7 +1243,7 @@
      <l pos="Interj" type="Onom">кильк-кильк</l>
        <l_var type="molodtsov-cyr">кіԉк-кіԉк</l_var> <acronym title="звукоподражательное слово"><em>звукоподр.</em></acronym>
    </lg>
-   <mg>
+   <mg relId="0">
      <tg xml:lang="rus">
        <t pos="Interj">хи-хи</t>
      </tg>
@@ -1254,7 +1254,7 @@
      <l pos="Interj" type="Onom">китши-котши</l>
        <l_var type="molodtsov-cyr">кіщі-кощі</l_var> <acronym title="звукоподражательное слово"><em>звукоподр.</em></acronym>
    </lg>
-   <mg>
+   <mg relId="0">
      <tg xml:lang="rus">
        <t pos="Interj">тук-тук</t>
      </tg>
@@ -1269,7 +1269,7 @@
      <l pos="Interj" type="Onom">клес</l>
        <l_var type="molodtsov-cyr">кԉес</l_var> <acronym title="звукоподражательное слово"><em>звукоподр.</em></acronym>
    </lg>
-   <mg>
+   <mg relId="0">
      <tg xml:lang="rus">
        <t pos="Interj">хлоп; громко, с шумом</t>
      </tg>
@@ -1284,7 +1284,7 @@
      <l pos="Interj" type="Onom">клотш</l>
        <l_var type="molodtsov-cyr">клощ</l_var> <acronym title="звукоподражательное слово"><em>звукоподр.</em></acronym>
    </lg>
-   <mg>
+   <mg relId="0">
      <tg xml:lang="rus">
        <t pos="Interj">хруст <em>(в суставах)</em></t>
      </tg>
@@ -1295,7 +1295,7 @@
      <l pos="Interj" type="Onom">клуп-клоп</l>
        <l_var type="molodtsov-cyr">клуп-клоп</l_var> <acronym title="звукоподражательное слово"><em>звукоподр.</em></acronym>
    </lg>
-   <mg>
+   <mg relId="0">
      <tg xml:lang="rus">
        <t pos="Interj">хлоп-хлоп</t>
      </tg>
@@ -1306,7 +1306,7 @@
      <l pos="Interj" type="Onom">клюв</l>
        <l_var type="molodtsov-cyr">кԉув</l_var> <acronym title="звукоподражательное слово"><em>звукоподр.</em></acronym>
    </lg>
-   <mg>
+   <mg relId="0">
      <tg xml:lang="rus">
        <t pos="Interj">курлы <em>(крик журавлей)</em></t>
      </tg>
@@ -1317,7 +1317,7 @@
      <l pos="Interj" type="Onom">клюн-клён</l>
        <l_var type="molodtsov-cyr">кԉун-кԉон</l_var> <acronym title="звукоподражательное слово"><em>звукоподр.</em></acronym>
    </lg>
-   <mg>
+   <mg relId="0">
      <tg xml:lang="rus">
        <t pos="Interj">гулко стуча; с гулким стуком</t>
      </tg>
@@ -1328,7 +1328,7 @@
      <l pos="Interj" type="Onom">клён</l>
        <l_var type="molodtsov-cyr">кԉон</l_var> <acronym title="звукоподражательное слово"><em>звукоподр.</em></acronym>
    </lg>
-   <mg>
+   <mg relId="0">
      <tg xml:lang="rus">
        <t pos="Interj">бряк; со звоном</t>
      </tg>
@@ -1338,7 +1338,7 @@
      </xg><br />
      <xg>
        <x>клён дорис юсӧ </x>
-       <xt><acronym title="в переносном значении"><em>перен.</em></acronym> крепко сковал реку</xt>
+       <xt xml:lang="rus"><acronym title="в переносном значении"><em>перен.</em></acronym> крепко сковал реку</xt>
      </xg>
    </mg>
 </e>
@@ -1347,7 +1347,7 @@
      <l pos="Interj" type="Onom">колс</l>
        <l_var type="molodtsov-cyr">колс</l_var>
    </lg>
-   <mg><strong>колс!</strong><br />
+   <mg relId="0"><strong>колс!</strong><br />
      <tg xml:lang="rus">
        <t><acronym title="звукоподражательное слово"><em>звукоподр.</em></acronym> стук! щёлк!</t>
      </tg>
@@ -1358,7 +1358,7 @@
      <l pos="Interj" type="Onom">крав-крав</l>
        <l_var type="molodtsov-cyr">крав-крав</l_var> <acronym title="звукоподражательное слово"><em>звукоподр.</em></acronym>
    </lg>
-   <mg>
+   <mg relId="0">
      <tg xml:lang="rus">
        <t pos="Interj">кар-кар <em>(карканье вороны)</em></t>
      </tg>
@@ -1369,7 +1369,7 @@
      <l pos="Interj" type="Onom">куж-каж</l>
        <l_var type="molodtsov-cyr">куж-каж</l_var> <acronym title="звукоподражательное слово"><em>звукоподр.</em></acronym>
    </lg>
-   <mg>
+   <mg relId="0">
      <tg xml:lang="rus">
        <t pos="Interj">хруст, хряск</t>
      </tg>
@@ -1388,7 +1388,7 @@
      <l pos="Interj" type="Onom">кукку</l>
        <l_var type="molodtsov-cyr">кукку</l_var> <acronym title="звукоподражательное слово"><em>звукоподр.</em></acronym>
    </lg>
-   <mg>
+   <mg relId="0">
      <tg xml:lang="rus">
        <t pos="Interj">ку-ку</t>
      </tg>
@@ -1403,7 +1403,7 @@
      <l pos="Interj" type="Onom">кун-кон</l>
        <l_var type="molodtsov-cyr">кун-кон</l_var> <acronym title="звукоподражательное слово"><em>звукоподр.</em></acronym>
    </lg>
-   <mg>
+   <mg relId="0">
      <tg xml:lang="rus">
        <t pos="Interj">гулкий; пустой || гулко, пусто</t>
      </tg>
@@ -1422,7 +1422,7 @@
      <l pos="Interj" type="Onom">куннар-каннар</l>
        <l_var type="molodtsov-cyr">куннар-каннар</l_var> <acronym title="звукоподражательное слово"><em>звукоподр.</em></acronym>
    </lg>
-   <mg>
+   <mg relId="0">
      <tg xml:lang="rus">
        <t pos="Interj">пиликанье</t>
      </tg>
@@ -1437,7 +1437,7 @@
      <l pos="Interj" type="Onom">курр</l>
        <l_var type="molodtsov-cyr">курр</l_var>
    </lg>
-   <mg><strong>курр, кур</strong><br />
+   <mg relId="0"><strong>курр, кур</strong><br />
      <tg xml:lang="rus">
        <t><acronym title="звукоподражательное слово"><em>звукоподр.</em></acronym></t>
      </tg><br />
@@ -1456,7 +1456,7 @@
      <l pos="Interj" type="Onom">кутш-котш</l>
        <l_var type="molodtsov-cyr">кущ-кощ</l_var> <acronym title="звукоподражательное слово"><em>звукоподр.</em></acronym>
    </lg>
-   <mg>
+   <mg relId="0">
      <tg xml:lang="rus">
        <t pos="Interj">тук-тук</t>
      </tg>
@@ -1471,7 +1471,7 @@
      <l pos="Interj" type="Onom">люв-ляв</l>
        <l_var type="molodtsov-cyr">ԉув-ԉав</l_var> <acronym title="звукоподражательное слово"><em>звукоподр.</em></acronym>
    </lg>
-   <mg>
+   <mg relId="0">
      <tg xml:lang="rus">
        <t pos="Interj">гав-гав</t>
      </tg>
@@ -1486,7 +1486,7 @@
      <l pos="Interj" type="Onom">няв</l>
        <l_var type="molodtsov-cyr">ԋав</l_var>
    </lg>
-   <mg><strong>няв!</strong><br />
+   <mg relId="0"><strong>няв!</strong><br />
      <tg xml:lang="rus">
        <t><acronym title="звукоподражательное слово"><em>звукоподр.</em></acronym> мяу!</t>
      </tg>
@@ -1497,7 +1497,7 @@
      <l pos="Interj" type="Onom">ням</l>
        <l_var type="molodtsov-cyr">ԋам</l_var>
    </lg>
-   <mg><strong>ням!</strong><br />
+   <mg relId="0"><strong>ням!</strong><br />
      <tg xml:lang="rus">
        <t><acronym title="детская речь"><em>дет.</em></acronym> <acronym title="звукоподражательное слово"><em>звукоподр.</em></acronym> ам!</t>
      </tg>
@@ -1508,8 +1508,8 @@
      <l pos="Interj" type="Onom">руз-раз</l>
        <l_var type="molodtsov-cyr">руз-раз</l_var>
    </lg>
-   <mg>
-     <sg><s pos="Interj" s_type="see">руз-паз</s></sg><tg xml:lang="rus">
+   <mg relId="0"> <sg><s pos="Interj" s_type="see">руз-паз</s></sg>
+     <tg xml:lang="rus">
        <t></t>
      </tg>
    </mg>
@@ -1519,8 +1519,8 @@
      <l pos="Interj" type="Onom">рук-рукӧн</l>
        <l_var type="molodtsov-cyr">рук-рукӧн</l_var>
    </lg>
-   <mg>
-     <sg><s pos="Interj" s_type="see">рук-рук</s></sg><tg xml:lang="rus">
+   <mg relId="0"> <sg><s pos="Interj" s_type="see">рук-рук</s></sg>
+     <tg xml:lang="rus">
        <t></t>
      </tg>
    </mg>
@@ -1530,7 +1530,7 @@
      <l pos="Interj" type="Onom">сюль-сяль</l>
        <l_var type="molodtsov-cyr">ԍуԉ-ԍаԉ</l_var> <acronym title="звукоподражательное слово"><em>звукоподр.</em></acronym>
    </lg>
-   <mg>
+   <mg relId="0">
      <tg xml:lang="rus">
        <t pos="Interj">– о плеске, плескании воды</t>
      </tg>
@@ -1545,7 +1545,7 @@
      <l pos="Interj" type="Onom">сюр-сяр</l>
        <l_var type="molodtsov-cyr">ԍур-ԍар</l_var> <acronym title="звукоподражательное слово"><em>звукоподр.</em></acronym>
    </lg>
-   <mg>
+   <mg relId="0">
      <tg xml:lang="rus">
        <t pos="Interj">трах-тарарах</t>
      </tg>
@@ -1560,8 +1560,8 @@
      <l pos="Interj" type="Onom">сюр-сярк</l>
        <l_var type="molodtsov-cyr">ԍур-ԍарк</l_var>
    </lg>
-   <mg>
-     <sg><s pos="Interj" s_type="see">сюр-сяр</s></sg><tg xml:lang="rus">
+   <mg relId="0"> <sg><s pos="Interj" s_type="see">сюр-сяр</s></sg>
+     <tg xml:lang="rus">
        <t></t>
      </tg>
    </mg>
@@ -1571,7 +1571,7 @@
      <l pos="Interj" type="Onom">тарк</l>
        <l_var type="molodtsov-cyr">тарк</l_var> <acronym title="звукоподражательное слово"><em>звукоподр.</em></acronym>
    </lg>
-   <mg>
+   <mg relId="0">
      <tg xml:lang="rus">
        <t pos="Interj">стук; тук</t>
      </tg>
@@ -1586,7 +1586,7 @@
      <l pos="Interj" type="Onom">тиу</l>
        <l_var type="molodtsov-cyr">ԏіу</l_var> <acronym title="звукоподражательное слово"><em>звукоподр.</em></acronym>
    </lg>
-   <mg>
+   <mg relId="0">
      <tg xml:lang="rus">
        <t pos="Interj">чив; чивиканье</t>
      </tg>
@@ -1601,7 +1601,7 @@
      <l pos="Interj" type="Onom">трин-трон</l>
        <l_var type="molodtsov-cyr">трін-трон</l_var> <acronym title="звукоподражательное слово"><em>звукоподр.</em></acronym>
    </lg>
-   <mg>
+   <mg relId="0">
      <tg xml:lang="rus">
        <t pos="Interj">звук, изображающий пустоту</t>
      </tg>
@@ -1616,7 +1616,7 @@
      <l pos="Interj" type="Onom">тринь-тринь</l>
        <l_var type="molodtsov-cyr">тріԋ-тріԋ</l_var> <acronym title="звукоподражательное слово"><em>звукоподр.</em></acronym>
    </lg>
-   <mg>
+   <mg relId="0">
      <tg xml:lang="rus">
        <t pos="Interj">динь-динь</t>
      </tg>
@@ -1627,7 +1627,7 @@
      <l pos="Interj" type="Onom">тринь-тронь</l>
        <l_var type="molodtsov-cyr">тріԋ-троԋ</l_var> <acronym title="звукоподражательное слово"><em>звукоподр.</em></acronym>
    </lg>
-   <mg>
+   <mg relId="0">
      <tg xml:lang="rus">
        <t pos="Interj">трень-брень</t>
      </tg>
@@ -1638,7 +1638,7 @@
      <l pos="Interj" type="Onom">трич</l>
        <l_var type="molodtsov-cyr">тріч</l_var> <acronym title="звукоподражательное слово"><em>звукоподр.</em></acronym>
    </lg>
-   <mg>
+   <mg relId="0">
      <tg xml:lang="rus">
        <t pos="Interj">чик!</t>
      </tg>
@@ -1653,7 +1653,7 @@
      <l pos="Interj" type="Onom">трунь-тронь</l>
        <l_var type="molodtsov-cyr">труԋ-троԋ</l_var> <acronym title="звукоподражательное слово"><em>звукоподр.</em></acronym>
    </lg>
-   <mg>
+   <mg relId="0">
      <tg xml:lang="rus">
        <t pos="Interj">бряк-звяк</t>
      </tg>
@@ -1668,7 +1668,7 @@
      <l pos="Interj" type="Onom">туль-толь</l>
        <l_var type="molodtsov-cyr">туԉ-тоԉ</l_var> <acronym title="звукоподражательное слово"><em>звукоподр.</em></acronym>
    </lg>
-   <mg>
+   <mg relId="0">
      <tg xml:lang="rus">
        <t pos="Interj">динь-динь</t>
      </tg>
@@ -1679,7 +1679,7 @@
      <l pos="Interj" type="Onom">туп-тап</l>
        <l_var type="molodtsov-cyr">туп-тап</l_var> <acronym title="звукоподражательное слово"><em>звукоподр.</em></acronym>
    </lg>
-   <mg>
+   <mg relId="0">
      <tg xml:lang="rus">
        <t pos="Interj">топ-топ; шлёп-шлёп</t>
      </tg>
@@ -1698,7 +1698,7 @@
      <l pos="Interj" type="Onom">тур-бар</l>
        <l_var type="molodtsov-cyr">тур-бар</l_var>
    </lg>
-   <mg><strong>тур-бар, тур-бор</strong><br />
+   <mg relId="0"><strong>тур-бар, тур-бор</strong><br />
      <tg xml:lang="rus">
        <t><acronym title="звукоподражательное слово"><em>звукоподр.</em></acronym> быстро, невнятно</t>
      </tg>
@@ -1713,7 +1713,7 @@
      <l pos="Interj" type="Onom">тур-бор</l>
        <l_var type="molodtsov-cyr">тур-бор</l_var>
    </lg>
-   <mg><strong>тур-бор, тур-бар</strong><br />
+   <mg relId="0"><strong>тур-бор, тур-бар</strong><br />
      <tg xml:lang="rus">
        <t><acronym title="звукоподражательное слово"><em>звукоподр.</em></acronym> быстро, невнятно</t>
      </tg>
@@ -1728,7 +1728,7 @@
      <l pos="Interj" type="Onom">тур-тар</l>
        <l_var type="molodtsov-cyr">тур-тар</l_var> <acronym title="звукоподражательное слово"><em>звукоподр.</em></acronym>
    </lg>
-   <mg>
+   <mg relId="0">
      <tg xml:lang="rus">
        <t pos="Interj">со стуком; с шумом</t>
      </tg>
@@ -1747,7 +1747,7 @@
      <l pos="Interj" type="Onom">турки-тарки</l>
        <l_var type="molodtsov-cyr">туркі-таркі</l_var>
    </lg>
-   <mg><strong>турки-тарки, турки-таркиӧн</strong><br />
+   <mg relId="0"><strong>турки-тарки, турки-таркиӧн</strong><br />
      <tg xml:lang="rus">
        <t><acronym title="звукоподражательное слово"><em>звукоподр.</em></acronym></t>
      </tg><br />
@@ -1774,7 +1774,7 @@
      <l pos="Interj" type="Onom">турки-таркиӧн</l>
        <l_var type="molodtsov-cyr">туркі-таркіӧн</l_var>
    </lg>
-   <mg><strong>турки-таркиӧн, турки-тарки</strong><br />
+   <mg relId="0"><strong>турки-таркиӧн, турки-тарки</strong><br />
      <tg xml:lang="rus">
        <t><acronym title="звукоподражательное слово"><em>звукоподр.</em></acronym></t>
      </tg><br />
@@ -1805,7 +1805,7 @@
      <l pos="Interj" type="Onom">тутш-татш</l>
        <l_var type="molodtsov-cyr">тущ-тащ</l_var>
    </lg>
-   <mg><strong>тутш-татш, тутш-тотш</strong><br />
+   <mg relId="0"><strong>тутш-татш, тутш-тотш</strong><br />
      <tg xml:lang="rus">
        <t><acronym title="звукоподражательное слово"><em>звукоподр.</em></acronym> тук-тук; стук-стук</t>
      </tg>
@@ -1820,7 +1820,7 @@
      <l pos="Interj" type="Onom">тутш-тотш</l>
        <l_var type="molodtsov-cyr">тущ-тощ</l_var>
    </lg>
-   <mg><strong>тутш-тотш, тутш-татш</strong><br />
+   <mg relId="0"><strong>тутш-тотш, тутш-татш</strong><br />
      <tg xml:lang="rus">
        <t><acronym title="звукоподражательное слово"><em>звукоподр.</em></acronym> тук-тук; стук-стук</t>
      </tg>
@@ -1872,7 +1872,7 @@
      <l pos="Interj" type="Onom">тюп-тёп</l>
        <l_var type="molodtsov-cyr">ԏуп-ԏоп</l_var> <acronym title="звукоподражательное слово"><em>звукоподр.</em></acronym>
    </lg>
-   <mg>
+   <mg relId="0">
      <tg xml:lang="rus">
        <t pos="Interj">кап-кап</t>
      </tg>
@@ -1887,8 +1887,8 @@
      <l pos="Interj" type="Onom">тяп</l>
        <l_var type="molodtsov-cyr">ԏап</l_var> <acronym title="звукоподражательное слово"><em>звукоподр.</em></acronym>
    </lg>
-   <mg>
-     <sg><s pos="Interj" s_type="see">тюп-тяп</s></sg><tg xml:lang="rus">
+   <mg relId="0"> <sg><s pos="Interj" s_type="see">тюп-тяп</s></sg>
+     <tg xml:lang="rus">
        <t pos="Interj"></t>
      </tg>
    </mg>
@@ -1898,7 +1898,7 @@
      <l pos="Interj" type="Onom">тёльс</l>
        <l_var type="molodtsov-cyr">ԏоԉс</l_var> <acronym title="звукоподражательное слово"><em>звукоподр.</em></acronym>
    </lg>
-   <mg>
+   <mg relId="0">
      <tg xml:lang="rus">
        <t pos="Interj">бряк</t>
      </tg>
@@ -1909,7 +1909,7 @@
      <l pos="Interj" type="Onom">тільс-тольс</l>
        <l_var type="molodtsov-cyr">тіԉс-тоԉс</l_var> <acronym title="звукоподражательное слово"><em>звукоподр.</em></acronym>
    </lg>
-   <mg>
+   <mg relId="0">
      <tg xml:lang="rus">
        <t pos="Interj">бряк-звяк</t>
      </tg>
@@ -1924,7 +1924,7 @@
      <l pos="Interj" type="Onom">тітш-тотш</l>
        <l_var type="molodtsov-cyr">тіщ-тощ</l_var> <acronym title="звукоподражательное слово"><em>звукоподр.</em></acronym>
    </lg>
-   <mg>
+   <mg relId="0">
      <tg xml:lang="rus">
        <t pos="Interj">тук-тук</t>
      </tg>
@@ -1935,7 +1935,7 @@
      <l pos="Interj" type="Onom">тіч-тач</l>
        <l_var type="molodtsov-cyr">тіч-тач</l_var>
    </lg>
-   <mg><strong>тіч-тач, тіч-точ</strong><br />
+   <mg relId="0"><strong>тіч-тач, тіч-точ</strong><br />
      <tg xml:lang="rus">
        <t><acronym title="звукоподражательное слово"><em>звукоподр.</em></acronym> тик-так</t>
      </tg>
@@ -1946,7 +1946,7 @@
      <l pos="Interj" type="Onom">тіч-точ</l>
        <l_var type="molodtsov-cyr">тіч-точ</l_var>
    </lg>
-   <mg><strong>тіч-точ, тіч-тач</strong><br />
+   <mg relId="0"><strong>тіч-точ, тіч-тач</strong><br />
      <tg xml:lang="rus">
        <t><acronym title="звукоподражательное слово"><em>звукоподр.</em></acronym> тик-так</t>
      </tg>
@@ -1957,8 +1957,8 @@
      <l pos="Interj" type="Onom">тічи-точи</l>
        <l_var type="molodtsov-cyr">тічі-точі</l_var>
    </lg>
-   <mg>
-     <sg><s pos="Interj" s_type="see">тіч-точ</s></sg><tg xml:lang="rus">
+   <mg relId="0"> <sg><s pos="Interj" s_type="see">тіч-точ</s></sg>
+     <tg xml:lang="rus">
        <t></t>
      </tg>
    </mg>
@@ -1968,7 +1968,7 @@
      <l pos="Interj" type="Onom">тӧрс</l>
        <l_var type="molodtsov-cyr">тӧрс</l_var> <acronym title="звукоподражательное слово"><em>звукоподр.</em></acronym>
    </lg>
-   <mg>
+   <mg relId="0">
      <tg xml:lang="rus">
        <t pos="Interj">чик</t>
      </tg>
@@ -1983,7 +1983,7 @@
      <l pos="Interj" type="Onom">ув-ав</l>
        <l_var type="molodtsov-cyr">ув-ав</l_var>
    </lg>
-   <mg><strong>ув-ав, ува-ава</strong><br />
+   <mg relId="0"><strong>ув-ав, ува-ава</strong><br />
      <tg xml:lang="rus">
        <t><acronym title="звукоподражательное слово"><em>звукоподр.</em></acronym> шум, гомон, гвалт</t>
      </tg>
@@ -1998,7 +1998,7 @@
      <l pos="Interj" type="Onom">ува-ава</l>
        <l_var type="molodtsov-cyr">ува-ава</l_var>
    </lg>
-   <mg><strong>ува-ава, ув-ав</strong><br />
+   <mg relId="0"><strong>ува-ава, ув-ав</strong><br />
      <tg xml:lang="rus">
        <t><acronym title="звукоподражательное слово"><em>звукоподр.</em></acronym> шум, гомон, гвалт</t>
      </tg>
@@ -2013,8 +2013,8 @@
      <l pos="Interj" type="Onom">ур-вар</l>
        <l_var type="molodtsov-cyr">ур-вар</l_var> <acronym title="звукоподражательное слово"><em>звукоподр.</em></acronym>
    </lg>
-   <mg>
-     <sg><s pos="Interj" s_type="see">ув-ав</s></sg><tg xml:lang="rus">
+   <mg relId="0"> <sg><s pos="Interj" s_type="see">ув-ав</s></sg>
+     <tg xml:lang="rus">
        <t pos="Interj"></t>
      </tg>
    </mg>
@@ -2024,7 +2024,7 @@
      <l pos="Interj" type="Onom">чив-чив</l>
        <l_var type="molodtsov-cyr">чів-чів</l_var> <acronym title="звукоподражательное слово"><em>звукоподр.</em></acronym>
    </lg>
-   <mg>
+   <mg relId="0">
      <tg xml:lang="rus">
        <t pos="Interj">чивик-чивик</t>
      </tg>
@@ -2035,7 +2035,7 @@
      <l pos="Interj" type="Onom">чилик-чок</l>
        <l_var type="molodtsov-cyr">чіԉік-чок</l_var> <acronym title="звукоподражательное слово"><em>звукоподр.</em></acronym>
    </lg>
-   <mg>
+   <mg relId="0">
      <tg xml:lang="rus">
        <t pos="Interj">чик-чирик</t>
      </tg>
@@ -2046,7 +2046,7 @@
      <l pos="Interj" type="Onom">чилс</l>
        <l_var type="molodtsov-cyr">чілс</l_var> <acronym title="звукоподражательное слово"><em>звукоподр.</em></acronym>
    </lg>
-   <mg>
+   <mg relId="0">
      <tg xml:lang="rus">
        <t pos="Interj">чик; вжик</t>
      </tg>
@@ -2061,7 +2061,7 @@
      <l pos="Interj" type="Onom">чуж-чаж</l>
        <l_var type="molodtsov-cyr">чуж-чаж</l_var> <acronym title="звукоподражательное слово"><em>звукоподр.</em></acronym>
    </lg>
-   <mg>
+   <mg relId="0">
      <tg xml:lang="rus">
        <t pos="Interj">с треском</t>
      </tg>
@@ -2076,7 +2076,7 @@
      <l pos="Interj" type="Onom">чук-чуки</l>
        <l_var type="molodtsov-cyr">чук-чукі</l_var> <acronym title="звукоподражательное слово"><em>звукоподр.</em></acronym>
    </lg>
-   <mg>
+   <mg relId="0">
      <tg xml:lang="rus">
        <t pos="Interj">цок-цок</t>
      </tg>
@@ -2091,7 +2091,7 @@
      <l pos="Interj" type="Onom">чуп</l>
        <l_var type="molodtsov-cyr">чуп</l_var> <acronym title="звукоподражательное слово"><em>звукоподр.</em></acronym>
    </lg>
-   <mg>
+   <mg relId="0">
      <tg xml:lang="rus">
        <t pos="Interj">чмок</t>
      </tg>
@@ -2130,7 +2130,7 @@
      <l pos="Interj" type="Onom">швач-швач</l>
        <l_var type="molodtsov-cyr">швач-швач</l_var> <acronym title="звукоподражательное слово"><em>звукоподр.</em></acronym>
    </lg>
-   <mg>
+   <mg relId="0">
      <tg xml:lang="rus">
        <t pos="Interj">хлоп-хлоп</t>
      </tg>
@@ -2145,7 +2145,7 @@
      <l pos="Interj" type="Onom">швуч-швач</l>
        <l_var type="molodtsov-cyr">швуч-швач</l_var> <acronym title="звукоподражательное слово"><em>звукоподр.</em></acronym>
    </lg>
-   <mg>
+   <mg relId="0">
      <tg xml:lang="rus">
        <t pos="Interj">хлоп-хлоп, шлёп-шлёп</t>
      </tg>
@@ -2156,7 +2156,7 @@
      <l pos="Interj" type="Onom">швырк</l>
        <l_var type="molodtsov-cyr">швырк</l_var> <acronym title="звукоподражательное слово"><em>звукоподр.</em></acronym>
    </lg>
-   <mg>
+   <mg relId="0">
      <tg xml:lang="rus">
        <t pos="Interj">быстро, круто, рывком</t>
      </tg>
@@ -2203,7 +2203,7 @@
      <l pos="Interj" type="Onom">шлич-шляч</l>
        <l_var type="molodtsov-cyr">шԉіч-шԉач</l_var> <acronym title="звукоподражательное слово"><em>звукоподр.</em></acronym>
    </lg>
-   <mg>
+   <mg relId="0">
      <tg xml:lang="rus">
        <t pos="Interj">хлоп-хлоп</t>
      </tg>
@@ -2218,7 +2218,7 @@
      <l pos="Interj" type="Onom">шлоп</l>
        <l_var type="molodtsov-cyr">шлоп</l_var> <acronym title="звукоподражательное слово"><em>звукоподр.</em></acronym>
    </lg>
-   <mg>
+   <mg relId="0">
      <tg xml:lang="rus">
        <t pos="Interj">хлоп</t>
      </tg>
@@ -2257,7 +2257,7 @@
      <l pos="Interj" type="Onom">шпач-шпач</l>
        <l_var type="molodtsov-cyr">шпач-шпач</l_var> <acronym title="звукоподражательное слово"><em>звукоподр.</em></acronym>
    </lg>
-   <mg>
+   <mg relId="0">
      <tg xml:lang="rus">
        <t pos="Interj">хлоп-хлоп</t>
      </tg>
@@ -2272,7 +2272,7 @@
      <l pos="Interj" type="Onom">шпорк</l>
        <l_var type="molodtsov-cyr">шпорк</l_var> <acronym title="звукоподражательное слово"><em>звукоподр.</em></acronym>
    </lg>
-   <mg>
+   <mg relId="0">
      <tg xml:lang="rus">
        <t pos="Interj">хлоп</t>
      </tg>
@@ -2319,8 +2319,8 @@
      <l pos="Interj" type="Onom">шурк-шарк</l>
        <l_var type="molodtsov-cyr">шурк-шарк</l_var>
    </lg>
-   <mg>
-     <sg><s pos="Interj" s_type="see">шурк</s></sg><tg xml:lang="rus">
+   <mg relId="0"> <sg><s pos="Interj" s_type="see">шурк</s></sg>
+     <tg xml:lang="rus">
        <t></t>
      </tg>
      <xg>
@@ -2338,7 +2338,7 @@
      <l pos="Interj" type="Onom">шурки-шарки</l>
        <l_var type="molodtsov-cyr">шуркі-шаркі</l_var>
    </lg>
-   <mg>
+   <mg relId="0">
      <tg xml:lang="rus">
        <t>безалаберный <acronym title="разговорное"><em>разг.</em></acronym>; беспечный, делающий всё на скорую руку, второпях, небрежно</t>
      </tg>

@@ -4,7 +4,7 @@
      <l pos="Det">ветымынӧд</l>
        <l_var type="molodtsov-cyr">ветымынӧԁ</l_var>
    </lg>
-   <mg>
+   <mg relId="0">
      <tg xml:lang="rus">
        <t pos="Num" type="Ord">пятидесятый</t>
      </tg>

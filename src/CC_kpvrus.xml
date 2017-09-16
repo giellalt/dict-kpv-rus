@@ -58,8 +58,8 @@
      <l pos="CC">либӧнӧсь</l>
        <l_var type="molodtsov-cyr">ԉібӧнӧԍ</l_var>
    </lg>
-   <mg>
-     <sg><s pos="CC" s_type="see">либӧ</s></sg><tg xml:lang="rus">
+   <mg relId="0"> <sg><s pos="CC" s_type="see">либӧ</s></sg>
+     <tg xml:lang="rus">
        <t pos="CC"></t>
      </tg>
    </mg>

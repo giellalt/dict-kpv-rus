@@ -4,7 +4,7 @@
      <l pos="Pcle">а</l>
        <l_var type="molodtsov-cyr">a</l_var>
    </lg>
-   <mg>
+   <mg relId="0">
      <tg xml:lang="rus">
        <t pos="Pcle">1. <acronym title="вопросительное (местоимение, частица)"><em>вопр.</em></acronym> а</t>
      </tg>
@@ -120,7 +120,7 @@
      <l pos="Pcle">бласлӧ</l>
        <l_var type="molodtsov-cyr">бласлӧ</l_var>
    </lg>
-   <mg><span class="underline">употребляется лишь в составе выражений:</span><br /><stress>&#160;&#160;&#160;бласлӧ кристос</stress> (<em>в роли</em> <acronym title="вводное слово"><em>вводн.сл.</em></acronym>) <acronym title="устаревшее слово"><em>уст.</em></acronym> с богом <em>(пожелание успеха, удачи в каком-либо деле)</em><br />
+   <mg relId="0"><span class="underline">употребляется лишь в составе выражений:</span><br /><stress>&#160;&#160;&#160;бласлӧ кристос</stress> (<em>в роли</em> <acronym title="вводное слово"><em>вводн.сл.</em></acronym>) <acronym title="устаревшее слово"><em>уст.</em></acronym> с богом <em>(пожелание успеха, удачи в каком-либо деле)</em><br />
      <xg>
        <x>петӧ, бласлӧ, котралыштӧй</x>
        <xt xml:lang="rus">идите, с богом, побегайте</xt>
@@ -132,7 +132,7 @@
      <l pos="Pcle">бри</l>
        <l_var type="molodtsov-cyr">брі</l_var>
    </lg>
-   <mg><span class="underline">употребляется лишь в составе выражений:</span><br />
+   <mg relId="0"><span class="underline">употребляется лишь в составе выражений:</span><br />
      <xg>
        <x>бри да бра</x>
        <xt xml:lang="rus">бодро; как ни в чём не бывало</xt>
@@ -144,7 +144,7 @@
      <l pos="Pcle">бызӧ-базӧ</l>
        <l_var type="molodtsov-cyr">бызӧ-базӧ</l_var>
    </lg>
-   <mg><span class="underline">употребляется лишь в составе выражений:</span><br />
+   <mg relId="0"><span class="underline">употребляется лишь в составе выражений:</span><br />
      <xg>
        <x>бызӧ-базӧ кодь</x>
        <xt xml:lang="rus">болтливый человек</xt>
@@ -156,8 +156,8 @@
      <l pos="Pcle">быттьӧкӧ</l>
        <l_var type="molodtsov-cyr">быԏԏӧкӧ</l_var>
    </lg>
-   <mg>
-     <sg><s pos="Pcle" s_type="see">быттьӧ</s></sg><tg xml:lang="rus">
+   <mg relId="0"> <sg><s pos="Pcle" s_type="see">быттьӧ</s></sg>
+     <tg xml:lang="rus">
        <t></t>
      </tg>
    </mg>
@@ -167,8 +167,8 @@
      <l pos="Pcle">быттьӧкӧнӧсь</l>
        <l_var type="molodtsov-cyr">быԏԏӧкӧнӧԍ</l_var>
    </lg>
-   <mg>
-     <sg><s pos="Pcle" s_type="see">быттьӧ</s></sg><tg xml:lang="rus">
+   <mg relId="0"> <sg><s pos="Pcle" s_type="see">быттьӧ</s></sg>
+     <tg xml:lang="rus">
        <t></t>
      </tg>
    </mg>
@@ -178,13 +178,13 @@
      <l pos="Pcle">вед</l>
        <l_var type="molodtsov-cyr">веԁ</l_var>
    </lg>
-   <mg>
+   <mg relId="0">
      <tg xml:lang="rus">
        <t pos="Pcle">ведь</t>
      </tg><br />
      <xg>
        <x>абу вед нин ичӧт</x>
-       <xt> он ведь уже не маленький</xt>
+       <xt xml:lang="rus">он ведь уже не маленький</xt>
      </xg>; <sg><s pos="Pcle" s_type="seeAlso">ӧд Ⅲ в 1 значении</s></sg>
    </mg>
 </e>
@@ -193,7 +193,7 @@
      <l pos="Pcle">вильс</l>
        <l_var type="molodtsov-cyr">віԉс</l_var>
    </lg>
-   <mg><span class="underline">употребляется лишь в составе выражений:</span><br /><stress>&#160;&#160;&#160;вильс да вольс</stress> <sg><s pos="Pcle" s_type="see">вильски-вольски</s></sg>
+   <mg relId="0"><span class="underline">употребляется лишь в составе выражений:</span><br /><stress>&#160;&#160;&#160;вильс да вольс</stress> <sg><s pos="Pcle" s_type="see">вильски-вольски</s></sg>
    </mg>
 </e>
 <e>
@@ -201,8 +201,8 @@
      <l pos="Pcle">вӧд</l>
        <l_var type="molodtsov-cyr">вӧԁ</l_var>
    </lg>
-   <mg>
-     <sg><s pos="Pcle" s_type="see">вед</s><s pos="Pcle" s_type="see">ӧд Ⅲ в 1 значении</s></sg><tg xml:lang="rus">
+   <mg relId="0"> <sg><s pos="Pcle" s_type="see">вед</s><s pos="Pcle" s_type="see">ӧд Ⅲ в 1 значении</s></sg>
+     <tg xml:lang="rus">
        <t></t>
      </tg>
    </mg>
@@ -212,7 +212,7 @@
      <l pos="Pcle">вӧлӧм</l>
        <l_var type="molodtsov-cyr">вӧлӧм</l_var>
    </lg>
-   <mg>
+   <mg relId="0">
      <tg xml:lang="rus">
        <t><em>глагольная <acronym title="частица"><em>част.</em></acronym>, в <acronym title="сочетание"><em>сочет.</em></acronym> с глаголами в форме <acronym title="настоящее время"><em>наст.вр.</em></acronym> или <acronym title="будущее время"><em>буд.вр.</em></acronym>, а также с модальными словами образует особую форму 2-го <acronym title="прошедшее время"><em>прош.вр.</em></acronym> со значением действия, протекающего в какое-то время в прошлом и ставшего известным к моменту речи</em></t>
      </tg>
@@ -239,7 +239,7 @@
      <l pos="Pcle">давай</l>
        <l_var type="molodtsov-cyr">ԁавај</l_var>
    </lg>
-   <mg>
+   <mg relId="0">
      <tg xml:lang="rus">
        <t pos="Pcle">давай, давайте</t>
      </tg>
@@ -258,7 +258,7 @@
      <l pos="Pcle">дак</l>
        <l_var type="molodtsov-cyr">ԁак</l_var>
    </lg>
-   <mg>
+   <mg relId="0">
      <tg xml:lang="rus">
        <t pos="Pcle">так</t>
      </tg>
@@ -268,7 +268,7 @@
      </xg><br />
      <xg>
        <x>тайӧ вот салдат дак салдат! </x>
-       <xt><acronym title="фольклор"><em>фольк.</em></acronym> вот это солдат, так солдат!</xt>
+       <xt xml:lang="rus"><acronym title="фольклор"><em>фольк.</em></acronym> вот это солдат, так солдат!</xt>
      </xg>
    </mg>
 </e>
@@ -287,7 +287,7 @@
      </xg><br />
      <xg>
        <x>ме инӧ муна</x>
-       <xt> я тогда пойду</xt>
+       <xt xml:lang="rus">я тогда пойду</xt>
      </xg>; <sg><s pos="Pcle" s_type="seeAlso">либӧ Ⅱ</s></sg>
    </mg>
    <mg relId="1">
@@ -305,8 +305,8 @@
      <l pos="Pcle">инӧсь</l>
        <l_var type="molodtsov-cyr">інӧԍ</l_var>
    </lg>
-   <mg>
-     <sg><s pos="Pcle" s_type="see">инӧ</s></sg><tg xml:lang="rus">
+   <mg relId="0"> <sg><s pos="Pcle" s_type="see">инӧ</s></sg>
+     <tg xml:lang="rus">
        <t></t>
      </tg>
    </mg>
@@ -316,8 +316,8 @@
      <l pos="Pcle">медлытыкӧ</l>
        <l_var type="molodtsov-cyr">меԁлытыкӧ</l_var>
    </lg>
-   <mg>
-     <sg><s pos="Pcle" s_type="see">медлытӧ</s></sg><tg xml:lang="rus">
+   <mg relId="0"> <sg><s pos="Pcle" s_type="see">медлытӧ</s></sg>
+     <tg xml:lang="rus">
        <t></t>
      </tg>
    </mg>
@@ -327,7 +327,7 @@
      <l pos="Pcle">мися</l>
        <l_var type="molodtsov-cyr">міԍа</l_var>
    </lg>
-   <mg>
+   <mg relId="0">
      <tg xml:lang="rus">
        <t><acronym title="вводное слово"><em>вводн.сл.</em></acronym> говорю; мол <acronym title="разговорное"><em>разг.</em></acronym></t>
      </tg>
@@ -358,7 +358,7 @@
      <l pos="Pcle">мунтӧ</l>
        <l_var type="molodtsov-cyr">мунтӧ</l_var>
    </lg>
-   <mg>
+   <mg relId="0">
      <tg xml:lang="rus">
        <t pos="Pcle">поди ты</t>
      </tg>
@@ -373,7 +373,7 @@
      <l pos="Pcle">мӧй</l>
        <l_var type="molodtsov-cyr">мӧј</l_var>
    </lg>
-   <mg>
+   <mg relId="0">
      <tg xml:lang="rus">
        <t pos="Pcle"><acronym title="вопросительное (местоимение, частица)"><em>вопр.</em></acronym> разве</t>
      </tg><br /><stress>&#160;&#160;&#160;абу мӧй тадз?</stress> разве не так? <sg><s pos="Pcle" s_type="seeAlso">ӧмӧй в 1 значении</s></sg>
@@ -384,7 +384,7 @@
      <l pos="Pcle">не</l>
        <l_var type="molodtsov-cyr">ԋе</l_var>
    </lg>
-   <mg>
+   <mg relId="0">
      <tg xml:lang="rus">
        <t pos="Pcle"><acronym title="отрицательное (частица, предложение)"><em>отриц.</em></acronym>1. не</t>
      </tg>
@@ -402,11 +402,11 @@
      </xg><br />
      <xg>
        <x>не гӧн сійӧ меным </x>
-       <xt><acronym title="поговорка"><em>погов.</em></acronym> он мне не пара</xt>
+       <xt xml:lang="rus"><acronym title="поговорка"><em>погов.</em></acronym> он мне не пара</xt>
      </xg><br />
      <xg>
        <x>не кӧ кучикыс, лыыс нин киссис </x>
-       <xt><acronym title="поговорка"><em>погов.</em></acronym> если бы не кожа, кости бы уже рассыпались <em>(о старых людях)</em></xt>
+       <xt xml:lang="rus"><acronym title="поговорка"><em>погов.</em></acronym> если бы не кожа, кости бы уже рассыпались <em>(о старых людях)</em></xt>
      </xg><br /><stress>&#160;&#160;&#160;тэныд рок не рок дай пань не пань </stress><acronym title="поговорка"><em>погов.</em></acronym> тебе каша не каша и ложка не ложка <em>(<acronym title="то есть"><em>т.е.</em></acronym> всем недоволен)</em>
    </mg>
    <mg relId="1">
@@ -445,7 +445,7 @@
      <l pos="Pcle">нӧ</l>
        <l_var type="molodtsov-cyr">нӧ</l_var>
    </lg>
-   <mg>
+   <mg relId="0">
      <tg xml:lang="rus">
        <t pos="Pcle">1. же</t>
      </tg>
@@ -485,7 +485,7 @@
      <l pos="Pcle">сьӧтаки</l>
        <l_var type="molodtsov-cyr">ԍӧтакі</l_var>
    </lg>
-   <mg>
+   <mg relId="0">
      <tg xml:lang="rus">
        <t pos="Pcle">всё же, однако, тем не менее</t>
      </tg>
@@ -496,7 +496,7 @@
      <l pos="Pcle">толькӧ</l>
        <l_var type="molodtsov-cyr">тоԉкӧ</l_var>
    </lg>
-   <mg>
+   <mg relId="0">
      <tg xml:lang="rus">
        <t pos="Pcle">только</t>
      </tg>
@@ -511,7 +511,7 @@
      <l pos="Pcle">тонӧ</l>
        <l_var type="molodtsov-cyr">тонӧ</l_var>
    </lg>
-   <mg>
+   <mg relId="0">
      <tg xml:lang="rus">
        <t pos="Pcle">вот, вот там; вон <acronym title="просторечное"><em>прост.</em></acronym></t>
      </tg>
@@ -534,7 +534,7 @@
      <l pos="Pcle">тыкӧ</l>
        <l_var type="molodtsov-cyr">тыкӧ</l_var>
    </lg>
-   <mg>
+   <mg relId="0">
      <tg xml:lang="rus">
        <t pos="Pcle">лишь, только</t>
      </tg>
@@ -549,8 +549,8 @@
      <l pos="Pcle">часлыв</l>
        <l_var type="molodtsov-cyr">часлыв</l_var>
    </lg>
-   <mg><strong>часлыв, часлы</strong><br />
-     <sg><s pos="Pcle" s_type="see">час Ⅱ</s></sg><tg xml:lang="rus">
+   <mg relId="0"><strong>часлыв, часлы</strong><br /> <sg><s pos="Pcle" s_type="see">час Ⅱ</s></sg>
+     <tg xml:lang="rus">
        <t></t>
      </tg>
    </mg>
@@ -560,7 +560,7 @@
      <l pos="Pcle">чурки-буди</l>
        <l_var type="molodtsov-cyr">чуркі-буԃі</l_var>
    </lg>
-   <mg>
+   <mg relId="0">
      <tg xml:lang="rus">
        <t><acronym title="разговорное"><em>разг.</em></acronym> <acronym title="употребляется"><em>употр.</em></acronym> <em>при отзывах</em> слава богу; не во вред будь сказано</t>
      </tg>
@@ -579,7 +579,7 @@
      <l pos="Pcle">чӧвлы</l>
        <l_var type="molodtsov-cyr">чӧвлы</l_var>
    </lg>
-   <mg>
+   <mg relId="0">
      <tg xml:lang="rus">
        <t>подожди, погоди, обожди, постой</t>
      </tg>
@@ -594,8 +594,8 @@
      <l pos="Pcle">ыш</l>
        <l_var type="molodtsov-cyr">ыш</l_var>
    </lg>
-   <mg>
-     <sg><s pos="Pcle" s_type="see">ыштӧ во 2 значении</s></sg><tg xml:lang="rus">
+   <mg relId="0"> <sg><s pos="Pcle" s_type="see">ыштӧ во 2 значении</s></sg>
+     <tg xml:lang="rus">
        <t></t>
      </tg>
    </mg>
@@ -605,7 +605,7 @@
      <l pos="Pcle">энлыв</l>
        <l_var type="molodtsov-cyr">енлыв</l_var>
    </lg>
-   <mg><strong>энлыв, энлы</strong><br />
+   <mg relId="0"><strong>энлыв, энлы</strong><br />
      <tg xml:lang="rus">
        <t><acronym title="повелительное наклонение"><em>повел.</em></acronym> <acronym title="наклонение"><em>накл.</em></acronym> погоди, подожди, повремени</t>
      </tg>
@@ -624,7 +624,7 @@
      <l pos="Pcle">эськӧ</l>
        <l_var type="molodtsov-cyr">еԍкӧ</l_var>
    </lg>
-   <mg>
+   <mg relId="0">
      <tg xml:lang="rus">
        <t pos="Pcle">бы, же, и</t>
      </tg>
@@ -650,7 +650,7 @@
      </xg><br />
      <xg>
        <x>◊ «эськӧыс», «гашкӧыс» да «пӧыс» – куим чоя-вока </x>
-       <xt><acronym title="поговорка"><em>погов.</em></acronym> «если», «может» и «говорят» трое братьев и сестёр</xt>
+       <xt xml:lang="rus"><acronym title="поговорка"><em>погов.</em></acronym> «если», «может» и «говорят» трое братьев и сестёр</xt>
      </xg>
    </mg>
 </e>
@@ -659,8 +659,8 @@
      <l pos="Pcle">эськӧн</l>
        <l_var type="molodtsov-cyr">еԍкӧн</l_var> <acronym title="диалектное"><em>диал.</em></acronym>
    </lg>
-   <mg>
-     <sg><s pos="Pcle" s_type="see">эськӧ</s></sg><tg xml:lang="rus">
+   <mg relId="0"> <sg><s pos="Pcle" s_type="see">эськӧ</s></sg>
+     <tg xml:lang="rus">
        <t></t>
      </tg>
    </mg>
@@ -670,7 +670,7 @@
      <l pos="Pcle">ӧнжа</l>
        <l_var type="molodtsov-cyr">ӧнжа</l_var> <acronym title="диалектное"><em>диал.</em></acronym>
    </lg>
-   <mg>
+   <mg relId="0">
      <tg xml:lang="rus">
        <t pos="Pcle">как это; как бишь <acronym title="разговорное"><em>разг.</em></acronym> <em>(<acronym title="употребляется"><em>употр.</em></acronym> также для замены в речи вульгарных названий)</em></t>
      </tg>

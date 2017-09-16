@@ -4,7 +4,7 @@
      <l pos="Num">ветымын</l>
        <l_var type="molodtsov-cyr">ветымын</l_var>
    </lg>
-   <mg>
+   <mg relId="0">
      <tg xml:lang="rus">
        <t pos="Num"><acronym title="имя числительное"><em>числ.</em></acronym> <acronym title="количественное (послелог, числительное)"><em>колич.</em></acronym> пятьдесят</t>
      </tg>
@@ -23,7 +23,7 @@
      <l pos="Num">вит</l>
        <l_var type="molodtsov-cyr">віт</l_var>
    </lg>
-   <mg>
+   <mg relId="0">
      <tg xml:lang="rus">
        <t pos="Num">пять</t>
      </tg>
@@ -47,7 +47,7 @@
      <l pos="Num">витсё</l>
        <l_var type="molodtsov-cyr">вітԍо</l_var>
    </lg>
-   <mg>
+   <mg relId="0">
      <tg xml:lang="rus">
        <t pos="Num"><acronym title="имя числительное"><em>числ.</em></acronym> <acronym title="количественное (послелог, числительное)"><em>колич.</em></acronym> пятьсот</t>
      </tg>
@@ -63,7 +63,7 @@
      <l pos="Num">дас</l>
        <l_var type="molodtsov-cyr">ԁас</l_var>
    </lg>
-   <mg>
+   <mg relId="0">
      <tg xml:lang="rus">
        <t pos="Num"><acronym title="имя числительное"><em>числ.</em></acronym> <acronym title="количественное (послелог, числительное)"><em>колич.</em></acronym> десять || десятка</t>
      </tg>
@@ -170,7 +170,7 @@
      <l pos="Num">квайт</l>
        <l_var type="molodtsov-cyr">квајт</l_var>
    </lg>
-   <mg>
+   <mg relId="0">
      <tg xml:lang="rus">
        <t pos="Num"><acronym title="имя числительное"><em>числ.</em></acronym> <acronym title="количественное (послелог, числительное)"><em>колич.</em></acronym> шесть</t>
      </tg>
@@ -218,7 +218,7 @@
      <l pos="Num">квайтсё</l>
        <l_var type="molodtsov-cyr">квајтԍо</l_var>
    </lg>
-   <mg>
+   <mg relId="0">
      <tg xml:lang="rus">
        <t pos="Num"><acronym title="имя числительное"><em>числ.</em></acronym> <acronym title="количественное (послелог, числительное)"><em>колич.</em></acronym> шестьсот</t>
      </tg>
@@ -229,7 +229,7 @@
      <l pos="Num">квайтымын</l>
        <l_var type="molodtsov-cyr">квајтымын</l_var>
    </lg>
-   <mg>
+   <mg relId="0">
      <tg xml:lang="rus">
        <t pos="Num"><acronym title="имя числительное"><em>числ.</em></acronym> <acronym title="количественное (послелог, числительное)"><em>колич.</em></acronym> шестьдесят</t>
      </tg>
@@ -248,7 +248,7 @@
      <l pos="Num">коймӧд</l>
        <l_var type="molodtsov-cyr">којмӧԁ</l_var>
    </lg>
-   <mg>
+   <mg relId="0">
      <tg xml:lang="rus">
        <t pos="Num"><acronym title="имя числительное"><em>числ.</em></acronym> <acronym title="порядковое числительное"><em>порядк.</em></acronym> третий</t>
      </tg>
@@ -275,7 +275,7 @@
      <l pos="Num">комын</l>
        <l_var type="molodtsov-cyr">комын</l_var>
    </lg>
-   <mg>
+   <mg relId="0">
      <tg xml:lang="rus">
        <t pos="Num"><acronym title="имя числительное"><em>числ.</em></acronym> <acronym title="количественное (послелог, числительное)"><em>колич.</em></acronym> тридцать</t>
      </tg>
@@ -306,7 +306,7 @@
      <l pos="Num">куим</l>
        <l_var type="molodtsov-cyr">куім</l_var>
    </lg>
-   <mg>
+   <mg relId="0">
      <tg xml:lang="rus">
        <t pos="Num"><acronym title="имя числительное"><em>числ.</em></acronym> <acronym title="количественное (послелог, числительное)"><em>колич.</em></acronym> три; трое</t>
      </tg>
@@ -369,7 +369,7 @@
      <l pos="Num">куимсё</l>
        <l_var type="molodtsov-cyr">куімԍо</l_var>
    </lg>
-   <mg>
+   <mg relId="0">
      <tg xml:lang="rus">
        <t pos="Num"><acronym title="имя числительное"><em>числ.</em></acronym> <acronym title="количественное (послелог, числительное)"><em>колич.</em></acronym> триста</t>
      </tg>
@@ -380,7 +380,7 @@
      <l pos="Num">кык</l>
        <l_var type="molodtsov-cyr">кык</l_var>
    </lg>
-   <mg>
+   <mg relId="0">
      <tg xml:lang="rus">
        <t pos="Num"><acronym title="имя числительное"><em>числ.</em></acronym> <acronym title="количественное (послелог, числительное)"><em>колич.</em></acronym></t>
      </tg><br />
@@ -539,7 +539,7 @@
      <l pos="Num">кык-куим</l>
        <l_var type="molodtsov-cyr">кык-куім</l_var>
    </lg>
-   <mg>
+   <mg relId="0">
      <tg xml:lang="rus">
        <t pos="Num"><acronym title="имя числительное"><em>числ.</em></acronym> <acronym title="неопределённое (местоимение)"><em>неопр.</em></acronym> два-три</t>
      </tg>
@@ -550,7 +550,7 @@
      <l pos="Num">кыксё</l>
        <l_var type="molodtsov-cyr">кыкԍо</l_var>
    </lg>
-   <mg>
+   <mg relId="0">
      <tg xml:lang="rus">
        <t pos="Num"><acronym title="имя числительное"><em>числ.</em></acronym> <acronym title="количественное (послелог, числительное)"><em>колич.</em></acronym> двести</t>
      </tg>
@@ -569,7 +569,7 @@
      <l pos="Num">кыкысь-куимысь</l>
        <l_var type="molodtsov-cyr">кыкыԍ-куімыԍ</l_var>
    </lg>
-   <mg>
+   <mg relId="0">
      <tg xml:lang="rus">
        <t pos="Num">два-три раза; за два-три раза</t>
      </tg>
@@ -584,7 +584,7 @@
      <l pos="Num">кыкӧн-кыкӧн</l>
        <l_var type="molodtsov-cyr">кыкӧн-кыкӧн</l_var>
    </lg>
-   <mg>
+   <mg relId="0">
      <tg xml:lang="rus">
        <t pos="Num">парами</t>
      </tg>
@@ -599,7 +599,7 @@
      <l pos="Num">кӧкъямыс</l>
        <l_var type="molodtsov-cyr">кӧкјамыс</l_var>
    </lg>
-   <mg>
+   <mg relId="0">
      <tg xml:lang="rus">
        <t pos="Num"><acronym title="имя числительное"><em>числ.</em></acronym> <acronym title="количественное (послелог, числительное)"><em>колич.</em></acronym> восемь</t>
      </tg>
@@ -642,7 +642,7 @@
      <l pos="Num">кӧкъямысдас</l>
        <l_var type="molodtsov-cyr">кӧкјамысԁас</l_var>
    </lg>
-   <mg>
+   <mg relId="0">
      <tg xml:lang="rus">
        <t pos="Num"><acronym title="имя числительное"><em>числ.</em></acronym> <acronym title="количественное (послелог, числительное)"><em>колич.</em></acronym> восемьдесят</t>
      </tg>
@@ -657,7 +657,7 @@
      <l pos="Num">кӧкъямыссё</l>
        <l_var type="molodtsov-cyr">кӧкјамысԍо</l_var>
    </lg>
-   <mg>
+   <mg relId="0">
      <tg xml:lang="rus">
        <t pos="Num"><acronym title="имя числительное"><em>числ.</em></acronym> <acronym title="количественное (послелог, числительное)"><em>колич.</em></acronym> восемьсот</t>
      </tg>
@@ -668,7 +668,7 @@
      <l pos="Num">миллиард</l>
        <l_var type="molodtsov-cyr">міԉԉарԁ</l_var>
    </lg>
-   <mg>
+   <mg relId="0">
      <tg xml:lang="rus">
        <t pos="Num"><acronym title="имя числительное"><em>числ.</em></acronym> <acronym title="количественное (послелог, числительное)"><em>колич.</em></acronym> миллиард</t>
      </tg>
@@ -679,7 +679,7 @@
      <l pos="Num">миллион</l>
        <l_var type="molodtsov-cyr">міԉԉон</l_var>
    </lg>
-   <mg>
+   <mg relId="0">
      <tg xml:lang="rus">
        <t pos="Num"><acronym title="имя числительное"><em>числ.</em></acronym> <acronym title="количественное (послелог, числительное)"><em>колич.</em></acronym> миллион</t>
      </tg>
@@ -690,7 +690,7 @@
      <l pos="Num">нелямын</l>
        <l_var type="molodtsov-cyr">ԋеԉамын</l_var>
    </lg>
-   <mg>
+   <mg relId="0">
      <tg xml:lang="rus">
        <t pos="Num"><acronym title="имя числительное"><em>числ.</em></acronym> <acronym title="количественное (послелог, числительное)"><em>колич.</em></acronym> сорок</t>
      </tg>
@@ -713,7 +713,7 @@
      <l pos="Num">нёль</l>
        <l_var type="molodtsov-cyr">ԋоԉ</l_var>
    </lg>
-   <mg>
+   <mg relId="0">
      <tg xml:lang="rus">
        <t pos="Num"><acronym title="имя числительное"><em>числ.</em></acronym> <acronym title="количественное (послелог, числительное)"><em>колич.</em></acronym> четыре</t>
      </tg>
@@ -793,7 +793,7 @@
      <l pos="Num">нёль-ӧ-вит</l>
        <l_var type="molodtsov-cyr">ԋоԉ-ӧ-віт</l_var>
    </lg>
-   <mg>
+   <mg relId="0">
      <tg xml:lang="rus">
        <t pos="Num"><acronym title="имя числительное"><em>числ.</em></acronym> <acronym title="приблизительный падеж"><em>прибл.п.</em></acronym> <em>счёта</em> четыре-пять</t>
      </tg>
@@ -808,7 +808,7 @@
      <l pos="Num">нёльсё</l>
        <l_var type="molodtsov-cyr">ԋоԉԍо</l_var>
    </lg>
-   <mg>
+   <mg relId="0">
      <tg xml:lang="rus">
        <t pos="Num"><acronym title="имя числительное"><em>числ.</em></acronym> <acronym title="количественное (послелог, числительное)"><em>колич.</em></acronym> четыреста</t>
      </tg>
@@ -915,7 +915,7 @@
      <l pos="Num">сизим</l>
        <l_var type="molodtsov-cyr">ԍіԅім</l_var>
    </lg>
-   <mg>
+   <mg relId="0">
      <tg xml:lang="rus">
        <t pos="Num"><acronym title="имя числительное"><em>числ.</em></acronym> <acronym title="количественное (послелог, числительное)"><em>колич.</em></acronym> семь</t>
      </tg>
@@ -954,7 +954,7 @@
      <l pos="Num">сизимдас</l>
        <l_var type="molodtsov-cyr">ԍіԅімԁас</l_var>
    </lg>
-   <mg>
+   <mg relId="0">
      <tg xml:lang="rus">
        <t pos="Num"><acronym title="имя числительное"><em>числ.</em></acronym> <acronym title="количественное (послелог, числительное)"><em>колич.</em></acronym> семьдесят</t>
      </tg>
@@ -973,7 +973,7 @@
      <l pos="Num">сизимсё</l>
        <l_var type="molodtsov-cyr">ԍіԅімԍо</l_var>
    </lg>
-   <mg>
+   <mg relId="0">
      <tg xml:lang="rus">
        <t pos="Num"><acronym title="имя числительное"><em>числ.</em></acronym> <acronym title="количественное (послелог, числительное)"><em>колич.</em></acronym> семьсот</t>
      </tg>
@@ -988,7 +988,7 @@
      <l pos="Num">сюрс</l>
        <l_var type="molodtsov-cyr">ԍурс</l_var>
    </lg>
-   <mg>
+   <mg relId="0">
      <tg xml:lang="rus">
        <t pos="Num"><acronym title="имя числительное"><em>числ.</em></acronym> <acronym title="количественное (послелог, числительное)"><em>колич.</em></acronym> тысяча</t>
      </tg>
@@ -1019,7 +1019,7 @@
      <l hid="Hom1" pos="Num">сё</l>
        <l_var type="molodtsov-cyr">ԍо</l_var>
    </lg>
-   <mg>
+   <mg relId="0">
      <tg xml:lang="rus">
        <t pos="Num"><acronym title="имя числительное"><em>числ.</em></acronym> <acronym title="количественное (послелог, числительное)"><em>колич.</em></acronym> сто; сотня</t>
      </tg>
@@ -1074,7 +1074,7 @@
      <l hid="Hom2" pos="Num">сё</l>
        <l_var type="molodtsov-cyr">ԍо</l_var>
    </lg>
-   <mg> <acronym title="диалектное"><em>диал.</em></acronym>
+   <mg relId="0"> <acronym title="диалектное"><em>диал.</em></acronym>
      <tg xml:lang="rus">
        <t pos="Num"> <acronym title="наречие"><em>нареч.</em></acronym> очень, весьма</t>
      </tg>
@@ -1093,7 +1093,7 @@
      <l pos="Num">тысяча</l>
        <l_var type="molodtsov-cyr">тыԍача</l_var>
    </lg>
-   <mg>
+   <mg relId="0">
      <tg xml:lang="rus">
        <t pos="Num"><acronym title="имя числительное"><em>числ.</em></acronym> <acronym title="количественное (послелог, числительное)"><em>колич.</em></acronym> тысяча</t>
      </tg>
@@ -1108,7 +1108,7 @@
      <l pos="Num">ӧкмыс</l>
        <l_var type="molodtsov-cyr">ӧкмыс</l_var>
    </lg>
-   <mg>
+   <mg relId="0">
      <tg xml:lang="rus">
        <t pos="Num"><acronym title="имя числительное"><em>числ.</em></acronym> <acronym title="количественное (послелог, числительное)"><em>колич.</em></acronym> девять</t>
      </tg>
@@ -1171,7 +1171,7 @@
      <l pos="Num">ӧкмысдас</l>
        <l_var type="molodtsov-cyr">ӧкмысԁас</l_var>
    </lg>
-   <mg>
+   <mg relId="0">
      <tg xml:lang="rus">
        <t pos="Num"><acronym title="имя числительное"><em>числ.</em></acronym> <acronym title="количественное (послелог, числительное)"><em>колич.</em></acronym> девяносто</t>
      </tg>
@@ -1186,7 +1186,7 @@
      <l pos="Num">ӧкмыссё</l>
        <l_var type="molodtsov-cyr">ӧкмыԍԍо</l_var>
    </lg>
-   <mg>
+   <mg relId="0">
      <tg xml:lang="rus">
        <t pos="Num"><acronym title="имя числительное"><em>числ.</em></acronym> <acronym title="количественное (послелог, числительное)"><em>колич.</em></acronym> девятьсот</t>
      </tg>
@@ -1201,7 +1201,7 @@
      <l pos="Num">ӧт</l>
        <l_var type="molodtsov-cyr">ӧт</l_var>
    </lg>
-   <mg>
+   <mg relId="0">
      <tg xml:lang="rus">
        <t pos="Num"><em>первая часть некоторых слов со значением</em> <xref link="ӧти"> ӧти</xref>, <acronym title="например"><em>напр.</em></acronym>: <xref link="ӧткодь"> ӧткодь</xref>, <xref link="ӧтпасьта"> ӧтпасьта</xref>, <xref link="ӧткузя"> ӧткузя</xref></t>
      </tg>
@@ -1387,8 +1387,8 @@
      <l pos="Num">ӧтик</l>
        <l_var type="molodtsov-cyr">ӧԏік</l_var>
    </lg>
-   <mg>
-     <sg><s pos="Num" s_type="see">ӧти</s></sg><tg xml:lang="rus">
+   <mg relId="0"> <sg><s pos="Num" s_type="see">ӧти</s></sg>
+     <tg xml:lang="rus">
        <t pos="Num"></t>
      </tg>
    </mg>
