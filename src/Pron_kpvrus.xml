@@ -2151,4 +2151,813 @@
      </xg>
    </mg>
 </e>
+<e>
+   <lg t1="А" t2="С" t3="К" uri="965-ask-d" id="965"><l pos="Pron">аскӧд</l>
+       <l_var type="molodtsov-cyr">aскӧԁ</l_var>
+   </lg>
+   <mg> <sg><s s_type="see">аскӧдым</s></sg>
+     <tg xml:lang="rus">
+       <t></t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg t1="А" t2="С" t3="К" uri="966-ask-dnyd" id="966"><l pos="Pron">аскӧдныд</l>
+       <l_var type="molodtsov-cyr">aскӧԁныԁ</l_var>
+   </lg>
+   <mg>
+     <tg xml:lang="rus">
+       <t><acronym title="соединительный падеж"><em>соед.п.</em></acronym> <em>от</em> <xref link="асьныд"> асьныд</xref></t>
+     </tg>
+     <xg>
+       <x>нуӧй челядьтӧ аскӧдныд</x>
+       <xt xml:lang="rus">возьмите детей с собой</xt>
+     </xg>
+   </mg>
+</e>
+<e>
+   <lg t1="А" t2="С" t3="К" uri="968-ask-dnym" id="968"><l pos="Pron">аскӧдным</l>
+       <l_var type="molodtsov-cyr">aскӧԁным</l_var>
+   </lg>
+   <mg>
+     <tg xml:lang="rus">
+       <t><acronym title="соединительный падеж"><em>соед.п.</em></acronym> <em>от</em> <xref link="асьным"> асьным</xref></t>
+     </tg>
+     <xg>
+       <x>кагаӧс аскӧдным нулім</x>
+       <xt xml:lang="rus">ребёнка мы брали с собой</xt>
+     </xg>
+   </mg>
+</e>
+<e>
+   <lg t1="А" t2="С" t3="К" uri="970-ask-dnys" id="970"><l pos="Pron">аскӧдныс</l>
+       <l_var type="molodtsov-cyr">aскӧԁныс</l_var>
+   </lg>
+   <mg>
+     <tg xml:lang="rus">
+       <t><acronym title="соединительный падеж"><em>соед.п.</em></acronym> <em>от</em> <xref link="асьныс"> асьныс</xref></t>
+     </tg>
+     <xg>
+       <x>кагасӧ аскӧдныс нулісны</x>
+       <xt xml:lang="rus">ребёнка они брали с собой</xt>
+     </xg>
+   </mg>
+</e>
+<e>
+   <lg t1="А" t2="С" t3="К" uri="972-ask-dyd" id="972"><l pos="Pron">аскӧдыд</l>
+       <l_var type="molodtsov-cyr">aскӧԁыԁ</l_var>
+   </lg>
+   <mg>
+     <tg xml:lang="rus">
+       <t><acronym title="соединительный падеж"><em>соед.п.</em></acronym> <em>от</em> <xref link="ачыд"> ачыд</xref></t>
+     </tg>
+     <xg>
+       <x>аскӧдыд колі сёрнитны</x>
+       <xt xml:lang="rus">надо было поговорить с тобой самим</xt>
+     </xg>
+   </mg>
+</e>
+<e>
+   <lg t1="А" t2="С" t3="К" uri="973-ask-dym" id="973"><l pos="Pron">аскӧдым</l>
+       <l_var type="molodtsov-cyr">aскӧԁым</l_var>
+   </lg>
+   <mg>
+     <tg xml:lang="rus">
+       <t><acronym title="соединительный падеж"><em>соед.п.</em></acronym> <em>от</em> <xref link="ачым"> ачым</xref></t>
+     </tg>
+     <xg>
+       <x>аскӧдым колі сёрнитны</x>
+       <xt xml:lang="rus">со мной самим надо было поговорить</xt>
+     </xg>
+     <xg>
+       <x>нинӧм аскӧдым ог вермы вӧчны</x>
+       <xt xml:lang="rus">ничего не могу с собой поделать</xt>
+     </xg>
+   </mg>
+</e>
+<e>
+   <lg t1="А" t2="С" t3="К" uri="975-ask-dys" id="975"><l pos="Pron">аскӧдыс</l>
+       <l_var type="molodtsov-cyr">aскӧԁыс</l_var>
+   </lg>
+   <mg>
+     <tg xml:lang="rus">
+       <t><acronym title="соединительный падеж"><em>соед.п.</em></acronym> <em>от</em> <xref link="ачыс"> ачыс</xref></t>
+     </tg>
+     <xg>
+       <x>кагасӧ аскӧдыс нуліс</x>
+       <xt xml:lang="rus">ребёнка она брала с собой</xt>
+     </xg>
+     <xg>
+       <x>сёрниыс аскӧдыс эз на вӧв</x>
+       <xt xml:lang="rus">разговора с ним самим ещё не было</xt>
+     </xg>
+   </mg>
+</e>
+<e>
+   <lg t1="А" t2="С" t3="Л" uri="989-asladorsyan-" id="989"><l pos="Pron">асладорсянь</l>
+       <l_var type="molodtsov-cyr">aслаԁорԍаԋ</l_var>
+   </lg>
+   <mg>
+     <tg xml:lang="rus">
+       <t>от себя</t>
+     </tg>
+     <xg>
+       <x>ӧдзӧс воссьӧ асладорсянь</x>
+       <xt xml:lang="rus">дверь открывается от себя</xt>
+     </xg>
+   </mg>
+</e>
+<e>
+   <lg t1="А" t2="С" t3="Л" uri="992-asladoryn" id="992"><l pos="Pron">асладорын</l>
+       <l_var type="molodtsov-cyr">aслаԁорын</l_var>
+   </lg>
+   <mg>
+     <tg xml:lang="rus">
+       <t>на родной стороне</t>
+     </tg>
+     <xg>
+       <x>асладорын гажаа овны</x>
+       <xt xml:lang="rus">на родной стороне жить весело</xt>
+     </xg>
+   </mg>
+</e>
+<e>
+   <lg t1="А" t2="С" t3="Л" uri="988-aslador-" id="988"><l pos="Pron">асладорӧ</l>
+       <l_var type="molodtsov-cyr">aслаԁорӧ</l_var>
+   </lg>
+   <mg relId="0">
+     <tg xml:lang="rus">
+       <t>на свою сторону</t>
+     </tg>
+     <xg>
+       <x>ранитчӧмаӧс асладорӧ вайны</x>
+       <xt xml:lang="rus">раненого перенести на свою сторону</xt>
+     </xg>
+   </mg>
+   <mg relId="1">
+     <tg xml:lang="rus">
+       <t>в свою пользу</t>
+     </tg>
+     <xg>
+       <x>кодӧскӧ кыскыны асладорӧ</x>
+       <xt xml:lang="rus"> предрасположить <em>кого-либо</em> в свою пользу</xt>
+     </xg>
+   </mg>
+</e>
+<e>
+   <lg t1="А" t2="С" t3="Л" uri="1001-aslanyd" id="1001"><l pos="Pron">асланыд</l>
+       <l_var type="molodtsov-cyr">aсланыԁ</l_var>
+   </lg>
+   <mg relId="0">
+     <tg xml:lang="rus">
+       <t><acronym title="родительный падеж"><em>род.п.</em></acronym> <em>от</em> <xref link="асьныд"> асьныд</xref></t>
+     </tg>
+   </mg>
+   <mg relId="1">
+     <tg xml:lang="rus">
+       <t><em>в роли</em> <acronym title="притяжательный (-ая, -ое)"><em>притяж.</em></acronym> <acronym title="местоимение"><em>мест.</em></acronym> свой, ваш, вам принадлежащий</t>
+     </tg>
+     <xg>
+       <x>ті воинныд асланыд вӧвъясӧн?</x>
+       <xt xml:lang="rus">вы приехали на своих лошадях?</xt>
+     </xg>
+   </mg>
+</e>
+<e>
+   <lg t1="А" t2="С" t3="Л" uri="1012-aslanysl-n" id="1012"><l pos="Pron">асланыслӧн</l>
+       <l_var type="molodtsov-cyr">aсланыслӧн</l_var>
+   </lg>
+   <mg>
+     <tg xml:lang="rus">
+       <t><acronym title="родительный падеж"><em>род.п.</em></acronym> <em>от</em> <xref link="асьныс"> асьныс</xref></t>
+     </tg>
+     <xg>
+       <x>пас, вӧлӧмкӧ, пуктӧма налӧн, асланыслӧн</x>
+       <xt xml:lang="rus"> оказывается, у них ставится собственный знак <em>(на предметах)</em></xt>
+     </xg>
+   </mg>
+</e>
+<e>
+   <lg t1="А" t2="С" t3="Л" uri="1013-aslan-" id="1013"><l pos="Pron">аслань</l>
+       <l_var type="molodtsov-cyr">aслаԋ</l_var>
+   </lg>
+   <mg relId="0">
+     <tg xml:lang="rus">
+       <t>на свою сторону</t>
+     </tg>
+   </mg>
+   <mg relId="1">
+     <tg xml:lang="rus">
+       <t>к себе</t>
+     </tg>
+     <xg>
+       <x>ӧдзӧс воссьӧ аслань</x>
+       <xt xml:lang="rus">дверь открывается к себе</xt>
+     </xg>
+     <xg>
+       <x>аслань бертны</x>
+       <xt xml:lang="rus">стоять на своём</xt>
+     </xg>
+   </mg>
+</e>
+<e>
+   <lg t1="А" t2="С" t3="Л" uri="1016-aslan-nyd" id="1016"><l pos="Pron">асланьныд</l>
+       <l_var type="molodtsov-cyr">aслаԋныԁ</l_var>
+   </lg>
+   <mg>
+     <tg xml:lang="rus">
+       <t><acronym title="приблизительный падеж"><em>прибл.п.</em></acronym> <em>от</em> <xref link="асьныд"> асьныд</xref></t>
+     </tg>
+     <xg>
+       <x>асланьныд кыскӧй</x>
+       <xt xml:lang="rus">тяните на себя</xt>
+     </xg>
+   </mg>
+</e>
+<e>
+   <lg t1="А" t2="С" t3="Л" uri="1018-aslan-nym" id="1018"><l pos="Pron">асланьным</l>
+       <l_var type="molodtsov-cyr">aслаԋным</l_var>
+   </lg>
+   <mg>
+     <tg xml:lang="rus">
+       <t><acronym title="приблизительный падеж"><em>прибл.п.</em></acronym> <em>от</em> <xref link="асьным"> асьным</xref></t>
+     </tg>
+     <xg>
+       <x>асланьным колӧ вештыштны</x>
+       <xt xml:lang="rus">надо подвинуть к нам, в нашу сторону</xt>
+     </xg>
+   </mg>
+</e>
+<e>
+   <lg t1="А" t2="С" t3="Л" uri="1020-aslan-nys" id="1020"><l pos="Pron">асланьныс</l>
+       <l_var type="molodtsov-cyr">aслаԋныс</l_var>
+   </lg>
+   <mg>
+     <tg xml:lang="rus">
+       <t><acronym title="приблизительный падеж"><em>прибл.п.</em></acronym> <em>от</em> <xref link="асьныс"> асьныс</xref></t>
+     </tg>
+     <xg>
+       <x>асланьныс бӧрыньтчисны</x>
+       <xt xml:lang="rus">они отступили на свою сторону</xt>
+     </xg>
+   </mg>
+</e>
+<e>
+   <lg t1="А" t2="С" t3="Л" uri="1025-aslan-yd" id="1025"><l pos="Pron">асланьыд</l>
+       <l_var type="molodtsov-cyr">aслаԋыԁ</l_var>
+   </lg>
+   <mg>
+     <tg xml:lang="rus">
+       <t><acronym title="приблизительный падеж"><em>прибл.п.</em></acronym> <em>от</em> <xref link="ачыд"> ачыд</xref></t>
+     </tg>
+     <xg>
+       <x>асланьыд вешты</x>
+       <xt xml:lang="rus">подвинь к себе; придвинь к себе</xt>
+     </xg>
+   </mg>
+</e>
+<e>
+   <lg t1="А" t2="С" t3="Л" uri="1027-aslan-ym" id="1027"><l pos="Pron">асланьым</l>
+       <l_var type="molodtsov-cyr">aслаԋым</l_var>
+   </lg>
+   <mg>
+     <tg xml:lang="rus">
+       <t><acronym title="приблизительный падеж"><em>прибл.п.</em></acronym> <em>от</em> <xref link="ачым"> ачым</xref></t>
+     </tg>
+     <xg>
+       <x>асланьым кыскышті</x>
+       <xt xml:lang="rus">я потянул на себя</xt>
+     </xg>
+   </mg>
+</e>
+<e>
+   <lg t1="А" t2="С" t3="Л" uri="1030-aslan-ys" id="1030"><l pos="Pron">асланьыс</l>
+       <l_var type="molodtsov-cyr">aслаԋыс</l_var>
+   </lg>
+   <mg>
+     <tg xml:lang="rus">
+       <t><acronym title="приблизительный падеж"><em>прибл.п.</em></acronym> <em>от</em> <xref link="ачыс"> ачыс</xref></t>
+     </tg>
+     <xg>
+       <x>асланьыс кыскыштіс</x>
+       <xt xml:lang="rus">он подвинул к себе</xt>
+     </xg>
+     <xg>
+       <x>◊ асланьыс колысь</x>
+       <xt xml:lang="rus">беспокоится о своей выгоде</xt>
+     </xg>
+   </mg>
+</e>
+<e>
+   <lg t1="А" t2="С" t3="Л" uri="1035-aslyd" id="1035"><l pos="Pron">аслыд</l>
+       <l_var type="molodtsov-cyr">aслыԁ</l_var>
+   </lg>
+   <mg>
+     <tg xml:lang="rus">
+       <t><acronym title="дательный падеж"><em>дат.п.</em></acronym> <em>от</em> <xref link="ачыд"> ачыд</xref></t>
+     </tg>
+     <xg>
+       <x>аслыд босьт</x>
+       <xt xml:lang="rus">бери себе</xt>
+     </xg>
+     <xg>
+       <x>пукты аслыд мог</x>
+       <xt xml:lang="rus">поставь себе задачу</xt>
+     </xg><br />
+     <xg>
+       <x>◊ аслыд шоныд питшӧгад</x>
+       <xt> типун тебе на язык </xt><com>(<acronym title="буквально"><em>букв.</em></acronym> в свою тёплую пазуху)</com>
+     </xg>
+   </mg>
+</e>
+<e>
+   <lg t1="А" t2="С" t3="Л" uri="1040-aslym" id="1040"><l pos="Pron">аслым</l>
+       <l_var type="molodtsov-cyr">aслым</l_var>
+   </lg>
+   <mg>
+     <tg xml:lang="rus">
+       <t><acronym title="дательный падеж"><em>дат.п.</em></acronym> <em>от</em> <xref link="ачым"> ачым</xref></t>
+     </tg>
+     <xg>
+       <x>аслым вылӧ</x>
+       <xt xml:lang="rus">лично для себя</xt>
+     </xg>
+   </mg>
+</e>
+<e>
+   <lg t1="А" t2="С" t3="Л" uri="1044-aslynyd" id="1044"><l pos="Pron">аслыныд</l>
+       <l_var type="molodtsov-cyr">aслыныԁ</l_var>
+   </lg>
+   <mg>
+     <tg xml:lang="rus">
+       <t><acronym title="дательный падеж"><em>дат.п.</em></acronym> <em>от</em> <xref link="асьныд"> асьныд</xref></t>
+     </tg>
+     <xg>
+       <x>тіянлы ме аслыныд висьтавлі</x>
+       <xt xml:lang="rus">я вам самим говорил</xt>
+     </xg>
+   </mg>
+</e>
+<e>
+   <lg t1="А" t2="С" t3="Л" uri="1047-aslynym" id="1047"><l pos="Pron">аслыным</l>
+       <l_var type="molodtsov-cyr">aслыным</l_var>
+   </lg>
+   <mg>
+     <tg xml:lang="rus">
+       <t><acronym title="дательный падеж"><em>дат.п.</em></acronym> <em>от</em> <xref link="асьным"> асьным</xref></t>
+     </tg>
+     <xg>
+       <x>аслыным оз тырмы</x>
+       <xt xml:lang="rus">нам самим не хватает</xt>
+     </xg>
+   </mg>
+</e>
+<e>
+   <lg t1="А" t2="С" t3="Л" uri="1049-aslynys" id="1049"><l pos="Pron">аслыныс</l>
+       <l_var type="molodtsov-cyr">aслыныс</l_var>
+   </lg>
+   <mg>
+     <tg xml:lang="rus">
+       <t><acronym title="дательный падеж"><em>дат.п.</em></acronym> <em>от</em> <xref link="асьныс"> асьныс</xref></t>
+     </tg>
+     <xg>
+       <x>ме налы аслыныс шулі</x>
+       <xt xml:lang="rus">я говорил им самим</xt>
+     </xg>
+   </mg>
+</e>
+<e>
+   <lg t1="А" t2="С" t3="Л" uri="1052-aslys" id="1052"><l pos="Pron">аслыс</l>
+       <l_var type="molodtsov-cyr">aслыс</l_var>
+   </lg>
+   <mg>
+     <tg xml:lang="rus">
+       <t><acronym title="дательный падеж"><em>дат.п.</em></acronym> <em>от</em> <xref link="ачыс"> ачыс</xref></t>
+     </tg>
+     <xg>
+       <x>ме аслыс шулі</x>
+       <xt xml:lang="rus">я ему самому говорил</xt>
+     </xg>
+   </mg>
+</e>
+<e>
+   <lg t1="А" t2="С" t3="Н" uri="1093-asnad" id="1093"><l pos="Pron">аснад</l>
+       <l_var type="molodtsov-cyr">aснаԁ</l_var>
+   </lg>
+   <mg>
+     <tg xml:lang="rus">
+       <t><acronym title="творительный падеж"><em>твор.п.</em></acronym> <em>от</em> <xref link="ачыд"> ачыд</xref></t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg t1="А" t2="С" t3="Н" uri="1095-asnam" id="1095"><l pos="Pron">аснам</l>
+       <l_var type="molodtsov-cyr">aснам</l_var>
+   </lg>
+   <mg>
+     <tg xml:lang="rus">
+       <t><acronym title="творительный падеж"><em>твор.п.</em></acronym> <em>от</em> <xref link="ачым"> ачым</xref></t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg t1="А" t2="С" t3="Н" uri="1097-asnanyd" id="1097"><l pos="Pron">аснаныд</l>
+       <l_var type="molodtsov-cyr">aснаныԁ</l_var>
+   </lg>
+   <mg>
+     <tg xml:lang="rus">
+       <t><acronym title="творительный падеж"><em>твор.п.</em></acronym> <em>от</em> <xref link="асьныд"> асьныд</xref></t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg t1="А" t2="С" t3="Н" uri="1099-asnanym" id="1099"><l pos="Pron">аснаным</l>
+       <l_var type="molodtsov-cyr">aснаным</l_var>
+   </lg>
+   <mg>
+     <tg xml:lang="rus">
+       <t><acronym title="творительный падеж"><em>твор.п.</em></acronym> <em>от</em> <xref link="асьным"> асьным</xref></t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg t1="А" t2="С" t3="Н" uri="1101-asnanys" id="1101"><l pos="Pron">аснаныс</l>
+       <l_var type="molodtsov-cyr">aснаныс</l_var>
+   </lg>
+   <mg>
+     <tg xml:lang="rus">
+       <t><acronym title="творительный падеж"><em>твор.п.</em></acronym> <em>от</em> <xref link="асьныс"> асьныс</xref></t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg t1="А" t2="С" t3="Н" uri="1103-asnas" id="1103"><l pos="Pron">аснас</l>
+       <l_var type="molodtsov-cyr">aснас</l_var>
+   </lg>
+   <mg>
+     <tg xml:lang="rus">
+       <t><acronym title="творительный падеж"><em>твор.п.</em></acronym> <em>от</em> <xref link="ачыс"> ачыс</xref></t>
+     </tg>
+     <xg>
+       <x>аснас ачыс любуйтчӧ</x>
+       <xt xml:lang="rus">он сам собой любуется</xt>
+     </xg>
+   </mg>
+</e>
+<e>
+   <lg t1="А" t2="С" t3="С" uri="1151-ass-yd" id="1151"><l pos="Pron">ассьыд</l>
+       <l_var type="molodtsov-cyr">aԍԍыԁ</l_var>
+   </lg>
+   <mg relId="0">
+     <tg xml:lang="rus">
+       <t><acronym title="притяжательный падеж"><em>притяж.п.</em></acronym> <em>от</em> <xref link="ачыд"> ачыд</xref></t>
+     </tg>
+     <xg>
+       <x>ме тэнсьыд ассьыд юавлі</x>
+       <xt xml:lang="rus">я у тебя самого спрашивал</xt>
+     </xg>
+   </mg>
+   <mg relId="1">
+     <tg xml:lang="rus">
+       <t><em>в роли</em> <acronym title="притяжательный (-ая, -ое)"><em>притяж.</em></acronym> <acronym title="местоимение"><em>мест.</em></acronym> свой, твой</t>
+     </tg>
+     <xg>
+       <x>ассьыд мыж гӧгӧрвоӧм</x>
+       <xt xml:lang="rus">сознание своей вины</xt>
+     </xg>
+     <xg>
+       <x>тэ ассьыд делӧ тӧд</x>
+       <xt xml:lang="rus">ты знай своё дело</xt>
+     </xg>
+     <xg>
+       <x>◊ ассьыд ныр кутны</x>
+       <xt xml:lang="rus">делать по-своему, держаться своей линии</xt>
+     </xg>
+   </mg>
+</e>
+<e>
+   <lg t1="А" t2="С" t3="С" uri="1153-ass-ym" id="1153"><l pos="Pron">ассьым</l>
+       <l_var type="molodtsov-cyr">aԍԍым</l_var>
+   </lg>
+   <mg relId="0">
+     <tg xml:lang="rus">
+       <t><acronym title="притяжательный падеж"><em>притяж.п.</em></acronym> <em>от</em> <xref link="ачым"> ачым</xref></t>
+     </tg>
+     <xg>
+       <x>ассьым колі юавны</x>
+       <xt xml:lang="rus">надо было у меня спросить</xt>
+     </xg>
+   </mg>
+   <mg relId="1">
+     <tg xml:lang="rus">
+       <t><em>в роли</em> <acronym title="притяжательный (-ая, -ое)"><em>притяж.</em></acronym> <acronym title="местоимение"><em>мест.</em></acronym> свой, мой</t>
+     </tg>
+     <xg>
+       <x>ассьым кагаӧс ӧбидаӧ ог сет</x>
+       <xt xml:lang="rus">своего ребёнка в обиду не дам</xt>
+     </xg>
+   </mg>
+</e>
+<e>
+   <lg t1="А" t2="С" t3="С" uri="1156-ass-ynyd" id="1156"><l pos="Pron">ассьыныд</l>
+       <l_var type="molodtsov-cyr">aԍԍыныԁ</l_var>
+   </lg>
+   <mg relId="0">
+     <tg xml:lang="rus">
+       <t><acronym title="притяжательный падеж"><em>притяж.п.</em></acronym> <em>от</em> <xref link="асьныд"> асьныд</xref></t>
+     </tg>
+     <xg>
+       <x>ме жӧ ассьыныд юалі</x>
+       <xt xml:lang="rus">я же у вас самих спросил</xt>
+     </xg>
+   </mg>
+   <mg relId="1">
+     <tg xml:lang="rus">
+       <t><em>в роли</em> <acronym title="притяжательный (-ая, -ое)"><em>притяж.</em></acronym> <acronym title="местоимение"><em>мест.</em></acronym> свой, ваш</t>
+     </tg>
+     <xg>
+       <x>идралӧй тась ассьыныд кӧлуйтӧ</x>
+       <xt xml:lang="rus">уберите отсюда свои вещи</xt>
+     </xg>
+   </mg>
+</e>
+<e>
+   <lg t1="А" t2="С" t3="С" uri="1159-ass-ynym" id="1159"><l pos="Pron">ассьыным</l>
+       <l_var type="molodtsov-cyr">aԍԍыным</l_var>
+   </lg>
+   <mg relId="0">
+     <tg xml:lang="rus">
+       <t><acronym title="притяжательный падеж"><em>притяж.п.</em></acronym> <em>от</em> <xref link="асьным"> асьным</xref></t>
+     </tg>
+     <xg>
+       <x>ассьыным коліс юавны</x>
+       <xt xml:lang="rus">надо было спросить у нас самих</xt>
+     </xg>
+   </mg>
+   <mg relId="1">
+     <tg xml:lang="rus">
+       <t><em>в роли</em> <acronym title="притяжательный (-ая, -ое)"><em>притяж.</em></acronym> <acronym title="местоимение"><em>мест.</em></acronym> свой, наш</t>
+     </tg>
+     <xg>
+       <x>ассьыным керка вузалім</x>
+       <xt xml:lang="rus">мы наш дом продали</xt>
+     </xg>
+   </mg>
+</e>
+<e>
+   <lg t1="А" t2="С" t3="С" uri="1160-ass-ynys" id="1160"><l pos="Pron">ассьыныс</l>
+       <l_var type="molodtsov-cyr">aԍԍыныс</l_var>
+   </lg>
+   <mg relId="0">
+     <tg xml:lang="rus">
+       <t><acronym title="притяжательный падеж"><em>притяж.п.</em></acronym> <em>от</em> <xref link="асьныс"> асьныс</xref></t>
+     </tg>
+     <xg>
+       <x>ассьыныс колі юавны</x>
+       <xt xml:lang="rus">надо было спросить у них самих</xt>
+     </xg>
+   </mg>
+   <mg relId="1">
+     <tg xml:lang="rus">
+       <t><em>в роли</em> <acronym title="притяжательный (-ая, -ое)"><em>притяж.</em></acronym> <acronym title="местоимение"><em>мест.</em></acronym> свой, их</t>
+     </tg>
+     <xg>
+       <x>найӧ оз вунӧдны ассьыныс чужан мусӧ</x>
+       <xt xml:lang="rus">они не забудут свою родину</xt>
+     </xg>
+   </mg>
+</e>
+<e>
+   <lg t1="А" t2="С" t3="С" uri="1161-ass-ys" id="1161"><l pos="Pron">ассьыс</l>
+       <l_var type="molodtsov-cyr">aԍԍыс</l_var>
+   </lg>
+   <mg relId="0">
+     <tg xml:lang="rus">
+       <t><acronym title="притяжательный падеж"><em>притяж.п.</em></acronym> <em>от</em> <xref link="ачыс"> ачыс</xref></t>
+     </tg>
+     <xg>
+       <x>ассьыс кор</x>
+       <xt xml:lang="rus">у него самого проси</xt>
+     </xg>
+   </mg>
+   <mg relId="1">
+     <tg xml:lang="rus">
+       <t><em>в значении</em> <acronym title="притяжательный (-ая, -ое)"><em>притяж.</em></acronym> <acronym title="местоимение"><em>мест.</em></acronym> свой, его</t>
+     </tg>
+     <xg>
+       <x>ассьыс делӧ бура тӧдӧ</x>
+       <xt xml:lang="rus">своё дело он хорошо знает</xt>
+     </xg>
+     <xg>
+       <x>◊ ассьыс пӧрт ув пестыны кужӧ</x>
+       <xt xml:lang="rus">он не пропадёт, себя выгородит</xt>
+     </xg>
+     <xg>
+       <x>◊ ассьыс синӧ</x>
+       <xt xml:lang="rus">гнёт своё</xt>
+     </xg>
+   </mg>
+</e>
+<e>
+   <lg t1="А" t2="С" t3="С" uri="1165-assyan-" id="1165"><l pos="Pron">ассянь</l>
+       <l_var type="molodtsov-cyr">aԍԍаԋ</l_var>
+   </lg>
+   <mg>
+     <tg xml:lang="rus">
+       <t><acronym title="отдалительный падеж"><em>отдал.п.</em></acronym> <em>от</em> <xref link="ачым"> ачым</xref></t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg t1="А" t2="С" t3="С" uri="1168-assyan-nyd" id="1168"><l pos="Pron">ассяньныд</l>
+       <l_var type="molodtsov-cyr">aԍԍаԋныԁ</l_var>
+   </lg>
+   <mg>
+     <tg xml:lang="rus">
+       <t><acronym title="отдалительный падеж"><em>отдал.п.</em></acronym> <em>от</em> <xref link="асьныд"> асьныд</xref></t>
+     </tg>
+     <xg>
+       <x>ассяньныд нин пӧ колӧ</x>
+       <xt xml:lang="rus">с вас самих, говорят, уже причитается</xt>
+     </xg>
+   </mg>
+</e>
+<e>
+   <lg t1="А" t2="С" t3="С" uri="1171-assyan-nym" id="1171"><l pos="Pron">ассяньным</l>
+       <l_var type="molodtsov-cyr">aԍԍаԋным</l_var>
+   </lg>
+   <mg>
+     <tg xml:lang="rus">
+       <t><acronym title="отдалительный падеж"><em>отдал.п.</em></acronym> <em>от</em> <xref link="асьным"> асьным</xref></t>
+     </tg>
+     <xg>
+       <x>ассяньным колӧ заводитны</x>
+       <xt xml:lang="rus">надо начать с нас самих</xt>
+     </xg>
+   </mg>
+</e>
+<e>
+   <lg t1="А" t2="С" t3="С" uri="1172-assyan-nys" id="1172"><l pos="Pron">ассяньныс</l>
+       <l_var type="molodtsov-cyr">aԍԍаԋныс</l_var>
+   </lg>
+   <mg>
+     <tg xml:lang="rus">
+       <t><acronym title="отдалительный падеж"><em>отдал.п.</em></acronym> <em>от</em> <xref link="асьныс"> асьныс</xref></t>
+     </tg>
+     <xg>
+       <x>ассяньныс на колӧ</x>
+       <xt xml:lang="rus">с них самих причитается</xt>
+     </xg>
+   </mg>
+</e>
+<e>
+   <lg t1="А" t2="С" t3="С" uri="1175-assyan-yd" id="1175"><l pos="Pron">ассяньыд</l>
+       <l_var type="molodtsov-cyr">aԍԍаԋыԁ</l_var>
+   </lg>
+   <mg>
+     <tg xml:lang="rus">
+       <t><acronym title="отдалительный падеж"><em>отдал.п.</em></acronym> <em>от</em> <xref link="ачыд"> ачыд</xref></t>
+     </tg>
+     <xg>
+       <x>ассяньыд виччысьӧны письмӧ</x>
+       <xt xml:lang="rus">от тебя самого ждут письмо</xt>
+     </xg>
+     <xg>
+       <x>ассяньыд заводит</x>
+       <xt xml:lang="rus">начни с самого себя</xt>
+     </xg>
+   </mg>
+</e>
+<e>
+   <lg t1="А" t2="С" t3="С" uri="1176-assyan-ym" id="1176"><l pos="Pron">ассяньым</l>
+       <l_var type="molodtsov-cyr">aԍԍаԋым</l_var>
+   </lg>
+   <mg>
+     <tg xml:lang="rus">
+       <t><acronym title="отдалительный падеж"><em>отдал.п.</em></acronym> <em>от</em> <xref link="ачым"> ачым</xref></t>
+     </tg>
+     <xg>
+       <x>ассяньым на виччысьӧны</x>
+       <xt xml:lang="rus"> от меня самого ещё ждут <em>(чего-либо)</em></xt>
+     </xg>
+   </mg>
+</e>
+<e>
+   <lg t1="А" t2="С" t3="С" uri="1177-assyan-ys" id="1177"><l pos="Pron">ассяньыс</l>
+       <l_var type="molodtsov-cyr">aԍԍаԋыс</l_var>
+   </lg>
+   <mg>
+     <tg xml:lang="rus">
+       <t><acronym title="отдалительный падеж"><em>отдал.п.</em></acronym> <em>от</em> <xref link="ачыс"> ачыс</xref></t>
+     </tg>
+     <xg>
+       <x>ассяньыс воис письмӧ</x>
+       <xt xml:lang="rus">от него самого пришло письмо</xt>
+     </xg>
+   </mg>
+</e>
+<e>
+   <lg t1="А" t2="С" t3="Т" uri="1180-ast-g" id="1180"><l pos="Pron">астӧг</l>
+       <l_var type="molodtsov-cyr">aстӧг</l_var>
+   </lg>
+   <mg relId="0"> <sg><s s_type="see">астӧгым</s></sg>
+     <tg xml:lang="rus">
+       <t></t>
+     </tg>
+   </mg>
+   <mg relId="1">
+     <tg xml:lang="rus">
+       <t>заочно</t>
+     </tg>
+     <xg>
+       <x>астӧг бӧрйыны</x>
+       <xt xml:lang="rus">избрать заочно</xt>
+     </xg>
+   </mg>
+</e>
+<e>
+   <lg t1="А" t2="С" t3="Т" uri="1181-ast-gnyd" id="1181"><l pos="Pron">астӧгныд</l>
+       <l_var type="molodtsov-cyr">aстӧгныԁ</l_var>
+   </lg>
+   <mg>
+     <tg xml:lang="rus">
+       <t><acronym title="лишительный падеж"><em>лиш.п.</em></acronym> <em>от</em> <xref link="асьныд"> асьныд</xref></t>
+     </tg>
+     <xg>
+       <x>астӧгныд эг лысьт босьтны</x>
+       <xt xml:lang="rus">без вас самих я не посмел взять</xt>
+     </xg>
+   </mg>
+</e>
+<e>
+   <lg t1="А" t2="С" t3="Т" uri="1183-ast-gnym" id="1183"><l pos="Pron">астӧгным</l>
+       <l_var type="molodtsov-cyr">aстӧгным</l_var>
+   </lg>
+   <mg>
+     <tg xml:lang="rus">
+       <t><acronym title="лишительный падеж"><em>лиш.п.</em></acronym> <em>от</em> <xref link="асьным"> асьным</xref></t>
+     </tg>
+     <xg>
+       <x>астӧгным волӧма</x>
+       <xt xml:lang="rus">он приходил в наше отсутствие</xt>
+     </xg>
+   </mg>
+</e>
+<e>
+   <lg t1="А" t2="С" t3="Т" uri="1186-ast-gnys" id="1186"><l pos="Pron">астӧгныс</l>
+       <l_var type="molodtsov-cyr">aстӧгныс</l_var>
+   </lg>
+   <mg>
+     <tg xml:lang="rus">
+       <t><acronym title="лишительный падеж"><em>лиш.п.</em></acronym> <em>от</em> <xref link="асьныс"> асьныс</xref></t>
+     </tg>
+     <xg>
+       <x>астӧгныс волӧмаӧсь</x>
+       <xt xml:lang="rus">они приходили в их отсутствие</xt>
+     </xg>
+   </mg>
+</e>
+<e>
+   <lg t1="А" t2="С" t3="Т" uri="1188-ast-gyd" id="1188"><l pos="Pron">астӧгыд</l>
+       <l_var type="molodtsov-cyr">aстӧгыԁ</l_var>
+   </lg>
+   <mg>
+     <tg xml:lang="rus">
+       <t><acronym title="лишительный падеж"><em>лиш.п.</em></acronym> <em>от</em> <xref link="ачыд"> ачыд</xref></t>
+     </tg>
+     <xg>
+       <x>астӧгыд волі</x>
+       <xt xml:lang="rus">я приходил без тебя, в твоё отсутствие</xt>
+     </xg>
+   </mg>
+</e>
+<e>
+   <lg t1="А" t2="С" t3="Т" uri="1190-ast-gym" id="1190"><l pos="Pron">астӧгым</l>
+       <l_var type="molodtsov-cyr">aстӧгым</l_var>
+   </lg>
+   <mg>
+     <tg xml:lang="rus">
+       <t><acronym title="лишительный падеж"><em>лиш.п.</em></acronym> <em>от</em> <xref link="ачым"> ачым</xref></t>
+     </tg>
+     <xg>
+       <x>астӧгым пыралӧмаӧсь</x>
+       <xt xml:lang="rus">они заходили без меня, в моё отсутствие</xt>
+     </xg>
+   </mg>
+</e>
+<e>
+   <lg t1="А" t2="С" t3="Т" uri="1192-ast-gys" id="1192"><l pos="Pron">астӧгыс</l>
+       <l_var type="molodtsov-cyr">aстӧгыс</l_var>
+   </lg>
+   <mg>
+     <tg xml:lang="rus">
+       <t><acronym title="лишительный падеж"><em>лиш.п.</em></acronym> <em>от</em> <xref link="ачыс"> ачыс</xref></t>
+     </tg>
+     <xg>
+       <x>астӧгыс босьтӧмаӧсь</x>
+       <xt xml:lang="rus">без него самого, в его отсутствие взяли</xt>
+     </xg>
+   </mg>
+</e>
+
 </r> 

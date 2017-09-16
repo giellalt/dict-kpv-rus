@@ -676,4 +676,45 @@
      </tg>
    </mg>
 </e>
+<e>
+   <lg t1="А" t2="Л" t3="И" uri="450-ali" id="450">
+     <l hid="Hom3">али</l>
+       <l_var type="molodtsov-cyr">aԉі</l_var>
+   </lg>
+   <mg relId="0">
+     <tg xml:lang="rus">
+       <t pos="Pcle"> <acronym title="вопросительное (местоимение, частица)"><em>вопр.</em></acronym> неужели, ли; разве</t>
+     </tg>
+     <xg>
+       <x>он али мый мун?</x>
+       <xt xml:lang="rus">разве не идёшь?</xt>
+     </xg>
+     <xg>
+       <x>тэ али мый?</x>
+       <xt xml:lang="rus">неужели ты?</xt>
+     </xg>
+     <xg>
+       <x>тэ али мый ыджыдыс?</x>
+       <xt xml:lang="rus">ты что ли старший?</xt>
+     </xg>
+   </mg>
+   <mg relId="1">
+     <tg xml:lang="rus">
+       <t><acronym title="выделительная (частица)"><em>выделит.</em></acronym></t>
+     </tg>
+     <xg>
+       <x>кутшӧм али</x>
+       <xt xml:lang="rus">что за..., какой там</xt>
+     </xg>
+     <xg>
+       <x>кутшӧм али тӧдӧм</x>
+       <xt xml:lang="rus">какие там знания</xt>
+     </xg>
+     <xg>
+       <x>кутшӧм али узьӧм</x>
+       <xt xml:lang="rus">какой там сон</xt>
+     </xg>
+   </mg>
+</e>
+
 </r> 

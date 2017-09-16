@@ -64,4 +64,39 @@
      </tg>
    </mg>
 </e>
+<e>
+   <lg t1="А" t2="Л" t3="И" uri="450-ali" id="450">
+     <l hid="Hom2">али</l>
+       <l_var type="molodtsov-cyr">aԉі</l_var>
+   </lg>
+   <mg>
+     <tg xml:lang="rus">
+       <t><em>союз раздел.</em> или</t>
+     </tg>
+     <xg>
+       <x>ме али тэ</x>
+       <xt xml:lang="rus">я или ты</xt>
+     </xg>
+     <xg>
+       <x>кор мунам, талун али аски?</x>
+       <xt xml:lang="rus">когда уедем, сегодня или завтра?</xt>
+     </xg>
+   </mg>
+</e>
+<e>
+   <lg t1="С" t2="Э" t3="С" uri="50431-sessya" id="50431">
+     <l pos="CC" hid="Hom2">сэсся</l>
+       <l_var type="molodtsov-cyr">сеԍԍа</l_var>
+   </lg>
+   <mg>
+     <tg xml:lang="rus">
+       <t><em>союз</em> да и</t>
+     </tg>
+     <xg>
+       <x>сэсся и черинас пӧ юыс озыр</x>
+       <xt xml:lang="rus">да и рыбой, говорят, река богата</xt>
+     </xg>
+   </mg>
+</e>
+
 </r> 

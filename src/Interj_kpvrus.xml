@@ -2381,4 +2381,507 @@
      </xg>
    </mg>
 </e>
+<e>
+   <lg t1="А" t2="Д" t3="Д" uri="259-addzys-lyt-dz" id="259"><l pos="Interj">аддзысьлытӧдз</l>
+       <l_var type="molodtsov-cyr">aԇԇыԍлытӧԇ</l_var>
+   </lg>
+   <mg><strong>аддзысьлытӧдз!</strong><br />
+     <tg xml:lang="rus">
+       <t>до свидания!</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg t1="А" t2="Д" t3="Ӧ" uri="281-ad-ij" id="281">
+     <l hid="Hom2">адӧй</l>
+       <l_var type="molodtsov-cyr">aԁӧј</l_var>
+   </lg>
+   <mg> <acronym title="диалектное"><em>диал.</em></acronym>
+     <tg xml:lang="rus">
+       <t><acronym title="междометие"><em>межд.</em></acronym> о, ой, ох <em>(восклицание, выражающее восхищение; вскрик от внезапной боли, от неожиданности)</em>; боже</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg t1="А" t2="М" t3="И" uri="523-amin-" id="523">
+     <l hid="Hom2" pos="Interj">аминь</l>
+       <l_var type="molodtsov-cyr">aміԋ</l_var>
+   </lg>
+   <mg relId="0">
+     <tg xml:lang="rus">
+       <t pos="Interj"> ой <em>(выражает удивление или испуг)</em></t>
+     </tg>
+     <xg>
+       <x>аминь, ваас уси</x>
+       <xt xml:lang="rus">ой, упал в воду</xt>
+     </xg>
+   </mg>
+   <mg relId="1">
+     <tg xml:lang="rus">
+       <t><em>в роли</em> <acronym title="сказуемое"><em>сказ.</em></acronym> аминь, конец</t>
+     </tg>
+     <xg>
+       <x>юр вылад кӧ усьӧ и – аминь</x>
+       <xt xml:lang="rus">если на голову упадёт конец</xt>
+     </xg>
+   </mg>
+</e>
+<e>
+   <lg t1="Б" t2="У" t3="Р" uri="3648-bur-lun" id="3648"><l pos="Interj">бур лун</l>
+       <l_var type="molodtsov-cyr">бур лун</l_var>
+   </lg>
+   <mg><strong>бур лун!</strong><br />
+     <tg xml:lang="rus">
+       <t>добрый день!</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg t1="Б" t2="У" t3="Р" uri="3649-bur-ryt" id="3649"><l pos="Interj">бур рыт</l>
+       <l_var type="molodtsov-cyr">бур рыт</l_var>
+   </lg>
+   <mg><strong>бур рыт!</strong><br />
+     <tg xml:lang="rus">
+       <t>добрый вечер!</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg t1="А" t2="С" t3="К" uri="953-aski-dz" id="953"><l pos="Interj">аскиӧдз</l>
+       <l_var type="molodtsov-cyr">aскіӧԇ</l_var>
+   </lg>
+   <mg><strong>аскиӧдз!</strong><br />
+     <tg xml:lang="rus">
+       <t>до завтра!</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg t1="Б" t2="О" t3="В" uri="2373-bov" id="2373"><l pos="Interj">бов</l>
+       <l_var type="molodtsov-cyr">бов</l_var>
+   </lg>
+   <mg><strong>бов!</strong><br />
+     <tg xml:lang="rus">
+       <t><acronym title="звукоподражательное слово"><em>звукоподр.</em></acronym> бом!</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg t1="Б" t2="У" t3="Р" uri="3644-bur-asyv" id="3644"><l pos="Interj">бур асыв</l>
+       <l_var type="molodtsov-cyr">бур асыв</l_var>
+   </lg>
+   <mg><strong>бур асыв!</strong><br />
+     <tg xml:lang="rus">
+       <t>доброе утро!</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg t1="Б" t2="У" t3="Р" uri="3645-bur-voij" id="3645"><l pos="Interj">бур вой</l>
+       <l_var type="molodtsov-cyr">бур вој</l_var>
+   </lg>
+   <mg><strong>бур вой!</strong><br />
+     <tg xml:lang="rus">
+       <t>доброй (спокойной) ночи!</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg t1="Б" t2="Ы" t3="Д" uri="4044-byd-burs-" id="4044"><l pos="Interj">быд бурсӧ</l>
+       <l_var type="molodtsov-cyr">быԁ бурсӧ</l_var>
+   </lg>
+   <mg><strong>быд бурсӧ!</strong><br />
+     <tg xml:lang="rus">
+       <t>всего хорошего!</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg t1="В" t2="А" t3="Й" uri="4537-vaij-t-dmasyam" id="4537"><l pos="Interj">вай тӧдмасям</l>
+       <l_var type="molodtsov-cyr">вај тӧԁмаԍам</l_var>
+   </lg>
+   <mg><strong>вай тӧдмасям!</strong><br />
+     <tg xml:lang="rus">
+       <t>давай познакомимся!</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg t1="В" t2="И" t3="Д" uri="6362-vidza-olan" id="6362"><l pos="Interj">видза олан</l>
+       <l_var type="molodtsov-cyr">віԇа олан</l_var>
+   </lg>
+   <mg><strong>видза олан!</strong><br />
+     <tg xml:lang="rus">
+       <t>здравствуй!</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg t1="В" t2="И" t3="Д" uri="6363-vidza-olannyd" id="6363"><l pos="Interj">видза оланныд</l>
+       <l_var type="molodtsov-cyr">віԇа оланныԁ</l_var>
+   </lg>
+   <mg><strong>видза оланныд!</strong><br />
+     <tg xml:lang="rus">
+       <t>здравствуйте!</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg t1="З" t2="Э" t3="В" uri="17938-zev-nimkod-" id="17938"><l pos="Interj">зэв нимкодь</l>
+       <l_var type="molodtsov-cyr">зев ԋімкоԃ</l_var>
+   </lg>
+   <mg><strong>зэв нимкодь!</strong><br />
+     <tg xml:lang="rus">
+       <t>очень приятно!</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg t1="М" t2="Ы" t3="Ч" uri="33348-mychchy" id="33348"><l pos="Interj">мыччы</l>
+       <l_var type="molodtsov-cyr">мыччы</l_var>
+   </lg>
+   <mg><strong>мыччы!</strong><br />
+     <tg xml:lang="rus">
+       <t>подай!</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg t1="Н" t2="О" t3="Л" uri="34810-nol-" id="34810"><l pos="Interj">нолӧ</l>
+       <l_var type="molodtsov-cyr">нолӧ</l_var>
+   </lg>
+   <mg><strong>нолӧ!</strong><br />
+     <tg xml:lang="rus">
+       <t pos="Interj"> <em>(призыв к дружному усилию)</em> ну-ка!</t>
+     </tg>
+     <xg>
+       <x>нолӧ!, босьтім!</x>
+       <xt xml:lang="rus">ну-ка, взяли!</xt>
+     </xg>
+   </mg>
+</e>
+<e>
+   <lg t1="С" t2="Т" t3="А" uri="48912-stav-burs-" id="48912"><l pos="Interj">став бурсӧ</l>
+       <l_var type="molodtsov-cyr">став бурсӧ</l_var>
+   </lg>
+   <mg><strong>став бурсӧ!</strong><br />
+     <tg xml:lang="rus">
+       <t>всего хорошего!</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg t1="И" t2="К" t3="" uri="18348-ik" id="18348"><l pos="Interj">ик</l>
+       <l_var type="molodtsov-cyr">ік</l_var>
+   </lg>
+   <mg>
+     <tg xml:lang="rus">
+       <t pos="Interj"> гей! <em>(возглас радости)</em></t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg t1="К" t2="И" t3="С" uri="21432-kis-" id="21432">
+     <l hid="Hom2">кись</l>
+       <l_var type="molodtsov-cyr">кіԍ</l_var>
+   </lg>
+   <mg>
+     <tg xml:lang="rus">
+       <t pos="Interj"> кш, кши, кшиш <em>(возглас, которым отгоняют овец, птиц)</em></t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg t1="К" t2="О" t3="Т" uri="23503-kot" id="23503">
+     <l hid="Hom1">кот</l>
+       <l_var type="molodtsov-cyr">кот</l_var>
+   </lg>
+   <mg>
+     <tg xml:lang="rus">
+       <t pos="Interj"> ко-ко</t>
+     </tg>
+     <xg>
+       <x>кот, кот, кот! котсьӧ чипан</x>
+       <xt xml:lang="rus">ко-ко-ко! – квохчет курица</xt>
+     </xg>
+   </mg>
+</e>
+<e>
+   <lg t1="К" t2="У" t3="А" uri="25009-kua" id="25009">
+     <l hid="Hom2">куа</l>
+       <l_var type="molodtsov-cyr">куа</l_var>
+   </lg>
+   <mg>
+     <tg xml:lang="rus">
+       <t pos="Interj"> уа <em>(о плаче маленького ребёнка)</em></t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg t1="К" t2="Ы" t3="С" uri="27117-kys-" id="27117">
+     <l hid="Hom2">кысь</l>
+       <l_var type="molodtsov-cyr">кыԍ</l_var>
+   </lg>
+   <mg> <sg><s s_type="see">кись Ⅱ</s></sg>
+     <tg xml:lang="rus">
+       <t pos="Interj"></t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg t1="О" t2="" t3="" uri="36199-o" id="36199"><l pos="Interj">о</l>
+       <l_var type="molodtsov-cyr">о</l_var>
+   </lg>
+   <mg>
+     <tg xml:lang="rus">
+       <t pos="Interj"> о, а, ох, ах, ух; ого, ага</t>
+     </tg>
+     <xg>
+       <x>о, тэ кӧ эськӧ тӧдін, кутшӧм меным сьӧкыд!</x>
+       <xt xml:lang="rus">о, если бы ты знал, как мне тяжело!</xt>
+     </xg>
+     <xg>
+       <x>о, тайӧ тэ!</x>
+       <xt xml:lang="rus">а, это ты!</xt>
+     </xg>
+     <xg>
+       <x>о, кутшӧм кӧдзыд ваыс!</x>
+       <xt xml:lang="rus">ух, какая холодная вода!</xt>
+     </xg>
+     <xg>
+       <x>о, менам вунӧма!</x>
+       <xt xml:lang="rus">ах, я забыл!</xt>
+     </xg>
+     <xg>
+       <x>о, кутшӧм сьӧкыд!</x>
+       <xt xml:lang="rus">ох, какой тяжёлый!</xt>
+     </xg>
+     <xg>
+       <x>о, кутшӧма тэ шаньмӧмыд!</x>
+       <xt xml:lang="rus">ого, как ты пополнел!</xt>
+     </xg>
+     <xg>
+       <x>о, сюрин!</x>
+       <xt xml:lang="rus">а, попался! ага, попался!</xt>
+     </xg>
+   </mg>
+</e>
+<e>
+   <lg t1="О" t2="Й" t3="" uri="36395-oij" id="36395">
+     <l hid="Hom1">ой</l>
+       <l_var type="molodtsov-cyr">ој</l_var>
+   </lg>
+   <mg>
+     <tg xml:lang="rus">
+       <t pos="Interj"> ой, ох</t>
+     </tg>
+     <xg>
+       <x>ой, кутшӧма доймӧ!</x>
+       <xt xml:lang="rus">ой, как больно!</xt>
+     </xg>
+     <xg>
+       <x>менам пачын пӧжӧм йӧв эм, ой чӧскыд!</x>
+       <xt xml:lang="rus">у меня в печи топлёное молоко, ох и вкусное!</xt>
+     </xg><br />
+     <xg>
+       <x>ой, сьӧлӧмӧй исковтіс кытчӧкӧ!</x>
+       <xt> ой, мне дурно! </xt><com>(<acronym title="буквально"><em>букв.</em></acronym> сердце укатилось куда-то)</com>
+     </xg>
+   </mg>
+</e>
+<e>
+   <lg t1="О" t2="К" t3="" uri="36469-ok" id="36469">
+     <l hid="Hom1">ок</l>
+       <l_var type="molodtsov-cyr">ок</l_var>
+   </lg>
+   <mg>
+     <tg xml:lang="rus">
+       <t pos="Interj"> ох, ах, ух, эх, ну</t>
+     </tg>
+     <xg>
+       <x>ок, менам и вунӧма!</x>
+       <xt xml:lang="rus">ох, я и позабыл!</xt>
+     </xg>
+     <xg>
+       <x>ок тэ кутшӧм!</x>
+       <xt xml:lang="rus">ох ты какой! ух ты какой!</xt>
+     </xg>
+     <xg>
+       <x>ок, ӧдва эг уськӧд</x>
+       <xt xml:lang="rus">ах, едва не выронил</xt>
+     </xg>
+     <xg>
+       <x>ок, тэ!</x>
+       <xt xml:lang="rus">эх ты!</xt>
+     </xg>
+     <xg>
+       <x>ок, тэ мый думыштӧмыд!</x>
+       <xt xml:lang="rus">ну, что ты вздумал!</xt>
+     </xg>
+     <xg>
+       <x>ок, и ныв!</x>
+       <xt xml:lang="rus">ну и девка! ох и девка!</xt>
+     </xg>
+     <xg>
+       <x>ок эськӧ, шыбитны кӧ дас кымын во!</x>
+       <xt xml:lang="rus">эх, сбросить бы лет десять!</xt>
+     </xg>
+     <xg>
+       <x>сурыд сылӧн ок ён</x>
+       <xt xml:lang="rus">пиво у него ох и крепкое</xt>
+     </xg>
+     <xg>
+       <x>ок-ок-ок!</x>
+       <xt xml:lang="rus">э-хе-хе!</xt>
+     </xg>
+   </mg>
+</e>
+<e>
+   <lg t1="Т" t2="О" t3="Р" uri="52318-tork" id="52318">
+     <l hid="Hom2">торк</l>
+       <l_var type="molodtsov-cyr">торк</l_var>
+   </lg>
+   <mg>
+     <tg xml:lang="rus">
+       <t pos="Interj"> бряк</t>
+     </tg>
+     <xg>
+       <x>кодкӧ ӧшиньӧ торк</x>
+       <xt xml:lang="rus">кто-то бряк в окно</xt>
+     </xg>
+   </mg>
+</e>
+<e>
+   <lg t1="У" t2="Р" t3="А" uri="56271-ura" id="56271">
+     <l hid="Hom3">ура</l>
+       <l_var type="molodtsov-cyr">ура</l_var>
+   </lg>
+   <mg>
+     <tg xml:lang="rus">
+       <t pos="Interj"> ура</t>
+     </tg>
+     <xg>
+       <x>ура юрӧбтіс</x>
+       <xt xml:lang="rus">грянуло ура</xt>
+     </xg>
+   </mg>
+</e>
+<e>
+   <lg t1="Ч" t2="Ӧ" t3="В" uri="58543-ch-v" id="58543">
+     <l hid="Hom2">чӧв</l>
+       <l_var type="molodtsov-cyr">чӧв</l_var>
+   </lg>
+   <mg>
+     <tg xml:lang="rus">
+       <t pos="Interj"> что ты, что вы; неужели</t>
+     </tg>
+     <xg>
+       <x>чӧв, весиг оз эскыссьы</x>
+       <xt xml:lang="rus">неужели, даже не верится</xt>
+     </xg>
+   </mg>
+</e>
+<e>
+   <lg t1="Ш" t2="В" t3="А" uri="59968-shvach" id="59968">
+     <l hid="Hom2">швач</l>
+       <l_var type="molodtsov-cyr">швач</l_var>
+   </lg>
+   <mg>
+     <tg xml:lang="rus">
+       <t pos="Interj"> бряк, хлоп, бух, бац</t>
+     </tg>
+     <xg>
+       <x>джоджӧ швач</x>
+       <xt xml:lang="rus">бряк об пол</xt>
+     </xg>
+     <xg>
+       <x>швач кучкыны</x>
+       <xt xml:lang="rus">хлопнуть</xt>
+     </xg>
+     <xg>
+       <x>швач локтіс гортас</x>
+       <xt xml:lang="rus">неожиданно приехал домой</xt>
+     </xg>
+     <xg>
+       <x>швач пӧдлавны</x>
+       <xt xml:lang="rus">захлопнуть</xt>
+     </xg>
+     <xg>
+       <x>швач усьны</x>
+       <xt xml:lang="rus">хлопнуться, упасть</xt>
+     </xg>
+     <xg>
+       <x>швач шыбитны</x>
+       <xt xml:lang="rus">бухнуть</xt>
+     </xg>
+   </mg>
+</e>
+<e>
+   <lg t1="Э" t2="" t3="" uri="63622-e" id="63622"><l pos="Interj">э</l>
+       <l_var type="molodtsov-cyr">е</l_var>
+   </lg>
+   <mg>
+     <tg xml:lang="rus">
+       <t pos="Interj"> э; а</t>
+     </tg>
+     <xg>
+       <x>э, вокӧй, тайӧ кольӧма нин</x>
+       <xt xml:lang="rus">а, братец, это уже прошло</xt>
+     </xg>
+     <xg>
+       <x>э, да тайӧ тэ!</x>
+       <xt xml:lang="rus">э, да это ты!</xt>
+     </xg>
+     <xg>
+       <x>э, ставыс воши!</x>
+       <xt xml:lang="rus">а, всё пропало!</xt>
+     </xg>
+   </mg>
+</e>
+<e>
+   <lg t1="Ӧ" t2="" t3="" uri="37171-" id="37171"><l pos="Interj">ӧ</l>
+       <l_var type="molodtsov-cyr">ӧ</l_var>
+   </lg>
+   <mg relId="0">
+     <tg xml:lang="rus">
+       <t pos="Pcle"> <acronym title="вопросительное (местоимение, частица)"><em>вопр.</em></acronym> ли</t>
+     </tg>
+     <xg>
+       <x>эм-ӧ?</x>
+       <xt xml:lang="rus">есть ли?</xt>
+     </xg>
+     <xg>
+       <x>он-ӧ вись?</x>
+       <xt xml:lang="rus">ты не болен ли?</xt>
+     </xg>
+     <xg>
+       <x>ті он-ӧ собранньӧ вылӧ мунӧ?</x>
+       <xt xml:lang="rus">вы не на собрание ли идёте?</xt>
+     </xg>
+   </mg>
+   <mg relId="1">
+     <tg xml:lang="rus">
+       <t pos="Interj"> но! <em>(понукание лошади)</em></t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg t1="А" t2="Т" t3="Т" uri="1325-att-" id="1325"><l pos="Interj">аттьӧ</l>
+       <l_var type="molodtsov-cyr">aԏԏӧ</l_var>
+   </lg>
+   <mg>
+     <tg xml:lang="rus">
+       <t>спасибо, благодарю</t>
+     </tg>
+     <xg>
+       <x>бур кыв вылад аттьӧ</x>
+       <xt xml:lang="rus">спасибо на добром слове</xt>
+     </xg>
+     <xg>
+       <x>сьӧлӧмсянь аттьӧ</x>
+       <xt xml:lang="rus">сердечное спасибо</xt>
+     </xg>
+   </mg>
+</e>
+
 </r> 

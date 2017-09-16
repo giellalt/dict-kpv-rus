@@ -1393,4 +1393,119 @@
      </tg>
    </mg>
 </e>
+<e>
+   <lg t1="В" t2="И" t3="Т" uri="6962-vitnan" id="6962"><l pos="Num">витнан</l>
+       <l_var type="molodtsov-cyr">вітнан</l_var>
+   </lg>
+   <mg>
+     <tg xml:lang="rus">
+       <t><acronym title="имя числительное"><em>числ.</em></acronym> <acronym title="собирательное (существительное)"><em>собир.</em></acronym> все пять; вся пятёрка</t>
+     </tg>
+     <xg>
+       <x>витнан чойыс</x>
+       <xt xml:lang="rus">все пять сестёр</xt>
+     </xg>
+     <xg>
+       <x>витнан чуньыс висьӧ</x>
+       <xt xml:lang="rus">все пять пальцев болят</xt>
+     </xg>
+   </mg>
+</e>
+<e>
+   <lg t1="В" t2="И" t3="Т" uri="6964-vitnannyd" id="6964"><l pos="Num">витнанныд</l>
+       <l_var type="molodtsov-cyr">вітнанныԁ</l_var>
+   </lg>
+   <mg>
+     <tg xml:lang="rus">
+       <t><acronym title="местоимение"><em>мест.</em></acronym> <acronym title="счётно-личное"><em>счётно-личн.</em></acronym> вы пятеро</t>
+     </tg>
+     <xg>
+       <x>витнанныд воинныд?</x>
+       <xt xml:lang="rus">вы все пятеро вернулись?</xt>
+     </xg>
+   </mg>
+</e>
+<e>
+   <lg t1="В" t2="И" t3="Т" uri="6967-vitnannym" id="6967"><l pos="Num">витнанным</l>
+       <l_var type="molodtsov-cyr">вітнанным</l_var>
+   </lg>
+   <mg>
+     <tg xml:lang="rus">
+       <t><acronym title="местоимение"><em>мест.</em></acronym> <acronym title="счётно-личное"><em>счётно-личн.</em></acronym> мы пятеро</t>
+     </tg>
+     <xg>
+       <x>витнанным ветлам</x>
+       <xt xml:lang="rus">мы все пятеро сходим</xt>
+     </xg>
+   </mg>
+</e>
+<e>
+   <lg t1="В" t2="И" t3="Т" uri="6970-vitnannys" id="6970"><l pos="Num">витнанныс</l>
+       <l_var type="molodtsov-cyr">вітнанныс</l_var>
+   </lg>
+   <mg>
+     <tg xml:lang="rus">
+       <t><acronym title="местоимение"><em>мест.</em></acronym> <acronym title="счётно-личное"><em>счётно-личн.</em></acronym> они пятеро</t>
+     </tg>
+     <xg>
+       <x>витнаннысӧ ошкӧны</x>
+       <xt xml:lang="rus">их всех пятерых хвалят</xt>
+     </xg>
+   </mg>
+</e>
+<e>
+   <lg t1="В" t2="И" t3="Т" uri="6986-vitsyo-d" id="6986"><l pos="Num">витсёӧд</l>
+       <l_var type="molodtsov-cyr">вітԍоӧԁ</l_var>
+   </lg>
+   <mg>
+     <tg xml:lang="rus">
+       <t><acronym title="имя числительное"><em>числ.</em></acronym> <acronym title="порядковое числительное"><em>порядк.</em></acronym> пятисотый</t>
+     </tg>
+     <xg>
+       <x>витсёӧд номер</x>
+       <xt xml:lang="rus">пятисотый номер</xt>
+     </xg>
+   </mg>
+</e>
+<e>
+   <lg t1="В" t2="И" t3="Т" uri="6972-vit-d" id="6972"><l pos="Num">витӧд</l>
+       <l_var type="molodtsov-cyr">вітӧԁ</l_var>
+   </lg>
+   <mg>
+     <tg xml:lang="rus">
+       <t><acronym title="имя числительное"><em>числ.</em></acronym> <acronym title="порядковое числительное"><em>порядк.</em></acronym> пятый</t>
+     </tg>
+     <xg>
+       <x>витӧд юкӧн</x>
+       <xt xml:lang="rus">пятая часть</xt>
+     </xg>
+     <xg>
+       <x>витӧдысь ветлыны</x>
+       <xt xml:lang="rus">съездить в пятый раз</xt>
+     </xg><br />
+     <xg>
+       <x>◊ витӧд кӧ </x>
+       <xt><acronym title="вводное слово"><em>вводн.сл.</em></acronym> в-пятых</xt>
+     </xg>
+   </mg>
+</e>
+<e>
+   <lg t1="В" t2="И" t3="Т" uri="6976-vit-n" id="6976"><l pos="Num">витӧн</l>
+       <l_var type="molodtsov-cyr">вітӧн</l_var>
+   </lg>
+   <mg>
+     <tg xml:lang="rus">
+       <t>впятером; пятеро</t>
+     </tg>
+     <xg>
+       <x>витӧн уджавны</x>
+       <xt xml:lang="rus">впятером работать</xt>
+     </xg>
+     <xg>
+       <x>найӧ вӧліны витӧн</x>
+       <xt xml:lang="rus">их было пятеро</xt>
+     </xg>
+   </mg>
+</e>
+
 </r> 
