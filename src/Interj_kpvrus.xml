@@ -908,7 +908,7 @@
 <e>
    <lg t1="Ӧ" t2="Т" t3="Ь" uri="38261-t-t-" id="38261">
      <l pos="Interj">ӧть-ӧть</l>
-       <l_var type="molodtsov-cyr">ӧԏ-ӧԏ</l_var> <acronym title="диалектное"><em>диал.</em></acronym>
+       <l_var type="molodtsov-cyr">ӧԏ-ӧԏ</l_var> <rg><r range_space="dialect"/></rg>
    </lg>
    <mg relId="0">
      <tg xml:lang="rus">
@@ -1036,7 +1036,7 @@
        <xt xml:lang="rus">глоток – и ковш пустой</xt>
      </xg>
    </mg>
-   <mg relId="1"> <acronym title="диалектное"><em>диал.</em></acronym>
+   <mg relId="1"> <rg><r range_space="dialect"/></rg>
      <tg xml:lang="rus">
        <t pos="Interj">глоток; <span class="underline">смотри также:</span> <stress>вом тыр</stress> (<span class="underline">в статье</span> <xref link="вом"> вом</xref>)</t>
      </tg>
@@ -2396,7 +2396,7 @@
      <l hid="Hom2">адӧй</l>
        <l_var type="molodtsov-cyr">aԁӧј</l_var>
    </lg>
-   <mg> <acronym title="диалектное"><em>диал.</em></acronym>
+   <mg> <rg><r range_space="dialect"/></rg>
      <tg xml:lang="rus">
        <t><acronym title="междометие"><em>межд.</em></acronym> о, ой, ох <em>(восклицание, выражающее восхищение; вскрик от внезапной боли, от неожиданности)</em>; боже</t>
      </tg>

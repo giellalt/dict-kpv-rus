@@ -1074,7 +1074,7 @@
      <l hid="Hom2" pos="Num">сё</l>
        <l_var type="molodtsov-cyr">ԍо</l_var>
    </lg>
-   <mg relId="0"> <acronym title="диалектное"><em>диал.</em></acronym>
+   <mg relId="0"> <rg><r range_space="dialect"/></rg>
      <tg xml:lang="rus">
        <t pos="Num"> <acronym title="наречие"><em>нареч.</em></acronym> очень, весьма</t>
      </tg>
@@ -1332,7 +1332,7 @@
        <xt xml:lang="rus"><acronym title="поговорка"><em>погов.</em></acronym> скажешь слово, а прибавят десять</xt>
      </xg>
    </mg>
-   <mg relId="1"> <acronym title="диалектное"><em>диал.</em></acronym>
+   <mg relId="1"> <rg><r range_space="dialect"/></rg>
      <tg xml:lang="rus">
        <t pos="Num"></t>
      </tg><br />&#160;&#160;&#160;1) совсем, совершенно<br />

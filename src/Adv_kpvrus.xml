@@ -103,7 +103,7 @@
 <e>
    <lg t1="А" t2="Ж" t3="Н" uri="294-azhn-g" id="294">
      <l pos="Adv">ажнӧг</l>
-       <l_var type="molodtsov-cyr">aжнӧг</l_var> <acronym title="диалектное"><em>диал.</em></acronym>
+       <l_var type="molodtsov-cyr">aжнӧг</l_var> <rg><r range_space="dialect"/></rg>
    </lg>
    <mg relId="0">
      <tg xml:lang="rus">
@@ -1533,7 +1533,7 @@
        <xt xml:lang="rus">оживлённо разговаривать</xt>
      </xg>
    </mg>
-   <mg relId="1"> <acronym title="диалектное"><em>диал.</em></acronym>
+   <mg relId="1"> <rg><r range_space="dialect"/></rg>
      <tg xml:lang="rus">
        <t pos="Adv"> быстро, проворно, расторопно, ловко, бойко</t>
      </tg>
@@ -2391,7 +2391,7 @@
 <e>
    <lg t1="В" t2="О" t3="Д" uri="7231-vodzp-r" id="7231">
      <l pos="Adv">водзпӧр</l>
-       <l_var type="molodtsov-cyr">вочпӧр</l_var> <acronym title="диалектное"><em>диал.</em></acronym>
+       <l_var type="molodtsov-cyr">вочпӧр</l_var> <rg><r range_space="dialect"/></rg>
    </lg>
    <mg relId="0"> <sg><s pos="Adv" s_type="see">водзджык во 2 значении</s></sg>
      <tg xml:lang="rus">
@@ -3185,7 +3185,7 @@
 <e>
    <lg t1="Г" t2="А" t3="Т" uri="9693-gatsh-yov" id="9693">
      <l pos="Adv">гатшъёв</l>
-       <l_var type="molodtsov-cyr">гащјов</l_var> <acronym title="диалектное"><em>диал.</em></acronym>
+       <l_var type="molodtsov-cyr">гащјов</l_var> <rg><r range_space="dialect"/></rg>
    </lg>
    <mg relId="0"> <sg><s pos="Adv" s_type="see">гатш Ⅰ в 1 значении</s></sg>
      <tg xml:lang="rus">
@@ -3321,7 +3321,7 @@
 <e>
    <lg t1="Г" t2="О" t3="Л" uri="10334-gol-yda" id="10334">
      <l pos="Adv">гольыда</l>
-       <l_var type="molodtsov-cyr">гоԉыԁа</l_var> <acronym title="диалектное"><em>диал.</em></acronym>
+       <l_var type="molodtsov-cyr">гоԉыԁа</l_var> <rg><r range_space="dialect"/></rg>
    </lg>
    <mg relId="0">
      <tg xml:lang="rus">
@@ -3591,7 +3591,7 @@
        <t pos="Adv"></t>
      </tg>
    </mg>
-   <mg relId="1"> <acronym title="диалектное"><em>диал.</em></acronym>
+   <mg relId="1"> <rg><r range_space="dialect"/></rg>
      <tg xml:lang="rus">
        <t pos="Adv"> объедки</t>
      </tg><br />
@@ -3695,7 +3695,7 @@
 <e>
    <lg t1="Г" t2="У" t3="Р" uri="11678-gurij-n-garij-n" id="11678">
      <l pos="Adv">гурйӧн-гарйӧн</l>
-       <l_var type="molodtsov-cyr">гурјӧн-гарјӧн</l_var> <acronym title="диалектное"><em>диал.</em></acronym>
+       <l_var type="molodtsov-cyr">гурјӧн-гарјӧн</l_var> <rg><r range_space="dialect"/></rg>
    </lg>
    <mg relId="0"> <sg><s pos="Adv" s_type="see">гур-гар</s></sg>
      <tg xml:lang="rus">
@@ -4197,7 +4197,7 @@
 <e>
    <lg t1="Д" t2="Ж" t3="А" uri="12481-dzhag-n" id="12481">
      <l pos="Adv">джагӧн</l>
-       <l_var type="molodtsov-cyr">җагӧн</l_var> <acronym title="диалектное"><em>диал.</em></acronym>
+       <l_var type="molodtsov-cyr">җагӧн</l_var> <rg><r range_space="dialect"/></rg>
    </lg>
    <mg relId="0">
      <tg xml:lang="rus">
@@ -4903,7 +4903,7 @@
 <e>
    <lg t1="Д" t2="О" t3="Н" uri="14149-dont-ga" id="14149">
      <l pos="Adv">донтӧга</l>
-       <l_var type="molodtsov-cyr">ԁонтӧга</l_var> <acronym title="диалектное"><em>диал.</em></acronym>
+       <l_var type="molodtsov-cyr">ԁонтӧга</l_var> <rg><r range_space="dialect"/></rg>
    </lg>
    <mg relId="0"> <sg><s pos="Adv" s_type="see">донтӧг</s></sg>
      <tg xml:lang="rus">
@@ -5612,7 +5612,7 @@
 <e>
    <lg t1="Д" t2="Ӧ" t3="С" uri="14615-d-s" id="14615">
      <l pos="Adv">дӧс</l>
-       <l_var type="molodtsov-cyr">ԁӧс</l_var> <acronym title="диалектное"><em>диал.</em></acronym>
+       <l_var type="molodtsov-cyr">ԁӧс</l_var> <rg><r range_space="dialect"/></rg>
    </lg>
    <mg relId="0"> <sg><s pos="Adv" s_type="see">дзикӧдз</s></sg>
      <tg xml:lang="rus">
@@ -5961,7 +5961,7 @@
 <e>
    <lg t1="Ж" t2="У" t3="Л" uri="16343-zhul-" id="16343">
      <l pos="Adv">жуль</l>
-       <l_var type="molodtsov-cyr">жуԉ</l_var> <acronym title="диалектное"><em>диал.</em></acronym>
+       <l_var type="molodtsov-cyr">жуԉ</l_var> <rg><r range_space="dialect"/></rg>
    </lg>
    <mg relId="0">
      <tg xml:lang="rus">
@@ -5980,7 +5980,7 @@
 <e>
    <lg t1="Ж" t2="У" t3="Р" uri="16392-zhura" id="16392">
      <l pos="Adv">жура</l>
-       <l_var type="molodtsov-cyr">жура</l_var> <acronym title="диалектное"><em>диал.</em></acronym>
+       <l_var type="molodtsov-cyr">жура</l_var> <rg><r range_space="dialect"/></rg>
    </lg>
    <mg relId="0">
      <tg xml:lang="rus">
@@ -6438,7 +6438,7 @@
 <e>
    <lg t1="З" t2="Д" t3="Р" uri="17194-zdrala" id="17194">
      <l pos="Adv">здрала</l>
-       <l_var type="molodtsov-cyr">зԁрала</l_var> <acronym title="диалектное"><em>диал.</em></acronym>
+       <l_var type="molodtsov-cyr">зԁрала</l_var> <rg><r range_space="dialect"/></rg>
    </lg>
    <mg relId="0">
      <tg xml:lang="rus">
@@ -6805,7 +6805,7 @@
 <e>
    <lg t1="И" t2="Н" t3="А" uri="18424-inaslovo" id="18424">
      <l pos="Adv">инаслово</l>
-       <l_var type="molodtsov-cyr">інаслово</l_var> <acronym title="диалектное"><em>диал.</em></acronym>
+       <l_var type="molodtsov-cyr">інаслово</l_var> <rg><r range_space="dialect"/></rg>
    </lg>
    <mg relId="0">
      <tg xml:lang="rus">
@@ -7105,7 +7105,7 @@
        <xt xml:lang="rus">вся мелюзга высыпала на улицу</xt>
      </xg>
    </mg>
-   <mg relId="1"> <acronym title="диалектное"><em>диал.</em></acronym>
+   <mg relId="1"> <rg><r range_space="dialect"/></rg>
      <tg xml:lang="rus">
        <t pos="Adv"> болтун, сплетница</t>
      </tg>
@@ -7488,7 +7488,7 @@
 <e>
    <lg t1="К" t2="Л" t3="Я" uri="21791-klyan" id="21791">
      <l pos="Adv">клян</l>
-       <l_var type="molodtsov-cyr">кԉан</l_var> <acronym title="диалектное"><em>диал.</em></acronym>
+       <l_var type="molodtsov-cyr">кԉан</l_var> <rg><r range_space="dialect"/></rg>
    </lg>
    <mg relId="0">
      <tg xml:lang="rus">
@@ -8584,7 +8584,7 @@
 <e>
    <lg t1="К" t2="У" t3="Т" uri="26019-kutyushka" id="26019">
      <l pos="Adv">кутюшка</l>
-       <l_var type="molodtsov-cyr">куԏушка</l_var> <acronym title="диалектное"><em>диал.</em></acronym>
+       <l_var type="molodtsov-cyr">куԏушка</l_var> <rg><r range_space="dialect"/></rg>
    </lg>
    <mg relId="0">
      <tg xml:lang="rus">
@@ -9464,7 +9464,7 @@
 <e>
    <lg t1="Л" t2="А" t3="Т" uri="27762-lataty" id="27762">
      <l pos="Adv">лататы</l>
-       <l_var type="molodtsov-cyr">лататы</l_var> <acronym title="диалектное"><em>диал.</em></acronym>
+       <l_var type="molodtsov-cyr">лататы</l_var> <rg><r range_space="dialect"/></rg>
    </lg>
    <mg relId="0">
      <tg xml:lang="rus">
@@ -9665,7 +9665,7 @@
 <e>
    <lg t1="Л" t2="Ы" t3="З" uri="29499-lyzgym" id="29499">
      <l pos="Adv">лызгым</l>
-       <l_var type="molodtsov-cyr">лызгым</l_var> <acronym title="диалектное"><em>диал.</em></acronym>
+       <l_var type="molodtsov-cyr">лызгым</l_var> <rg><r range_space="dialect"/></rg>
    </lg>
    <mg relId="0">
      <tg xml:lang="rus">
@@ -9745,7 +9745,7 @@
 <e>
    <lg t1="Л" t2="Ю" t3="Б" uri="29929-lyub" id="29929">
      <l pos="Adv">люб</l>
-       <l_var type="molodtsov-cyr">ԉуб</l_var> <acronym title="диалектное"><em>диал.</em></acronym>
+       <l_var type="molodtsov-cyr">ԉуб</l_var> <rg><r range_space="dialect"/></rg>
    </lg>
    <mg relId="0">
      <tg xml:lang="rus">
@@ -10178,7 +10178,7 @@
 <e>
    <lg t1="Л" t2="І" t3="З" uri="28527-liza-l-za" id="28527">
      <l pos="Adv">ліза-лӧза</l>
-       <l_var type="molodtsov-cyr">ліза-лӧза</l_var> <acronym title="диалектное"><em>диал.</em></acronym>
+       <l_var type="molodtsov-cyr">ліза-лӧза</l_var> <rg><r range_space="dialect"/></rg>
    </lg>
    <mg relId="0">
      <tg xml:lang="rus">
@@ -10460,7 +10460,7 @@
 <e>
    <lg t1="М" t2="А" t3="Е" uri="30437-maetn-" id="30437">
      <l pos="Adv">маетнӧ</l>
-       <l_var type="molodtsov-cyr">мајетнӧ</l_var> <acronym title="диалектное"><em>диал.</em></acronym>
+       <l_var type="molodtsov-cyr">мајетнӧ</l_var> <rg><r range_space="dialect"/></rg>
    </lg>
    <mg relId="0">
      <tg xml:lang="rus">
@@ -11786,7 +11786,7 @@
 <e>
    <lg t1="Н" t2="А" t3="В" uri="33439-naval-" id="33439">
      <l pos="Adv">наваль</l>
-       <l_var type="molodtsov-cyr">наваԉ</l_var> <acronym title="диалектное"><em>диал.</em></acronym>
+       <l_var type="molodtsov-cyr">наваԉ</l_var> <rg><r range_space="dialect"/></rg>
    </lg>
    <mg relId="0">
      <tg xml:lang="rus">
@@ -11812,7 +11812,7 @@
 <e>
    <lg t1="Н" t2="А" t3="Г" uri="33451-nagavoch" id="33451">
      <l pos="Adv">нагавоч</l>
-       <l_var type="molodtsov-cyr">нагавоч</l_var> <acronym title="диалектное"><em>диал.</em></acronym>
+       <l_var type="molodtsov-cyr">нагавоч</l_var> <rg><r range_space="dialect"/></rg>
    </lg>
    <mg relId="0">
      <tg xml:lang="rus">
@@ -12122,7 +12122,7 @@
 <e>
    <lg t1="Н" t2="А" t3="М" uri="33675-nam-dar" id="33675">
      <l pos="Adv">намӧдар</l>
-       <l_var type="molodtsov-cyr">намӧԁар</l_var> <acronym title="диалектное"><em>диал.</em></acronym>
+       <l_var type="molodtsov-cyr">намӧԁар</l_var> <rg><r range_space="dialect"/></rg>
    </lg>
    <mg relId="0">
      <tg xml:lang="rus">
@@ -12518,7 +12518,7 @@
 <e>
    <lg t1="Н" t2="Е" t3="М" uri="34136-nemk-" id="34136">
      <l pos="Adv">немкӧ</l>
-       <l_var type="molodtsov-cyr">ԋемкӧ</l_var> <acronym title="диалектное"><em>диал.</em></acronym>
+       <l_var type="molodtsov-cyr">ԋемкӧ</l_var> <rg><r range_space="dialect"/></rg>
    </lg>
    <mg relId="0">
      <tg xml:lang="rus">
@@ -13123,7 +13123,7 @@
        <xt xml:lang="rus">слезливо жаловаться</xt>
      </xg>
    </mg>
-   <mg relId="1"> <acronym title="диалектное"><em>диал.</em></acronym>
+   <mg relId="1"> <rg><r range_space="dialect"/></rg>
      <tg xml:lang="rus">
        <t pos="Adv"> слабо</t>
      </tg>
@@ -14888,7 +14888,7 @@
 <e>
    <lg t1="Р" t2="Е" t3="З" uri="44813-rez-ba" id="44813">
      <l pos="Adv">резӧба</l>
-       <l_var type="molodtsov-cyr">резӧба</l_var> <acronym title="диалектное"><em>диал.</em></acronym>
+       <l_var type="molodtsov-cyr">резӧба</l_var> <rg><r range_space="dialect"/></rg>
    </lg>
    <mg relId="0">
      <tg xml:lang="rus">
@@ -14978,7 +14978,7 @@
 <e>
    <lg t1="Р" t2="О" t3="М" uri="45291-romonn-" id="45291">
      <l pos="Adv">ромонньӧ</l>
-       <l_var type="molodtsov-cyr">ромоԋԋӧ</l_var> <acronym title="диалектное"><em>диал.</em></acronym>
+       <l_var type="molodtsov-cyr">ромоԋԋӧ</l_var> <rg><r range_space="dialect"/></rg>
    </lg>
    <mg relId="0">
      <tg xml:lang="rus">
@@ -14989,7 +14989,7 @@
 <e>
    <lg t1="Р" t2="У" t3="К" uri="45862-ruka" id="45862">
      <l pos="Adv">рука</l>
-       <l_var type="molodtsov-cyr">рука</l_var> <acronym title="диалектное"><em>диал.</em></acronym>
+       <l_var type="molodtsov-cyr">рука</l_var> <rg><r range_space="dialect"/></rg>
    </lg>
    <mg relId="0">
      <tg xml:lang="rus">
@@ -15147,7 +15147,7 @@
        <xt xml:lang="rus">совершенно темно; ни зги не видно</xt>
      </xg>
    </mg>
-   <mg relId="1"> <acronym title="диалектное"><em>диал.</em></acronym>
+   <mg relId="1"> <rg><r range_space="dialect"/></rg>
      <tg xml:lang="rus">
        <t pos="Adv"> совсем, совершенно; нисколько</t>
      </tg>
@@ -15948,7 +15948,7 @@
 <e>
    <lg t1="С" t2="Ь" t3="Ы" uri="50352-s-yvij-n" id="50352">
      <l pos="Adv">сьывйӧн</l>
-       <l_var type="molodtsov-cyr">ԍывјӧн</l_var> <acronym title="диалектное"><em>диал.</em></acronym>
+       <l_var type="molodtsov-cyr">ԍывјӧн</l_var> <rg><r range_space="dialect"/></rg>
    </lg>
    <mg relId="0">
      <tg xml:lang="rus">
@@ -16839,7 +16839,7 @@
 <e>
    <lg t1="С" t2="Ӧ" t3="Ч" uri="48702-s-ch" id="48702">
      <l pos="Adv">сӧч</l>
-       <l_var type="molodtsov-cyr">сӧч</l_var> <acronym title="диалектное"><em>диал.</em></acronym>
+       <l_var type="molodtsov-cyr">сӧч</l_var> <rg><r range_space="dialect"/></rg>
    </lg>
    <mg relId="0">
      <tg xml:lang="rus">
@@ -17678,7 +17678,7 @@
 <e>
    <lg t1="Т" t2="У" t3="Р" uri="53960-turi-bari-n" id="53960">
      <l pos="Adv">тури-бариӧн</l>
-       <l_var type="molodtsov-cyr">турі-баріӧн</l_var> <acronym title="диалектное"><em>диал.</em></acronym>
+       <l_var type="molodtsov-cyr">турі-баріӧн</l_var> <rg><r range_space="dialect"/></rg>
    </lg>
    <mg relId="0"> <sg><s pos="Adv" s_type="see">турки-тарки</s></sg>
      <tg xml:lang="rus">
@@ -17689,7 +17689,7 @@
 <e>
    <lg t1="Т" t2="У" t3="Ч" uri="54148-tuch" id="54148">
      <l pos="Adv">туч</l>
-       <l_var type="molodtsov-cyr">туч</l_var> <acronym title="диалектное"><em>диал.</em></acronym>
+       <l_var type="molodtsov-cyr">туч</l_var> <rg><r range_space="dialect"/></rg>
    </lg>
    <mg relId="0">
      <tg xml:lang="rus">
@@ -17916,7 +17916,7 @@
 <e>
    <lg t1="Т" t2="Ы" t3="П" uri="54873-typonet" id="54873">
      <l pos="Adv">тыпонет</l>
-       <l_var type="molodtsov-cyr">тыпоԋет</l_var> <acronym title="диалектное"><em>диал.</em></acronym>
+       <l_var type="molodtsov-cyr">тыпоԋет</l_var> <rg><r range_space="dialect"/></rg>
    </lg>
    <mg relId="0">
      <tg xml:lang="rus">
@@ -17990,7 +17990,7 @@
 <e>
    <lg t1="Т" t2="Ы" t3="Р" uri="54895-tyrvylys-" id="54895">
      <l pos="Adv">тырвылысь</l>
-       <l_var type="molodtsov-cyr">тырвылыԍ</l_var> <acronym title="диалектное"><em>диал.</em></acronym>
+       <l_var type="molodtsov-cyr">тырвылыԍ</l_var> <rg><r range_space="dialect"/></rg>
    </lg>
    <mg relId="0">
      <tg xml:lang="rus">
@@ -18005,7 +18005,7 @@
 <e>
    <lg t1="Т" t2="Ы" t3="Р" uri="54912-tyrmidz" id="54912">
      <l pos="Adv">тырмидз</l>
-       <l_var type="molodtsov-cyr">тырміԇ</l_var> <acronym title="диалектное"><em>диал.</em></acronym>
+       <l_var type="molodtsov-cyr">тырміԇ</l_var> <rg><r range_space="dialect"/></rg>
    </lg>
    <mg relId="0"> <sg><s pos="Adv" s_type="see">тырмымӧн</s></sg>
      <tg xml:lang="rus">
@@ -18292,7 +18292,7 @@
 <e>
    <lg t1="Т" t2="І" t3="Л" uri="51765-till-n-toll-n" id="51765">
      <l pos="Adv">тілльӧн-толльӧн</l>
-       <l_var type="molodtsov-cyr">тіԉԉӧн-тоԉԉӧн</l_var> <acronym title="диалектное"><em>диал.</em></acronym>
+       <l_var type="molodtsov-cyr">тіԉԉӧн-тоԉԉӧн</l_var> <rg><r range_space="dialect"/></rg>
    </lg>
    <mg relId="0">
      <tg xml:lang="rus">
@@ -19326,7 +19326,7 @@
 <e>
    <lg t1="Ч" t2="О" t3="Л" uri="58391-chol-ba" id="58391">
      <l pos="Adv">чольӧба</l>
-       <l_var type="molodtsov-cyr">чоԉӧба</l_var> <acronym title="диалектное"><em>диал.</em></acronym>
+       <l_var type="molodtsov-cyr">чоԉӧба</l_var> <rg><r range_space="dialect"/></rg>
    </lg>
    <mg relId="0"> <sg><s pos="Adv" s_type="see">чожа</s></sg>
      <tg xml:lang="rus">
@@ -19951,7 +19951,7 @@
 <e>
    <lg t1="Ш" t2="В" t3="Ы" uri="60115-shvych-ka" id="60115">
      <l pos="Adv">швычӧка</l>
-       <l_var type="molodtsov-cyr">швычӧка</l_var> <acronym title="диалектное"><em>диал.</em></acronym>
+       <l_var type="molodtsov-cyr">швычӧка</l_var> <rg><r range_space="dialect"/></rg>
    </lg>
    <mg relId="0">
      <tg xml:lang="rus">
@@ -22669,7 +22669,7 @@
 <e>
    <lg t1="Ӧ" t2="Д" t3="Д" uri="37366-dd-n" id="37366">
      <l pos="Adv">ӧддьӧн</l>
-       <l_var type="molodtsov-cyr">ӧԁԃӧн</l_var> <acronym title="диалектное"><em>диал.</em></acronym>
+       <l_var type="molodtsov-cyr">ӧԁԃӧн</l_var> <rg><r range_space="dialect"/></rg>
    </lg>
    <mg relId="0">
      <tg xml:lang="rus">
@@ -22759,7 +22759,7 @@
 <e>
    <lg t1="Ӧ" t2="К" t3="Е" uri="37528-kevert" id="37528">
      <l pos="Adv">ӧкеверт</l>
-       <l_var type="molodtsov-cyr">ӧкеверт</l_var> <acronym title="диалектное"><em>диал.</em></acronym>
+       <l_var type="molodtsov-cyr">ӧкеверт</l_var> <rg><r range_space="dialect"/></rg>
    </lg>
    <mg relId="0"> <sg><s pos="Adv" s_type="see">ӧкӧверт</s></sg>
      <tg xml:lang="rus">
@@ -23336,7 +23336,7 @@
        <xt xml:lang="rus">сверх плана</xt>
      </xg><br />&#160;&#160;&#160;&#160;&#160;&#160;<sg><s pos="Adv" s_type="seeAlso">кындзи</s></sg>
    </mg>
-   <mg relId="1"> <acronym title="диалектное"><em>диал.</em></acronym>
+   <mg relId="1"> <rg><r range_space="dialect"/></rg>
      <tg xml:lang="rus">
        <t pos="Adv"> чужой, посторонний</t>
      </tg>
@@ -23946,7 +23946,7 @@
 <e>
    <lg t1="Ӧ" t2="Т" t3="Н" uri="38071-tni" id="38071">
      <l pos="Adv">ӧтни</l>
-       <l_var type="molodtsov-cyr">ӧтԋі</l_var> <acronym title="диалектное"><em>диал.</em></acronym>
+       <l_var type="molodtsov-cyr">ӧтԋі</l_var> <rg><r range_space="dialect"/></rg>
    </lg>
    <mg relId="0">
      <tg xml:lang="rus">
@@ -24824,7 +24824,7 @@
      <xg>
        <x>зонпосни гизь-гизьӧн уськӧдчисны классысь</x>
        <xt xml:lang="rus">мальчишки шумной гурьбой выбежали из класса</xt>
-     </xg><br /><stress>&#160;&#160;&#160;◊ гизь-гизьӧн ворсӧм </stress><acronym title="диалектное"><em>диал.</em></acronym> вид комнатной игры <em>(найти маленький предмет</em>, <em>спрятанный у кого-либо из участников)</em>
+     </xg><br /><stress>&#160;&#160;&#160;◊ гизь-гизьӧн ворсӧм </stress><rg><r range_space="dialect"/></rg> вид комнатной игры <em>(найти маленький предмет</em>, <em>спрятанный у кого-либо из участников)</em>
    </mg>
 </e>
 <e>
@@ -25184,7 +25184,7 @@
        <xt xml:lang="rus">утка юрк в воду и пропала</xt>
      </xg>
    </mg>
-   <mg relId="1"> <acronym title="диалектное"><em>диал.</em></acronym>
+   <mg relId="1"> <rg><r range_space="dialect"/></rg>
      <tg xml:lang="rus">
        <t pos="Adv"> плотно, вплотную; крепко</t>
      </tg>
@@ -25843,7 +25843,7 @@
        <xt xml:lang="rus">вещи разбросаны как попало</xt>
      </xg>
    </mg>
-   <mg relId="1"> <acronym title="диалектное"><em>диал.</em></acronym>
+   <mg relId="1"> <rg><r range_space="dialect"/></rg>
      <tg xml:lang="rus">
        <t pos="Adv"> вдребезги; </t>
      </tg> <sg><s pos="Adv" s_type="seeAlso">пусь-пась в 1 значении</s></sg>
@@ -26250,7 +26250,7 @@
 <e>
    <lg t1="Т" t2="Ш" t3="Ӧ" uri="54423-tsh-k-b" id="54423">
      <l pos="Adv" type="Descr">тшӧкӧб</l>
-       <l_var type="molodtsov-cyr">щӧкӧб</l_var> <acronym title="диалектное"><em>диал.</em></acronym>
+       <l_var type="molodtsov-cyr">щӧкӧб</l_var> <rg><r range_space="dialect"/></rg>
    </lg>
    <mg relId="0"> <sg><s pos="Adv" s_type="see">тшӧк</s></sg>
      <tg xml:lang="rus">
@@ -26755,7 +26755,7 @@
 <e>
    <lg t1="Ш" t2="У" t3="Л" uri="62041-shulki-pelki" id="62041">
      <l pos="Adv" type="Descr">шулки-пелки</l>
-       <l_var type="molodtsov-cyr">шулкі-пелкі</l_var> <acronym title="диалектное"><em>диал.</em></acronym>
+       <l_var type="molodtsov-cyr">шулкі-пелкі</l_var> <rg><r range_space="dialect"/></rg>
    </lg>
    <mg relId="0"> <sg><s pos="Adv" s_type="see">шувки-павки</s></sg>
      <tg xml:lang="rus">
@@ -26979,7 +26979,7 @@
 <e>
    <lg t1="Ы" t2="Ш" t3="И" uri="63523-yshi-bashi" id="63523">
      <l pos="Adv" type="Descr">ыши-баши</l>
-       <l_var type="molodtsov-cyr">ыші-баші</l_var> <acronym title="диалектное"><em>диал.</em></acronym>
+       <l_var type="molodtsov-cyr">ыші-баші</l_var> <rg><r range_space="dialect"/></rg>
    </lg>
    <mg relId="0">
      <tg xml:lang="rus">
@@ -27028,7 +27028,7 @@
 <e>
    <lg t1="Э" t2="Ж" t3="И" uri="63685-ezhi-mezhi" id="63685">
      <l pos="Adv" type="Descr">эжи-межи</l>
-       <l_var type="molodtsov-cyr">ежі-межі</l_var> <acronym title="диалектное"><em>диал.</em></acronym>
+       <l_var type="molodtsov-cyr">ежі-межі</l_var> <rg><r range_space="dialect"/></rg>
    </lg>
    <mg relId="0">
      <tg xml:lang="rus">
@@ -27049,7 +27049,7 @@
      <l hid="Hom1">адӧй</l>
        <l_var type="molodtsov-cyr">aԁӧј</l_var>
    </lg>
-   <mg> <acronym title="диалектное"><em>диал.</em></acronym>
+   <mg> <rg><r range_space="dialect"/></rg>
      <tg xml:lang="rus">
        <t pos="Adv"> чертовски, ужасно</t>
      </tg>
@@ -27264,7 +27264,7 @@
      <l hid="Hom3" pos="Adv">бус</l>
        <l_var type="molodtsov-cyr">бус</l_var>
    </lg>
-   <mg> <acronym title="диалектное"><em>диал.</em></acronym>
+   <mg> <rg><r range_space="dialect"/></rg>
      <tg xml:lang="rus">
        <t pos="Adv"> очень быстро; вихрем</t>
      </tg>
@@ -28905,7 +28905,7 @@
        <xt xml:lang="rus"> <em>примета</em> если кошка лежит на спине, вскоре будет покойник</xt>
      </xg>
    </mg>
-   <mg relId="1"> <acronym title="диалектное"><em>диал.</em></acronym>
+   <mg relId="1"> <rg><r range_space="dialect"/></rg>
      <tg xml:lang="rus">
        <t>настежь</t>
      </tg>
@@ -29429,7 +29429,7 @@
      <l hid="Hom2">кудз</l>
        <l_var type="molodtsov-cyr">куԇ</l_var>
    </lg>
-   <mg> <acronym title="диалектное"><em>диал.</em></acronym>
+   <mg> <rg><r range_space="dialect"/></rg>
      <tg xml:lang="rus">
        <t pos="Adv"> как, каким образом</t>
      </tg>
@@ -29510,7 +29510,7 @@
      <l hid="Hom2">кук</l>
        <l_var type="molodtsov-cyr">кук</l_var>
    </lg>
-   <mg> <acronym title="диалектное"><em>диал.</em></acronym>
+   <mg> <rg><r range_space="dialect"/></rg>
      <tg xml:lang="rus">
        <t pos="Adv">1. совсем, совершенно</t>
      </tg>
@@ -29593,7 +29593,7 @@
      <xg>
        <x>&#160;&#160;&#160;тайӧ вӧлі матыс сиктъяслӧн ӧти ӧтувъя куш</x>
        <xt xml:lang="rus">это была одна общая поляна близлежащих деревень</xt>
-     </xg><br />&#160;&#160;&#160;2) <acronym title="диалектное"><em>диал.</em></acronym> безлесное болото<br />
+     </xg><br />&#160;&#160;&#160;2) <rg><r range_space="dialect"/></rg> безлесное болото<br />
      <xg>
        <x>&#160;&#160;&#160;куш косьтыны</x>
        <xt xml:lang="rus">осушить болото</xt>
@@ -29956,7 +29956,7 @@
        <t>неприлично</t>
      </tg>
    </mg>
-   <mg relId="4"> <acronym title="диалектное"><em>диал.</em></acronym>
+   <mg relId="4"> <rg><r range_space="dialect"/></rg>
      <tg xml:lang="rus">
        <t>в самом деле, действительно, вправду</t>
      </tg><br />
@@ -30378,7 +30378,7 @@
      <l hid="Hom3">пом</l>
        <l_var type="molodtsov-cyr">пом</l_var>
    </lg>
-   <mg> <acronym title="диалектное"><em>диал.</em></acronym>
+   <mg> <rg><r range_space="dialect"/></rg>
      <tg xml:lang="rus">
        <t pos="Adv"> совсем, совершенно, окончательно</t>
      </tg>
@@ -30757,7 +30757,7 @@
      </xg><br />
      <xg>
        <x>сир пемыд </x>
-       <xt><acronym title="диалектное"><em>диал.</em></acronym> очень темно</xt>
+       <xt><rg><r range_space="dialect"/></rg> очень темно</xt>
      </xg><br />
      <xg>
        <x>медбӧрын сир сола рок</x>
@@ -31541,7 +31541,7 @@
      <l hid="Hom2">чув</l>
        <l_var type="molodtsov-cyr">чув</l_var>
    </lg>
-   <mg> <acronym title="диалектное"><em>диал.</em></acronym>
+   <mg> <rg><r range_space="dialect"/></rg>
      <tg xml:lang="rus">
        <t pos="Adv"> совсем, сплошь</t>
      </tg>
@@ -32358,7 +32358,7 @@
        <xt xml:lang="rus">поневоле пришлось сказать</xt>
      </xg>
    </mg>
-   <mg relId="2"> <acronym title="диалектное"><em>диал.</em></acronym>
+   <mg relId="2"> <rg><r range_space="dialect"/></rg>
      <tg xml:lang="rus">
        <t>изо всех сил</t>
      </tg>

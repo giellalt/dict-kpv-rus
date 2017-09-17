@@ -666,7 +666,7 @@
 <e>
    <lg t1="М" t2="Е" t3="С" uri="31431-messya" id="31431">
      <l pos="Pron">месся</l>
-       <l_var type="molodtsov-cyr">меԍԍа</l_var> <acronym title="диалектное"><em>диал.</em></acronym>
+       <l_var type="molodtsov-cyr">меԍԍа</l_var> <rg><r range_space="dialect"/></rg>
    </lg>
    <mg relId="0"> <sg><s pos="Pron" s_type="see">меысь</s></sg>
      <tg xml:lang="rus">
@@ -742,7 +742,7 @@
 <e>
    <lg t1="М" t2="О" t3="Р" uri="32038-morta-mort" id="32038">
      <l pos="Pron">морта-морт</l>
-       <l_var type="molodtsov-cyr">морта-морт</l_var> <acronym title="диалектное"><em>диал.</em></acronym>
+       <l_var type="molodtsov-cyr">морта-морт</l_var> <rg><r range_space="dialect"/></rg>
    </lg>
    <mg relId="0">
      <tg xml:lang="rus">
@@ -978,7 +978,7 @@
 <e>
    <lg t1="Н" t2="Е" t3="К" uri="34043-nekin" id="34043">
      <l pos="Pron">некин</l>
-       <l_var type="molodtsov-cyr">ԋекін</l_var> <acronym title="диалектное"><em>диал.</em></acronym>
+       <l_var type="molodtsov-cyr">ԋекін</l_var> <rg><r range_space="dialect"/></rg>
    </lg>
    <mg relId="0"> <sg><s pos="Pron" s_type="see">некод</s></sg>
      <tg xml:lang="rus">
@@ -1454,11 +1454,11 @@
 <e>
    <lg t1="Н" t2="И" t3="Н" uri="34640-nin-kod" id="34640">
      <l pos="Pron">нинӧкод</l>
-       <l_var type="molodtsov-cyr">ԋінӧкоԁ</l_var> <acronym title="диалектное"><em>диал.</em></acronym>
+       <l_var type="molodtsov-cyr">ԋінӧкоԁ</l_var> <rg><r range_space="dialect"/></rg>
    </lg>
    <mg relId="0">
      <tg xml:lang="rus">
-       <t> <acronym title="местоимение"><em>мест.</em></acronym> <acronym title="отрицательное (частица, предложение)"><em>отриц.</em></acronym> никто; абсолютно никто</t>
+       <t pos="Pron"> <acronym title="отрицательное (частица, предложение)"><em>отриц.</em></acronym> никто; абсолютно никто</t>
      </tg>
      <xg>
        <x>ме нинӧкодӧс татысь ог тӧд</x>
@@ -1469,7 +1469,7 @@
 <e>
    <lg t1="Н" t2="И" t3="Н" uri="34641-nin-kutsh-m" id="34641">
      <l pos="Pron">нинӧкутшӧм</l>
-       <l_var type="molodtsov-cyr">ԋінӧкущӧм</l_var> <acronym title="диалектное"><em>диал.</em></acronym>
+       <l_var type="molodtsov-cyr">ԋінӧкущӧм</l_var> <rg><r range_space="dialect"/></rg>
    </lg>
    <mg relId="0">
      <tg xml:lang="rus">

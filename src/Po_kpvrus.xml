@@ -1021,7 +1021,7 @@
        <xt xml:lang="rus">навсегда</xt>
      </xg>
    </mg>
-   <mg relId="3"> <acronym title="диалектное"><em>диал.</em></acronym>
+   <mg relId="3"> <rg><r range_space="dialect"/></rg>
      <tg xml:lang="rus">
        <t> в <em>(определённый промежуток времени)</em></t>
      </tg>
@@ -1752,7 +1752,7 @@
 <e>
    <lg t1="П" t2="У" t3="Д" uri="43118-pudzhyd" id="43118">
      <l pos="Po">пуджыд</l>
-       <l_var type="molodtsov-cyr">пуҗыԁ</l_var> <acronym title="диалектное"><em>диал.</em></acronym>
+       <l_var type="molodtsov-cyr">пуҗыԁ</l_var> <rg><r range_space="dialect"/></rg>
    </lg>
    <mg relId="0"> <sg><s pos="Po" s_type="see">паныд Ⅱ во 2 значении; Ⅲ в 1 значении</s></sg>
      <tg xml:lang="rus">
@@ -3072,7 +3072,7 @@
      <l hid="Hom3">горув</l>
        <l_var type="molodtsov-cyr">горув</l_var>
    </lg>
-   <mg> <acronym title="диалектное"><em>диал.</em></acronym>
+   <mg> <rg><r range_space="dialect"/></rg>
      <tg xml:lang="rus">
        <t><em>послелог</em> около, почти</t>
      </tg>
@@ -3233,7 +3233,7 @@
        <xt xml:lang="rus">над озером на крутояре стояла высокая ель</xt>
      </xg>
    </mg>
-   <mg relId="3"> <acronym title="диалектное"><em>диал.</em></acronym>
+   <mg relId="3"> <rg><r range_space="dialect"/></rg>
      <tg xml:lang="rus">
        <t>из-за <em>кого-чего-либо</em>, об, о <em>ком-чём-либо</em></t>
      </tg>
@@ -4856,7 +4856,7 @@
 </e>
 <e>
    <lg t1="Ш" t2="О" t3="Г" uri="61218-shogys-" id="61218"><l pos="Po">шогысь</l>
-       <l_var type="molodtsov-cyr">шогыԍ</l_var> <acronym title="диалектное"><em>диал.</em></acronym>
+       <l_var type="molodtsov-cyr">шогыԍ</l_var> <rg><r range_space="dialect"/></rg>
    </lg>
    <mg>
      <tg xml:lang="rus">
@@ -5029,7 +5029,7 @@
        <xt xml:lang="rus">прийти к обеду</xt>
      </xg>
    </mg>
-   <mg relId="2"> <acronym title="диалектное"><em>диал.</em></acronym>
+   <mg relId="2"> <rg><r range_space="dialect"/></rg>
      <tg xml:lang="rus">
        <t>под</t>
      </tg>

@@ -657,7 +657,7 @@
 <e>
    <lg t1="Э" t2="С" t3="Ь" uri="64157-es-k-n" id="64157">
      <l pos="Pcle">эськӧн</l>
-       <l_var type="molodtsov-cyr">еԍкӧн</l_var> <acronym title="диалектное"><em>диал.</em></acronym>
+       <l_var type="molodtsov-cyr">еԍкӧн</l_var> <rg><r range_space="dialect"/></rg>
    </lg>
    <mg relId="0"> <sg><s pos="Pcle" s_type="see">эськӧ</s></sg>
      <tg xml:lang="rus">
@@ -668,7 +668,7 @@
 <e>
    <lg t1="Ӧ" t2="Н" t3="Ж" uri="37648-nzha" id="37648">
      <l pos="Pcle">ӧнжа</l>
-       <l_var type="molodtsov-cyr">ӧнжа</l_var> <acronym title="диалектное"><em>диал.</em></acronym>
+       <l_var type="molodtsov-cyr">ӧнжа</l_var> <rg><r range_space="dialect"/></rg>
    </lg>
    <mg relId="0">
      <tg xml:lang="rus">
