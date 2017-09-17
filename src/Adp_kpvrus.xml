@@ -1,7 +1,87 @@
 <?xml version="1.0" encoding="utf-8"?> <r id="kpvrus" xml:lang="kpv">
 <e>
+   <lg t1="Н" t2="О" t3="Г" uri="34764-nog" id="34764">
+     <l pos="Adp" type="Po">ног</l>
+       <l_var type="molodtsov-cyr">ног</l_var>
+   </lg>
+   <mg relId="0">
+     <tg xml:lang="rus">
+       <t pos="Po">по, в</t>
+     </tg>
+     <xg>
+       <x>вомӧн ног</x>
+       <xt xml:lang="rus">в ширину, поперёк</xt>
+     </xg>
+     <xg>
+       <x>кузяла ног</x>
+       <xt xml:lang="rus">в длину, вдоль</xt>
+     </xg>
+     <xg>
+       <x>кызта ног</x>
+       <xt xml:lang="rus">в толщину, по толщине</xt>
+     </xg>
+     <xg>
+       <x>пасьта ног</x>
+       <xt xml:lang="rus">в ширину, по ширине</xt>
+     </xg>
+     <xg>
+       <x>му пинёвтны вомӧн ног и кузяла ног</x>
+       <xt xml:lang="rus">бороновать поле вдоль и поперёк</xt>
+     </xg>
+     <xg>
+       <x>пӧв пилитны вомӧн ног</x>
+       <xt xml:lang="rus">перепилить доску; распилить доску поперёк</xt>
+     </xg>
+     <xg>
+       <x>джодж плакаяс кызта ногыс ӧткодьӧсь, а пасьта ногыс уна пӧлӧс</x>
+       <xt xml:lang="rus">половицы по толщине одинаковы, а по ширине разные</xt>
+     </xg>
+     <xg>
+       <x>пур вылӧ накат пуктысьӧ вомӧн ног</x>
+       <xt xml:lang="rus">накат на плот укладывается поперёк (по ширине)</xt>
+     </xg>
+   </mg>
+   <mg relId="1">
+     <tg xml:lang="rus">
+       <t>в некоторых <acronym title="сочетание">сочет.</acronym> <acronym title="соответствует">соотв.</acronym>русской приставке по-</t>
+     </tg>
+     <xg>
+       <x>ас ног</x>
+       <xt xml:lang="rus">по-своему</xt>
+     </xg>
+     <xg>
+       <x>важ ног</x>
+       <xt xml:lang="rus">по-старому; по-прежнему</xt>
+     </xg>
+     <xg>
+       <x>выль ног</x>
+       <xt xml:lang="rus">по-новому</xt>
+     </xg>
+     <xg>
+       <x>ме ног</x>
+       <xt xml:lang="rus">по-моему</xt>
+     </xg>
+     <xg>
+       <x>морт ног</x>
+       <xt xml:lang="rus">по-человечески</xt>
+     </xg>
+     <xg>
+       <x>мӧд ног</x>
+       <xt xml:lang="rus">по-другому</xt>
+     </xg>
+     <xg>
+       <x>тэ ног</x>
+       <xt xml:lang="rus">по-твоему</xt>
+     </xg>
+     <xg>
+       <x>уна ног</x>
+       <xt xml:lang="rus">по-разному, различно</xt>
+     </xg>
+   </mg>
+</e>
+<e>
    <lg t1="М" t2="О" t3="Г" uri="31860-mogys-" id="31860">
-     <l pos="Po">могысь</l>
+     <l pos="Adp" type="Po">могысь</l>
        <l_var type="molodtsov-cyr">могыԍ</l_var>
    </lg>
    <mg relId="0">
@@ -46,7 +126,7 @@
 </e>
 <e>
    <lg t1="А" t2="Д" t3="Д" uri="190-addza" id="190">
-     <l pos="Po">аддза</l>
+     <l pos="Adp" type="Po">аддза</l>
        <l_var type="molodtsov-cyr">aԇԇа</l_var>
    </lg>
    <mg relId="0">
@@ -65,7 +145,7 @@
 </e>
 <e>
    <lg t1="Б" t2="О" t3="К" uri="2447-bokladorsyan-" id="2447">
-     <l pos="Po">бокладорсянь</l>
+     <l pos="Adp" type="Po">бокладорсянь</l>
        <l_var type="molodtsov-cyr">боклаԁорԍаԋ</l_var>
    </lg>
    <mg relId="0">
@@ -80,7 +160,7 @@
 </e>
 <e>
    <lg t1="Б" t2="О" t3="К" uri="2493-bokys-" id="2493">
-     <l pos="Po">бокысь</l>
+     <l pos="Adp" type="Po">бокысь</l>
        <l_var type="molodtsov-cyr">бокыԍ</l_var>
    </lg>
    <mg relId="0">
@@ -116,7 +196,7 @@
 </e>
 <e>
    <lg t1="Б" t2="Ӧ" t3="Р" uri="3014-b-rtinas" id="3014">
-     <l pos="Po">бӧртинас</l>
+     <l pos="Adp" type="Po">бӧртинас</l>
        <l_var type="molodtsov-cyr">бӧрԏінас</l_var>
    </lg>
    <mg relId="0"> <sg><s pos="Po" s_type="see">бӧрти 1</s></sg>
@@ -131,7 +211,7 @@
 </e>
 <e>
    <lg t1="В" t2="Е" t3="В" uri="5069-vevdoryn" id="5069">
-     <l pos="Po">вевдорын</l>
+     <l pos="Adp" type="Po">вевдорын</l>
        <l_var type="molodtsov-cyr">вевԁорын</l_var>
    </lg>
    <mg relId="0">
@@ -158,39 +238,10 @@
 </e>
 <e>
    <lg t1="В" t2="О" t3="Д" uri="7205-vodz-" id="7205">
-     <l pos="Po">водзӧ</l>
+     <l pos="Adp" type="Po">водзӧ</l>
        <l_var type="molodtsov-cyr">воԇӧ</l_var>
    </lg>
    <mg relId="0">
-     <tg xml:lang="rus">
-       <t><acronym title="наречие"><em>нареч.</em></acronym></t>
-     </tg><br />&#160;&#160;&#160;1) вперёд<br />
-     <xg>
-       <x>&#160;&#160;&#160;водзӧ видзӧдлыны</x>
-       <xt xml:lang="rus">посмотреть вперёд</xt>
-     </xg>
-     <xg>
-       <x>&#160;&#160;&#160;водзӧ чепӧсйыны</x>
-       <xt xml:lang="rus">ринуться вперёд</xt>
-     </xg><br />&#160;&#160;&#160;2) впредь; больше<br />
-     <xg>
-       <x>&#160;&#160;&#160;водзӧ нюжӧдчыны оз позь</x>
-       <xt xml:lang="rus">больше медлить нельзя</xt>
-     </xg>
-     <xg>
-       <x>&#160;&#160;&#160;и водзӧ тадз кутам старайтчыны</x>
-       <xt xml:lang="rus">и впредь так будем стараться</xt>
-     </xg><br />&#160;&#160;&#160;3) дальше; в дальнейшем<br />
-     <xg>
-       <x>&#160;&#160;&#160;лыддьыны водзӧ</x>
-       <xt xml:lang="rus">читать дальше</xt>
-     </xg>
-     <xg>
-       <x>&#160;&#160;&#160;аскинас мӧдӧдчим водзӧ</x>
-       <xt xml:lang="rus">назавтра мы отправились дальше</xt>
-     </xg>
-   </mg>
-   <mg relId="1">
      <tg xml:lang="rus">
        <t><em>послелог</em> на <em>что-либо</em>; к <em>чему-либо</em>; перед <em>чем-либо (<acronym title="употребляется"><em>употр.</em></acronym> также с</em> <acronym title="определительно-притяжательный (суффикс, форма)"><em>опред.-притяж.</em></acronym> <acronym title="суффикс"><em>суф.</em></acronym>)</t>
      </tg>
@@ -235,15 +286,12 @@
 </e>
 <e>
    <lg t1="В" t2="Ы" t3="Й" uri="9097-vyijyn" id="9097">
-     <l pos="Po">выйын</l>
+     <l pos="Adp" type="Po">выйын</l>
        <l_var type="molodtsov-cyr">выјын</l_var>
    </lg>
    <mg relId="0">
      <tg xml:lang="rus">
-       <t><em>послелог при причастиях на</em> <stress>-ан</stress></t>
-     </tg><br />
-     <tg xml:lang="rus">
-       <t>1. на</t>
+       <t><em>послелог при причастиях на</em> <stress>-ан</stress> на</t>
      </tg>
      <xg>
        <x>быран выйын</x>
@@ -279,13 +327,13 @@
 </e>
 <e>
    <lg t1="В" t2="Ы" t3="Й" uri="9100-vyijys-" id="9100">
-     <l pos="Po">выйысь</l>
+     <l pos="Adp" type="Po">выйысь</l>
        <l_var type="molodtsov-cyr">выјыԍ</l_var>
    </lg>
    <mg relId="0">
      <tg xml:lang="rus">
-       <t><em>послелог</em> за, из-за</t>
-     </tg><br />
+       <t pos="Adp" type="Pr">за, из-за</t>
+     </tg>
      <xg>
        <x>кык верст выйысь вайны</x>
        <xt xml:lang="rus">привезти за два километра</xt>
@@ -294,7 +342,7 @@
 </e>
 <e>
    <lg t1="В" t2="Ы" t3="Й" uri="9076-vyij-" id="9076">
-     <l pos="Po">выйӧ</l>
+     <l pos="Adp" type="Po">выйӧ</l>
        <l_var type="molodtsov-cyr">выјӧ</l_var>
    </lg>
    <mg relId="0">
@@ -318,7 +366,7 @@
 </e>
 <e>
    <lg t1="В" t2="Ы" t3="Л" uri="9149-vylyn" id="9149">
-     <l pos="Po">вылын</l>
+     <l pos="Adp" type="Po">вылын</l>
        <l_var type="molodtsov-cyr">вылын</l_var>
    </lg>
    <mg relId="0">
@@ -410,7 +458,7 @@
 </e>
 <e>
    <lg t1="В" t2="Ы" t3="Я" uri="9321-vyyayn" id="9321">
-     <l pos="Po">выяын</l>
+     <l pos="Adp" type="Po">выяын</l>
        <l_var type="molodtsov-cyr">выјаын</l_var>
    </lg>
    <mg relId="0">
@@ -433,7 +481,7 @@
 </e>
 <e>
    <lg t1="В" t2="Ы" t3="Я" uri="9322-vyyays-" id="9322">
-     <l pos="Po">выяысь</l>
+     <l pos="Adp" type="Po">выяысь</l>
        <l_var type="molodtsov-cyr">выјаыԍ</l_var>
    </lg>
    <mg relId="0">
@@ -452,7 +500,7 @@
 </e>
 <e>
    <lg t1="В" t2="Ы" t3="Я" uri="9317-vyya-" id="9317">
-     <l pos="Po">выяӧ</l>
+     <l pos="Adp" type="Po">выяӧ</l>
        <l_var type="molodtsov-cyr">выјаӧ</l_var>
    </lg>
    <mg relId="0">
@@ -471,7 +519,7 @@
 </e>
 <e>
    <lg t1="В" t2="Ы" t3="Я" uri="9319-vyya-dz" id="9319">
-     <l pos="Po">выяӧдз</l>
+     <l pos="Adp" type="Po">выяӧдз</l>
        <l_var type="molodtsov-cyr">выјаӧԇ</l_var>
    </lg>
    <mg relId="0">
@@ -490,7 +538,7 @@
 </e>
 <e>
    <lg t1="В" t2="Ӧ" t3="С" uri="8408-v-sna" id="8408">
-     <l pos="Po">вӧсна</l>
+     <l pos="Adp" type="Po">вӧсна</l>
        <l_var type="molodtsov-cyr">вӧсна</l_var>
    </lg>
    <mg relId="0">
@@ -555,7 +603,7 @@
 </e>
 <e>
    <lg t1="Д" t2="Ы" t3="Р" uri="15164-dyra" id="15164">
-     <l pos="Po">дыра</l>
+     <l pos="Adp" type="Po">дыра</l>
        <l_var type="molodtsov-cyr">ԁыра</l_var>
    </lg>
    <mg relId="0">
@@ -619,7 +667,7 @@
 </e>
 <e>
    <lg t1="Д" t2="Ы" t3="Р" uri="15167-dyriji" id="15167">
-     <l pos="Po">дырйи</l>
+     <l pos="Adp" type="Po">дырйи</l>
        <l_var type="molodtsov-cyr">ԁырјі</l_var>
    </lg>
    <mg relId="0">
@@ -692,7 +740,7 @@
 </e>
 <e>
    <lg t1="Д" t2="І" t3="Н" uri="13819-dinyn" id="13819">
-     <l pos="Po">дінын</l>
+     <l pos="Adp" type="Po">дінын</l>
        <l_var type="molodtsov-cyr">ԁінын</l_var>
    </lg>
    <mg relId="0">
@@ -735,7 +783,7 @@
 </e>
 <e>
    <lg t1="Д" t2="І" t3="Н" uri="13822-dinys-" id="13822">
-     <l pos="Po">дінысь</l>
+     <l pos="Adp" type="Po">дінысь</l>
        <l_var type="molodtsov-cyr">ԁіныԍ</l_var>
    </lg>
    <mg relId="0">
@@ -754,7 +802,7 @@
 </e>
 <e>
    <lg t1="Д" t2="І" t3="Н" uri="13778-din-" id="13778">
-     <l pos="Po">дінӧ</l>
+     <l pos="Adp" type="Po">дінӧ</l>
        <l_var type="molodtsov-cyr">ԁінӧ</l_var>
    </lg>
    <mg relId="0">
@@ -789,7 +837,7 @@
 </e>
 <e>
    <lg t1="Й" t2="Ы" t3="Л" uri="19298-ijylyn" id="19298">
-     <l pos="Po">йылын</l>
+     <l pos="Adp" type="Po">йылын</l>
        <l_var type="molodtsov-cyr">јылын</l_var>
    </lg>
    <mg relId="0">
@@ -832,7 +880,7 @@
 </e>
 <e>
    <lg t1="Й" t2="Ы" t3="Л" uri="19301-ijylys-" id="19301">
-     <l pos="Po">йылысь</l>
+     <l pos="Adp" type="Po">йылысь</l>
        <l_var type="molodtsov-cyr">јылыԍ</l_var>
    </lg>
    <mg relId="0">
@@ -898,7 +946,7 @@
 </e>
 <e>
    <lg t1="Й" t2="Ы" t3="Л" uri="19291-ijyl-" id="19291">
-     <l pos="Po">йылӧ</l>
+     <l pos="Adp" type="Po">йылӧ</l>
        <l_var type="molodtsov-cyr">јылӧ</l_var>
    </lg>
    <mg relId="0">
@@ -937,7 +985,7 @@
 </e>
 <e>
    <lg t1="К" t2="А" t3="Б" uri="19332-kabyra" id="19332">
-     <l pos="Po">кабыра</l>
+     <l pos="Adp" type="Po">кабыра</l>
        <l_var type="molodtsov-cyr">кабыра</l_var>
    </lg>
    <mg relId="0">
@@ -956,7 +1004,7 @@
 </e>
 <e>
    <lg t1="К" t2="Е" t3="Ж" uri="20628-kezhl-" id="20628">
-     <l pos="Po">кежлӧ</l>
+     <l pos="Adp" type="Po">кежлӧ</l>
        <l_var type="molodtsov-cyr">кежлӧ</l_var>
    </lg>
    <mg relId="0">
@@ -1100,7 +1148,7 @@
 </e>
 <e>
    <lg t1="К" t2="Е" t3="Ж" uri="20633-kezh-" id="20633">
-     <l pos="Po">кежӧ</l>
+     <l pos="Adp" type="Po">кежӧ</l>
        <l_var type="molodtsov-cyr">кежӧ</l_var>
    </lg>
    <mg relId="0"> <sg><s pos="Po" s_type="see">кежлӧ</s></sg>
@@ -1111,7 +1159,7 @@
 </e>
 <e>
    <lg t1="К" t2="И" t3="Л" uri="21198-kiloa" id="21198">
-     <l pos="Po">килоа</l>
+     <l pos="Adp" type="Po">килоа</l>
        <l_var type="molodtsov-cyr">кілоа</l_var>
    </lg>
    <mg relId="0"> <sg><s pos="Po" s_type="see">килограмма</s></sg>
@@ -1130,7 +1178,7 @@
 </e>
 <e>
    <lg t1="К" t2="О" t3="Д" uri="22071-kod-sya" id="22071">
-     <l pos="Po">кодься</l>
+     <l pos="Adp" type="Po">кодься</l>
        <l_var type="molodtsov-cyr">коԃԍа</l_var>
    </lg>
    <mg relId="0"> <sg><s pos="Po" s_type="see">кодь</s></sg>
@@ -1141,7 +1189,7 @@
 </e>
 <e>
    <lg t1="К" t2="О" t3="С" uri="23401-kostyn" id="23401">
-     <l pos="Po">костын</l>
+     <l pos="Adp" type="Po">костын</l>
        <l_var type="molodtsov-cyr">костын</l_var>
    </lg>
    <mg relId="0">
@@ -1181,7 +1229,7 @@
 </e>
 <e>
    <lg t1="К" t2="О" t3="С" uri="23402-kostys-" id="23402">
-     <l pos="Po">костысь</l>
+     <l pos="Adp" type="Po">костысь</l>
        <l_var type="molodtsov-cyr">костыԍ</l_var>
    </lg>
    <mg relId="0">
@@ -1212,7 +1260,7 @@
 </e>
 <e>
    <lg t1="К" t2="Ы" t3="Н" uri="26745-kyndzi" id="26745">
-     <l pos="Po">кындзи</l>
+     <l pos="Adp" type="Po">кындзи</l>
        <l_var type="molodtsov-cyr">кынԇі</l_var>
    </lg>
    <mg relId="0">
@@ -1231,7 +1279,7 @@
 </e>
 <e>
    <lg t1="М" t2="Ы" t3="С" uri="33246-mysti" id="33246">
-     <l pos="Po">мысти</l>
+     <l pos="Adp" type="Po">мысти</l>
        <l_var type="molodtsov-cyr">мыԍԏі</l_var>
    </lg>
    <mg relId="0">
@@ -1287,7 +1335,7 @@
 </e>
 <e>
    <lg t1="М" t2="Ы" t3="С" uri="33281-mys-t" id="33281">
-     <l pos="Po">мысьт</l>
+     <l pos="Adp" type="Po">мысьт</l>
        <l_var type="molodtsov-cyr">мыԍт</l_var>
    </lg>
    <mg relId="0"> <sg><s pos="Po" s_type="see">мысти</s></sg>
@@ -1298,7 +1346,7 @@
 </e>
 <e>
    <lg t1="Н" t2="О" t3="Г" uri="34766-noga" id="34766">
-     <l pos="Po">нога</l>
+     <l pos="Adp" type="Po">нога</l>
        <l_var type="molodtsov-cyr">нога</l_var>
    </lg>
    <mg relId="0">
@@ -1329,7 +1377,7 @@
 </e>
 <e>
    <lg t1="Н" t2="Ы" t3="Р" uri="35257-nyr-voma" id="35257">
-     <l pos="Po">ныр-вома</l>
+     <l pos="Adp" type="Po">ныр-вома</l>
        <l_var type="molodtsov-cyr">ныр-вома</l_var>
    </lg>
    <mg relId="0">
@@ -1352,7 +1400,7 @@
 </e>
 <e>
    <lg t1="Н" t2="Ы" t3="Р" uri="35242-nyra" id="35242">
-     <l pos="Po">ныра</l>
+     <l pos="Adp" type="Po">ныра</l>
        <l_var type="molodtsov-cyr">ныра</l_var>
    </lg>
    <mg relId="0">
@@ -1439,7 +1487,7 @@
 </e>
 <e>
    <lg t1="О" t2="Р" t3="Д" uri="36783-ord" id="36783">
-     <l pos="Po">орд</l>
+     <l pos="Adp" type="Po">орд</l>
        <l_var type="molodtsov-cyr">орԁ</l_var>
    </lg>
    <mg relId="0">
@@ -1471,7 +1519,7 @@
 </e>
 <e>
    <lg t1="П" t2="Е" t3="Л" uri="39519-pel-yn" id="39519">
-     <l pos="Po">пельын</l>
+     <l pos="Adp" type="Po">пельын</l>
        <l_var type="molodtsov-cyr">пеԉын</l_var>
    </lg>
    <mg relId="0">
@@ -1490,7 +1538,7 @@
 </e>
 <e>
    <lg t1="П" t2="Е" t3="Л" uri="39521-pel-ys-" id="39521">
-     <l pos="Po">пельысь</l>
+     <l pos="Adp" type="Po">пельысь</l>
        <l_var type="molodtsov-cyr">пеԉыԍ</l_var>
    </lg>
    <mg relId="0">
@@ -1505,7 +1553,7 @@
 </e>
 <e>
    <lg t1="П" t2="Е" t3="Л" uri="39478-pel-" id="39478">
-     <l pos="Po">пельӧ</l>
+     <l pos="Adp" type="Po">пельӧ</l>
        <l_var type="molodtsov-cyr">пеԉӧ</l_var>
    </lg>
    <mg relId="0">
@@ -1520,7 +1568,7 @@
 </e>
 <e>
    <lg t1="П" t2="О" t3="М" uri="41134-pomyn" id="41134">
-     <l pos="Po">помын</l>
+     <l pos="Adp" type="Po">помын</l>
        <l_var type="molodtsov-cyr">помын</l_var>
    </lg>
    <mg relId="0">
@@ -1564,7 +1612,7 @@
 </e>
 <e>
    <lg t1="П" t2="О" t3="М" uri="41139-pomys-" id="41139">
-     <l pos="Po">помысь</l>
+     <l pos="Adp" type="Po">помысь</l>
        <l_var type="molodtsov-cyr">помыԍ</l_var>
    </lg>
    <mg relId="0">
@@ -1641,7 +1689,7 @@
 </e>
 <e>
    <lg t1="П" t2="О" t3="М" uri="41103-pom-" id="41103">
-     <l pos="Po">помӧ</l>
+     <l pos="Adp" type="Po">помӧ</l>
        <l_var type="molodtsov-cyr">помӧ</l_var>
    </lg>
    <mg relId="0">
@@ -1656,7 +1704,7 @@
 </e>
 <e>
    <lg t1="П" t2="О" t3="Н" uri="41149-ponda" id="41149">
-     <l pos="Po">понда</l>
+     <l pos="Adp" type="Po">понда</l>
        <l_var type="molodtsov-cyr">понԁа</l_var>
    </lg>
    <mg relId="0">
@@ -1751,7 +1799,7 @@
 </e>
 <e>
    <lg t1="П" t2="У" t3="Д" uri="43118-pudzhyd" id="43118">
-     <l pos="Po">пуджыд</l>
+     <l pos="Adp" type="Po">пуджыд</l>
        <l_var type="molodtsov-cyr">пуҗыԁ</l_var> <rg><r range_space="dialect"/></rg>
    </lg>
    <mg relId="0"> <sg><s pos="Po" s_type="see">паныд Ⅱ во 2 значении; Ⅲ в 1 значении</s></sg>
@@ -1762,7 +1810,7 @@
 </e>
 <e>
    <lg t1="П" t2="Ы" t3="Р" uri="43898-pyr" id="43898">
-     <l pos="Po">пыр</l>
+     <l pos="Adp" type="Po">пыр</l>
        <l_var type="molodtsov-cyr">пыр</l_var>
    </lg>
    <mg relId="0">
@@ -1965,7 +2013,7 @@
 </e>
 <e>
    <lg t1="Р" t2="А" t3="Д" uri="44285-radi" id="44285">
-     <l pos="Po">ради</l>
+     <l pos="Adp" type="Po">ради</l>
        <l_var type="molodtsov-cyr">раԃі</l_var>
    </lg>
    <mg relId="0">
@@ -2042,7 +2090,7 @@
 </e>
 <e>
    <lg t1="С" t2="Е" t3="Р" uri="65373-serti" id="46874">
-     <l pos="Po">серти</l>
+     <l pos="Adp" type="Po">серти</l>
        <l_var type="molodtsov-cyr">ԍерԏі</l_var>
    </lg>
    <mg relId="0">
@@ -2144,7 +2192,7 @@
 </e>
 <e>
    <lg t1="С" t2="Ь" t3="Ӧ" uri="50338-s-ryn" id="50338">
-     <l pos="Po">сьӧрын</l>
+     <l pos="Adp" type="Po">сьӧрын</l>
        <l_var type="molodtsov-cyr">ԍӧрын</l_var>
    </lg>
    <mg relId="0"> <sg><s pos="Po" s_type="see">сьӧрам</s></sg>
@@ -2189,7 +2237,7 @@
 </e>
 <e>
    <lg t1="С" t2="Ь" t3="Ӧ" uri="50320-s-r-" id="50320">
-     <l pos="Po">сьӧрӧ</l>
+     <l pos="Adp" type="Po">сьӧрӧ</l>
        <l_var type="molodtsov-cyr">ԍӧрӧ</l_var>
    </lg>
    <mg relId="0">
@@ -2204,7 +2252,7 @@
 </e>
 <e>
    <lg t1="Т" t2="У" t3="Й" uri="53684-tuijyn" id="53684">
-     <l pos="Po">туйын</l>
+     <l pos="Adp" type="Po">туйын</l>
        <l_var type="molodtsov-cyr">тујын</l_var>
    </lg>
    <mg relId="0">
@@ -2228,7 +2276,7 @@
 </e>
 <e>
    <lg t1="Т" t2="У" t3="Й" uri="53661-tuij-" id="53661">
-     <l pos="Po">туйӧ</l>
+     <l pos="Adp" type="Po">туйӧ</l>
        <l_var type="molodtsov-cyr">тујӧ</l_var>
    </lg>
    <mg relId="0">
@@ -2448,7 +2496,7 @@
 </e>
 <e>
    <lg t1="Ӧ" t2="П" t3="Р" uri="37690-prich" id="37690">
-     <l pos="Po">ӧприч</l>
+     <l pos="Adp" type="Po">ӧприч</l>
        <l_var type="molodtsov-cyr">ӧпріч</l_var>
    </lg>
    <mg relId="0">
@@ -2475,7 +2523,7 @@
 </e>
 <e>
    <lg t1="Ӧ" t2="Т" t3="С" uri="38142-tsor" id="38142">
-     <l pos="Po">ӧтсор</l>
+     <l pos="Adp" type="Po">ӧтсор</l>
        <l_var type="molodtsov-cyr">ӧтсор</l_var>
    </lg>
    <mg relId="0">
@@ -2509,20 +2557,20 @@
    </mg>
 </e>
 <e>
-   <lg t1="Б" t2="О" t3="К" uri="2454-bok-d" id="2454"><l pos="Po">бокӧд</l>
+   <lg t1="Б" t2="О" t3="К" uri="2454-bok-d" id="2454"><l pos="Adp" type="Po">бокӧд</l>
        <l_var type="molodtsov-cyr">бокӧԁ</l_var>
    </lg>
-   <mg> <sg><s s_type="see">бокті Ⅱ</s></sg>
+   <mg relId="0"> <sg><s s_type="see">бокті Ⅱ</s></sg>
      <tg xml:lang="rus">
        <t></t>
      </tg>
    </mg>
 </e>
 <e>
-   <lg t1="Б" t2="О" t3="К" uri="2457-bok-dz" id="2457"><l pos="Po">бокӧдз</l>
+   <lg t1="Б" t2="О" t3="К" uri="2457-bok-dz" id="2457"><l pos="Adp" type="Po">бокӧдз</l>
        <l_var type="molodtsov-cyr">бокӧԇ</l_var>
    </lg>
-   <mg>
+   <mg relId="0">
      <tg xml:lang="rus">
        <t><em>послелог</em> <acronym title="предельный падеж"><em>пред.п.</em></acronym> до <em>чего-либо</em></t>
      </tg>
@@ -2533,10 +2581,10 @@
    </mg>
 </e>
 <e>
-   <lg t1="Б" t2="Ӧ" t3="Р" uri="2997-b-rsya" id="2997"><l pos="Po">бӧрся</l>
+   <lg t1="Б" t2="Ӧ" t3="Р" uri="2997-b-rsya" id="2997"><l pos="Adp" type="Po">бӧрся</l>
        <l_var type="molodtsov-cyr">бӧрԍа</l_var>
    </lg>
-   <mg>
+   <mg relId="0">
      <tg xml:lang="rus">
        <t><em>послелог</em> за <em>кем-чем-либо</em></t>
      </tg>
@@ -2559,10 +2607,10 @@
    </mg>
 </e>
 <e>
-   <lg t1="Г" t2="Ы" t3="Р" uri="12085-gyrsya" id="12085"><l pos="Po">гырся</l>
+   <lg t1="Г" t2="Ы" t3="Р" uri="12085-gyrsya" id="12085"><l pos="Adp" type="Po">гырся</l>
        <l_var type="molodtsov-cyr">гырԍа</l_var>
    </lg>
-   <mg>
+   <mg relId="0">
      <tg xml:lang="rus">
        <t><em>послелог</em> величиной с ... </t>
      </tg>
@@ -2589,7 +2637,7 @@
      <l hid="Hom2">пырся</l>
        <l_var type="molodtsov-cyr">пырԍа</l_var>
    </lg>
-   <mg>
+   <mg relId="0">
      <tg xml:lang="rus">
        <t><em>послелог</em> из-за <em>кого-чего-либо</em></t>
      </tg><br />
@@ -2600,10 +2648,10 @@
    </mg>
 </e>
 <e>
-   <lg t1="У" t2="В" t3="Т" uri="55568-uvti" id="55568"><l pos="Po">увті</l>
+   <lg t1="У" t2="В" t3="Т" uri="55568-uvti" id="55568"><l pos="Adp" type="Po">увті</l>
        <l_var type="molodtsov-cyr">увті</l_var>
    </lg>
-   <mg>
+   <mg relId="0">
      <tg xml:lang="rus">
        <t><em>послелог</em> <acronym title="переходный падеж"><em>перех.п.</em></acronym> под <em>чем-либо, <acronym title="употребляется"><em>употр.</em></acronym> также с</em> <acronym title="определительно-притяжательный (суффикс, форма)"><em>опред.-притяж.</em></acronym> <acronym title="суффикс"><em>суф.</em></acronym></t>
      </tg>
@@ -2626,10 +2674,10 @@
    </mg>
 </e>
 <e>
-   <lg t1="Б" t2="Е" t3="Р" uri="2039-berdlan-" id="2039"><l pos="Po">бердлань</l>
+   <lg t1="Б" t2="Е" t3="Р" uri="2039-berdlan-" id="2039"><l pos="Adp" type="Po">бердлань</l>
        <l_var type="molodtsov-cyr">берԁлаԋ</l_var>
    </lg>
-   <mg>
+   <mg relId="0">
      <tg xml:lang="rus">
        <t><em>послелог</em> <acronym title="приблизительный падеж"><em>прибл.п.</em></acronym> по направлению <em>к кому-чему-либо</em>, в направлении <em>кого-чего-либо, к чему-либо</em></t>
      </tg>
@@ -2644,10 +2692,10 @@
    </mg>
 </e>
 <e>
-   <lg t1="Б" t2="Е" t3="Р" uri="2048-berdlan-syan-" id="2048"><l pos="Po">бердланьсянь</l>
+   <lg t1="Б" t2="Е" t3="Р" uri="2048-berdlan-syan-" id="2048"><l pos="Adp" type="Po">бердланьсянь</l>
        <l_var type="molodtsov-cyr">берԁлаԋԍаԋ</l_var>
    </lg>
-   <mg>
+   <mg relId="0">
      <tg xml:lang="rus">
        <t><em>послелог</em> <acronym title="отдалительный падеж"><em>отдал.п.</em></acronym> с места, прилегающего, примыкающего <em>к чему-либо</em>; от <em>чего-либо</em>, с <em>чего-либо</em></t>
      </tg>
@@ -2658,10 +2706,10 @@
    </mg>
 </e>
 <e>
-   <lg t1="Б" t2="Е" t3="Р" uri="2051-berdlan-yn" id="2051"><l pos="Po">бердланьын</l>
+   <lg t1="Б" t2="Е" t3="Р" uri="2051-berdlan-yn" id="2051"><l pos="Adp" type="Po">бердланьын</l>
        <l_var type="molodtsov-cyr">берԁлаԋын</l_var>
    </lg>
-   <mg>
+   <mg relId="0">
      <tg xml:lang="rus">
        <t><em>послелог</em> <acronym title="местный падеж"><em>мест.п.</em></acronym> на месте, прилегающем, примыкающем <em>к кому-чему-либо</em></t>
      </tg>
@@ -2672,10 +2720,10 @@
    </mg>
 </e>
 <e>
-   <lg t1="Б" t2="Е" t3="Р" uri="2053-berdlan-ys-" id="2053"><l pos="Po">бердланьысь</l>
+   <lg t1="Б" t2="Е" t3="Р" uri="2053-berdlan-ys-" id="2053"><l pos="Adp" type="Po">бердланьысь</l>
        <l_var type="molodtsov-cyr">берԁлаԋыԍ</l_var>
    </lg>
-   <mg>
+   <mg relId="0">
      <tg xml:lang="rus">
        <t><em>послелог</em> <acronym title="исходный падеж"><em>исх.п.</em></acronym> из места, прилегающего, примыкающего <em>к кому-чему-либо</em>; <em>от чего-либо</em></t>
      </tg>
@@ -2686,10 +2734,10 @@
    </mg>
 </e>
 <e>
-   <lg t1="Б" t2="Е" t3="Р" uri="2107-berdys-" id="2107"><l pos="Po">бердысь</l>
+   <lg t1="Б" t2="Е" t3="Р" uri="2107-berdys-" id="2107"><l pos="Adp" type="Po">бердысь</l>
        <l_var type="molodtsov-cyr">берԁыԍ</l_var>
    </lg>
-   <mg>
+   <mg relId="0">
      <tg xml:lang="rus">
        <t><em>послелог</em> <acronym title="исходный падеж"><em>исх.п.</em></acronym> <em>(<acronym title="употребляется"><em>употр.</em></acronym> также с</em> <acronym title="определительно-притяжательный (суффикс, форма)"><em>опред.-притяж.</em></acronym> <acronym title="суффикс"><em>суф.</em></acronym>) от <em>кого-чего-либо</em></t>
      </tg>
@@ -2704,7 +2752,7 @@
    </mg>
 </e>
 <e>
-   <lg t1="Б" t2="О" t3="К" uri="2471-boksyan-" id="2471"><l pos="Po">боксянь</l>
+   <lg t1="Б" t2="О" t3="К" uri="2471-boksyan-" id="2471"><l pos="Adp" type="Po">боксянь</l>
        <l_var type="molodtsov-cyr">бокԍаԋ</l_var>
    </lg>
    <mg relId="0"> <sg><s s_type="see">бокисянь</s></sg>
@@ -2731,7 +2779,7 @@
    </mg>
 </e>
 <e>
-   <lg t1="Б" t2="О" t3="К" uri="2474-bokti" id="2474"><l pos="Po">бокті</l>
+   <lg t1="Б" t2="О" t3="К" uri="2474-bokti" id="2474"><l pos="Adp" type="Po">бокті</l>
        <l_var type="molodtsov-cyr">бокті</l_var>
    </lg>
    <mg relId="0"> <sg><s s_type="see">бокиті</s></sg>
@@ -2754,10 +2802,10 @@
    </mg>
 </e>
 <e>
-   <lg t1="Б" t2="Ӧ" t3="Р" uri="2838-b-rvyvti" id="2838"><l pos="Po">бӧрвывті</l>
+   <lg t1="Б" t2="Ӧ" t3="Р" uri="2838-b-rvyvti" id="2838"><l pos="Adp" type="Po">бӧрвывті</l>
        <l_var type="molodtsov-cyr">бӧрвывті</l_var>
    </lg>
-   <mg>
+   <mg relId="0">
      <tg xml:lang="rus">
        <t><em>послелог</em> <acronym title="переходный падеж"><em>перех.п.</em></acronym> позади <em>кого-чего-либо</em>; вслед <em>за кем-либо</em></t>
      </tg>
@@ -2776,10 +2824,10 @@
    </mg>
 </e>
 <e>
-   <lg t1="Б" t2="Ӧ" t3="Р" uri="3016-b-rti" id="3016"><l pos="Po">бӧрті</l>
+   <lg t1="Б" t2="Ӧ" t3="Р" uri="3016-b-rti" id="3016"><l pos="Adp" type="Po">бӧрті</l>
        <l_var type="molodtsov-cyr">бӧрті</l_var>
    </lg>
-   <mg>
+   <mg relId="0">
      <tg xml:lang="rus">
        <t><em>послелог</em> <acronym title="переходный падеж"><em>перех.п.</em></acronym> сзади, позади <em>кого-либо</em>; вслед <em>за кем-либо</em></t>
      </tg>
@@ -2790,10 +2838,10 @@
    </mg>
 </e>
 <e>
-   <lg t1="В" t2="Е" t3="В" uri="5066-vevdorti" id="5066"><l pos="Po">вевдорті</l>
+   <lg t1="В" t2="Е" t3="В" uri="5066-vevdorti" id="5066"><l pos="Adp" type="Po">вевдорті</l>
        <l_var type="molodtsov-cyr">вевԁорті</l_var>
    </lg>
-   <mg>
+   <mg relId="0">
      <tg xml:lang="rus">
        <t><em>послелог</em> <acronym title="пространственное значение"><em>простр.</em></acronym> по-над</t>
      </tg>
@@ -2804,10 +2852,10 @@
    </mg>
 </e>
 <e>
-   <lg t1="В" t2="Е" t3="В" uri="5062-vevdor-dz" id="5062"><l pos="Po">вевдорӧдз</l>
+   <lg t1="В" t2="Е" t3="В" uri="5062-vevdor-dz" id="5062"><l pos="Adp" type="Po">вевдорӧдз</l>
        <l_var type="molodtsov-cyr">вевԁорӧԇ</l_var>
    </lg>
-   <mg>
+   <mg relId="0">
      <tg xml:lang="rus">
        <t><em>послелог</em> <acronym title="пространственное значение"><em>простр.</em></acronym> до <em>чего-либо</em></t>
      </tg>
@@ -2818,10 +2866,10 @@
    </mg>
 </e>
 <e>
-   <lg t1="В" t2="Е" t3="С" uri="6159-ves-tti" id="6159"><l pos="Po">весьтті</l>
+   <lg t1="В" t2="Е" t3="С" uri="6159-ves-tti" id="6159"><l pos="Adp" type="Po">весьтті</l>
        <l_var type="molodtsov-cyr">веԍтті</l_var>
    </lg>
-   <mg>
+   <mg relId="0">
      <tg xml:lang="rus">
        <t><em>послелог</em> <acronym title="пространственное значение"><em>простр.</em></acronym> над <em>чем-либо</em></t>
      </tg>
@@ -2832,10 +2880,10 @@
    </mg>
 </e>
 <e>
-   <lg t1="В" t2="Е" t3="С" uri="6160-ves-tyn" id="6160"><l pos="Po">весьтын</l>
+   <lg t1="В" t2="Е" t3="С" uri="6160-ves-tyn" id="6160"><l pos="Adp" type="Po">весьтын</l>
        <l_var type="molodtsov-cyr">веԍтын</l_var>
    </lg>
-   <mg>
+   <mg relId="0">
      <tg xml:lang="rus">
        <t><em>послелог <acronym title="пространственное значение"><em>простр.</em></acronym> (<acronym title="употребляется"><em>употр.</em></acronym> также с</em> <acronym title="притяжательный (-ая, -ое)"><em>притяж.</em></acronym> <acronym title="суффикс"><em>суф.</em></acronym>)1. напротив <em>чего-либо</em></t>
      </tg>
@@ -2863,10 +2911,10 @@
    </mg>
 </e>
 <e>
-   <lg t1="В" t2="Е" t3="С" uri="6163-ves-tys-" id="6163"><l pos="Po">весьтысь</l>
+   <lg t1="В" t2="Е" t3="С" uri="6163-ves-tys-" id="6163"><l pos="Adp" type="Po">весьтысь</l>
        <l_var type="molodtsov-cyr">веԍтыԍ</l_var>
    </lg>
-   <mg>
+   <mg relId="0">
      <tg xml:lang="rus">
        <t><em>послелог</em> <acronym title="пространственное значение"><em>простр.</em></acronym> с места напротив <em>чего-либо</em>, с места над <em>чем-либо</em></t>
      </tg>
@@ -2877,10 +2925,10 @@
    </mg>
 </e>
 <e>
-   <lg t1="В" t2="Е" t3="С" uri="6151-ves-t-" id="6151"><l pos="Po">весьтӧ</l>
+   <lg t1="В" t2="Е" t3="С" uri="6151-ves-t-" id="6151"><l pos="Adp" type="Po">весьтӧ</l>
        <l_var type="molodtsov-cyr">веԍтӧ</l_var>
    </lg>
-   <mg>
+   <mg relId="0">
      <tg xml:lang="rus">
        <t><em>послелог</em>1. <acronym title="пространственное значение"><em>простр.</em></acronym> <em>(<acronym title="употребляется"><em>употр.</em></acronym> также с</em> <acronym title="притяжательный (-ая, -ое)"><em>притяж.</em></acronym> <acronym title="суффикс"><em>суф.</em></acronym>) напротив</t>
      </tg>
@@ -2926,20 +2974,20 @@
    </mg>
 </e>
 <e>
-   <lg t1="В" t2="Е" t3="С" uri="6152-ves-t-d" id="6152"><l pos="Po">весьтӧд</l>
+   <lg t1="В" t2="Е" t3="С" uri="6152-ves-t-d" id="6152"><l pos="Adp" type="Po">весьтӧд</l>
        <l_var type="molodtsov-cyr">веԍтӧԁ</l_var>
    </lg>
-   <mg> <sg><s s_type="see">весьтті</s></sg>
+   <mg relId="0"> <sg><s s_type="see">весьтті</s></sg>
      <tg xml:lang="rus">
        <t></t>
      </tg>
    </mg>
 </e>
 <e>
-   <lg t1="В" t2="Е" t3="С" uri="6155-ves-t-dz" id="6155"><l pos="Po">весьтӧдз</l>
+   <lg t1="В" t2="Е" t3="С" uri="6155-ves-t-dz" id="6155"><l pos="Adp" type="Po">весьтӧдз</l>
        <l_var type="molodtsov-cyr">веԍтӧԇ</l_var>
    </lg>
-   <mg>
+   <mg relId="0">
      <tg xml:lang="rus">
        <t><em>послелог</em> <acronym title="пространственное значение"><em>простр.</em></acronym> до <em>чего-либо</em></t>
      </tg>
@@ -2950,10 +2998,10 @@
    </mg>
 </e>
 <e>
-   <lg t1="В" t2="О" t3="Д" uri="7211-vodz-dz" id="7211"><l pos="Po">водзӧдз</l>
+   <lg t1="В" t2="О" t3="Д" uri="7211-vodz-dz" id="7211"><l pos="Adp" type="Po">водзӧдз</l>
        <l_var type="molodtsov-cyr">воԇӧԇ</l_var>
    </lg>
-   <mg>
+   <mg relId="0">
      <tg xml:lang="rus">
        <t><em>послелог</em> <acronym title="пространственное значение"><em>простр.</em></acronym> до места, находящегося перед чем-либо</t>
      </tg>
@@ -2968,7 +3016,7 @@
      <l hid="Hom2">выйӧдз</l>
        <l_var type="molodtsov-cyr">выјӧԇ</l_var>
    </lg>
-   <mg>
+   <mg relId="0">
      <tg xml:lang="rus">
        <t><em>послелог</em>1. по <em>какое-либо место</em>; до <em>какого-либо места</em></t>
      </tg>
@@ -3000,10 +3048,10 @@
    </mg>
 </e>
 <e>
-   <lg t1="В" t2="О" t3="Д" uri="7211-vodz-dz" id="7211"><l pos="Po">водзӧдз</l>
+   <lg t1="В" t2="О" t3="Д" uri="7211-vodz-dz" id="7211"><l pos="Adp" type="Po">водзӧдз</l>
        <l_var type="molodtsov-cyr">воԇӧԇ</l_var>
    </lg>
-   <mg>
+   <mg relId="0">
      <tg xml:lang="rus">
        <t><em>послелог</em> <acronym title="пространственное значение"><em>простр.</em></acronym> до места, находящегося перед чем-либо</t>
      </tg>
@@ -3018,7 +3066,7 @@
      <l hid="Hom2">выйӧдз</l>
        <l_var type="molodtsov-cyr">выјӧԇ</l_var>
    </lg>
-   <mg>
+   <mg relId="0">
      <tg xml:lang="rus">
        <t><em>послелог</em>1. по <em>какое-либо место</em>; до <em>какого-либо места</em></t>
      </tg>
@@ -3050,10 +3098,10 @@
    </mg>
 </e>
 <e>
-   <lg t1="В" t2="Ы" t3="Й" uri="9084-vyij-n" id="9084"><l pos="Po">выйӧн</l>
+   <lg t1="В" t2="Ы" t3="Й" uri="9084-vyij-n" id="9084"><l pos="Adp" type="Po">выйӧн</l>
        <l_var type="molodtsov-cyr">выјӧн</l_var>
    </lg>
-   <mg>
+   <mg relId="0">
      <tg xml:lang="rus">
        <t><em>послелог</em> по <em>какое-либо место</em></t>
      </tg>
@@ -3072,7 +3120,7 @@
      <l hid="Hom3">горув</l>
        <l_var type="molodtsov-cyr">горув</l_var>
    </lg>
-   <mg> <rg><r range_space="dialect"/></rg>
+   <mg relId="0"> <rg><r range_space="dialect"/></rg>
      <tg xml:lang="rus">
        <t><em>послелог</em> около, почти</t>
      </tg>
@@ -3083,10 +3131,10 @@
    </mg>
 </e>
 <e>
-   <lg t1="Г" t2="Ӧ" t3="Г" uri="10663-g-g-rys-" id="10663"><l pos="Po">гӧгӧрысь</l>
+   <lg t1="Г" t2="Ӧ" t3="Г" uri="10663-g-g-rys-" id="10663"><l pos="Adp" type="Po">гӧгӧрысь</l>
        <l_var type="molodtsov-cyr">гӧгӧрыԍ</l_var>
    </lg>
-   <mg>
+   <mg relId="0">
      <tg xml:lang="rus">
        <t><em>послелог</em> <acronym title="пространственное значение"><em>простр.</em></acronym> от <em>чего-либо</em>, из места вокруг <em>чего-либо</em></t>
      </tg>
@@ -3105,7 +3153,7 @@
      <l hid="Hom2">дор</l>
        <l_var type="molodtsov-cyr">ԁор</l_var>
    </lg>
-   <mg>
+   <mg relId="0">
      <tg xml:lang="rus">
        <t><em>послелог</em>1. <acronym title="пространственное значение"><em>простр.</em></acronym> место возле, около <em>чего-либо</em></t>
      </tg>
@@ -3137,10 +3185,10 @@
    </mg>
 </e>
 <e>
-   <lg t1="Д" t2="О" t3="Р" uri="14267-dorlan-" id="14267"><l pos="Po">дорлань</l>
+   <lg t1="Д" t2="О" t3="Р" uri="14267-dorlan-" id="14267"><l pos="Adp" type="Po">дорлань</l>
        <l_var type="molodtsov-cyr">ԁорлаԋ</l_var>
    </lg>
-   <mg>
+   <mg relId="0">
      <tg xml:lang="rus">
        <t><em>послелог</em> <acronym title="приблизительный падеж"><em>прибл.п.</em></acronym> по направлению к <em>чему-либо</em></t>
      </tg>
@@ -3151,10 +3199,10 @@
    </mg>
 </e>
 <e>
-   <lg t1="Д" t2="О" t3="Р" uri="14339-dorsyan-" id="14339"><l pos="Po">дорсянь</l>
+   <lg t1="Д" t2="О" t3="Р" uri="14339-dorsyan-" id="14339"><l pos="Adp" type="Po">дорсянь</l>
        <l_var type="molodtsov-cyr">ԁорԍаԋ</l_var>
    </lg>
-   <mg>
+   <mg relId="0">
      <tg xml:lang="rus">
        <t><em>послелог</em> <acronym title="отдалительный падеж"><em>отдал.п.</em></acronym> <em>(<acronym title="употребляется"><em>употр.</em></acronym> также с</em> <acronym title="определительно-притяжательный (суффикс, форма)"><em>опред.-притяж.</em></acronym> <acronym title="суффикс"><em>суф.</em></acronym>) от <em>кого-чего-либо</em></t>
      </tg>
@@ -3165,10 +3213,10 @@
    </mg>
 </e>
 <e>
-   <lg t1="Д" t2="О" t3="Р" uri="14341-dorti" id="14341"><l pos="Po">дорті</l>
+   <lg t1="Д" t2="О" t3="Р" uri="14341-dorti" id="14341"><l pos="Adp" type="Po">дорті</l>
        <l_var type="molodtsov-cyr">ԁорті</l_var>
    </lg>
-   <mg>
+   <mg relId="0">
      <tg xml:lang="rus">
        <t><em>послелог</em> <acronym title="переходный падеж"><em>перех.п.</em></acronym> <em>(<acronym title="употребляется"><em>употр.</em></acronym> также с</em> <acronym title="определительно-притяжательный (суффикс, форма)"><em>опред.-притяж.</em></acronym> <acronym title="суффикс"><em>суф.</em></acronym>) около, подле, возле, мимо <em>кого-чего-либо</em></t>
      </tg>
@@ -3183,10 +3231,10 @@
    </mg>
 </e>
 <e>
-   <lg t1="Д" t2="О" t3="Р" uri="14369-doryn" id="14369"><l pos="Po">дорын</l>
+   <lg t1="Д" t2="О" t3="Р" uri="14369-doryn" id="14369"><l pos="Adp" type="Po">дорын</l>
        <l_var type="molodtsov-cyr">ԁорын</l_var>
    </lg>
-   <mg>
+   <mg relId="0">
      <tg xml:lang="rus">
        <t><em>послелог</em> <acronym title="местный падеж"><em>мест.п.</em></acronym> <em>(<acronym title="употребляется"><em>употр.</em></acronym> также с</em> <acronym title="определительно-притяжательный (суффикс, форма)"><em>опред.-притяж.</em></acronym> <acronym title="суффикс"><em>суф.</em></acronym>)1. у, возле, около <em>кого-чего-либо</em></t>
      </tg>
@@ -3252,10 +3300,10 @@
    </mg>
 </e>
 <e>
-   <lg t1="Д" t2="О" t3="Р" uri="14380-dorys-" id="14380"><l pos="Po">дорысь</l>
+   <lg t1="Д" t2="О" t3="Р" uri="14380-dorys-" id="14380"><l pos="Adp" type="Po">дорысь</l>
        <l_var type="molodtsov-cyr">ԁорыԍ</l_var>
    </lg>
-   <mg>
+   <mg relId="0">
      <tg xml:lang="rus">
        <t><em>послелог</em> <acronym title="исходный падеж"><em>исх.п.</em></acronym> <em>(<acronym title="употребляется"><em>употр.</em></acronym> также с</em> <acronym title="определительно-притяжательный (суффикс, форма)"><em>опред.-притяж.</em></acronym> <acronym title="суффикс"><em>суф.</em></acronym>)1. от <em>кого-чего-либо</em></t>
      </tg>
@@ -3312,10 +3360,10 @@
    </mg>
 </e>
 <e>
-   <lg t1="Д" t2="О" t3="Р" uri="14290-dor-" id="14290"><l pos="Po">дорӧ</l>
+   <lg t1="Д" t2="О" t3="Р" uri="14290-dor-" id="14290"><l pos="Adp" type="Po">дорӧ</l>
        <l_var type="molodtsov-cyr">ԁорӧ</l_var>
    </lg>
-   <mg>
+   <mg relId="0">
      <tg xml:lang="rus">
        <t><em>послелог</em> <acronym title="вступительный падеж"><em>вступ.п.</em></acronym> <em>(<acronym title="употребляется"><em>употр.</em></acronym> также с</em> <acronym title="определительно-притяжательный (суффикс, форма)"><em>опред.-притяж.</em></acronym> <acronym title="суффикс"><em>суф.</em></acronym>)1. <acronym title="пространственное значение"><em>простр.</em></acronym> <em>к кому-чему-либо</em>; у, около, вблизи, подле <em>чего-либо</em>; на край <em>чего-либо (куда?)</em></t>
      </tg>
@@ -3372,10 +3420,10 @@
    </mg>
 </e>
 <e>
-   <lg t1="Д" t2="О" t3="Р" uri="14293-dor-d" id="14293"><l pos="Po">дорӧд</l>
+   <lg t1="Д" t2="О" t3="Р" uri="14293-dor-d" id="14293"><l pos="Adp" type="Po">дорӧд</l>
        <l_var type="molodtsov-cyr">ԁорӧԁ</l_var>
    </lg>
-   <mg>
+   <mg relId="0">
      <tg xml:lang="rus">
        <t><em>послелог</em> <acronym title="переходный падеж"><em>перех.п.</em></acronym> <em>(<acronym title="употребляется"><em>употр.</em></acronym> также с</em> <acronym title="определительно-притяжательный (суффикс, форма)"><em>опред.-притяж.</em></acronym> <acronym title="суффикс"><em>суф.</em></acronym>) около, возле, подле, мимо <em>(кого-чего-либо)</em></t>
      </tg>
@@ -3386,10 +3434,10 @@
    </mg>
 </e>
 <e>
-   <lg t1="Д" t2="О" t3="Р" uri="14294-dor-dz" id="14294"><l pos="Po">дорӧдз</l>
+   <lg t1="Д" t2="О" t3="Р" uri="14294-dor-dz" id="14294"><l pos="Adp" type="Po">дорӧдз</l>
        <l_var type="molodtsov-cyr">ԁорӧԇ</l_var>
    </lg>
-   <mg>
+   <mg relId="0">
      <tg xml:lang="rus">
        <t><em>послелог</em> <acronym title="предельный падеж"><em>пред.п.</em></acronym> <em>(<acronym title="употребляется"><em>употр.</em></acronym> также с</em> <acronym title="определительно-притяжательный (суффикс, форма)"><em>опред.-притяж.</em></acronym> <acronym title="суффикс"><em>суф.</em></acronym>) до <em>кого-чего-либо</em></t>
      </tg>
@@ -3408,10 +3456,10 @@
    </mg>
 </e>
 <e>
-   <lg t1="Д" t2="І" t3="Н" uri="13777-dinlan-" id="13777"><l pos="Po">дінлань</l>
+   <lg t1="Д" t2="І" t3="Н" uri="13777-dinlan-" id="13777"><l pos="Adp" type="Po">дінлань</l>
        <l_var type="molodtsov-cyr">ԁінлаԋ</l_var>
    </lg>
-   <mg>
+   <mg relId="0">
      <tg xml:lang="rus">
        <t><em>послелог</em> <acronym title="приблизительный падеж"><em>прибл.п.</em></acronym> по направлению к <em>чему-либо</em></t>
      </tg>
@@ -3422,10 +3470,10 @@
    </mg>
 </e>
 <e>
-   <lg t1="Д" t2="І" t3="Н" uri="13799-dinsyan-" id="13799"><l pos="Po">дінсянь</l>
+   <lg t1="Д" t2="І" t3="Н" uri="13799-dinsyan-" id="13799"><l pos="Adp" type="Po">дінсянь</l>
        <l_var type="molodtsov-cyr">ԁінԍаԋ</l_var>
    </lg>
-   <mg>
+   <mg relId="0">
      <tg xml:lang="rus">
        <t><em>послелог</em> <acronym title="отдалительный падеж"><em>отдал.п.</em></acronym> <em>(<acronym title="употребляется"><em>употр.</em></acronym> также с</em> <acronym title="определительно-притяжательный (суффикс, форма)"><em>опред.-притяж.</em></acronym> <acronym title="суффикс"><em>суф.</em></acronym>) от <em>кого-чего-либо</em></t>
      </tg>
@@ -3444,10 +3492,10 @@
    </mg>
 </e>
 <e>
-   <lg t1="Д" t2="І" t3="Н" uri="13801-dinti" id="13801"><l pos="Po">дінті</l>
+   <lg t1="Д" t2="І" t3="Н" uri="13801-dinti" id="13801"><l pos="Adp" type="Po">дінті</l>
        <l_var type="molodtsov-cyr">ԁінті</l_var>
    </lg>
-   <mg>
+   <mg relId="0">
      <tg xml:lang="rus">
        <t><em>послелог</em> <acronym title="переходный падеж"><em>перех.п.</em></acronym> <em>(<acronym title="употребляется"><em>употр.</em></acronym> также с</em> <acronym title="определительно-притяжательный (суффикс, форма)"><em>опред.-притяж.</em></acronym> <acronym title="суффикс"><em>суф.</em></acronym>) около, возле, вблизи <em>кого-чего-либо</em></t>
      </tg>
@@ -3462,10 +3510,10 @@
    </mg>
 </e>
 <e>
-   <lg t1="Д" t2="І" t3="Н" uri="13779-din-d" id="13779"><l pos="Po">дінӧд</l>
+   <lg t1="Д" t2="І" t3="Н" uri="13779-din-d" id="13779"><l pos="Adp" type="Po">дінӧд</l>
        <l_var type="molodtsov-cyr">ԁінӧԁ</l_var>
    </lg>
-   <mg>
+   <mg relId="0">
      <tg xml:lang="rus">
        <t><em>послелог</em> <acronym title="переходный падеж"><em>перех.п.</em></acronym> около, возле, вблизи <em>кого-чего-либо</em></t>
      </tg>
@@ -3480,10 +3528,10 @@
    </mg>
 </e>
 <e>
-   <lg t1="Й" t2="Ы" t3="В" uri="19288-ijyvti" id="19288"><l pos="Po">йывті</l>
+   <lg t1="Й" t2="Ы" t3="В" uri="19288-ijyvti" id="19288"><l pos="Adp" type="Po">йывті</l>
        <l_var type="molodtsov-cyr">јывті</l_var>
    </lg>
-   <mg>
+   <mg relId="0">
      <tg xml:lang="rus">
        <t><em>послелог</em> <acronym title="пространственное значение"><em>простр.</em></acronym> над</t>
      </tg>
@@ -3494,10 +3542,10 @@
    </mg>
 </e>
 <e>
-   <lg t1="Й" t2="Ы" t3="Л" uri="19294-ijyl-dz" id="19294"><l pos="Po">йылӧдз</l>
+   <lg t1="Й" t2="Ы" t3="Л" uri="19294-ijyl-dz" id="19294"><l pos="Adp" type="Po">йылӧдз</l>
        <l_var type="molodtsov-cyr">јылӧԇ</l_var>
    </lg>
-   <mg>
+   <mg relId="0">
      <tg xml:lang="rus">
        <t><em>послелог</em> до</t>
      </tg>
@@ -3508,10 +3556,10 @@
    </mg>
 </e>
 <e>
-   <lg t1="К" t2="Е" t3="Ж" uri="20612-kezhlad" id="20612"><l pos="Po">кежлад</l>
+   <lg t1="К" t2="Е" t3="Ж" uri="20612-kezhlad" id="20612"><l pos="Adp" type="Po">кежлад</l>
        <l_var type="molodtsov-cyr">кежлаԁ</l_var>
    </lg>
-   <mg>
+   <mg relId="0">
      <tg xml:lang="rus">
        <t><em>послелог</em> <acronym title="определительно-притяжательный (суффикс, форма)"><em>опред.-притяж.</em></acronym> <em>форма</em> <acronym title="2-ое лицо"><em>2 л.</em></acronym> <acronym title="единственное число"><em>ед.ч.</em></acronym> <em>от</em> <xref link="кежлӧ"> кежлӧ</xref></t>
      </tg>
@@ -3522,10 +3570,10 @@
    </mg>
 </e>
 <e>
-   <lg t1="К" t2="Е" t3="Ж" uri="20614-kezhlam" id="20614"><l pos="Po">кежлам</l>
+   <lg t1="К" t2="Е" t3="Ж" uri="20614-kezhlam" id="20614"><l pos="Adp" type="Po">кежлам</l>
        <l_var type="molodtsov-cyr">кежлам</l_var>
    </lg>
-   <mg>
+   <mg relId="0">
      <tg xml:lang="rus">
        <t><em>послелог</em> <acronym title="определительно-притяжательный (суффикс, форма)"><em>опред.-притяж.</em></acronym> <em>форма</em> <acronym title="1-ое лицо"><em>1 л.</em></acronym> <acronym title="единственное число"><em>ед.ч.</em></acronym> <em>от</em> <xref link="кежлӧ"> кежлӧ</xref></t>
      </tg>
@@ -3540,10 +3588,10 @@
    </mg>
 </e>
 <e>
-   <lg t1="К" t2="Е" t3="Ж" uri="20617-kezhlanyd" id="20617"><l pos="Po">кежланыд</l>
+   <lg t1="К" t2="Е" t3="Ж" uri="20617-kezhlanyd" id="20617"><l pos="Adp" type="Po">кежланыд</l>
        <l_var type="molodtsov-cyr">кежланыԁ</l_var>
    </lg>
-   <mg>
+   <mg relId="0">
      <tg xml:lang="rus">
        <t><em>послелог</em> <acronym title="определительно-притяжательный (суффикс, форма)"><em>опред.-притяж.</em></acronym> <em>форма</em> <acronym title="2-ое лицо"><em>2 л.</em></acronym> <acronym title="местоимение"><em>мест.</em></acronym> <em>от</em> <xref link="кежлӧ"> кежлӧ</xref></t>
      </tg>
@@ -3554,10 +3602,10 @@
    </mg>
 </e>
 <e>
-   <lg t1="К" t2="Е" t3="Ж" uri="20620-kezhlanym" id="20620"><l pos="Po">кежланым</l>
+   <lg t1="К" t2="Е" t3="Ж" uri="20620-kezhlanym" id="20620"><l pos="Adp" type="Po">кежланым</l>
        <l_var type="molodtsov-cyr">кежланым</l_var>
    </lg>
-   <mg>
+   <mg relId="0">
      <tg xml:lang="rus">
        <t><em>послелог</em> <acronym title="определительно-притяжательный (суффикс, форма)"><em>опред.-притяж.</em></acronym> <em>форма</em> <acronym title="1-ое лицо"><em>1 л.</em></acronym> <acronym title="местоимение"><em>мест.</em></acronym> <em>от</em> <xref link="кежлӧ"> кежлӧ</xref></t>
      </tg>
@@ -3568,10 +3616,10 @@
    </mg>
 </e>
 <e>
-   <lg t1="К" t2="Е" t3="Ж" uri="20622-kezhlanys" id="20622"><l pos="Po">кежланыс</l>
+   <lg t1="К" t2="Е" t3="Ж" uri="20622-kezhlanys" id="20622"><l pos="Adp" type="Po">кежланыс</l>
        <l_var type="molodtsov-cyr">кежланыс</l_var>
    </lg>
-   <mg>
+   <mg relId="0">
      <tg xml:lang="rus">
        <t><em>послелог</em> <acronym title="определительно-притяжательный (суффикс, форма)"><em>опред.-притяж.</em></acronym> <em>форма</em> <acronym title="3-ье лицо"><em>3 л.</em></acronym> <acronym title="местоимение"><em>мест.</em></acronym> <em>от</em> <xref link="кежлӧ"> кежлӧ</xref></t>
      </tg>
@@ -3582,10 +3630,10 @@
    </mg>
 </e>
 <e>
-   <lg t1="К" t2="Е" t3="Ж" uri="20623-kezhlas" id="20623"><l pos="Po">кежлас</l>
+   <lg t1="К" t2="Е" t3="Ж" uri="20623-kezhlas" id="20623"><l pos="Adp" type="Po">кежлас</l>
        <l_var type="molodtsov-cyr">кежлас</l_var>
    </lg>
-   <mg>
+   <mg relId="0">
      <tg xml:lang="rus">
        <t><em>послелог</em> <acronym title="определительно-притяжательный (суффикс, форма)"><em>опред.-притяж.</em></acronym> <em>форма</em> <acronym title="3-ье лицо"><em>3 л.</em></acronym> <acronym title="единственное число"><em>ед.ч.</em></acronym> <em>от</em> <xref link="кежлӧ"> кежлӧ</xref></t>
      </tg>
@@ -3596,70 +3644,70 @@
    </mg>
 </e>
 <e>
-   <lg t1="К" t2="Е" t3="Ж" uri="20646-kezhs-yd" id="20646"><l pos="Po">кежсьыд</l>
+   <lg t1="К" t2="Е" t3="Ж" uri="20646-kezhs-yd" id="20646"><l pos="Adp" type="Po">кежсьыд</l>
        <l_var type="molodtsov-cyr">кежԍыԁ</l_var>
    </lg>
-   <mg>
+   <mg relId="0">
      <tg xml:lang="rus">
        <t><em>послелог</em> <acronym title="определительно-притяжательный (суффикс, форма)"><em>опред.-притяж.</em></acronym> <em>форма</em> <acronym title="2-ое лицо"><em>2 л.</em></acronym> <acronym title="единственное число"><em>ед.ч.</em></acronym> <em>от</em> <xref link="кежысь"> кежысь</xref>при тебе</t>
      </tg>
    </mg>
 </e>
 <e>
-   <lg t1="К" t2="Е" t3="Ж" uri="20648-kezhs-ym" id="20648"><l pos="Po">кежсьым</l>
+   <lg t1="К" t2="Е" t3="Ж" uri="20648-kezhs-ym" id="20648"><l pos="Adp" type="Po">кежсьым</l>
        <l_var type="molodtsov-cyr">кежԍым</l_var>
    </lg>
-   <mg>
+   <mg relId="0">
      <tg xml:lang="rus">
        <t><em>послелог</em> <acronym title="определительно-притяжательный (суффикс, форма)"><em>опред.-притяж.</em></acronym> <em>форма</em> <acronym title="1-ое лицо"><em>1 л.</em></acronym> <acronym title="единственное число"><em>ед.ч.</em></acronym> <em>от</em> <xref link="кежысь"> кежысь</xref> при мне</t>
      </tg>
    </mg>
 </e>
 <e>
-   <lg t1="К" t2="Е" t3="Ж" uri="20649-kezhs-ynyd" id="20649"><l pos="Po">кежсьыныд</l>
+   <lg t1="К" t2="Е" t3="Ж" uri="20649-kezhs-ynyd" id="20649"><l pos="Adp" type="Po">кежсьыныд</l>
        <l_var type="molodtsov-cyr">кежԍыныԁ</l_var>
    </lg>
-   <mg>
+   <mg relId="0">
      <tg xml:lang="rus">
        <t><em>послелог</em> <acronym title="определительно-притяжательный (суффикс, форма)"><em>опред.-притяж.</em></acronym> <em>форма</em> <acronym title="2-ое лицо"><em>2 л.</em></acronym> <acronym title="местоимение"><em>мест.</em></acronym> <em>от</em> <xref link="кежысь"> кежысь</xref>при вас</t>
      </tg>
    </mg>
 </e>
 <e>
-   <lg t1="К" t2="Е" t3="Ж" uri="20651-kezhs-ynym" id="20651"><l pos="Po">кежсьыным</l>
+   <lg t1="К" t2="Е" t3="Ж" uri="20651-kezhs-ynym" id="20651"><l pos="Adp" type="Po">кежсьыным</l>
        <l_var type="molodtsov-cyr">кежԍыным</l_var>
    </lg>
-   <mg>
+   <mg relId="0">
      <tg xml:lang="rus">
        <t><em>послелог</em> <acronym title="определительно-притяжательный (суффикс, форма)"><em>опред.-притяж.</em></acronym> <em>форма</em> <acronym title="1-ое лицо"><em>1 л.</em></acronym> <acronym title="местоимение"><em>мест.</em></acronym> <em>от</em> <xref link="кежысь"> кежысь</xref>при нас</t>
      </tg>
    </mg>
 </e>
 <e>
-   <lg t1="К" t2="Е" t3="Ж" uri="20652-kezhs-ynys" id="20652"><l pos="Po">кежсьыныс</l>
+   <lg t1="К" t2="Е" t3="Ж" uri="20652-kezhs-ynys" id="20652"><l pos="Adp" type="Po">кежсьыныс</l>
        <l_var type="molodtsov-cyr">кежԍыныс</l_var>
    </lg>
-   <mg>
+   <mg relId="0">
      <tg xml:lang="rus">
        <t><em>послелог</em> <acronym title="определительно-притяжательный (суффикс, форма)"><em>опред.-притяж.</em></acronym> <em>форма</em> <acronym title="3-ье лицо"><em>3 л.</em></acronym> <acronym title="местоимение"><em>мест.</em></acronym> <em>от</em> <xref link="кежысь"> кежысь</xref>при них</t>
      </tg>
    </mg>
 </e>
 <e>
-   <lg t1="К" t2="Е" t3="Ж" uri="20655-kezhs-ys" id="20655"><l pos="Po">кежсьыс</l>
+   <lg t1="К" t2="Е" t3="Ж" uri="20655-kezhs-ys" id="20655"><l pos="Adp" type="Po">кежсьыс</l>
        <l_var type="molodtsov-cyr">кежԍыс</l_var>
    </lg>
-   <mg>
+   <mg relId="0">
      <tg xml:lang="rus">
        <t><em>послелог</em> <acronym title="определительно-притяжательный (суффикс, форма)"><em>опред.-притяж.</em></acronym> <em>форма</em> <acronym title="3-ье лицо"><em>3 л.</em></acronym> <acronym title="единственное число"><em>ед.ч.</em></acronym> <em>от</em> <xref link="кежысь"> кежысь</xref>при нём</t>
      </tg>
    </mg>
 </e>
 <e>
-   <lg t1="К" t2="О" t3="С" uri="23377-kost-" id="23377"><l pos="Po">костӧ</l>
+   <lg t1="К" t2="О" t3="С" uri="23377-kost-" id="23377"><l pos="Adp" type="Po">костӧ</l>
        <l_var type="molodtsov-cyr">костӧ</l_var>
    </lg>
-   <mg>
+   <mg relId="0">
      <tg xml:lang="rus">
        <t><em>послелог</em> <acronym title="вступительный падеж"><em>вступ.п.</em></acronym> в, за, под <em>что-либо</em>; между <em>чем-либо</em></t>
      </tg>
@@ -3694,10 +3742,10 @@
    </mg>
 </e>
 <e>
-   <lg t1="К" t2="О" t3="С" uri="23379-kost-d" id="23379"><l pos="Po">костӧд</l>
+   <lg t1="К" t2="О" t3="С" uri="23379-kost-d" id="23379"><l pos="Adp" type="Po">костӧд</l>
        <l_var type="molodtsov-cyr">костӧԁ</l_var>
    </lg>
-   <mg>
+   <mg relId="0">
      <tg xml:lang="rus">
        <t><em>послелог</em> <acronym title="переходный падеж"><em>перех.п.</em></acronym> между <em>чем-либо</em></t>
      </tg>
@@ -3716,7 +3764,7 @@
      <l hid="Hom3">кузя</l>
        <l_var type="molodtsov-cyr">куԅа</l_var>
    </lg>
-   <mg>
+   <mg relId="0">
      <tg xml:lang="rus">
        <t><em>послелог</em>1. с, со <em>что-либо</em> длиной <em>или</em> продолжительностью</t>
      </tg>
@@ -3798,7 +3846,7 @@
    </mg>
 </e>
 <e>
-   <lg t1="К" t2="Ы" t3="М" uri="26705-kymyn" id="26705"><l pos="Po">кымын</l>
+   <lg t1="К" t2="Ы" t3="М" uri="26705-kymyn" id="26705"><l pos="Adp" type="Po">кымын</l>
        <l_var type="molodtsov-cyr">кымын</l_var>
    </lg>
    <mg relId="0">
@@ -3862,7 +3910,7 @@
    </mg>
 </e>
 <e>
-   <lg t1="О" t2="Р" t3="Д" uri="36789-ordad" id="36789"><l pos="Po">ордад</l>
+   <lg t1="О" t2="Р" t3="Д" uri="36789-ordad" id="36789"><l pos="Adp" type="Po">ордад</l>
        <l_var type="molodtsov-cyr">орԁаԁ</l_var>
    </lg>
    <mg relId="0">
@@ -3881,7 +3929,7 @@
    </mg>
 </e>
 <e>
-   <lg t1="О" t2="Р" t3="Д" uri="36792-ordam" id="36792"><l pos="Po">ордам</l>
+   <lg t1="О" t2="Р" t3="Д" uri="36792-ordam" id="36792"><l pos="Adp" type="Po">ордам</l>
        <l_var type="molodtsov-cyr">орԁам</l_var>
    </lg>
    <mg relId="0">
@@ -3904,7 +3952,7 @@
    </mg>
 </e>
 <e>
-   <lg t1="О" t2="Р" t3="Д" uri="36795-ordanyd" id="36795"><l pos="Po">орданыд</l>
+   <lg t1="О" t2="Р" t3="Д" uri="36795-ordanyd" id="36795"><l pos="Adp" type="Po">орданыд</l>
        <l_var type="molodtsov-cyr">орԁаныԁ</l_var>
    </lg>
    <mg relId="0">
@@ -3919,7 +3967,7 @@
    </mg>
 </e>
 <e>
-   <lg t1="О" t2="Р" t3="Д" uri="36797-ordanys" id="36797"><l pos="Po">орданыс</l>
+   <lg t1="О" t2="Р" t3="Д" uri="36797-ordanys" id="36797"><l pos="Adp" type="Po">орданыс</l>
        <l_var type="molodtsov-cyr">орԁаныс</l_var>
    </lg>
    <mg relId="0">
@@ -3934,7 +3982,7 @@
    </mg>
 </e>
 <e>
-   <lg t1="О" t2="Р" t3="Д" uri="36799-ordas" id="36799"><l pos="Po">ордас</l>
+   <lg t1="О" t2="Р" t3="Д" uri="36799-ordas" id="36799"><l pos="Adp" type="Po">ордас</l>
        <l_var type="molodtsov-cyr">орԁас</l_var>
    </lg>
    <mg relId="0">
@@ -3957,10 +4005,10 @@
    </mg>
 </e>
 <e>
-   <lg t1="О" t2="Р" t3="Д" uri="36850-ordsyan-" id="36850"><l pos="Po">ордсянь</l>
+   <lg t1="О" t2="Р" t3="Д" uri="36850-ordsyan-" id="36850"><l pos="Adp" type="Po">ордсянь</l>
        <l_var type="molodtsov-cyr">ортԍаԋ</l_var>
    </lg>
-   <mg>
+   <mg relId="0">
      <tg xml:lang="rus">
        <t><em>послелог</em> от <em>кого-либо</em></t>
      </tg>
@@ -3971,10 +4019,10 @@
    </mg>
 </e>
 <e>
-   <lg t1="О" t2="Р" t3="Д" uri="36863-ordyn" id="36863"><l pos="Po">ордын</l>
+   <lg t1="О" t2="Р" t3="Д" uri="36863-ordyn" id="36863"><l pos="Adp" type="Po">ордын</l>
        <l_var type="molodtsov-cyr">орԁын</l_var>
    </lg>
-   <mg>
+   <mg relId="0">
      <tg xml:lang="rus">
        <t><em>послелог</em>1. <em>(<acronym title="употребляется"><em>употр.</em></acronym> также с</em> <acronym title="определительно-притяжательный (суффикс, форма)"><em>опред.-притяж.</em></acronym> <acronym title="суффикс"><em>суф.</em></acronym>) у <em>кого-либо</em></t>
      </tg>
@@ -4002,10 +4050,10 @@
    </mg>
 </e>
 <e>
-   <lg t1="О" t2="Р" t3="Д" uri="36864-ordys-" id="36864"><l pos="Po">ордысь</l>
+   <lg t1="О" t2="Р" t3="Д" uri="36864-ordys-" id="36864"><l pos="Adp" type="Po">ордысь</l>
        <l_var type="molodtsov-cyr">орԁыԍ</l_var>
    </lg>
-   <mg>
+   <mg relId="0">
      <tg xml:lang="rus">
        <t><em>послелог</em> от <em>кого-либо</em>; у <em>кого-либо</em></t>
      </tg>
@@ -4024,10 +4072,10 @@
    </mg>
 </e>
 <e>
-   <lg t1="О" t2="Р" t3="Д" uri="36838-ord-dz" id="36838"><l pos="Po">ордӧдз</l>
+   <lg t1="О" t2="Р" t3="Д" uri="36838-ord-dz" id="36838"><l pos="Adp" type="Po">ордӧдз</l>
        <l_var type="molodtsov-cyr">орԁӧԇ</l_var>
    </lg>
-   <mg>
+   <mg relId="0">
      <tg xml:lang="rus">
        <t><em>послелог</em> до <em>кого-либо</em></t>
      </tg>
@@ -4038,10 +4086,10 @@
    </mg>
 </e>
 <e>
-   <lg t1="П" t2="И" t3="Ы" uri="40362-piyn" id="40362"><l pos="Po">пиын</l>
+   <lg t1="П" t2="И" t3="Ы" uri="40362-piyn" id="40362"><l pos="Adp" type="Po">пиын</l>
        <l_var type="molodtsov-cyr">піын</l_var>
    </lg>
-   <mg>
+   <mg relId="0">
      <tg xml:lang="rus">
        <t><em>послелог</em> <acronym title="пространственное значение"><em>простр.</em></acronym>1. в <em>чём-либо</em>; внутри <em>чего-либо</em></t>
      </tg>
@@ -4069,10 +4117,10 @@
    </mg>
 </e>
 <e>
-   <lg t1="П" t2="И" t3="Ы" uri="40364-piys-" id="40364"><l pos="Po">пиысь</l>
+   <lg t1="П" t2="И" t3="Ы" uri="40364-piys-" id="40364"><l pos="Adp" type="Po">пиысь</l>
        <l_var type="molodtsov-cyr">піыԍ</l_var>
    </lg>
-   <mg>
+   <mg relId="0">
      <tg xml:lang="rus">
        <t><em>послелог</em> <acronym title="пространственное значение"><em>простр.</em></acronym>1. из <em>кого-чего-либо</em></t>
      </tg>
@@ -4104,7 +4152,7 @@
      <l hid="Hom2">пиӧ</l>
        <l_var type="molodtsov-cyr">піӧ</l_var>
    </lg>
-   <mg>
+   <mg relId="0">
      <tg xml:lang="rus">
        <t><em>послелог</em> <acronym title="пространственное значение"><em>простр.</em></acronym> во <em>что-либо</em></t>
      </tg>
@@ -4123,10 +4171,10 @@
    </mg>
 </e>
 <e>
-   <lg t1="П" t2="И" t3="Ӧ" uri="40244-pi-d" id="40244"><l pos="Po">пиӧд</l>
+   <lg t1="П" t2="И" t3="Ӧ" uri="40244-pi-d" id="40244"><l pos="Adp" type="Po">пиӧд</l>
        <l_var type="molodtsov-cyr">піӧԁ</l_var>
    </lg>
-   <mg>
+   <mg relId="0">
      <tg xml:lang="rus">
        <t><em>послелог</em> <acronym title="пространственное значение"><em>простр.</em></acronym> по <em>чему-либо</em>; сквозь <em>что-либо</em></t>
      </tg>
@@ -4145,7 +4193,7 @@
      <l hid="Hom3">пуд</l>
        <l_var type="molodtsov-cyr">пуԁ</l_var>
    </lg>
-   <mg>
+   <mg relId="0">
      <tg xml:lang="rus">
        <t><em>послелог</em>1. за <em>кого-либо</em></t>
      </tg><br />
@@ -4178,7 +4226,7 @@
      <l hid="Hom1">пыдди</l>
        <l_var type="molodtsov-cyr">пыԁԃі</l_var>
    </lg>
-   <mg>
+   <mg relId="0">
      <tg xml:lang="rus">
        <t><em>послелог</em>1. вместо <em>кого-что-либо</em>; за <em>кого-что-либо</em></t>
      </tg>
@@ -4319,10 +4367,10 @@
    </mg>
 </e>
 <e>
-   <lg t1="П" t2="Ы" t3="Т" uri="44122-pytshkys-" id="44122"><l pos="Po">пытшкысь</l>
+   <lg t1="П" t2="Ы" t3="Т" uri="44122-pytshkys-" id="44122"><l pos="Adp" type="Po">пытшкысь</l>
        <l_var type="molodtsov-cyr">пыщкыԍ</l_var>
    </lg>
-   <mg>
+   <mg relId="0">
      <tg xml:lang="rus">
        <t><em>послелог</em> <acronym title="пространственное значение"><em>простр.</em></acronym> из <em>кого-чего-либо</em>; из-под</t>
      </tg>
@@ -4349,10 +4397,10 @@
    </mg>
 </e>
 <e>
-   <lg t1="П" t2="Ӧ" t3="В" uri="41553-p-vstyn" id="41553"><l pos="Po">пӧвстын</l>
+   <lg t1="П" t2="Ӧ" t3="В" uri="41553-p-vstyn" id="41553"><l pos="Adp" type="Po">пӧвстын</l>
        <l_var type="molodtsov-cyr">пӧвстын</l_var>
    </lg>
-   <mg>
+   <mg relId="0">
      <tg xml:lang="rus">
        <t><em>послелог</em> <acronym title="пространственное значение"><em>простр.</em></acronym> среди <em>кого-чего-либо</em>, в <em>какой-либо</em> среде; между <em>кем-чем-либо</em>, промеж</t>
      </tg>
@@ -4375,10 +4423,10 @@
    </mg>
 </e>
 <e>
-   <lg t1="П" t2="Ӧ" t3="В" uri="41547-p-vst-" id="41547"><l pos="Po">пӧвстӧ</l>
+   <lg t1="П" t2="Ӧ" t3="В" uri="41547-p-vst-" id="41547"><l pos="Adp" type="Po">пӧвстӧ</l>
        <l_var type="molodtsov-cyr">пӧвстӧ</l_var>
    </lg>
-   <mg>
+   <mg relId="0">
      <tg xml:lang="rus">
        <t><em>послелог</em> <acronym title="пространственное значение"><em>простр.</em></acronym> во <em>что-либо</em></t>
      </tg>
@@ -4393,10 +4441,10 @@
    </mg>
 </e>
 <e>
-   <lg t1="П" t2="Ӧ" t3="В" uri="41548-p-vst-d" id="41548"><l pos="Po">пӧвстӧд</l>
+   <lg t1="П" t2="Ӧ" t3="В" uri="41548-p-vst-d" id="41548"><l pos="Adp" type="Po">пӧвстӧд</l>
        <l_var type="molodtsov-cyr">пӧвстӧԁ</l_var>
    </lg>
-   <mg>
+   <mg relId="0">
      <tg xml:lang="rus">
        <t><em>послелог</em> <acronym title="пространственное значение"><em>простр.</em></acronym>1. меж, между; промеж <em>чего-либо</em></t>
      </tg>
@@ -4428,7 +4476,7 @@
      <l hid="Hom2">пӧлӧн</l>
        <l_var type="molodtsov-cyr">пӧлӧн</l_var>
    </lg>
-   <mg>
+   <mg relId="0">
      <tg xml:lang="rus">
        <t><em>послелог</em> <acronym title="пространственное значение"><em>простр.</em></acronym> вдоль <em>чего-либо</em></t>
      </tg>
@@ -4447,10 +4495,10 @@
    </mg>
 </e>
 <e>
-   <lg t1="С" t2="А" t3="Й" uri="46235-saijlan-" id="46235"><l pos="Po">сайлань</l>
+   <lg t1="С" t2="А" t3="Й" uri="46235-saijlan-" id="46235"><l pos="Adp" type="Po">сайлань</l>
        <l_var type="molodtsov-cyr">сајлаԋ</l_var>
    </lg>
-   <mg>
+   <mg relId="0">
      <tg xml:lang="rus">
        <t><em>послелог</em> <acronym title="пространственное значение"><em>простр.</em></acronym> за <em>что-либо</em></t>
      </tg>
@@ -4461,10 +4509,10 @@
    </mg>
 </e>
 <e>
-   <lg t1="С" t2="А" t3="Й" uri="46277-saijsyan-" id="46277"><l pos="Po">сайсянь</l>
+   <lg t1="С" t2="А" t3="Й" uri="46277-saijsyan-" id="46277"><l pos="Adp" type="Po">сайсянь</l>
        <l_var type="molodtsov-cyr">сајԍаԋ</l_var>
    </lg>
-   <mg>
+   <mg relId="0">
      <tg xml:lang="rus">
        <t><em>послелог</em> <acronym title="пространственное значение"><em>простр.</em></acronym> <em>(<acronym title="употребляется"><em>употр.</em></acronym> также с</em> <acronym title="определительно-притяжательный (суффикс, форма)"><em>опред.-притяж.</em></acronym> <acronym title="суффикс"><em>суф.</em></acronym>)1. <em>из-за кого-чего-либо</em></t>
      </tg>
@@ -4500,10 +4548,10 @@
    </mg>
 </e>
 <e>
-   <lg t1="С" t2="А" t3="Й" uri="46280-saijti" id="46280"><l pos="Po">сайті</l>
+   <lg t1="С" t2="А" t3="Й" uri="46280-saijti" id="46280"><l pos="Adp" type="Po">сайті</l>
        <l_var type="molodtsov-cyr">сајті</l_var>
    </lg>
-   <mg>
+   <mg relId="0">
      <tg xml:lang="rus">
        <t><em>послелог</em> <acronym title="пространственное значение"><em>простр.</em></acronym> за <em>кем-чем-либо</em></t>
      </tg>
@@ -4518,10 +4566,10 @@
    </mg>
 </e>
 <e>
-   <lg t1="С" t2="А" t3="Й" uri="46283-saijyn" id="46283"><l pos="Po">сайын</l>
+   <lg t1="С" t2="А" t3="Й" uri="46283-saijyn" id="46283"><l pos="Adp" type="Po">сайын</l>
        <l_var type="molodtsov-cyr">сајын</l_var>
    </lg>
-   <mg>
+   <mg relId="0">
      <tg xml:lang="rus">
        <t><em>послелог</em>1. <acronym title="пространственное значение"><em>простр.</em></acronym> за <em>кем-чем-либо (<acronym title="употребляется"><em>употр.</em></acronym> также с</em> <acronym title="определительно-притяжательный (суффикс, форма)"><em>опред.-притяж.</em></acronym> <acronym title="суффикс"><em>суф.</em></acronym>)</t>
      </tg>
@@ -4594,10 +4642,10 @@
    </mg>
 </e>
 <e>
-   <lg t1="С" t2="А" t3="Й" uri="46285-saijys-" id="46285"><l pos="Po">сайысь</l>
+   <lg t1="С" t2="А" t3="Й" uri="46285-saijys-" id="46285"><l pos="Adp" type="Po">сайысь</l>
        <l_var type="molodtsov-cyr">сајыԍ</l_var>
    </lg>
-   <mg>
+   <mg relId="0">
      <tg xml:lang="rus">
        <t><em>послелог</em> <acronym title="пространственное значение"><em>простр.</em></acronym>1. из-за <em>чего-либо (<acronym title="употребляется"><em>употр.</em></acronym> также с</em> <acronym title="определительно-притяжательный (суффикс, форма)"><em>опред.-притяж.</em></acronym> <acronym title="суффикс"><em>суф.</em></acronym>)</t>
      </tg>
@@ -4637,10 +4685,10 @@
    </mg>
 </e>
 <e>
-   <lg t1="С" t2="А" t3="Й" uri="46251-saij-" id="46251"><l pos="Po">сайӧ</l>
+   <lg t1="С" t2="А" t3="Й" uri="46251-saij-" id="46251"><l pos="Adp" type="Po">сайӧ</l>
        <l_var type="molodtsov-cyr">сајӧ</l_var>
    </lg>
-   <mg>
+   <mg relId="0">
      <tg xml:lang="rus">
        <t><em>послелог</em>1. <acronym title="пространственное значение"><em>простр.</em></acronym> <em>(<acronym title="употребляется"><em>употр.</em></acronym> также с</em> <acronym title="определительно-притяжательный (суффикс, форма)"><em>опред.-притяж.</em></acronym> <acronym title="суффикс"><em>суф.</em></acronym>) за <em>кого-что-либо</em></t>
      </tg>
@@ -4696,10 +4744,10 @@
    </mg>
 </e>
 <e>
-   <lg t1="С" t2="А" t3="Й" uri="46258-saij-dz" id="46258"><l pos="Po">сайӧдз</l>
+   <lg t1="С" t2="А" t3="Й" uri="46258-saij-dz" id="46258"><l pos="Adp" type="Po">сайӧдз</l>
        <l_var type="molodtsov-cyr">сајӧԇ</l_var>
    </lg>
-   <mg>
+   <mg relId="0">
      <tg xml:lang="rus">
        <t><em>послелог</em> <acronym title="пространственное значение"><em>простр.</em></acronym> до места, находящегося по ту сторону <em>чего-либо</em></t>
      </tg>
@@ -4710,7 +4758,7 @@
    </mg>
 </e>
 <e>
-   <lg t1="С" t2="О" t3="Р" uri="48348-sor-n" id="48348"><l pos="Po">сорӧн</l>
+   <lg t1="С" t2="О" t3="Р" uri="48348-sor-n" id="48348"><l pos="Adp" type="Po">сорӧн</l>
        <l_var type="molodtsov-cyr">сорӧн</l_var>
    </lg>
    <mg relId="0"> <sg><s s_type="see">сор Ⅰ</s></sg>
@@ -4745,7 +4793,7 @@
      <l hid="Hom1">сьӧр</l>
        <l_var type="molodtsov-cyr">ԍӧр</l_var>
    </lg>
-   <mg>
+   <mg relId="0">
      <tg xml:lang="rus">
        <t><em>послелог</em>1. с <em>кем-либо</em></t>
      </tg>
@@ -4773,7 +4821,7 @@
      <l hid="Hom2">сьӧрсьыс</l>
        <l_var type="molodtsov-cyr">ԍӧрԍыс</l_var>
    </lg>
-   <mg>
+   <mg relId="0">
      <tg xml:lang="rus">
        <t><em>послелог</em> после; от</t>
      </tg>
@@ -4784,10 +4832,10 @@
    </mg>
 </e>
 <e>
-   <lg t1="У" t2="Л" t3="Ӧ" uri="56024-ul-d" id="56024"><l pos="Po">улӧд</l>
+   <lg t1="У" t2="Л" t3="Ӧ" uri="56024-ul-d" id="56024"><l pos="Adp" type="Po">улӧд</l>
        <l_var type="molodtsov-cyr">улӧԁ</l_var>
    </lg>
-   <mg>
+   <mg relId="0">
      <tg xml:lang="rus">
        <t><em>послелог</em> <acronym title="переходный падеж"><em>перех.п.</em></acronym> под <em>чем-либо</em></t>
      </tg>
@@ -4802,7 +4850,7 @@
      <l hid="Hom1">чӧж</l>
        <l_var type="molodtsov-cyr">чӧж</l_var>
    </lg>
-   <mg>
+   <mg relId="0">
      <tg xml:lang="rus">
        <t><em>послелог</em> в течение, в продолжение, во время <em>чего-либо</em>, весь; круглый</t>
      </tg>
@@ -4841,10 +4889,10 @@
    </mg>
 </e>
 <e>
-   <lg t1="Ч" t2="Ӧ" t3="Ж" uri="58612-ch-zh-n" id="58612"><l pos="Po">чӧжӧн</l>
+   <lg t1="Ч" t2="Ӧ" t3="Ж" uri="58612-ch-zh-n" id="58612"><l pos="Adp" type="Po">чӧжӧн</l>
        <l_var type="molodtsov-cyr">чӧжӧн</l_var>
    </lg>
-   <mg>
+   <mg relId="0">
      <tg xml:lang="rus">
        <t><em>послелог</em> за <em>какое-либо</em> время</t>
      </tg>
@@ -4855,10 +4903,10 @@
    </mg>
 </e>
 <e>
-   <lg t1="Ш" t2="О" t3="Г" uri="61218-shogys-" id="61218"><l pos="Po">шогысь</l>
+   <lg t1="Ш" t2="О" t3="Г" uri="61218-shogys-" id="61218"><l pos="Adp" type="Po">шогысь</l>
        <l_var type="molodtsov-cyr">шогыԍ</l_var> <rg><r range_space="dialect"/></rg>
    </lg>
-   <mg>
+   <mg relId="0">
      <tg xml:lang="rus">
        <t><em>послелог</em> по, от, из-за <em>чего-либо</em></t>
      </tg>
@@ -4873,10 +4921,10 @@
    </mg>
 </e>
 <e>
-   <lg t1="Ш" t2="Ӧ" t3="Р" uri="61649-sh-rlan-" id="61649"><l pos="Po">шӧрлань</l>
+   <lg t1="Ш" t2="Ӧ" t3="Р" uri="61649-sh-rlan-" id="61649"><l pos="Adp" type="Po">шӧрлань</l>
        <l_var type="molodtsov-cyr">шӧрлаԋ</l_var>
    </lg>
-   <mg>
+   <mg relId="0">
      <tg xml:lang="rus">
        <t><em>послелог</em> <acronym title="приблизительный падеж"><em>прибл.п.</em></acronym> к середине, к центру <em>чего-либо</em></t>
      </tg>
@@ -4895,10 +4943,10 @@
    </mg>
 </e>
 <e>
-   <lg t1="Ш" t2="Ӧ" t3="Р" uri="61673-sh-rsyan-" id="61673"><l pos="Po">шӧрсянь</l>
+   <lg t1="Ш" t2="Ӧ" t3="Р" uri="61673-sh-rsyan-" id="61673"><l pos="Adp" type="Po">шӧрсянь</l>
        <l_var type="molodtsov-cyr">шӧрԍаԋ</l_var>
    </lg>
-   <mg>
+   <mg relId="0">
      <tg xml:lang="rus">
        <t><em>послелог</em> <acronym title="отдалительный падеж"><em>отдал.п.</em></acronym> от середины, от центра <em>чего-либо</em></t>
      </tg>
@@ -4917,10 +4965,10 @@
    </mg>
 </e>
 <e>
-   <lg t1="Ш" t2="Ӧ" t3="Р" uri="61677-sh-rti" id="61677"><l pos="Po">шӧрті</l>
+   <lg t1="Ш" t2="Ӧ" t3="Р" uri="61677-sh-rti" id="61677"><l pos="Adp" type="Po">шӧрті</l>
        <l_var type="molodtsov-cyr">шӧрті</l_var>
    </lg>
-   <mg>
+   <mg relId="0">
      <tg xml:lang="rus">
        <t><em>послелог</em> <acronym title="переходный падеж"><em>перех.п.</em></acronym> по середине, по центру <em>чего-либо</em>; посреди <em>чего-либо</em></t>
      </tg>
@@ -4935,10 +4983,10 @@
    </mg>
 </e>
 <e>
-   <lg t1="Ш" t2="Ӧ" t3="Р" uri="61683-sh-ryn" id="61683"><l pos="Po">шӧрын</l>
+   <lg t1="Ш" t2="Ӧ" t3="Р" uri="61683-sh-ryn" id="61683"><l pos="Adp" type="Po">шӧрын</l>
        <l_var type="molodtsov-cyr">шӧрын</l_var>
    </lg>
-   <mg>
+   <mg relId="0">
      <tg xml:lang="rus">
        <t><em>послелог</em> <acronym title="местный падеж"><em>мест.п.</em></acronym>1. в середине, на середине <em>чего-либо</em>; в центре <em>чего-либо</em>; среди, посреди <em>кого-чего-либо</em></t>
      </tg>
@@ -4966,10 +5014,10 @@
    </mg>
 </e>
 <e>
-   <lg t1="Ш" t2="Ӧ" t3="Р" uri="61686-sh-rys-" id="61686"><l pos="Po">шӧрысь</l>
+   <lg t1="Ш" t2="Ӧ" t3="Р" uri="61686-sh-rys-" id="61686"><l pos="Adp" type="Po">шӧрысь</l>
        <l_var type="molodtsov-cyr">шӧрыԍ</l_var>
    </lg>
-   <mg>
+   <mg relId="0">
      <tg xml:lang="rus">
        <t><em>послелог</em> <acronym title="исходный падеж"><em>исх.п.</em></acronym> из середины <acronym title="употребляется"><em>употр.</em></acronym> <em>также с <acronym title="определительно-притяжательный (суффикс, форма)"><em>опред.-притяж.</em></acronym> <acronym title="суффикс"><em>суф.</em></acronym> чего-либо</em>; из центра <em>чего-либо</em></t>
      </tg>
@@ -4988,10 +5036,10 @@
    </mg>
 </e>
 <e>
-   <lg t1="Ш" t2="Ӧ" t3="Р" uri="61656-sh-r-" id="61656"><l pos="Po">шӧрӧ</l>
+   <lg t1="Ш" t2="Ӧ" t3="Р" uri="61656-sh-r-" id="61656"><l pos="Adp" type="Po">шӧрӧ</l>
        <l_var type="molodtsov-cyr">шӧрӧ</l_var>
    </lg>
-   <mg>
+   <mg relId="0">
      <tg xml:lang="rus">
        <t><em>послелог</em> <acronym title="вступительный падеж"><em>вступ.п.</em></acronym>1. в середину, в центр <em>чего-либо</em>; среди, посреди <em>чего-либо</em></t>
      </tg>
@@ -5058,10 +5106,11 @@
    </mg>
 </e>
 <e>
-   <lg t1="Ш" t2="Ӧ" t3="Р" uri="61665-sh-r-dz" id="61665"><l pos="Po">шӧрӧдз</l>
+  <lg t1="Ш" t2="Ӧ" t3="Р" uri="61665-sh-r-dz" id="61665">
+    <l pos="Adp" type="Po">шӧрӧдз</l>
        <l_var type="molodtsov-cyr">шӧрӧԇ</l_var>
    </lg>
-   <mg>
+   <mg relId="0">
      <tg xml:lang="rus">
        <t><em>послелог</em> <acronym title="предельный падеж"><em>пред.п.</em></acronym> до середины, до центра <em>чего-либо</em></t>
      </tg>
