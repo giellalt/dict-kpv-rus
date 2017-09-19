@@ -7372,7 +7372,7 @@
      </xg>
      <xg>
        <x>гижан уджӧ босьтчыны</x>
-       <xt>взяться за писанину <acronym title="разговорное"><em>разг.</em></acronym></xt>
+       <xt xml:lang="rus">взяться за писанину <acronym title="разговорное"><em>разг.</em></acronym></xt>
      </xg>
    </mg>
 </e>
@@ -10355,7 +10355,7 @@
      </xg>
      <xg>
        <x>дзикӧдз вылӧ</x>
-       <xt>насовсем <acronym title="просторечное"><em>прост.</em></acronym></xt>
+       <xt xml:lang="rus">насовсем <acronym title="просторечное"><em>прост.</em></acronym></xt>
      </xg>
      <xg>
        <x>дзикӧдз вылӧ эндӧдны</x>
@@ -12816,7 +12816,7 @@
      </xg>
      <xg>
        <x>дыр куйлыны</x>
-       <xt>належаться <acronym title="разговорное"><em>разг.</em></acronym>; залежаться, залёживаться</xt>
+       <xt xml:lang="rus">належаться <acronym title="разговорное"><em>разг.</em></acronym>; залежаться, залёживаться</xt>
      </xg>
      <xg>
        <x>дыр кыссьысь</x>
@@ -16151,7 +16151,7 @@
      <xg>
        <x>тусьыс йигӧра</x>
        <rg><r range_space="dialect"/></rg> <acronym title="имя прилагательное"><em>прил.</em></acronym>
-       <xt>зерно крупное</xt>
+       <xt xml:lang="rus">зерно крупное</xt>
      </xg>
    </mg>
    <mg relId="1"> <rg><r range_space="dialect"/></rg>
@@ -18651,7 +18651,7 @@
      </xg>
      <xg>
        <x>теш керысь</x>
-       <xt>комик <acronym title="разговорное"><em>разг.</em></acronym></xt>
+       <xt xml:lang="rus">комик <acronym title="разговорное"><em>разг.</em></acronym></xt>
      </xg>
      <xg>
        <x>турун керысьяс</x>
@@ -19444,7 +19444,7 @@
      </tg>
      <xg>
        <x>кодъяс</x>
-       <xt> <em><acronym title="местоимение"><em>мест.</em></acronym></em> кто<br /></xt>
+       <xt xml:lang="rus"> <em><acronym title="местоимение"><em>мест.</em></acronym></em> кто<br /></xt>
      </xg>
      <xg>
        <x>быдӧн, кодлы абу дыш</x>
@@ -20756,8 +20756,8 @@
      </xg>
      <xg>
        <x>колӧ шуны</x>
-       <xt>надо сказать</xt>
-       <xt><acronym title="вводное слово"><em>вводн.сл.</em></acronym> между прочим</xt>
+       <xt xml:lang="rus">надо сказать</xt>
+       <xt xml:lang="rus"><acronym title="вводное слово"><em>вводн.сл.</em></acronym> между прочим</xt>
      </xg>
      <xg>
        <x>босьт, мыйта колӧ</x>
@@ -21571,7 +21571,7 @@
      </xg>
      <xg>
        <x>кось вылӧ сибдыны</x>
-       <xt>засесть на перекате <em>(о лодке <acronym title="и тому подобное"><em>и т.п.</em></acronym>)</em></xt>
+       <xt xml:lang="rus">засесть на перекате <em>(о лодке <acronym title="и тому подобное"><em>и т.п.</em></acronym>)</em></xt>
      </xg>
    </mg>
 </e>
@@ -24499,11 +24499,11 @@
      </xg>
      <xg>
        <x>кыз путкыль</x>
-       <xt>толстуха, толстушка <acronym title="просторечное"><em>прост.</em></acronym>; толстяк</xt>
+       <xt xml:lang="rus">толстуха, толстушка <acronym title="просторечное"><em>прост.</em></acronym>; толстяк</xt>
      </xg>
      <xg>
        <x>кыз рушкуа</x>
-       <xt>толстобрюхий <acronym title="просторечное"><em>прост.</em></acronym></xt>
+       <xt xml:lang="rus">толстобрюхий <acronym title="просторечное"><em>прост.</em></acronym></xt>
      </xg>
      <xg>
        <x>лёк кыз</x>
@@ -25756,7 +25756,7 @@
      </xg>
      <xg>
        <x>кыр руч</x>
-       <xt>лис <acronym title="устаревшее слово"><em>уст.</em></acronym></xt>
+       <xt xml:lang="rus">лис <acronym title="устаревшее слово"><em>уст.</em></acronym></xt>
      </xg>
    </mg>
 </e>
@@ -29229,7 +29229,7 @@
      </xg>
      <xg>
        <x>лишнӧйсӧ инавны</x>
-       <xt>сбыть излишек <em>(<acronym title="например"><em>напр.</em></acronym>, сена)</em></xt>
+       <xt xml:lang="rus">сбыть излишек <em>(<acronym title="например"><em>напр.</em></acronym>, сена)</em></xt>
      </xg>
      <xg>
        <x>куд тыр шег, а ӧти лишнӧй</x>
@@ -30479,7 +30479,7 @@
      </xg>
      <xg>
        <x>лэччӧдмӧн шедӧма сьӧла-тарыс</x>
-       <xt>промысловой дичи попалось <em>(в силки</em>, <em>ловушки)</em> на одну ношу</xt>
+       <xt xml:lang="rus">промысловой дичи попалось <em>(в силки</em>, <em>ловушки)</em> на одну ношу</xt>
      </xg>
    </mg>
 </e>
@@ -32794,7 +32794,7 @@
      </xg>
      <xg>
        <x>менӧ аслад доддьӧ эн пуксьӧд, ме абу тэ кодь</x>
-       <xt>не меряй меня на свой аршин</xt>
+       <xt xml:lang="rus">не меряй меня на свой аршин</xt>
        <xt xml:lang="rus" src_type="literally:буквально">не усаживай меня в свои сани), я не такой, как ты</xt>
      </xg>
      <xg>
@@ -33183,7 +33183,7 @@
      </xg>
      <xg>
        <x>мича лун</x>
-       <xt>погожий, ясный день; вёдро <acronym title="областное слово, выражение"><em>обл.</em></acronym></xt>
+       <xt xml:lang="rus">погожий, ясный день; вёдро <acronym title="областное слово, выражение"><em>обл.</em></acronym></xt>
      </xg>
      <xg>
        <x>мича дырйи</x>
@@ -35003,7 +35003,7 @@
      </xg>
      <xg>
        <x>◊ мый морла!</x>
-       <xt> какого дьявола! <acronym title="просторечное"><em>прост.</em></acronym></xt>
+       <xt xml:lang="rus"> какого дьявола! <acronym title="просторечное"><em>прост.</em></acronym></xt>
      </xg>
      <xg>
        <x>◊ мый морла сэтчӧ муннысӧ?</x>
@@ -35912,7 +35912,7 @@
      </xg>
      <xg>
        <x>мӧд ног кӧ</x>
-       <xt> <em>в роли</em> <acronym title="вводное слово"><em>вводн.сл.</em></acronym> иначе, иными словами</xt>
+       <xt xml:lang="rus"> <em>в роли</em> <acronym title="вводное слово"><em>вводн.сл.</em></acronym> иначе, иными словами</xt>
      </xg>
      <xg>
        <x>мӧд нога <em>или</em> мӧд ногса</x>
@@ -36228,7 +36228,7 @@
      </xg>
      <xg>
        <x>◊ мӧдарӧ кӧ</x>
-       <xt>опять-таки; опять же <acronym title="просторечное"><em>прост.</em></acronym></xt>
+       <xt xml:lang="rus">опять-таки; опять же <acronym title="просторечное"><em>прост.</em></acronym></xt>
      </xg>
      <xg>
        <x>◊ мӧдарӧ кӧ, колӧ шуны ...</x>
@@ -36744,7 +36744,7 @@
      </xg>
      <xg>
        <x>назган ныра</x>
-       <xt>гундосый <acronym title="просторечное"><em>прост.</em></acronym>, говорящий в нос</xt>
+       <xt xml:lang="rus">гундосый <acronym title="просторечное"><em>прост.</em></acronym>, говорящий в нос</xt>
      </xg>
    </mg>
 </e>
@@ -38302,7 +38302,7 @@
      </tg>
       <xg>
 	<x>йӧй нисьӧ прӧсуж</x>
-	<xt>глуповатый, дурашливый <acronym title="разговорное"><em>разг.</em></acronym></xt>
+	<xt xml:lang="rus">глуповатый, дурашливый <acronym title="разговорное"><em>разг.</em></acronym></xt>
 	<xt xml:lang="rus" src_type="proverb:буквально">не то глупый, не то умный)</xt>
      </xg>
      <xg>
@@ -38331,7 +38331,7 @@
      </xg>
      <xg>
        <x>эм нисьӧ абу кодь</x>
-       <xt><acronym title="пренебрежительное"><em>пренебр.</em></acronym> <em>по адресу кого-либо</em> бесполезный, от него толку мало; никчёмный <acronym title="разговорное"><em>разг.</em></acronym></xt>
+       <xt xml:lang="rus"><acronym title="пренебрежительное"><em>пренебр.</em></acronym> <em>по адресу кого-либо</em> бесполезный, от него толку мало; никчёмный <acronym title="разговорное"><em>разг.</em></acronym></xt>
      </xg>
    </mg>
 </e>
@@ -38471,7 +38471,7 @@
      </tg>
       <xg>
 	<x>вӧв новлӧдлысь</x>
-	<xt>водящий лошадь под уздцы <em>(<acronym title="например"><em>напр.</em></acronym>, при пахоте)</em></xt>
+	<xt xml:lang="rus">водящий лошадь под уздцы <em>(<acronym title="например"><em>напр.</em></acronym>, при пахоте)</em></xt>
       </xg>
      <xg>
        <x>синтӧм мортӧс новлӧдлысь</x>
@@ -38534,7 +38534,7 @@
      </tg>
       <xg>
 	<x>быд ногӧн</x>
-	<xt>по-всякому, всячески; всяко <acronym title="разговорное"><em>разг.</em></acronym></xt>
+	<xt xml:lang="rus">по-всякому, всячески; всяко <acronym title="разговорное"><em>разг.</em></acronym></xt>
       </xg>
      <xg>
        <x>колана ногӧн</x>
@@ -38744,7 +38744,7 @@
      </xg>
      <xg>
       <x>вӧв нуӧдысь</x>
-        <xt> человек <em>(обычно мальчик)</em>, который ведёт под уздцы неприученную лошадь (<acronym title="например"><em>напр.</em></acronym>, <em>на пахоте)</em></xt>
+        <xt xml:lang="rus"> человек <em>(обычно мальчик)</em>, который ведёт под уздцы неприученную лошадь (<acronym title="например"><em>напр.</em></acronym>, <em>на пахоте)</em></xt>
      </xg>
      <xg>
        <x>регистрация нуӧдысь нывбаба</x>
@@ -39729,7 +39729,7 @@
      </xg>
      <xg>
       <x>няръясян сарай</x>
-        <xt> сарай, где мнут лён; мяльня <acronym title="областное слово, выражение"><em>обл.</em></acronym></xt>
+        <xt xml:lang="rus"> сарай, где мнут лён; мяльня <acronym title="областное слово, выражение"><em>обл.</em></acronym></xt>
      </xg>
    </mg>
    <mg relId="1">
@@ -40271,7 +40271,7 @@
      </xg>
      <xg>
       <x>оз тусь</x>
-        <xt> ягода земляники; <acronym title="в переносном значении"><em>перен.</em></acronym> ягодка</xt>
+        <xt xml:lang="rus"> ягода земляники; <acronym title="в переносном значении"><em>перен.</em></acronym> ягодка</xt>
      </xg>
      <xg>
        <x>оз тусьяс, зэв тай ті зільӧсь</x>
@@ -41126,7 +41126,7 @@
      </xg>
      <xg>
       <x>ортсӧ лысьтӧм йӧв</x>
-        <xt> сдой <acronym title="областное слово, выражение"><em>обл.</em></acronym></xt>
+        <xt xml:lang="rus"> сдой <acronym title="областное слово, выражение"><em>обл.</em></acronym></xt>
      </xg>
      <xg>
        <x>◊ ортсӧ ветлыны</x>
@@ -42177,7 +42177,7 @@
      </xg>
      <xg>
       <x>◊ кос пельсаӧ шыр усьӧма</x>
-      <xt>о наступлении беременности</xt>
+      <xt xml:lang="rus">о наступлении беременности</xt>
       <xt xml:lang="rus" src_type="literally:буквально">в порожней <em>(сухой)</em> кадке мышь утонула</xt>
      </xg>
    </mg>
@@ -42361,7 +42361,7 @@
      </tg>
       <xg>
         <x>налог мынтытӧмысь пеня кайӧма</x>
-        <xt> за просрочку платежа налога набежала пеня <acronym title="разговорное"><em>разг.</em></acronym></xt>
+        <xt xml:lang="rus"> за просрочку платежа налога набежала пеня <acronym title="разговорное"><em>разг.</em></acronym></xt>
       </xg>
      <xg>
        <x>пеня содӧма</x>
@@ -42824,7 +42824,7 @@
      </xg>
      <xg>
       <x>пиньӧ пырысь</x>
-        <xt> задира <acronym title="разговорное"><em>разг.</em></acronym></xt>
+        <xt xml:lang="rus"> задира <acronym title="разговорное"><em>разг.</em></acronym></xt>
      </xg>
      <xg>
        <x>найӧ пиньынӧсь</x>
@@ -45661,11 +45661,11 @@
      </tg>
       <xg>
         <x>мӧдар путкыль</x>
-        <xt> кавардак <acronym title="разговорное"><em>разг.</em></acronym>; вверх дном</xt>
+        <xt xml:lang="rus"> кавардак <acronym title="разговорное"><em>разг.</em></acronym>; вверх дном</xt>
       </xg>
       <xg>
         <x>ставыс лои мӧдар путкыль</x>
-        <xt> всё пошло шиворот-навыворот <acronym title="разговорное"><em>разг.</em></acronym></xt>
+        <xt xml:lang="rus"> всё пошло шиворот-навыворот <acronym title="разговорное"><em>разг.</em></acronym></xt>
       </xg>
      <xg>
        <x>мӧдар путкыль путкыльтны</x>
@@ -47467,7 +47467,7 @@
      </xg>
      <xg>
       <x>рак син</x>
-        <xt> <acronym title="в прямом значении"><em>прям.</em></acronym> <em>и</em> <acronym title="в переносном значении"><em>перен.</em></acronym> рачьи глаза <em>(выпученные)</em></xt>
+        <xt xml:lang="rus"> <acronym title="в прямом значении"><em>прям.</em></acronym> <em>и</em> <acronym title="в переносном значении"><em>перен.</em></acronym> рачьи глаза <em>(выпученные)</em></xt>
      </xg>
      <xg>
        <x>рак моз бӧрӧн мунны</x>
@@ -52572,7 +52572,7 @@
      </tg>
       <xg>
         <x>сиктӧдз мунны колис верст дас, стӧчджыка кӧ кык час гӧгӧр</x>
-        <xt> до села ещё десять километров, <acronym title="то есть"><em>т.е.</em></acronym> два часа пути</xt>
+        <xt xml:lang="rus"> до села ещё десять километров, <acronym title="то есть"><em>т.е.</em></acronym> два часа пути</xt>
       </xg>
      <xg>
        <x>стӧчджыка кӧ шуны</x>
@@ -56193,7 +56193,7 @@
      </xg>
      <xg>
       <x>теш да серам</x>
-        <xt> смешки <acronym title="разговорное"><em>разг.</em></acronym></xt>
+        <xt xml:lang="rus"> смешки <acronym title="разговорное"><em>разг.</em></acronym></xt>
      </xg>
      <xg>
        <x>тешӧ бергӧдны</x>
@@ -57207,7 +57207,7 @@
    <mg relId="0"><span class="underline">употребляется лишь в составе выражений:</span>
    <xg>
      <x>тотшкан кодь ён</x>
-        <xt> крепкий, здоровый <em>(<acronym title="преимущественно"><em>преим.</em></acronym> о человеке)</em></xt>
+        <xt xml:lang="rus"> крепкий, здоровый <em>(<acronym title="преимущественно"><em>преим.</em></acronym> о человеке)</em></xt>
    </xg>
    </mg>
 </e>
@@ -57825,7 +57825,7 @@
      </xg>
      <xg>
       <x>туй вуджны</x>
-        <xt> <acronym title="в прямом значении"><em>прям.</em></acronym> <em>и</em> <acronym title="в переносном значении"><em>перен.</em></acronym> перейти дорогу</xt>
+        <xt xml:lang="rus"> <acronym title="в прямом значении"><em>прям.</em></acronym> <em>и</em> <acronym title="в переносном значении"><em>перен.</em></acronym> перейти дорогу</xt>
      </xg>
      <xg>
        <x>туй вунӧдны</x>
@@ -57841,7 +57841,7 @@
      </xg>
      <xg>
       <x>туй потшны</x>
-        <xt> <acronym title="в прямом значении"><em>прям.</em></acronym> <em>и</em> <acronym title="в переносном значении"><em>перен.</em></acronym> преградить дорогу</xt>
+        <xt xml:lang="rus"> <acronym title="в прямом значении"><em>прям.</em></acronym> <em>и</em> <acronym title="в переносном значении"><em>перен.</em></acronym> преградить дорогу</xt>
      </xg>
      <xg>
        <x>туй пуксьӧм бӧрын</x>
@@ -57861,7 +57861,7 @@
      </xg>
      <xg>
       <x>туй писькӧдны</x>
-        <xt> <acronym title="в прямом значении"><em>прям.</em></acronym> <em>и</em> <acronym title="в переносном значении"><em>перен.</em></acronym> пробить дорогу</xt>
+        <xt xml:lang="rus"> <acronym title="в прямом значении"><em>прям.</em></acronym> <em>и</em> <acronym title="в переносном значении"><em>перен.</em></acronym> пробить дорогу</xt>
      </xg>
      <xg>
        <x>туйысь вошны</x>
@@ -58282,7 +58282,7 @@
    <mg relId="0"><span class="underline">употребляется лишь в составе выражений:</span>
    <xg>
      <x>тун ни бун</x>
-        <xt> <span class="underline">смотри:</span> <stress>ту ни бу</stress> (<span class="underline">в статье</span> <xref link="ту"> ту</xref>)</xt>
+        <xt xml:lang="rus"> <span class="underline">смотри:</span> <stress>ту ни бу</stress> (<span class="underline">в статье</span> <xref link="ту"> ту</xref>)</xt>
      </xg>
      <xg>
        <x>тун-тон</x>
@@ -58372,7 +58372,7 @@
    <mg relId="0"><span class="underline">употребляется лишь в составе выражений:</span>
    <xg>
      <x>турбыль усьны</x>
-        <xt>упасть, кувыркнуться <acronym title="разговорное"><em>разг.</em></acronym></xt>
+        <xt xml:lang="rus">упасть, кувыркнуться <acronym title="разговорное"><em>разг.</em></acronym></xt>
    </xg>
      <xg>
        <x>чеччыштіс да турбыль уси</x>
@@ -61000,7 +61000,7 @@
      </xg>
      <xg>
       <x>тӧв йыв бергач</x>
-        <xt> легкомысленный, непостоянный (о человеке; <acronym title="буквально"><em>букв.</em></acronym> как флюгер)</xt>
+        <xt xml:lang="rus"> легкомысленный, непостоянный (о человеке; <acronym title="буквально"><em>букв.</em></acronym> как флюгер)</xt>
      </xg>
      <xg>
        <x>тӧв йыв лэдзны</x>
@@ -63955,7 +63955,7 @@
      </xg>
      <xg>
       <x>◊ усян кабала</x>
-        <xt> извещение о смерти; похоронка <acronym title="разговорное"><em>разг.</em></acronym></xt>
+        <xt xml:lang="rus"> извещение о смерти; похоронка <acronym title="разговорное"><em>разг.</em></acronym></xt>
      </xg>
    </mg>
    <mg relId="1">
@@ -63986,7 +63986,7 @@
      </xg>
      <xg>
       <x>◊ усяна кабала</x>
-        <xt> извещение о смерти; похоронка <acronym title="разговорное"><em>разг.</em></acronym></xt>
+        <xt xml:lang="rus"> извещение о смерти; похоронка <acronym title="разговорное"><em>разг.</em></acronym></xt>
      </xg>
    </mg>
    <mg relId="1">
@@ -64913,7 +64913,7 @@
      </xg>
      <xg>
       <x>◊ чер дор моз сулавны</x>
-        <xt> стоять на своём ( <acronym title="буквально"><em>букв.</em></acronym> стоять подобно лезвию топора)</xt>
+        <xt xml:lang="rus"> стоять на своём ( <acronym title="буквально"><em>букв.</em></acronym> стоять подобно лезвию топора)</xt>
      </xg>
      <xg>
        <x>◊ чер ни пурт оз мӧрччы (сылы)</x>
@@ -65642,11 +65642,11 @@
      </tg>
      <xg>
        <x>мӧдӧді сылы чолӧмпас</x>
-        <xt> я отправил ему (ей) открытку</xt>
+        <xt xml:lang="rus"> я отправил ему (ей) открытку</xt>
      </xg>
      <xg>
        <x>меным локтіс налӧн чолӧмпас </x>
-        <xt>я получил(а) от них открытку</xt>
+        <xt xml:lang="rus">я получил(а) от них открытку</xt>
      </xg>
      <sg><s pos="N" s_type="syn">чолӧма серпас</s></sg>
    </mg>
@@ -68204,7 +68204,7 @@
      </tg>
       <xg>
         <x>загӧр шом, чизыр шом</x>
-        <xt> очень кислый, кислятина <acronym title="разговорное"><em>разг.</em></acronym></xt>
+        <xt xml:lang="rus"> очень кислый, кислятина <acronym title="разговорное"><em>разг.</em></acronym></xt>
       </xg>
      <xg>
        <x>нянь шом</x>
@@ -74234,7 +74234,7 @@
      </tg>
       <xg>
 	<x>ӧгралысь чужӧма</x>
-	<xt> с горящим <em>(напр.</em>, <em>от мороза)</em> лицом</xt>
+	<xt xml:lang="rus"> с горящим <em>(напр.</em>, <em>от мороза)</em> лицом</xt>
       </xg>
      <xg>
        <x>ӧгралысь синъяса кӧин</x>

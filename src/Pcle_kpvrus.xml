@@ -123,7 +123,7 @@
    <mg relId="0"><span class="underline">употребляется лишь в составе выражений:</span>
     <xg>
       <x>бласлӧ кристос</x>
-     <xt>(<em>в роли</em> <acronym title="вводное слово"><em>вводн.сл.</em></acronym>) <acronym title="устаревшее слово"><em>уст.</em></acronym> с богом <em>(пожелание успеха, удачи в каком-либо деле)</em></xt>
+     <xt xml:lang="rus">(<em>в роли</em> <acronym title="вводное слово"><em>вводн.сл.</em></acronym>) <acronym title="устаревшее слово"><em>уст.</em></acronym> с богом <em>(пожелание успеха, удачи в каком-либо деле)</em></xt>
     </xg>
      <xg>
        <x>петӧ, бласлӧ, котралыштӧй</x>
@@ -200,7 +200,7 @@
    <mg relId="0"><span class="underline">употребляется лишь в составе выражений:</span>
     <xg>
       <x>вильс да вольс</x>
-     <xt><sg><s pos="Pcle" s_type="see">вильски-вольски</s></sg></xt>
+     <xt xml:lang="rus"><sg><s pos="Pcle" s_type="see">вильски-вольски</s></sg></xt>
     </xg>
    </mg>
 </e>
@@ -308,7 +308,7 @@
      </xg>
       <xg>
         <x>чери, инӧ, кыйин?</x>
-     <xt>ты, значит, рыбу ловил?</xt>
+     <xt xml:lang="rus">ты, значит, рыбу ловил?</xt>
       </xg>
       <sg><s pos="Pcle" relId="1" s_type="seeAlso">сідзкӧ</s></sg>
    </mg>
@@ -392,7 +392,7 @@
      </tg>
     <xg>
       <x>абу мӧй тадз?</x>
-     <xt>разве не так?</xt>
+     <xt xml:lang="rus">разве не так?</xt>
     </xg>
     <sg><s pos="Pcle" s_type="seeAlso">ӧмӧй в 1 значении</s></sg>
    </mg>
