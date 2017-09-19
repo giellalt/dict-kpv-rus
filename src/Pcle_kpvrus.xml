@@ -120,7 +120,11 @@
      <l pos="Pcle">бласлӧ</l>
        <l_var type="molodtsov-cyr">бласлӧ</l_var>
    </lg>
-   <mg relId="0"><span class="underline">употребляется лишь в составе выражений:</span><br /><stress>&#160;&#160;&#160;бласлӧ кристос</stress> (<em>в роли</em> <acronym title="вводное слово"><em>вводн.сл.</em></acronym>) <acronym title="устаревшее слово"><em>уст.</em></acronym> с богом <em>(пожелание успеха, удачи в каком-либо деле)</em><br />
+   <mg relId="0"><span class="underline">употребляется лишь в составе выражений:</span>
+    <xg>
+      <x>бласлӧ кристос</x>
+     <xt>(<em>в роли</em> <acronym title="вводное слово"><em>вводн.сл.</em></acronym>) <acronym title="устаревшее слово"><em>уст.</em></acronym> с богом <em>(пожелание успеха, удачи в каком-либо деле)</em></xt>
+    </xg>
      <xg>
        <x>петӧ, бласлӧ, котралыштӧй</x>
        <xt xml:lang="rus">идите, с богом, побегайте</xt>
@@ -193,7 +197,11 @@
      <l pos="Pcle">вильс</l>
        <l_var type="molodtsov-cyr">віԉс</l_var>
    </lg>
-   <mg relId="0"><span class="underline">употребляется лишь в составе выражений:</span><br /><stress>&#160;&#160;&#160;вильс да вольс</stress> <sg><s pos="Pcle" s_type="see">вильски-вольски</s></sg>
+   <mg relId="0"><span class="underline">употребляется лишь в составе выражений:</span>
+    <xg>
+      <x>вильс да вольс</x>
+     <xt><sg><s pos="Pcle" s_type="see">вильски-вольски</s></sg></xt>
+    </xg>
    </mg>
 </e>
 <e>
@@ -297,7 +305,12 @@
      <xg>
        <x>тэ, инӧ, он тӧд?</x>
        <xt xml:lang="rus">значит, ты не знаешь?</xt>
-     </xg><br /><stress>&#160;&#160;&#160;чери, инӧ, кыйин?</stress> ты, значит, рыбу ловил? <sg><s pos="Pcle" s_type="seeAlso">сідзкӧ во 2 значении</s></sg>
+     </xg>
+      <xg>
+        <x>чери, инӧ, кыйин?</x>
+     <xt>ты, значит, рыбу ловил?</xt>
+      </xg>
+      <sg><s pos="Pcle" relId="1" s_type="seeAlso">сідзкӧ</s></sg>
    </mg>
 </e>
 <e>
@@ -376,7 +389,12 @@
    <mg relId="0">
      <tg xml:lang="rus">
        <t pos="Pcle"><acronym title="вопросительное (местоимение, частица)"><em>вопр.</em></acronym> разве</t>
-     </tg><br /><stress>&#160;&#160;&#160;абу мӧй тадз?</stress> разве не так? <sg><s pos="Pcle" s_type="seeAlso">ӧмӧй в 1 значении</s></sg>
+     </tg>
+    <xg>
+      <x>абу мӧй тадз?</x>
+     <xt>разве не так?</xt>
+    </xg>
+    <sg><s pos="Pcle" s_type="seeAlso">ӧмӧй в 1 значении</s></sg>
    </mg>
 </e>
 <e>
@@ -402,12 +420,16 @@
      </xg><br />
      <xg>
        <x>не гӧн сійӧ меным </x>
-       <xt xml:lang="rus"><acronym title="поговорка"><em>погов.</em></acronym> он мне не пара</xt>
+       <xt xml:lang="rus"  src_type="saying:поговорка">он мне не пара</xt>
      </xg><br />
      <xg>
        <x>не кӧ кучикыс, лыыс нин киссис </x>
-       <xt xml:lang="rus"><acronym title="поговорка"><em>погов.</em></acronym> если бы не кожа, кости бы уже рассыпались <em>(о старых людях)</em></xt>
-     </xg><br /><stress>&#160;&#160;&#160;тэныд рок не рок дай пань не пань </stress><acronym title="поговорка"><em>погов.</em></acronym> тебе каша не каша и ложка не ложка <em>(<acronym title="то есть"><em>т.е.</em></acronym> всем недоволен)</em>
+       <xt xml:lang="rus"  src_type="saying:поговорка">если бы не кожа, кости бы уже рассыпались <em>(о старых людях)</em></xt>
+     </xg>
+     <xg>
+       <x>тэныд рок не рок дай пань не пань</x>
+       <xt src_type="saying:поговорка">тебе каша не каша и ложка не ложка <em>(<acronym title="то есть"><em>т.е.</em></acronym> всем недоволен)</em></xt>
+     </xg>
    </mg>
    <mg relId="1">
      <tg xml:lang="rus">
@@ -650,7 +672,7 @@
      </xg><br />
      <xg>
        <x>◊ «эськӧыс», «гашкӧыс» да «пӧыс» – куим чоя-вока </x>
-       <xt xml:lang="rus"><acronym title="поговорка"><em>погов.</em></acronym> «если», «может» и «говорят» трое братьев и сестёр</xt>
+       <xt xml:lang="rus"  src_type="saying:поговорка">«если», «может» и «говорят» трое братьев и сестёр</xt>
      </xg>
    </mg>
 </e>
