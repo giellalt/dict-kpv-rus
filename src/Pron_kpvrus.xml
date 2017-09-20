@@ -2976,5 +2976,46 @@
      </xg>
    </mg>
 </e>
+<e>
+   <lg t1="А" t2="С" t3="Ь" uri="1275-as-nym-s" id="1275">
+     <l pos="Pron">асьнымӧс</l>
+       <l_var type="molodtsov-cyr">aԍнымӧс</l_var>
+   </lg>
+   <mg relId="0">
+     <tg xml:lang="rus">
+       <t><acronym title="винительный падеж"><em>вин.п.</em></acronym> <em>от</em> <xref link="асьным"> асьным</xref></t>
+     </tg>
+     <xg>
+       <x>асьнымӧс корисны</x>
+       <xt xml:lang="rus">нас самих пригласили</xt>
+     </xg>
+   </mg>
+</e>
+<e>
+   <lg t1="А" t2="Ч" t3="Ы" uri="1353-achym-n" id="1353">
+     <l pos="Pron">ачымӧн</l>
+       <l_var type="molodtsov-cyr">aчымӧн</l_var>
+   </lg>
+   <mg relId="0"> <sg><s s_type="see">аснам</s></sg>
+     <tg xml:lang="rus">
+       <t></t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg t1="А" t2="Ч" t3="Ы" uri="1354-achym-s" id="1354">
+     <l pos="Pron">ачымӧс</l>
+       <l_var type="molodtsov-cyr">aчымӧс</l_var>
+   </lg>
+   <mg relId="0">
+     <tg xml:lang="rus">
+       <t><acronym title="винительный падеж"><em>вин.п.</em></acronym> <em>от</em> <xref link="ачым"> ачым</xref></t>
+     </tg>
+     <xg>
+       <x>ачымӧс вида</x>
+       <xt xml:lang="rus">сам себя ругаю</xt>
+     </xg>
+   </mg>
+</e>
 
 </r> 

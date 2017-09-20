@@ -70946,5 +70946,137 @@
      </xg>
    </mg>
 </e>
+<e>
+   <lg t1="А" t2="С" t3="Ъ" uri="1213-as-ya" id="1213">
+     <l pos="A">асъя</l>
+       <l_var type="molodtsov-cyr">aсја</l_var>
+   </lg>
+   <mg relId="0">
+     <tg xml:lang="rus">
+       <t>утренний</t>
+     </tg>
+     <xg>
+       <x>асъя йӧв</x>
+       <xt xml:lang="rus">утреннее молоко</xt>
+     </xg>
+     <xg>
+       <x>асъя кыа</x>
+       <xt xml:lang="rus">утренняя заря</xt>
+     </xg><br />
+     <xg>
+       <x>асъя зэрыд – гӧсьт </x>
+       <xt xml:lang="rus" src_type="saying:поговорка">утренний дождь – гость <em>(быстро пройдёт)</em></xt>
+     </xg>
+   </mg>
+   <mg relId="1">
+     <tg xml:lang="rus">
+       <t><acronym title="церковное слово, выражение"><em>церк.</em></acronym> заутреня</t>
+     </tg>
+     <xg>
+       <x>асъя помасис</x>
+       <xt xml:lang="rus">заутреня кончилась</xt>
+     </xg>
+   </mg>
+   <mg relId="2">
+     <tg xml:lang="rus">
+       <t><acronym title="неологизм"><em>неол.</em></acronym> завтрак</t>
+     </tg>
+     <xg>
+       <x>сёйыштіс асъя да босьтчис уджавны</x>
+       <xt xml:lang="rus">позавтракала и принялась за работу</xt>
+     </xg>
+     <xg>
+       <x>◊ асъя чеччӧдысь да рытъя водтӧдысь</x>
+       <xt xml:lang="rus"> укладывающий вечером и будящий утром <em>(говорят о том, кто часто бывает у кого-либо)</em></xt>
+     </xg>
+   </mg>
+</e>
+<e>
+   <lg t1="Б" t2="А" t3="Р" uri="1742-bar-yov" id="1742">
+     <l pos="A">баръёв</l>
+       <l_var type="molodtsov-cyr">барјов</l_var>
+   </lg>
+   <mg relId="0">
+     <tg xml:lang="rus">
+       <t>кривой; косой</t>
+     </tg>
+     <xg>
+       <x>баръёв кок</x>
+       <xt xml:lang="rus">кривые ноги; кривые лапы</xt>
+     </xg>
+     <xg>
+       <x>баръёв кока</x>
+       <xt xml:lang="rus">кривоногий, косолапый</xt>
+     </xg><br />
+     <xg>
+       <x>баръёв кока ош</x>
+       <xt xml:lang="rus"> косолапый медведь</xt>
+     </xg> <sg><s s_type="seeAlso">чукля</s></sg>
+   </mg>
+</e>
+<e>
+   <lg t1="Б" t2="И" t3="А" uri="2209-biavizh" id="2209">
+     <l pos="A">биавиж</l>
+       <l_var type="molodtsov-cyr">біавіж</l_var>
+   </lg>
+   <mg relId="0">
+     <tg xml:lang="rus">
+       <t>оранжевый; огненно-жёлтый</t>
+     </tg>
+     <xg>
+       <x>асыввылын енэжыс лои биавиж рӧма</x>
+       <xt xml:lang="rus">небо на востоке стало оранжевым</xt>
+     </xg>
+   </mg>
+</e>
+<e>
+   <lg t1="Б" t2="О" t3="К" uri="2436-bokisa" id="2436">
+     <l pos="A">бокиса</l>
+       <l_var type="molodtsov-cyr">бокіса</l_var>
+   </lg>
+   <mg relId="0"> <sg><s s_type="see">бокӧвӧй Ⅰ в 1 значении</s></sg>
+     <tg xml:lang="rus">
+       <t></t>
+     </tg>
+   </mg>
+   <mg relId="1">
+     <tg xml:lang="rus">
+       <t>импортный</t>
+     </tg>
+     <xg>
+       <x>бокиса вузӧс</x>
+       <xt xml:lang="rus">импортный товар</xt>
+     </xg>
+   </mg>
+</e>
+<e>
+   <lg t1="Б" t2="О" t3="К" uri="2490-bokysa" id="2490">
+     <l pos="A">бокыса</l>
+       <l_var type="molodtsov-cyr">бокыса</l_var>
+   </lg>
+   <mg relId="0"> <sg><s s_type="see">бокиса в 1 значении</s></sg>
+     <tg xml:lang="rus">
+       <t></t>
+     </tg>
+   </mg>
+   <mg relId="1">
+     <tg xml:lang="rus">
+       <t>боковой</t>
+     </tg>
+     <xg>
+       <x>бокыса ӧдзӧстор</x>
+       <xt xml:lang="rus">боковая дверка</xt>
+     </xg>
+   </mg>
+   <mg relId="2">
+     <tg xml:lang="rus">
+       <t>находящийся в стороне</t>
+     </tg>
+     <xg>
+       <x>бокыса грезд</x>
+       <xt xml:lang="rus">селение, находящееся в стороне</xt>
+     </xg>
+   </mg>
+</e>
 
 </r> 
