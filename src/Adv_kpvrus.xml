@@ -916,7 +916,8 @@
      </xg><br />
      <xg>
        <x>бур вӧчан – бурӧн и нималан </x>
-       <xt xml:lang="rus" src_type="proverb:пословица">как аукнется, так и откликнется </xt><com>(<acronym title="буквально"><em>букв.</em></acronym> сделаешь добро, добром прославишься)</com>
+       <xt xml:lang="rus" src_type="proverb:пословица">как аукнется, так и откликнется </xt>
+        <xt xml:lang="rus" src_type="literally:буквально"> сделаешь добро, добром прославишься</xt>
      </xg>
    </mg>
    <mg relId="1">
@@ -929,7 +930,8 @@
      </xg><br />
      <xg>
        <x>◊ заводитны бурӧн, а помавны дурӧн</x>
-       <xt xml:lang="rus">начать за здравие, а кончить за упокой </xt><com>(<acronym title="буквально"><em>букв.</em></acronym> начать добром, кончить злом)</com>
+       <xt xml:lang="rus">начать за здравие, а кончить за упокой </xt>
+        <xt xml:lang="rus" src_type="literally:буквально"> начать добром, кончить злом</xt>
      </xg><br />
      <xg>
        <x>◊ дась бурӧн пышйыны</x>
@@ -2980,7 +2982,8 @@
      </xg><br />
      <xg>
        <x>гажаа овсьӧ, уджыд кӧ бура вӧчсьӧ </x>
-       <xt xml:lang="rus" src_type="proverb:пословица">труд красит человека, а лень портит </xt><com>(<acronym title="буквально"><em>букв.</em></acronym> когда работа спорится, тогда весело живётся)</com>
+       <xt xml:lang="rus" src_type="proverb:пословица">труд красит человека, а лень портит </xt>
+        <xt xml:lang="rus" src_type="literally:буквально"> когда работа спорится, тогда весело живётся</xt>
      </xg>
    </mg>
 </e>
@@ -3534,7 +3537,8 @@
      </xg><br />
      <xg>
        <x>◊ тӧлысь гуга, шонді бана</x>
-       <xt xml:lang="rus">раскрасавица </xt><com>(<acronym title="буквально"><em>букв.</em></acronym> изнанкой как луна, лицом как солнце)</com>
+       <xt xml:lang="rus">раскрасавица </xt>
+        <xt xml:lang="rus" src_type="literally:буквально"> изнанкой как луна, лицом как солнце</xt>
      </xg>
    </mg>
 </e>
@@ -3807,7 +3811,8 @@
      </xg><br />
      <xg>
        <x>сёрнитӧ гылыда, да чӧвталӧ пыдӧ </x>
-       <xt xml:lang="rus" src_type="proverb:пословица">мягко стелет, да жёстко спать </xt><com>(<acronym title="буквально"><em>букв.</em></acronym> гладко говорит, но глубоко закидывает)</com>
+       <xt xml:lang="rus" src_type="proverb:пословица">мягко стелет, да жёстко спать </xt>
+        <xt xml:lang="rus" src_type="literally:буквально"> гладко говорит, но глубоко закидывает</xt>
      </xg>
    </mg>
    <mg relId="1">
@@ -4895,7 +4900,8 @@
      </xg><br />
      <xg>
        <x>кӧсйысис локны, кык пӧвста долыдпырысь на</x>
-       <xt xml:lang="rus">обещал прийти, притом с большой радостью </xt><com>(<acronym title="буквально"><em>букв.</em></acronym> с двойной радостью)</com>
+       <xt xml:lang="rus">обещал прийти, притом с большой радостью </xt>
+        <xt xml:lang="rus" src_type="literally:буквально"> с двойной радостью</xt>
      </xg>
    </mg>
 </e>
@@ -11616,7 +11622,8 @@
      </tg><br />
      <xg>
        <x>мышкӧ шыбитан, да водзӧ усьӧ </x>
-       <xt xml:lang="rus" src_type="proverb:пословица">бросишь назад, а упадёт вперёд </xt><com>(<acronym title="соответствует"><em>соотв.</em></acronym> не рой другому яму – сам в неё попадёшь)</com>
+       <xt xml:lang="rus" src_type="proverb:пословица">бросишь назад, а упадёт вперёд </xt>
+        <xt xml:lang="rus" src_type="equivalent:соответствует"> не рой другому яму – сам в неё попадёшь</xt>
      </xg>
    </mg>
 </e>
@@ -13274,7 +13281,8 @@
      </tg><br />
      <xg>
        <x>омӧлика зэрӧ</x>
-       <xt xml:lang="rus">идёт небольшой дождь </xt><com>(<acronym title="буквально"><em>букв.</em></acronym> немного дождит)</com>
+       <xt xml:lang="rus">идёт небольшой дождь </xt>
+        <xt xml:lang="rus" src_type="literally:буквально"> немного дождит</xt>
      </xg>
    </mg>
 </e>
@@ -13753,7 +13761,8 @@
      </xg><br />
      <xg>
        <x>тырмас петлӧ сэсся нюйтӧ варччыны</x>
-       <xt xml:lang="rus">хватит с меня, научен горьким опытом </xt><com>(<acronym title="буквально"><em>букв.</em></acronym> хватит впредь плыть на тину)</com>
+       <xt xml:lang="rus">хватит с меня, научен горьким опытом </xt>
+        <xt xml:lang="rus" src_type="literally:буквально"> хватит впредь плыть на тину</xt>
      </xg>
    </mg>
 </e>
@@ -16287,7 +16296,8 @@
      </xg><br />
      <xg>
        <x>◊ мун сэсь</x>
-       <xt xml:lang="rus">молчи </xt><com>(<acronym title="буквально"><em>букв.</em></acronym> иди оттуда)</com>
+       <xt xml:lang="rus">молчи </xt>
+        <xt xml:lang="rus" src_type="literally:буквально"> иди оттуда</xt>
      </xg>
    </mg>
 </e>
@@ -16413,7 +16423,8 @@
      </xg><br />
      <xg>
        <x>◊ сэтчӧ-татчӧ сёрнитны</x>
-       <xt xml:lang="rus">быть непостоянным на словах </xt><com>(<acronym title="буквально"><em>букв.</em></acronym> говорить туда и сюда)</com>
+       <xt xml:lang="rus">быть непостоянным на словах </xt>
+        <xt xml:lang="rus" src_type="literally:буквально"> говорить туда и сюда</xt>
      </xg>
    </mg>
 </e>
@@ -19460,7 +19471,8 @@
      </xg><br />
      <xg>
        <x>◊ чорыда горзьӧдас</x>
-       <xt xml:lang="rus">это тебе так не пройдёт; будешь раскаиваться в содеянном </xt><com>(<acronym title="буквально"><em>букв.</em></acronym> это тебе крепко отрыгнётся)</com>
+       <xt xml:lang="rus">это тебе так не пройдёт; будешь раскаиваться в содеянном </xt>
+        <xt xml:lang="rus" src_type="literally:буквально"> это тебе крепко отрыгнётся</xt>
      </xg><br />
      <xg>
        <x>◊ чорыда чотавны</x>
@@ -24989,7 +25001,8 @@
      </xg><br />
      <xg>
        <x>◊ гири-люки лэдзны кильчӧ поскӧд</x>
-       <xt xml:lang="rus">с треском выгнать </xt><com>(<acronym title="буквально"><em>букв.</em></acronym> с грохотом спустить с крыльца)</com>
+       <xt xml:lang="rus">с треском выгнать </xt>
+        <xt xml:lang="rus" src_type="literally:буквально"> с грохотом спустить с крыльца</xt>
      </xg>
    </mg>
 </e>
@@ -27619,7 +27632,8 @@
      </xg><br />
      <xg>
        <x>◊ стенысь бердӧ ветлыны</x>
-       <xt xml:lang="rus"> лезть на стену, неистовствовать </xt><com>(<acronym title="буквально"><em>букв.</em></acronym> ходить от стены до стены)</com>
+       <xt xml:lang="rus"> лезть на стену, неистовствовать </xt>
+        <xt xml:lang="rus" src_type="literally:буквально"> ходить от стены до стены</xt>
      </xg>
    </mg>
 </e>
@@ -29006,7 +29020,8 @@
      </xg><br />
      <xg>
        <x>◊ гатш водӧмӧн кымӧрысь виччысьны</x>
-       <xt xml:lang="rus"> надеяться на кого-то </xt><com>(<acronym title="буквально"><em>букв.</em></acronym> лёжа на спине, ждать с облаков)</com>
+       <xt xml:lang="rus"> надеяться на кого-то </xt>
+        <xt xml:lang="rus" src_type="literally:буквально"> лёжа на спине, ждать с облаков</xt>
      </xg>
    </mg>
 </e>
@@ -29052,7 +29067,8 @@
      </xg><br />
      <xg>
        <x>◊ ва горув лэдзны</x>
-       <xt xml:lang="rus"> утопить </xt><com>(<acronym title="буквально"><em>букв.</em></acronym> спустить вниз по течению)</com>
+       <xt xml:lang="rus"> утопить </xt>
+        <xt xml:lang="rus" src_type="literally:буквально"> спустить вниз по течению</xt>
      </xg><br />
      <xg>
        <x>◊ олӧм горув исковтны</x>
@@ -29477,7 +29493,8 @@
      </xg><br />
      <xg>
        <x>◊ кор лиыс усьӧ, сэки и лиась </x>
-       <xt xml:lang="rus" src_type="proverb:пословица">куй железо, пока горячо </xt><com>(<acronym title="буквально"><em>букв.</em></acronym> когда камбий сходит, тогда снимай)</com>
+       <xt xml:lang="rus" src_type="proverb:пословица">куй железо, пока горячо </xt>
+        <xt xml:lang="rus" src_type="literally:буквально"> когда камбий сходит, тогда снимай</xt>
      </xg><br />
      <xg>
        <x>◊ кор лым усьӧ корйӧн, йӧзлы лоӧ сьӧкыд</x>
@@ -30796,7 +30813,8 @@
      </xg><br />
      <xg>
        <x>◊ рама олӧ, гусьӧн пурӧ </x>
-       <xt xml:lang="rus" src_type="proverb:пословица">в тихом омуте черти водятся </xt><com>(<acronym title="буквально"><em>букв.</em></acronym> смирно живёт, тайком кусает)</com>
+       <xt xml:lang="rus" src_type="proverb:пословица">в тихом омуте черти водятся </xt>
+        <xt xml:lang="rus" src_type="literally:буквально"> смирно живёт, тайком кусает</xt>
      </xg>
    </mg>
    <mg relId="1">
@@ -31345,7 +31363,8 @@
      </xg><br />
      <xg>
        <x>◊ увсянь шыр оз аддзыв, вывсянь кай оз тӧдлы </x>
-       <xt xml:lang="rus"  src_type="saying:поговорка">тише воды, ниже травы </xt><com>(<acronym title="буквально"><em>букв.</em></acronym> снизу мышь не приметит, сверху птица не заметит)</com>
+       <xt xml:lang="rus"  src_type="saying:поговорка">тише воды, ниже травы </xt>
+        <xt xml:lang="rus" src_type="literally:буквально"> снизу мышь не приметит, сверху птица не заметит</xt>
      </xg>
    </mg>
    <mg relId="1">
@@ -31449,7 +31468,8 @@
      </xg><br />
      <xg>
        <x>◊ вылӧ пуксян да улысь чеччан </x>
-       <xt xml:lang="rus"  src_type="saying:поговорка">высоко сидишь, да низко упадёшь </xt><com>(<acronym title="буквально"><em>букв.</em></acronym> высоко поднимешься, больно упадёшь)</com>
+       <xt xml:lang="rus"  src_type="saying:поговорка">высоко сидишь, да низко упадёшь </xt>
+        <xt xml:lang="rus" src_type="literally:буквально"> высоко поднимешься, больно упадёшь</xt>
      </xg><br />
      <xg>
        <x>◊ ныр увсьыд аддзы</x>
@@ -31533,7 +31553,8 @@
      </xg><br />
      <xg>
        <x>улӧ тувччӧ – вылӧ воӧ, вылӧ тувччӧ – улӧ воӧ</x>
-       <xt xml:lang="rus"> всё шиворот-навыворот </xt><com>(<acronym title="буквально"><em>букв.</em></acronym> вниз ступит – вверх забирается, выше ступит – вниз спускается)</com>
+       <xt xml:lang="rus"> всё шиворот-навыворот </xt>
+        <xt xml:lang="rus" src_type="literally:буквально"> вниз ступит – вверх забирается, выше ступит – вниз спускается</xt>
      </xg>
    </mg>
 </e>
@@ -33290,7 +33311,8 @@
      </xg><br />
      <xg>
        <x>тэ абу нин бауӧн уялысь</x>
-       <xt xml:lang="rus"> ты уже не ребёнок </xt><com>(<acronym title="буквально"><em>букв.</em></acronym> не ползающий на четвереньках)</com>
+       <xt xml:lang="rus"> ты уже не ребёнок </xt>
+        <xt xml:lang="rus" src_type="literally:буквально"> не ползающий на четвереньках</xt>
      </xg>
    </mg>
 </e>
@@ -33862,6 +33884,2722 @@
      <xg>
        <x>челядь ӧтмӧдарӧ сявмунісны</x>
        <xt xml:lang="rus">дети бросились в разные стороны</xt>
+     </xg>
+   </mg>
+</e>
+<e>
+   <lg t1="Б" t2="Р" t3="И" uri="3129-brin-k" id="3129"><l pos="Adv">бриньк</l>
+       <l_var type="molodtsov-cyr">бріԋк</l_var>
+   </lg>
+   <mg relId="0"><strong>бриньк, бринь</strong><br />
+     <tg xml:lang="rus">
+       <t><acronym title="изобразительное слово"><em>изобр.</em></acronym>1. бряк</t>
+     </tg>
+   </mg>
+   <mg relId="1">
+     <tg xml:lang="rus">
+       <t>брык</t>
+     </tg>
+     <xg>
+       <x>мӧс бриньк чужйис пӧдӧнчасӧ</x>
+       <xt xml:lang="rus">корова – брык, лягнула подойник</xt>
+     </xg>
+   </mg>
+   <mg relId="2">
+     <tg xml:lang="rus">
+       <t>прыг</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg t1="Б" t2="Р" t3="О" uri="3168-bron" id="3168"><l pos="Adv">брон</l>
+       <l_var type="molodtsov-cyr">брон</l_var>
+   </lg>
+   <mg relId="0">
+     <tg xml:lang="rus">
+       <t><acronym title="изобразительное слово"><em>изобр.</em></acronym> неподвижно</t>
+     </tg>
+     <xg>
+       <x>брон сувтіс</x>
+       <xt xml:lang="rus">он остановился как вкопанный</xt>
+     </xg>
+   </mg>
+</e>
+<e>
+   <lg t1="Б" t2="Р" t3="У" uri="3248-brun" id="3248"><l pos="Adv">брун</l>
+       <l_var type="molodtsov-cyr">брун</l_var>
+   </lg>
+   <mg relId="0">
+     <tg xml:lang="rus">
+       <t><acronym title="изобразительное слово"><em>изобр.</em></acronym>1. бух, бултых; хлоп <acronym title="разговорное"><em>разг.</em></acronym></t>
+     </tg>
+     <xg>
+       <x>из брун шыбитны ваӧ</x>
+       <xt xml:lang="rus">камень бултыхнуть в воду</xt>
+     </xg>
+     <xg>
+       <x>брун чеччыштны ваӧ</x>
+       <xt xml:lang="rus">бултыхнуться в воду</xt>
+     </xg>
+     <xg>
+       <x>зэлӧдӧмысла нярталасьыс ӧти прать брун ори</x>
+       <xt xml:lang="rus">от натяжения одна прядь аркана хлоп оборвалась</xt>
+     </xg>
+   </mg>
+   <mg relId="1">
+     <tg xml:lang="rus">
+       <t>туго</t>
+     </tg>
+     <xg>
+       <x>брун зэлӧдӧма струнасӧ</x>
+       <xt xml:lang="rus">туго натянута струна</xt>
+     </xg>
+   </mg>
+   <mg relId="2">
+     <tg xml:lang="rus">
+       <t>вдруг, неожиданно</t>
+     </tg>
+     <xg>
+       <x>ӧкмыснан карабыс брун сувтісны</x>
+       <xt xml:lang="rus">все девять кораблей вдруг остановились</xt>
+     </xg>
+   </mg>
+</e>
+<e>
+   <lg t1="Б" t2="Р" t3="Ы" uri="3328-bryz-" id="3328"><l pos="Adv">брызь</l>
+       <l_var type="molodtsov-cyr">брыԅ</l_var>
+   </lg>
+   <mg relId="0">
+     <tg xml:lang="rus">
+       <t><acronym title="изобразительное слово"><em>изобр.</em></acronym> бух</t>
+     </tg>
+     <xg>
+       <x>брызь койыштны</x>
+       <xt xml:lang="rus">бухнуть-выплеснуть</xt>
+     </xg>
+     <xg>
+       <x>брызь шыбитны</x>
+       <xt xml:lang="rus">швырнуть</xt>
+     </xg>
+   </mg>
+</e>
+<e>
+   <lg t1="Б" t2="У" t3="Г" uri="3394-bugri" id="3394"><l pos="Adv">бугри</l>
+       <l_var type="molodtsov-cyr">бугрі</l_var>
+   </lg>
+   <mg relId="0">
+     <tg xml:lang="rus">
+       <t>уйма, прорва</t>
+     </tg>
+     <xg>
+       <x>сьӧмыс сылӧн бугри</x>
+       <xt xml:lang="rus">денег у него куры не клюют</xt>
+     </xg>
+     <xg>
+       <x>тшакыд таво бугри</x>
+       <xt xml:lang="rus">грибов в этом году очень много</xt>
+     </xg>
+   </mg>
+</e>
+<e>
+   <lg t1="Б" t2="У" t3="Д" uri="3413-budi" id="3413"><l pos="Adv">буди</l>
+       <l_var type="molodtsov-cyr">буԃі</l_var>
+   </lg>
+   <mg relId="0">
+     <tg xml:lang="rus">
+       <t pos="Pcle"> должно быть, видно, будто, словно, наверно</t>
+     </tg>
+     <xg>
+       <x>оз буди зэрмы</x>
+       <xt xml:lang="rus">дождя, видно, не будет</xt>
+     </xg>
+     <xg>
+       <x>тэ буди эн гӧгӧрво менӧ-а</x>
+       <xt xml:lang="rus">ты, должно быть, не понял меня</xt>
+     </xg>
+   </mg>
+   <mg relId="1">
+     <tg xml:lang="rus">
+       <t><acronym title="вводное слово"><em>вводн.сл.</em></acronym> скажем <acronym title="разговорное"><em>разг.</em></acronym>, например, положим</t>
+     </tg>
+     <xg>
+       <x>нӧшта кӧ буди лун-мӧд зэрас</x>
+       <xt xml:lang="rus">если, скажем, дождь продлится ещё несколько дней</xt>
+     </xg>
+   </mg>
+</e>
+<e>
+   <lg t1="Б" t2="У" t3="З" uri="3439-buz" id="3439"><l pos="Adv">буз</l>
+       <l_var type="molodtsov-cyr">буз</l_var>
+   </lg>
+   <mg relId="0">
+     <tg xml:lang="rus">
+       <t><em>подражание плеску воды</em>; бултых, бух</t>
+     </tg>
+     <xg>
+       <x>ваӧ буз пырны</x>
+       <xt xml:lang="rus">бултых в воду</xt>
+     </xg>
+     <xg>
+       <x>ва пельсаысь ваыс буз киссис</x>
+       <xt xml:lang="rus">вода из кадки вылилась с плеском</xt>
+     </xg>
+   </mg>
+</e>
+<e>
+   <lg t1="Б" t2="Ы" t3="Д" uri="4053-bydlasyan-" id="4053">
+     <l pos="Adv">быдласянь</l>
+       <l_var type="molodtsov-cyr">быԁлаԍаԋ</l_var>
+   </lg>
+   <mg relId="0"> <sg><s s_type="see">быдладорсянь</s></sg>
+     <tg xml:lang="rus">
+       <t></t>
+     </tg>
+     <xg>
+       <x>быдласянь лёк юӧръяс воисны</x>
+       <xt xml:lang="rus"> отовсюду поступали плохие <em>(неутешительные)</em> вести</xt>
+     </xg>
+   </mg>
+</e>
+<e>
+   <lg t1="Б" t2="Ы" t3="Д" uri="4055-bydlati" id="4055">
+     <l pos="Adv">быдлаті</l>
+       <l_var type="molodtsov-cyr">быԁлаті</l_var>
+   </lg>
+   <mg relId="0">
+     <tg xml:lang="rus">
+       <t>везде; повсюду</t>
+     </tg>
+     <xg>
+       <x>быдлаті висьӧ-юкалӧ</x>
+       <xt xml:lang="rus">везде болит, ноет</xt>
+     </xg>
+     <xg>
+       <x>том мортыдлӧн быдлаті куснясьӧ</x>
+       <xt xml:lang="rus"> у молодого человека всё везде сгибается <em>(все кости податливые)</em></xt>
+     </xg>
+     <xg>
+       <x>код мортлы быдлаті поска да шыльыд </x>
+       <xt xml:lang="rus" src_type="proverb:пословица">пьяному море по колено </xt>
+        <xt xml:lang="rus" src_type="literally:буквально"> везде мощено и гладко</xt>
+     </xg>
+   </mg>
+</e>
+<e>
+   <lg t1="Б" t2="Ы" t3="Д" uri="4057-bydlayn" id="4057">
+     <l pos="Adv">быдлаын</l>
+       <l_var type="molodtsov-cyr">быԁлаын</l_var>
+   </lg>
+   <mg relId="0">
+     <tg xml:lang="rus">
+       <t>повсеместно, повсюду, везде</t>
+     </tg>
+     <xg>
+       <x>сійӧ быдлаын нин вӧвлӧма</x>
+       <xt xml:lang="rus">он везде уже побывал</xt>
+     </xg>
+     <xg>
+       <x>◊ быдлаын оз быглясь</x>
+       <xt xml:lang="rus"> подходящий </xt>
+        <xt xml:lang="rus" src_type="literally:буквально"> не везде валяется</xt>
+     </xg>
+   </mg>
+</e>
+<e>
+   <lg t1="Б" t2="Ы" t3="Д" uri="4051-bydla-" id="4051">
+     <l pos="Adv">быдлаӧ</l>
+       <l_var type="molodtsov-cyr">быԁлаӧ</l_var>
+   </lg>
+   <mg relId="0">
+     <tg xml:lang="rus">
+       <t>везде, всюду</t>
+     </tg>
+     <xg>
+       <x>быдлаӧ волан думнад</x>
+       <xt xml:lang="rus">мысленно везде побываешь</xt>
+     </xg>
+     <xg>
+       <x>мелі кывйыд быдлаӧ лӧсялӧ</x>
+       <xt xml:lang="rus"> ласковое слово всем нравится <em>(подходит)</em></xt>
+     </xg>
+     <xg>
+       <x>быдлаӧ киыс сибалӧ</x>
+       <xt xml:lang="rus">мастер на все руки</xt>
+     </xg>
+     <xg>
+       <x>быдлаӧ ныр сюйны</x>
+       <xt xml:lang="rus">всюду совать нос</xt>
+     </xg>
+     <xg>
+       <x>син колӧ быдлаӧ</x>
+       <xt xml:lang="rus"> глаз да глаз нужен </xt>
+        <xt xml:lang="rus" src_type="literally:буквально"> везде нужны глаза</xt>
+     </xg>
+     <xg>
+       <x>быдлаӧ сійӧ тырмылӧ</x>
+       <xt xml:lang="rus">везде он поспевает</xt>
+     </xg>
+   </mg>
+</e>
+<e>
+   <lg t1="Б" t2="Ӧ" t3="Р" uri="2812-b-rad" id="2812">
+     <l pos="Adv">бӧрад</l>
+       <l_var type="molodtsov-cyr">бӧраԁ</l_var>
+   </lg>
+   <mg relId="0">
+     <tg xml:lang="rus">
+       <t><acronym title="послеложно-личное (местоимение)"><em>послел.-личн.</em></acronym> <acronym title="местоимение"><em>мест.</em></acronym> сзади, позади тебя; за тобой</t>
+     </tg>
+     <xg>
+       <x>ме бӧрад сувта</x>
+       <xt xml:lang="rus">я за тобой встану</xt>
+     </xg>
+   </mg>
+</e>
+<e>
+   <lg t1="Б" t2="Ӧ" t3="Р" uri="2815-b-ram" id="2815">
+     <l pos="Adv">бӧрам</l>
+       <l_var type="molodtsov-cyr">бӧрам</l_var>
+   </lg>
+   <mg relId="0">
+     <tg xml:lang="rus">
+       <t><acronym title="послеложно-личное (местоимение)"><em>послел.-личн.</em></acronym> <acronym title="местоимение"><em>мест.</em></acronym> за мной, позади меня</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg t1="Б" t2="Ӧ" t3="Р" uri="2817-b-ranyd" id="2817">
+     <l pos="Adv">бӧраныд</l>
+       <l_var type="molodtsov-cyr">бӧраныԁ</l_var>
+   </lg>
+   <mg relId="0">
+     <tg xml:lang="rus">
+       <t><acronym title="послеложно-личное (местоимение)"><em>послел.-личн.</em></acronym> <acronym title="местоимение"><em>мест.</em></acronym> за вами, позади вас</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg t1="Б" t2="Ӧ" t3="Р" uri="2820-b-ranym" id="2820">
+     <l pos="Adv">бӧраным</l>
+       <l_var type="molodtsov-cyr">бӧраным</l_var>
+   </lg>
+   <mg relId="0">
+     <tg xml:lang="rus">
+       <t><acronym title="послеложно-личное (местоимение)"><em>послел.-личн.</em></acronym> <acronym title="местоимение"><em>мест.</em></acronym> за нами, позади нас</t>
+     </tg>
+     <xg>
+       <x>бӧраным вӧлі локтӧны сёян тыра вӧлаяс</x>
+       <xt xml:lang="rus">позади нас шли подводы с продовольствием</xt>
+     </xg>
+   </mg>
+</e>
+<e>
+   <lg t1="Б" t2="Ӧ" t3="Р" uri="2821-b-ranys" id="2821">
+     <l pos="Adv">бӧраныс</l>
+       <l_var type="molodtsov-cyr">бӧраныс</l_var>
+   </lg>
+   <mg relId="0">
+     <tg xml:lang="rus">
+       <t><acronym title="послеложно-личное (местоимение)"><em>послел.-личн.</em></acronym> <acronym title="местоимение"><em>мест.</em></acronym> за ними, позади них</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg t1="Б" t2="Ӧ" t3="Р" uri="2822-b-ras" id="2822">
+     <l pos="Adv">бӧрас</l>
+       <l_var type="molodtsov-cyr">бӧрас</l_var>
+   </lg>
+   <mg relId="0">
+     <tg xml:lang="rus">
+       <t><acronym title="послеложно-личное (местоимение)"><em>послел.-личн.</em></acronym> <acronym title="местоимение"><em>мест.</em></acronym> за ним; сзади, позади него</t>
+     </tg>
+     <xg>
+       <x>бӧрас сулаліс гӧтырыс</x>
+       <xt xml:lang="rus">позади него стояла его жена</xt>
+     </xg>
+   </mg>
+</e>
+<e>
+   <lg t1="Б" t2="Ӧ" t3="Р" uri="2827-b-rvyv" id="2827">
+     <l pos="Adv">бӧрвыв</l>
+       <l_var type="molodtsov-cyr">бӧрвыв</l_var>
+   </lg>
+   <mg relId="0">
+     <tg xml:lang="rus">
+       <t>назад</t>
+     </tg>
+     <xg>
+       <x>бӧрвыв бергӧдчыны</x>
+       <xt xml:lang="rus">обернуться назад</xt>
+     </xg>
+     <xg>
+       <x>бӧрвыв видзӧдлыны</x>
+       <xt xml:lang="rus">оглянуться назад</xt>
+     </xg>
+     <xg>
+       <x>чеччыштны бӧрвыв</x>
+       <xt xml:lang="rus">отскочить назад</xt>
+     </xg>
+     <xg>
+       <x>бӧрвыв шыльӧдӧм юрси</x>
+       <xt xml:lang="rus">зачёсанные назад волосы</xt>
+     </xg>
+   </mg>
+   <mg relId="1">
+     <tg xml:lang="rus">
+       <t>с перевесом, с перегрузкой задней части</t>
+     </tg>
+     <xg>
+       <x>турунсӧ сӧвтӧма бӧрвыв, и вӧлыслы сьӧкыд кыскыны</x>
+       <xt xml:lang="rus">сено сложено с перевесом на заднюю часть саней, поэтому лошади тяжело тащить</xt>
+     </xg>
+   </mg>
+</e>
+<e>
+   <lg t1="Б" t2="Ӧ" t3="Р" uri="2836-b-rvyvsyan-" id="2836">
+     <l pos="Adv">бӧрвывсянь</l>
+       <l_var type="molodtsov-cyr">бӧрвывԍаԋ</l_var>
+   </lg>
+   <mg relId="0">
+     <tg xml:lang="rus">
+       <t>сзади</t>
+     </tg>
+     <xg>
+       <x>бӧрвывсянь чукӧстісны</x>
+       <xt xml:lang="rus">сзади окликнули</xt>
+     </xg>
+     <xg>
+       <x>бӧрвывсянь кыліс кодлӧнкӧ кызӧмыс</x>
+       <xt xml:lang="rus">сзади послышался чей-то кашель</xt>
+     </xg>
+     <xg>
+       <x>дыр сійӧ видзӧдіс ас вылас водзсяньыс и бӧрвывсяньыс</x>
+       <xt xml:lang="rus">он долго оглядывал себя спереди и сзади</xt>
+     </xg>
+   </mg>
+</e>
+<e>
+   <lg t1="Б" t2="Ӧ" t3="Р" uri="2842-b-rvylas" id="2842">
+     <l pos="Adv">бӧрвылас</l>
+       <l_var type="molodtsov-cyr">бӧрвылас</l_var>
+   </lg>
+   <mg relId="0">
+     <tg xml:lang="rus">
+       <t>наконец, под конец</t>
+     </tg>
+     <xg>
+       <x>первой вензис, а бӧрвылас сӧгласитчис</x>
+       <xt xml:lang="rus">сначала спорил, а под конец согласился</xt>
+     </xg>
+   </mg>
+</e>
+<e>
+   <lg t1="Б" t2="Ӧ" t3="Р" uri="2944-b-rladorsyan-" id="2944">
+     <l pos="Adv">бӧрладорсянь</l>
+       <l_var type="molodtsov-cyr">бӧрлаԁорԍаԋ</l_var>
+   </lg>
+   <mg relId="0"> <sg><s s_type="see">бӧрвывсянь</s></sg>
+     <tg xml:lang="rus">
+       <t></t>
+     </tg>
+     <xg>
+       <x>бӧрладорсянь дадь йӧткыны</x>
+       <xt xml:lang="rus">толкать санки сзади</xt>
+     </xg>
+   </mg>
+</e>
+<e>
+   <lg t1="Б" t2="Ӧ" t3="Р" uri="2947-b-rladorti" id="2947">
+     <l pos="Adv">бӧрладорті</l>
+       <l_var type="molodtsov-cyr">бӧрлаԁорті</l_var>
+   </lg>
+   <mg relId="0"> <sg><s s_type="see">бӧрвывті</s></sg>
+     <tg xml:lang="rus">
+       <t></t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg t1="Б" t2="Ӧ" t3="Р" uri="2948-b-rladoryn" id="2948">
+     <l pos="Adv">бӧрладорын</l>
+       <l_var type="molodtsov-cyr">бӧрлаԁорын</l_var>
+   </lg>
+   <mg relId="0"> <sg><s s_type="see">бӧрвылын Ⅰ</s></sg>
+     <tg xml:lang="rus">
+       <t></t>
+     </tg>
+     <xg>
+       <x>бӧрладорын мыйкӧ ратшмуні</x>
+       <xt xml:lang="rus">позади что-то хрустнуло</xt>
+     </xg>
+   </mg>
+</e>
+<e>
+   <lg t1="Б" t2="Ӧ" t3="Р" uri="2940-b-rlador-" id="2940">
+     <l pos="Adv">бӧрладорӧ</l>
+       <l_var type="molodtsov-cyr">бӧрлаԁорӧ</l_var>
+   </lg>
+   <mg relId="0">
+     <tg xml:lang="rus">
+       <t>назад</t>
+     </tg>
+     <xg>
+       <x>бӧрладорӧ видзӧдлыны</x>
+       <xt xml:lang="rus">посмотреть назад</xt>
+     </xg>
+   </mg>
+</e>
+<e>
+   <lg t1="Б" t2="Ӧ" t3="Р" uri="2956-b-rlan-yn" id="2956">
+     <l pos="Adv">бӧрланьын</l>
+       <l_var type="molodtsov-cyr">бӧрлаԋын</l_var>
+   </lg>
+   <mg relId="0">
+     <tg xml:lang="rus">
+       <t>позади, сзади</t>
+     </tg>
+     <xg>
+       <x>кӧнкӧ бӧрланьын увтыштіс пон</x>
+       <xt xml:lang="rus">где-то сзади тявкнула собака</xt>
+     </xg>
+   </mg>
+</e>
+<e>
+   <lg t1="Б" t2="Ӧ" t3="Р" uri="2953-b-rlan-" id="2953">
+     <l pos="Adv">бӧрланьӧ</l>
+       <l_var type="molodtsov-cyr">бӧрлаԋӧ</l_var>
+   </lg>
+   <mg relId="0">
+     <tg xml:lang="rus">
+       <t>назад</t>
+     </tg>
+     <xg>
+       <x>бӧрланьӧ сыналӧм юрси</x>
+       <xt xml:lang="rus">зачёсанные назад волосы</xt>
+     </xg>
+   </mg>
+</e>
+<e>
+   <lg t1="Б" t2="Ӧ" t3="Р" uri="2985-b-rs-yd" id="2985">
+     <l pos="Adv">бӧрсьыд</l>
+       <l_var type="molodtsov-cyr">бӧрԍыԁ</l_var>
+   </lg>
+   <mg relId="0">
+     <tg xml:lang="rus">
+       <t><acronym title="послеложно-личное (местоимение)"><em>послел.-личн.</em></acronym> <acronym title="местоимение"><em>мест.</em></acronym> </t>
+     </tg> <sg><s s_type="see">бӧрад</s></sg>
+   </mg>
+</e>
+<e>
+   <lg t1="Б" t2="Ӧ" t3="Р" uri="2987-b-rs-ym" id="2987">
+     <l pos="Adv">бӧрсьым</l>
+       <l_var type="molodtsov-cyr">бӧрԍым</l_var>
+   </lg>
+   <mg relId="0">
+     <tg xml:lang="rus">
+       <t><acronym title="послеложно-личное (местоимение)"><em>послел.-личн.</em></acronym> <acronym title="местоимение"><em>мест.</em></acronym> </t>
+     </tg> <sg><s s_type="see">бӧрам</s></sg>
+   </mg>
+</e>
+<e>
+   <lg t1="Б" t2="Ӧ" t3="Р" uri="2989-b-rs-ynyd" id="2989">
+     <l pos="Adv">бӧрсьыныд</l>
+       <l_var type="molodtsov-cyr">бӧрԍыныԁ</l_var>
+   </lg>
+   <mg relId="0">
+     <tg xml:lang="rus">
+       <t><acronym title="послеложно-личное (местоимение)"><em>послел.-личн.</em></acronym> <acronym title="местоимение"><em>мест.</em></acronym> </t>
+     </tg> <sg><s s_type="see">бӧраныд</s></sg>
+   </mg>
+</e>
+<e>
+   <lg t1="Б" t2="Ӧ" t3="Р" uri="2992-b-rs-ynym" id="2992">
+     <l pos="Adv">бӧрсьыным</l>
+       <l_var type="molodtsov-cyr">бӧрԍыным</l_var>
+   </lg>
+   <mg relId="0">
+     <tg xml:lang="rus">
+       <t><acronym title="послеложно-личное (местоимение)"><em>послел.-личн.</em></acronym> <acronym title="местоимение"><em>мест.</em></acronym> </t>
+     </tg> <sg><s s_type="see">бӧраным</s></sg>
+   </mg>
+</e>
+<e>
+   <lg t1="Б" t2="Ӧ" t3="Р" uri="2994-b-rs-ynys" id="2994">
+     <l pos="Adv">бӧрсьыныс</l>
+       <l_var type="molodtsov-cyr">бӧрԍыныс</l_var>
+   </lg>
+   <mg relId="0">
+     <tg xml:lang="rus">
+       <t><acronym title="послеложно-личное (местоимение)"><em>послел.-личн.</em></acronym> <acronym title="местоимение"><em>мест.</em></acronym> </t>
+     </tg> <sg><s s_type="see">бӧраныс</s></sg>
+   </mg>
+</e>
+<e>
+   <lg t1="Б" t2="Ӧ" t3="Р" uri="2996-b-rs-ys" id="2996">
+     <l pos="Adv">бӧрсьыс</l>
+       <l_var type="molodtsov-cyr">бӧрԍыс</l_var>
+   </lg>
+   <mg relId="0">
+     <tg xml:lang="rus">
+       <t><acronym title="послеложно-личное (местоимение)"><em>послел.-личн.</em></acronym> <acronym title="местоимение"><em>мест.</em></acronym> </t>
+     </tg> <sg><s s_type="see">бӧрас</s></sg>
+     <xg>
+       <x>вӧвсӧ вӧтліс водзас, ачыс восьлаліс бӧрсьыс</x>
+       <xt xml:lang="rus">лошадь он гнал впереди, сам шагал за ней</xt>
+     </xg>
+   </mg>
+</e>
+<e>
+   <lg t1="Б" t2="Ӧ" t3="Р" uri="2999-b-rsyan-nyd" id="2999">
+     <l pos="Adv">бӧрсяньныд</l>
+       <l_var type="molodtsov-cyr">бӧрԍаԋныԁ</l_var>
+   </lg>
+   <mg relId="0">
+     <tg xml:lang="rus">
+       <t><acronym title="послеложно-личное (местоимение)"><em>послел.-личн.</em></acronym> <acronym title="местоимение"><em>мест.</em></acronym> за вами, позади вас</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg t1="Б" t2="Ӧ" t3="Р" uri="3000-b-rsyan-nym" id="3000">
+     <l pos="Adv">бӧрсяньным</l>
+       <l_var type="molodtsov-cyr">бӧрԍаԋным</l_var>
+   </lg>
+   <mg relId="0">
+     <tg xml:lang="rus">
+       <t><acronym title="послеложно-личное (местоимение)"><em>послел.-личн.</em></acronym> <acronym title="местоимение"><em>мест.</em></acronym> за нами, позади нас</t>
+     </tg>
+     <xg>
+       <x>кодкӧ бӧрсяньным локтӧ вӧлі да кольччис</x>
+       <xt xml:lang="rus">кто-то шёл сзади нас, но отстал</xt>
+     </xg>
+   </mg>
+</e>
+<e>
+   <lg t1="Б" t2="Ӧ" t3="Р" uri="3002-b-rsyan-nys" id="3002">
+     <l pos="Adv">бӧрсяньныс</l>
+       <l_var type="molodtsov-cyr">бӧрԍаԋныс</l_var>
+   </lg>
+   <mg relId="0">
+     <tg xml:lang="rus">
+       <t><acronym title="послеложно-личное (местоимение)"><em>послел.-личн.</em></acronym> <acronym title="местоимение"><em>мест.</em></acronym> за ними, позади них</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg t1="Б" t2="Ӧ" t3="Р" uri="3004-b-rsyan-yd" id="3004">
+     <l pos="Adv">бӧрсяньыд</l>
+       <l_var type="molodtsov-cyr">бӧрԍаԋыԁ</l_var>
+   </lg>
+   <mg relId="0">
+     <tg xml:lang="rus">
+       <t><acronym title="послеложно-личное (местоимение)"><em>послел.-личн.</em></acronym> <acronym title="местоимение"><em>мест.</em></acronym> за тобой, позади тебя</t>
+     </tg>
+     <xg>
+       <x>ме бӧрсяньыд муна</x>
+       <xt xml:lang="rus">я пойду позади тебя</xt>
+     </xg>
+     <xg>
+       <x>век кывтӧ нюжӧдӧмӧн лоӧ вӧтчыны бӧрсяньыд</x>
+       <xt xml:lang="rus">всегда приходится гнаться за тобой, высунув язык</xt>
+     </xg>
+   </mg>
+</e>
+<e>
+   <lg t1="Б" t2="Ӧ" t3="Р" uri="3005-b-rsyan-ym" id="3005">
+     <l pos="Adv">бӧрсяньым</l>
+       <l_var type="molodtsov-cyr">бӧрԍаԋым</l_var>
+   </lg>
+   <mg relId="0">
+     <tg xml:lang="rus">
+       <t><acronym title="послеложно-личное (местоимение)"><em>послел.-личн.</em></acronym> <acronym title="местоимение"><em>мест.</em></acronym> за мной, позади меня</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg t1="Б" t2="Ӧ" t3="Р" uri="3008-b-rsyan-ys" id="3008">
+     <l pos="Adv">бӧрсяньыс</l>
+       <l_var type="molodtsov-cyr">бӧрԍаԋыс</l_var>
+   </lg>
+   <mg relId="0">
+     <tg xml:lang="rus">
+       <t><acronym title="послеложно-личное (местоимение)"><em>послел.-личн.</em></acronym> <acronym title="местоимение"><em>мест.</em></acronym> за ним, позади него</t>
+     </tg>
+     <xg>
+       <x>кӧк кӧкӧ, бӧрсяньыс йӧлӧга лӧвтӧ</x>
+       <xt xml:lang="rus">кукушка кукует, ей вторит эхо</xt>
+     </xg>
+   </mg>
+</e>
+<e>
+   <lg t1="Б" t2="Ӧ" t3="Р" uri="3043-b-ryndzhyk" id="3043">
+     <l pos="Adv">бӧрынджык</l>
+       <l_var type="molodtsov-cyr">бӧрынҗык</l_var>
+   </lg>
+   <mg relId="0">
+     <tg xml:lang="rus">
+       <t>позади</t>
+     </tg>
+     <xg>
+       <x>эбӧстӧм йӧз бӧрынджык кыссьӧны</x>
+       <xt xml:lang="rus">слабые люди плетутся позади</xt>
+     </xg>
+   </mg>
+   <mg relId="1">
+     <tg xml:lang="rus">
+       <t>позже</t>
+     </tg>
+     <xg>
+       <x>ме тэныд бӧрынджык висьтала</x>
+       <xt xml:lang="rus">я тебе позже скажу</xt>
+     </xg>
+     <xg>
+       <x>олышт пока миянын, а бӧрынджык тыдовтчас, кыдзи мый</x>
+       <xt xml:lang="rus">поживи пока у нас, а потом будет видно, как и что</xt>
+     </xg>
+   </mg>
+</e>
+<e>
+   <lg t1="Б" t2="Ӧ" t3="Р" uri="2979-b-r-n" id="2979">
+     <l pos="Adv">бӧрӧн</l>
+       <l_var type="molodtsov-cyr">бӧрӧн</l_var>
+   </lg>
+   <mg relId="0">
+     <tg xml:lang="rus">
+       <t>задом; задом наперёд</t>
+     </tg>
+     <xg>
+       <x>бӧрӧн мунны</x>
+       <xt xml:lang="rus">идти задом, пятиться</xt>
+     </xg>
+     <xg>
+       <x>бӧрӧн кепкаасьны</x>
+       <xt xml:lang="rus">надеть кепку задом наперёд</xt>
+     </xg>
+   </mg>
+   <mg relId="1">
+     <tg xml:lang="rus">
+       <t>наоборот, навыворот</t>
+     </tg>
+     <xg>
+       <x>висьтавны бӧрӧн</x>
+       <xt xml:lang="rus">сказать наоборот; перевернуть, исказить смысл</xt>
+     </xg>
+     <xg>
+       <x>бӧрӧн гӧгӧрвоны</x>
+       <xt xml:lang="rus">превратно понять</xt>
+     </xg>
+     <xg>
+       <x>кодлыськӧ шуӧм бӧрӧн висьтавны</x>
+       <xt xml:lang="rus">превратно истолковать чьи-либо слова</xt>
+     </xg>
+     <xg>
+       <x>бӧрӧн кыв лыддьыны</x>
+       <xt xml:lang="rus">прочитать слово наоборот</xt>
+     </xg>
+     <xg>
+       <x>бӧрӧн лыддьыны</x>
+       <xt xml:lang="rus">считать в обратном порядке</xt>
+     </xg>
+     <xg>
+       <x>сійӧ век бӧрӧн вӧчӧ</x>
+       <xt xml:lang="rus">он всё делает наоборот</xt>
+     </xg>
+     <xg>
+       <x>◊ бӧрӧн овны</x>
+       <xt xml:lang="rus" src_type="literally:буквально">жить наоборот</xt>
+     </xg>
+     <xg>
+       <x>◊ бӧрӧн олысь</x>
+       <xt xml:lang="rus">неудачник</xt>
+     </xg>
+     <xg>
+       <x>◊ тэ век бӧрӧн олан: кучик сапӧг тӧлын новлан, а гожӧмын гынкӧм</x>
+       <xt xml:lang="rus">ты всё наоборот живёшь: кожаные сапоги зимой носишь, а валенки – летом</xt>
+     </xg>
+   </mg>
+</e>
+<e>
+   <lg t1="В" t2="А" t3="Ж" uri="4473-vazh-nsyan-" id="4473">
+     <l pos="Adv">важӧнсянь</l>
+       <l_var type="molodtsov-cyr">важӧнԍаԋ</l_var>
+   </lg>
+   <mg relId="0"> <sg><s s_type="see">важысянь</s></sg>
+     <tg xml:lang="rus">
+       <t></t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg t1="В" t2="Е" t3="В" uri="5064-vevdorsyan-" id="5064">
+     <l pos="Adv">вевдорсянь</l>
+       <l_var type="molodtsov-cyr">вевԁорԍаԋ</l_var>
+   </lg>
+   <mg relId="0">
+     <tg xml:lang="rus">
+       <t>сверху</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg t1="В" t2="Е" t3="Ж" uri="5408-vezhyn-n" id="5408">
+     <l pos="Adv">вежыньӧн</l>
+       <l_var type="molodtsov-cyr">вежыԋӧн</l_var>
+   </lg>
+   <mg relId="0">
+     <tg xml:lang="rus">
+       <t>криво, косо</t>
+     </tg>
+     <xg>
+       <x>вежыньӧн пуктыны</x>
+       <xt xml:lang="rus">поставить косо</xt>
+     </xg>
+   </mg>
+</e>
+<e>
+   <lg t1="В" t2="Е" t3="К" uri="5475-vekisyan-" id="5475">
+     <l pos="Adv">векисянь</l>
+       <l_var type="molodtsov-cyr">векіԍаԋ</l_var>
+   </lg>
+   <mg relId="0">
+     <tg xml:lang="rus">
+       <t>издавна, испокон веку</t>
+     </tg>
+     <xg>
+       <x>тайӧ вӧрас векисянь кыйсисны</x>
+       <xt xml:lang="rus">в этой тайге издавна занимались охотой</xt>
+     </xg>
+   </mg>
+</e>
+<e>
+   <lg t1="В" t2="Е" t3="К" uri="5513-veksyan-" id="5513">
+     <l pos="Adv">вексянь</l>
+       <l_var type="molodtsov-cyr">векԍаԋ</l_var>
+   </lg>
+   <mg relId="0"> <sg><s s_type="see">векисянь</s></sg>
+     <tg xml:lang="rus">
+       <t></t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg t1="В" t2="Е" t3="М" uri="5647-vem-s-dz" id="5647">
+     <l pos="Adv">вемӧсӧдз</l>
+       <l_var type="molodtsov-cyr">вемӧсӧԇ</l_var>
+   </lg>
+   <mg relId="0">
+     <tg xml:lang="rus">
+       <t>явно, в действительности</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg t1="В" t2="Е" t3="М" uri="5648-vem-s-n" id="5648">
+     <l pos="Adv">вемӧсӧн</l>
+       <l_var type="molodtsov-cyr">вемӧсӧн</l_var>
+   </lg>
+   <mg relId="0">
+     <tg xml:lang="rus">
+       <t>наяву</t>
+     </tg>
+     <xg>
+       <x>вӧтӧн али вемӧсӧн аддзылін?</x>
+       <xt xml:lang="rus"> во сне или наяву ты видел <em>(это)</em>?</xt>
+     </xg>
+   </mg>
+</e>
+<e>
+   <lg t1="В" t2="Е" t3="Н" uri="5684-ven-r-n" id="5684">
+     <l pos="Adv">венӧрӧн</l>
+       <l_var type="molodtsov-cyr">венӧрӧн</l_var>
+   </lg>
+   <mg relId="0">
+     <tg xml:lang="rus">
+       <t>неровно, островками</t>
+     </tg>
+     <xg>
+       <x>кӧдзаыс петӧма венӧрӧн</x>
+       <xt xml:lang="rus">посевы взошли островками, неровно</xt>
+     </xg>
+   </mg>
+</e>
+<e>
+   <lg t1="В" t2="Е" t3="Р" uri="5920-ver-s-saijyn" id="5920">
+     <l pos="Adv">верӧс сайын</l>
+       <l_var type="molodtsov-cyr">верӧс сајын</l_var>
+   </lg>
+   <mg relId="0">
+     <tg xml:lang="rus">
+       <t>замужем</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg t1="В" t2="Е" t3="С" uri="6005-vesigt-" id="6005">
+     <l pos="Adv">весигтӧ</l>
+       <l_var type="molodtsov-cyr">веԍігтӧ</l_var>
+   </lg>
+   <mg relId="0"> <sg><s s_type="see">весиг</s></sg>
+     <tg xml:lang="rus">
+       <t></t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg t1="В" t2="Е" t3="С" uri="6051-ves-kod-" id="6051">
+     <l pos="Adv">веськодь</l>
+       <l_var type="molodtsov-cyr">веԍкоԃ</l_var>
+   </lg>
+   <mg relId="0">
+     <tg xml:lang="rus">
+       <t>безразлично, всё равно || безразличный, равнодушный; безучастный</t>
+     </tg>
+     <xg>
+       <x>абу дзик веськодь</x>
+       <xt xml:lang="rus">небезразлично</xt>
+     </xg>
+     <xg>
+       <x>веськодь кӧть кутшӧм</x>
+       <xt xml:lang="rus">безразлично какой</xt>
+     </xg>
+     <xg>
+       <x>сылӧн веськодь чужӧмыс нинӧм эз петкӧдлы</x>
+       <xt xml:lang="rus">его безучастное лицо ничего не выражало</xt>
+     </xg>
+   </mg>
+</e>
+<e>
+   <lg t1="В" t2="Е" t3="С" uri="6108-ves-kydladorsyan-" id="6108">
+     <l pos="Adv">веськыдладорсянь</l>
+       <l_var type="molodtsov-cyr">веԍкыԁлаԁорԍаԋ</l_var>
+   </lg>
+   <mg relId="0">
+     <tg xml:lang="rus">
+       <t>с правой стороны, справа</t>
+     </tg>
+     <xg>
+       <x>веськыдладорсянь тӧврутор ӧвтыштіс</x>
+       <xt xml:lang="rus">справа подул ветерок</xt>
+     </xg>
+   </mg>
+</e>
+<e>
+   <lg t1="В" t2="Е" t3="С" uri="6111-ves-kydladorti" id="6111">
+     <l pos="Adv">веськыдладорті</l>
+       <l_var type="molodtsov-cyr">веԍкыԁлаԁорті</l_var>
+   </lg>
+   <mg relId="0">
+     <tg xml:lang="rus">
+       <t>по правой стороне</t>
+     </tg>
+     <xg>
+       <x>мунны веськыдладорті</x>
+       <xt xml:lang="rus">держаться правой стороны</xt>
+     </xg>
+   </mg>
+</e>
+<e>
+   <lg t1="В" t2="Е" t3="С" uri="6113-ves-kydladoryn" id="6113">
+     <l pos="Adv">веськыдладорын</l>
+       <l_var type="molodtsov-cyr">веԍкыԁлаԁорын</l_var>
+   </lg>
+   <mg relId="0">
+     <tg xml:lang="rus">
+       <t>направо, справа</t>
+     </tg>
+     <xg>
+       <x>веськыдладорын вӧлі лӧнь</x>
+       <xt xml:lang="rus">справа всё было тихо</xt>
+     </xg>
+   </mg>
+</e>
+<e>
+   <lg t1="В" t2="Е" t3="С" uri="6142-ves-tas" id="6142">
+     <l pos="Adv">весьтас</l>
+       <l_var type="molodtsov-cyr">веԍтас</l_var>
+   </lg>
+   <mg relId="0">
+     <tg xml:lang="rus">
+       <t>прямиком, напрямик || прямой</t>
+     </tg>
+     <xg>
+       <x>весьтас мунны</x>
+       <xt xml:lang="rus"> идти прямиком <em>(не по дороге)</em></xt>
+     </xg>
+     <xg>
+       <x>весьтас туй корсьны</x>
+       <xt xml:lang="rus">искать прямую дорогу</xt>
+     </xg>
+   </mg>
+   <mg relId="1">
+     <tg xml:lang="rus">
+       <t>напрямик, не стесняясь, прямо</t>
+     </tg>
+     <xg>
+       <x>весьтас шуны</x>
+       <xt xml:lang="rus">сказать напрямик, без обиняков</xt>
+     </xg>
+     <xg>
+       <x>◊ шондіыс весьтас</x>
+       <xt xml:lang="rus">солнце в зените</xt>
+     </xg>
+   </mg>
+</e>
+<e>
+   <lg t1="В" t2="Е" t3="С" uri="6166-ves-sh-r-" id="6166">
+     <l pos="Adv">весьшӧрӧ</l>
+       <l_var type="molodtsov-cyr">веԍшӧрӧ</l_var>
+   </lg>
+   <mg relId="0">
+     <tg xml:lang="rus">
+       <t>напрасно, зря, даром, попусту</t>
+     </tg>
+     <xg>
+       <x>весьшӧрӧ кад видзны</x>
+       <xt xml:lang="rus">попусту тратить время</xt>
+     </xg>
+     <xg>
+       <x>весьшӧрӧ мырсьыны</x>
+       <xt xml:lang="rus">стараться впустую</xt>
+     </xg>
+   </mg>
+</e>
+<e>
+   <lg t1="В" t2="О" t3="Д" uri="7130-vodzad" id="7130">
+     <l pos="Adv">водзад</l>
+       <l_var type="molodtsov-cyr">воԇаԁ</l_var>
+   </lg>
+   <mg relId="0">
+     <tg xml:lang="rus">
+       <t><acronym title="местоимение"><em>мест.</em></acronym> <acronym title="послеложно-личное (местоимение)"><em>послел.-личн.</em></acronym> <acronym title="пространственное значение"><em>простр.</em></acronym> <acronym title="единственное число"><em>ед.ч.</em></acronym> <acronym title="2-ое лицо"><em>2 л.</em></acronym>1. к себе <em>(к тебе)</em></t>
+     </tg>
+   </mg>
+   <mg relId="1">
+     <tg xml:lang="rus">
+       <t>перед тобой</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg t1="В" t2="О" t3="Д" uri="7135-vodzam" id="7135">
+     <l pos="Adv">водзам</l>
+       <l_var type="molodtsov-cyr">воԇам</l_var>
+   </lg>
+   <mg relId="0">
+     <tg xml:lang="rus">
+       <t><acronym title="местоимение"><em>мест.</em></acronym> <acronym title="послеложно-личное (местоимение)"><em>послел.-личн.</em></acronym> <acronym title="пространственное значение"><em>простр.</em></acronym> <acronym title="единственное число"><em>ед.ч.</em></acronym> <acronym title="1-ое лицо"><em>1 л.</em></acronym>1. к себе <em>(ко мне)</em></t>
+     </tg>
+   </mg>
+   <mg relId="1">
+     <tg xml:lang="rus">
+       <t>передо мной</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg t1="В" t2="О" t3="Д" uri="7138-vodzanyd" id="7138">
+     <l pos="Adv">водзаныд</l>
+       <l_var type="molodtsov-cyr">воԇаныԁ</l_var>
+   </lg>
+   <mg relId="0">
+     <tg xml:lang="rus">
+       <t><acronym title="местоимение"><em>мест.</em></acronym> <acronym title="послеложно-личное (местоимение)"><em>послел.-личн.</em></acronym> <acronym title="пространственное значение"><em>простр.</em></acronym> <acronym title="местоимение"><em>мест.</em></acronym> <acronym title="2-ое лицо"><em>2 л.</em></acronym>1. к себе <em>(к вам)</em></t>
+     </tg>
+   </mg>
+   <mg relId="1">
+     <tg xml:lang="rus">
+       <t>перед вами</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg t1="В" t2="О" t3="Д" uri="7141-vodzanym" id="7141">
+     <l pos="Adv">водзаным</l>
+       <l_var type="molodtsov-cyr">воԇаным</l_var>
+   </lg>
+   <mg relId="0">
+     <tg xml:lang="rus">
+       <t><acronym title="местоимение"><em>мест.</em></acronym> <acronym title="послеложно-личное (местоимение)"><em>послел.-личн.</em></acronym> <acronym title="пространственное значение"><em>простр.</em></acronym> <acronym title="местоимение"><em>мест.</em></acronym> <acronym title="1-ое лицо"><em>1 л.</em></acronym>1. к себе <em>(к нам)</em></t>
+     </tg>
+   </mg>
+   <mg relId="1">
+     <tg xml:lang="rus">
+       <t>перед нами</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg t1="В" t2="О" t3="Д" uri="7144-vodzanys" id="7144">
+     <l pos="Adv">водзаныс</l>
+       <l_var type="molodtsov-cyr">воԇаныс</l_var>
+   </lg>
+   <mg relId="0">
+     <tg xml:lang="rus">
+       <t><acronym title="местоимение"><em>мест.</em></acronym> <acronym title="послеложно-личное (местоимение)"><em>послел.-личн.</em></acronym> <acronym title="пространственное значение"><em>простр.</em></acronym> <acronym title="местоимение"><em>мест.</em></acronym> <acronym title="3-ье лицо"><em>3 л.</em></acronym>1. к себе <em>(к ним)</em></t>
+     </tg>
+   </mg>
+   <mg relId="1">
+     <tg xml:lang="rus">
+       <t>перед ними</t>
+     </tg>
+     <xg>
+       <x>водзаныс дона вина</x>
+       <xt xml:lang="rus">перед ними дорогое сухое вино</xt>
+     </xg>
+   </mg>
+</e>
+<e>
+   <lg t1="В" t2="О" t3="Д" uri="7145-vodzas" id="7145">
+     <l pos="Adv">водзас</l>
+       <l_var type="molodtsov-cyr">воԇас</l_var>
+   </lg>
+   <mg relId="0">
+     <tg xml:lang="rus">
+       <t><acronym title="местоимение"><em>мест.</em></acronym> <acronym title="послеложно-личное (местоимение)"><em>послел.-личн.</em></acronym> <acronym title="пространственное значение"><em>простр.</em></acronym> <acronym title="единственное число"><em>ед.ч.</em></acronym> <acronym title="3-ье лицо"><em>3 л.</em></acronym>1. к себе <em>(к нему)</em></t>
+     </tg>
+   </mg>
+   <mg relId="1">
+     <tg xml:lang="rus">
+       <t>перед ним</t>
+     </tg>
+     <xg>
+       <x>◊ мышкас и водзас синмыс</x>
+       <xt xml:lang="rus"> у него глаза и спереди и сзади <em>(о бдительном человеке)</em></xt>
+     </xg>
+   </mg>
+</e>
+<e>
+   <lg t1="В" t2="О" t3="Д" uri="7156-vodzvyvsyan-" id="7156">
+     <l pos="Adv">водзвывсянь</l>
+       <l_var type="molodtsov-cyr">воԇвывԍаԋ</l_var>
+   </lg>
+   <mg relId="0"> <sg><s s_type="see">водзсянь</s></sg>
+     <tg xml:lang="rus">
+       <t></t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg t1="В" t2="О" t3="Д" uri="7180-vodzladorsyan-" id="7180">
+     <l pos="Adv">водзладорсянь</l>
+       <l_var type="molodtsov-cyr">воԇлаԁорԍаԋ</l_var>
+   </lg>
+   <mg relId="0">
+     <tg xml:lang="rus">
+       <t>спереди</t>
+     </tg>
+     <xg>
+       <x>водзладорсянь атакуйтӧм</x>
+       <xt xml:lang="rus">лобовая атака</xt>
+     </xg>
+     <xg>
+       <x>водзладорсянь дадь кыскыны</x>
+       <xt xml:lang="rus">спереди тащить санки</xt>
+     </xg>
+   </mg>
+</e>
+<e>
+   <lg t1="В" t2="О" t3="Д" uri="7186-vodzlan-" id="7186">
+     <l pos="Adv">водзлань</l>
+       <l_var type="molodtsov-cyr">воԇлаԋ</l_var>
+   </lg>
+   <mg relId="0">
+     <tg xml:lang="rus">
+       <t>вперёд</t>
+     </tg>
+     <xg>
+       <x>водзлань мунны</x>
+       <xt xml:lang="rus">идти вперёд</xt>
+     </xg>
+     <xg>
+       <x>водзлань петны</x>
+       <xt xml:lang="rus">выступить вперёд, на передний план</xt>
+     </xg>
+   </mg>
+   <mg relId="1">
+     <tg xml:lang="rus">
+       <t>впредь</t>
+     </tg>
+     <xg>
+       <x>водзлань волы</x>
+       <xt xml:lang="rus">впредь заходи</xt>
+     </xg>
+   </mg>
+</e>
+<e>
+   <lg t1="В" t2="О" t3="Д" uri="7190-vodzlan-yn" id="7190">
+     <l pos="Adv">водзланьын</l>
+       <l_var type="molodtsov-cyr">воԇлаԋын</l_var>
+   </lg>
+   <mg relId="0">
+     <tg xml:lang="rus">
+       <t>впереди</t>
+     </tg>
+     <xg>
+       <x>водзланьын тыдаліс сикт</x>
+       <xt xml:lang="rus">впереди виднелось село</xt>
+     </xg>
+   </mg>
+</e>
+<e>
+   <lg t1="В" t2="О" t3="Д" uri="7187-vodzlan-" id="7187">
+     <l pos="Adv">водзланьӧ</l>
+       <l_var type="molodtsov-cyr">воԇлаԋӧ</l_var>
+   </lg>
+   <mg relId="0"> <sg><s s_type="see">водзлань в 1 значении</s></sg>
+     <tg xml:lang="rus">
+       <t></t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg t1="В" t2="О" t3="Д" uri="7243-vodzs-yd" id="7243">
+     <l pos="Adv">водзсьыд</l>
+       <l_var type="molodtsov-cyr">вочԍыԁ</l_var>
+   </lg>
+   <mg relId="0">
+     <tg xml:lang="rus">
+       <t><acronym title="местоимение"><em>мест.</em></acronym> <acronym title="послеложно-личное (местоимение)"><em>послел.-личн.</em></acronym> <acronym title="пространственное значение"><em>простр.</em></acronym> <acronym title="единственное число"><em>ед.ч.</em></acronym> <acronym title="2-ое лицо"><em>2 л.</em></acronym> <acronym title="исходный падеж"><em>исх.п.</em></acronym> впереди себя <em>(тебя)</em>; перед собой <em>(тобой)</em></t>
+     </tg>
+     <xg>
+       <x>водзсьыд корсь</x>
+       <xt xml:lang="rus">ищи перед собой</xt>
+     </xg>
+   </mg>
+</e>
+<e>
+   <lg t1="В" t2="О" t3="Д" uri="7246-vodzs-ym" id="7246">
+     <l pos="Adv">водзсьым</l>
+       <l_var type="molodtsov-cyr">вочԍым</l_var>
+   </lg>
+   <mg relId="0">
+     <tg xml:lang="rus">
+       <t><acronym title="местоимение"><em>мест.</em></acronym> <acronym title="послеложно-личное (местоимение)"><em>послел.-личн.</em></acronym> <acronym title="пространственное значение"><em>простр.</em></acronym> <acronym title="единственное число"><em>ед.ч.</em></acronym> <acronym title="1-ое лицо"><em>1 л.</em></acronym> <acronym title="исходный падеж"><em>исх.п.</em></acronym> впереди себя <em>(меня)</em>; перед собой <em>(передо мной)</em></t>
+     </tg>
+     <xg>
+       <x>водзсьым аддзи</x>
+       <xt xml:lang="rus">(я) нашел впереди себя</xt>
+     </xg>
+   </mg>
+</e>
+<e>
+   <lg t1="В" t2="О" t3="Д" uri="7249-vodzs-ynyd" id="7249">
+     <l pos="Adv">водзсьыныд</l>
+       <l_var type="molodtsov-cyr">вочԍыныԁ</l_var>
+   </lg>
+   <mg relId="0">
+     <tg xml:lang="rus">
+       <t><acronym title="местоимение"><em>мест.</em></acronym> <acronym title="послеложно-личное (местоимение)"><em>послел.-личн.</em></acronym> <acronym title="пространственное значение"><em>простр.</em></acronym> <acronym title="местоимение"><em>мест.</em></acronym> <acronym title="2-ое лицо"><em>2 л.</em></acronym> <acronym title="исходный падеж"><em>исх.п.</em></acronym> впереди себя <em>(вас)</em>; перед собой <em>(вами)</em></t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg t1="В" t2="О" t3="Д" uri="7251-vodzs-ynym" id="7251">
+     <l pos="Adv">водзсьыным</l>
+       <l_var type="molodtsov-cyr">вочԍыным</l_var>
+   </lg>
+   <mg relId="0">
+     <tg xml:lang="rus">
+       <t><acronym title="местоимение"><em>мест.</em></acronym> <acronym title="послеложно-личное (местоимение)"><em>послел.-личн.</em></acronym> <acronym title="пространственное значение"><em>простр.</em></acronym> <acronym title="местоимение"><em>мест.</em></acronym> <acronym title="1-ое лицо"><em>1 л.</em></acronym> <acronym title="исходный падеж"><em>исх.п.</em></acronym> впереди себя <em>(нас)</em>; перед собой <em>(нами)</em></t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg t1="В" t2="О" t3="Д" uri="7253-vodzs-ynys" id="7253">
+     <l pos="Adv">водзсьыныс</l>
+       <l_var type="molodtsov-cyr">вочԍыныс</l_var>
+   </lg>
+   <mg relId="0">
+     <tg xml:lang="rus">
+       <t><acronym title="местоимение"><em>мест.</em></acronym> <acronym title="послеложно-личное (местоимение)"><em>послел.-личн.</em></acronym> <acronym title="пространственное значение"><em>простр.</em></acronym> <acronym title="местоимение"><em>мест.</em></acronym> <acronym title="3-ье лицо"><em>3 л.</em></acronym> <acronym title="исходный падеж"><em>исх.п.</em></acronym> впереди себя <em>(них)</em>; перед собой <em>(ними)</em></t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg t1="В" t2="О" t3="Д" uri="7254-vodzs-ys" id="7254">
+     <l pos="Adv">водзсьыс</l>
+       <l_var type="molodtsov-cyr">вочԍыс</l_var>
+   </lg>
+   <mg relId="0">
+     <tg xml:lang="rus">
+       <t><acronym title="местоимение"><em>мест.</em></acronym> <acronym title="послеложно-личное (местоимение)"><em>послел.-личн.</em></acronym> <acronym title="пространственное значение"><em>простр.</em></acronym> <acronym title="единственное число"><em>ед.ч.</em></acronym> <acronym title="3-ье лицо"><em>3 л.</em></acronym> <acronym title="исходный падеж"><em>исх.п.</em></acronym> впереди себя <em>(него)</em>; перед собой <em>(ним)</em></t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg t1="В" t2="О" t3="Д" uri="7208-vodz-d" id="7208">
+     <l pos="Adv">водзӧд</l>
+       <l_var type="molodtsov-cyr">воԇӧԁ</l_var>
+   </lg>
+   <mg relId="0"> <sg><s s_type="see">водзті Ⅱ</s></sg>
+     <tg xml:lang="rus">
+       <t></t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg t1="В" t2="О" t3="Д" uri="7224-vodz-s-n" id="7224">
+     <l pos="Adv">водзӧсӧн</l>
+       <l_var type="molodtsov-cyr">воԇӧсӧн</l_var>
+   </lg>
+   <mg relId="0">
+     <tg xml:lang="rus">
+       <t>взаймы, в долг, с возвратом, заимообразно</t>
+     </tg>
+     <xg>
+       <x>водзӧсӧн босьтны</x>
+       <xt xml:lang="rus"> взять <em>что-либо</em> взаймы</xt>
+     </xg>
+     <xg>
+       <x>водзӧсӧн уджавны</x>
+       <xt xml:lang="rus">работать в порядке взаимопомощи</xt>
+     </xg>
+   </mg>
+</e>
+<e>
+   <lg t1="В" t2="О" t3="Ж" uri="7307-vozhala-n" id="7307">
+     <l pos="Adv">вожалаӧн</l>
+       <l_var type="molodtsov-cyr">вожалаӧн</l_var>
+   </lg>
+   <mg relId="0"> <sg><s s_type="see">вожала Ⅱ</s></sg>
+     <tg xml:lang="rus">
+       <t></t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg t1="В" t2="О" t3="Й" uri="7386-voijkol-n" id="7386">
+     <l pos="Adv">войколӧн</l>
+       <l_var type="molodtsov-cyr">војколӧн</l_var>
+   </lg>
+   <mg relId="0">
+     <tg xml:lang="rus">
+       <t>с ночёвкой</t>
+     </tg>
+     <xg>
+       <x>войколӧн мунны</x>
+       <xt xml:lang="rus">идти с ночёвкой</xt>
+     </xg>
+   </mg>
+</e>
+<e>
+   <lg t1="В" t2="Ы" t3="В" uri="8984-vyvlan-" id="8984">
+     <l pos="Adv">вывлань</l>
+       <l_var type="molodtsov-cyr">вывлаԋ</l_var>
+   </lg>
+   <mg relId="0">
+     <tg xml:lang="rus">
+       <t>вверх, кверху; ввысь</t>
+     </tg>
+     <xg>
+       <x>усьны вывлань кокӧн</x>
+       <xt xml:lang="rus">упасть вверх ногами</xt>
+     </xg>
+   </mg>
+   <mg relId="1">
+     <tg xml:lang="rus">
+       <t>вверх, к верховью <em>(реки)</em></t>
+     </tg>
+     <xg>
+       <x>вывлань мунны</x>
+       <xt xml:lang="rus">идти к верховью</xt>
+     </xg>
+     <xg>
+       <x>◊ керкаыс вывлань вожа на</x>
+       <xt xml:lang="rus">дом ещё в лесу растёт</xt>
+     </xg>
+   </mg>
+</e>
+<e>
+   <lg t1="В" t2="Ы" t3="В" uri="8994-vyvs-yd" id="8994">
+     <l pos="Adv">вывсьыд</l>
+       <l_var type="molodtsov-cyr">вывԍыԁ</l_var>
+   </lg>
+   <mg relId="0">
+     <tg xml:lang="rus">
+       <t><acronym title="местоимение"><em>мест.</em></acronym> <acronym title="послеложно-личное (местоимение)"><em>послел.-личн.</em></acronym> <acronym title="пространственное значение"><em>простр.</em></acronym> <acronym title="единственное число"><em>ед.ч.</em></acronym> <acronym title="2-ое лицо"><em>2 л.</em></acronym> с тебя (с себя)</t>
+     </tg>
+     <xg>
+       <x>сетны кодлыкӧ вывсьыд пасьтӧ</x>
+       <xt xml:lang="rus"> подарить <em>кому-либо</em> шубу со своего плеча</xt>
+     </xg>
+     <xg>
+       <x>вывсьыд ставсӧ шыблалан</x>
+       <xt xml:lang="rus">пораскидаешь всё с себя</xt>
+     </xg>
+   </mg>
+</e>
+<e>
+   <lg t1="В" t2="Ы" t3="В" uri="8995-vyvs-ym" id="8995">
+     <l pos="Adv">вывсьым</l>
+       <l_var type="molodtsov-cyr">вывԍым</l_var>
+   </lg>
+   <mg relId="0">
+     <tg xml:lang="rus">
+       <t><acronym title="местоимение"><em>мест.</em></acronym> <acronym title="послеложно-личное (местоимение)"><em>послел.-личн.</em></acronym> <acronym title="пространственное значение"><em>простр.</em></acronym> <acronym title="единственное число"><em>ед.ч.</em></acronym> <acronym title="1-ое лицо"><em>1 л.</em></acronym> с меня (с себя)</t>
+     </tg>
+     <xg>
+       <x>вывсьым пӧсь киссьӧ</x>
+       <xt xml:lang="rus">с меня пот льётся</xt>
+     </xg>
+   </mg>
+</e>
+<e>
+   <lg t1="В" t2="Ы" t3="В" uri="8996-vyvs-ynyd" id="8996">
+     <l pos="Adv">вывсьыныд</l>
+       <l_var type="molodtsov-cyr">вывԍыныԁ</l_var>
+   </lg>
+   <mg relId="0">
+     <tg xml:lang="rus">
+       <t><acronym title="местоимение"><em>мест.</em></acronym> <acronym title="послеложно-личное (местоимение)"><em>послел.-личн.</em></acronym> <acronym title="пространственное значение"><em>простр.</em></acronym> <acronym title="местоимение"><em>мест.</em></acronym> <acronym title="2-ое лицо"><em>2 л.</em></acronym> с вас (с себя)</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg t1="В" t2="Ы" t3="В" uri="8999-vyvs-ynym" id="8999">
+     <l pos="Adv">вывсьыным</l>
+       <l_var type="molodtsov-cyr">вывԍыным</l_var>
+   </lg>
+   <mg relId="0">
+     <tg xml:lang="rus">
+       <t><acronym title="местоимение"><em>мест.</em></acronym> <acronym title="послеложно-личное (местоимение)"><em>послел.-личн.</em></acronym> <acronym title="пространственное значение"><em>простр.</em></acronym> <acronym title="местоимение"><em>мест.</em></acronym> <acronym title="1-ое лицо"><em>1 л.</em></acronym> с нас (с себя)</t>
+     </tg>
+     <xg>
+       <x>вывсьыным пӧрччалім ва паськӧм</x>
+       <xt xml:lang="rus">с себя мы скинули сырую одежду</xt>
+     </xg>
+   </mg>
+</e>
+<e>
+   <lg t1="В" t2="Ы" t3="В" uri="9002-vyvs-ynys" id="9002">
+     <l pos="Adv">вывсьыныс</l>
+       <l_var type="molodtsov-cyr">вывԍыныс</l_var>
+   </lg>
+   <mg relId="0">
+     <tg xml:lang="rus">
+       <t><acronym title="местоимение"><em>мест.</em></acronym> <acronym title="послеложно-личное (местоимение)"><em>послел.-личн.</em></acronym> <acronym title="пространственное значение"><em>простр.</em></acronym> <acronym title="местоимение"><em>мест.</em></acronym> <acronym title="3-ье лицо"><em>3 л.</em></acronym> с них (с себя)</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg t1="В" t2="Ы" t3="В" uri="9005-vyvs-ys" id="9005">
+     <l pos="Adv">вывсьыс</l>
+       <l_var type="molodtsov-cyr">вывԍыс</l_var>
+   </lg>
+   <mg relId="0">
+     <tg xml:lang="rus">
+       <t><acronym title="местоимение"><em>мест.</em></acronym> <acronym title="послеложно-личное (местоимение)"><em>послел.-личн.</em></acronym> <acronym title="пространственное значение"><em>простр.</em></acronym> <acronym title="единственное число"><em>ед.ч.</em></acronym> <acronym title="3-ье лицо"><em>3 л.</em></acronym> с него (с себя)</t>
+     </tg>
+     <xg>
+       <x>сійӧ вывті бур, вывсьыс сетас</x>
+       <xt xml:lang="rus">он очень отзывчивый, с себя снимет и отдаст</xt>
+     </xg>
+   </mg>
+</e>
+<e>
+   <lg t1="В" t2="Ы" t3="В" uri="9020-vyvtinyd" id="9020">
+     <l pos="Adv">вывтіныд</l>
+       <l_var type="molodtsov-cyr">вывтіныԁ</l_var>
+   </lg>
+   <mg relId="0">
+     <tg xml:lang="rus">
+       <t><acronym title="местоимение"><em>мест.</em></acronym> <acronym title="послеложно-личное (местоимение)"><em>послел.-личн.</em></acronym> <acronym title="пространственное значение"><em>простр.</em></acronym> <acronym title="местоимение"><em>мест.</em></acronym> <acronym title="2-ое лицо"><em>2 л.</em></acronym> по вам</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg t1="В" t2="Ы" t3="В" uri="9021-vyvtinym" id="9021">
+     <l pos="Adv">вывтіным</l>
+       <l_var type="molodtsov-cyr">вывтіным</l_var>
+   </lg>
+   <mg relId="0">
+     <tg xml:lang="rus">
+       <t><acronym title="местоимение"><em>мест.</em></acronym> <acronym title="послеложно-личное (местоимение)"><em>послел.-личн.</em></acronym> <acronym title="пространственное значение"><em>простр.</em></acronym> <acronym title="местоимение"><em>мест.</em></acronym> <acronym title="1-ое лицо"><em>1 л.</em></acronym> по нам</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg t1="В" t2="Ы" t3="В" uri="9024-vyvtinys" id="9024">
+     <l pos="Adv">вывтіныс</l>
+       <l_var type="molodtsov-cyr">вывтіныс</l_var>
+   </lg>
+   <mg relId="0">
+     <tg xml:lang="rus">
+       <t><acronym title="местоимение"><em>мест.</em></acronym> <acronym title="послеложно-личное (местоимение)"><em>послел.-личн.</em></acronym> <acronym title="пространственное значение"><em>простр.</em></acronym> <acronym title="местоимение"><em>мест.</em></acronym> <acronym title="3-ье лицо"><em>3 л.</em></acronym> по ним</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg t1="В" t2="Ы" t3="В" uri="9026-vyvtiyd" id="9026">
+     <l pos="Adv">вывтіыд</l>
+       <l_var type="molodtsov-cyr">вывтіыԁ</l_var>
+   </lg>
+   <mg relId="0">
+     <tg xml:lang="rus">
+       <t><acronym title="местоимение"><em>мест.</em></acronym> <acronym title="послеложно-личное (местоимение)"><em>послел.-личн.</em></acronym> <acronym title="пространственное значение"><em>простр.</em></acronym> <acronym title="единственное число"><em>ед.ч.</em></acronym> <acronym title="2-ое лицо"><em>2 л.</em></acronym> по тебе</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg t1="В" t2="Ы" t3="В" uri="9029-vyvtiym" id="9029">
+     <l pos="Adv">вывтіым</l>
+       <l_var type="molodtsov-cyr">вывтіым</l_var>
+   </lg>
+   <mg relId="0">
+     <tg xml:lang="rus">
+       <t><acronym title="местоимение"><em>мест.</em></acronym> <acronym title="послеложно-личное (местоимение)"><em>послел.-личн.</em></acronym> <acronym title="пространственное значение"><em>простр.</em></acronym> <acronym title="единственное число"><em>ед.ч.</em></acronym> <acronym title="1-ое лицо"><em>1 л.</em></acronym> по мне</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg t1="В" t2="Ы" t3="В" uri="9030-vyvtiys" id="9030">
+     <l pos="Adv">вывтіыс</l>
+       <l_var type="molodtsov-cyr">вывтіыс</l_var>
+   </lg>
+   <mg relId="0">
+     <tg xml:lang="rus">
+       <t><acronym title="местоимение"><em>мест.</em></acronym> <acronym title="послеложно-личное (местоимение)"><em>послел.-личн.</em></acronym> <acronym title="пространственное значение"><em>простр.</em></acronym> <acronym title="единственное число"><em>ед.ч.</em></acronym> <acronym title="3-ье лицо"><em>3 л.</em></acronym> по нему</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg t1="В" t2="Ы" t3="Л" uri="9188-vyl-layn" id="9188">
+     <l pos="Adv">выльлаын</l>
+       <l_var type="molodtsov-cyr">выԉлаын</l_var>
+   </lg>
+   <mg relId="0">
+     <tg xml:lang="rus">
+       <t>на новом месте</t>
+     </tg>
+     <xg>
+       <x>выльлаын овны</x>
+       <xt xml:lang="rus">жить на новом месте</xt>
+     </xg>
+   </mg>
+</e>
+<e>
+   <lg t1="В" t2="Ы" t3="Л" uri="9184-vyl-la-" id="9184">
+     <l pos="Adv">выльлаӧ</l>
+       <l_var type="molodtsov-cyr">выԉлаӧ</l_var>
+   </lg>
+   <mg relId="0">
+     <tg xml:lang="rus">
+       <t>на новое место</t>
+     </tg>
+     <xg>
+       <x>выльлаӧ вуджны</x>
+       <xt xml:lang="rus">перейти на новое место</xt>
+     </xg>
+     <xg>
+       <x>ключ выльлаӧ дзебны</x>
+       <xt xml:lang="rus">перепрятать ключ</xt>
+     </xg>
+     <xg>
+       <x>выльлаӧ овмӧдчыны</x>
+       <xt xml:lang="rus">переселиться</xt>
+     </xg>
+   </mg>
+</e>
+<e>
+   <lg t1="В" t2="Ы" t3="Л" uri="9123-vylisyan-" id="9123">
+     <l pos="Adv">вылісянь</l>
+       <l_var type="molodtsov-cyr">выліԍаԋ</l_var>
+   </lg>
+   <mg relId="0">
+     <tg xml:lang="rus">
+       <t>сверху</t>
+     </tg>
+     <xg>
+       <x>вылісянь кылӧ шум</x>
+       <xt xml:lang="rus">сверху доносится шум</xt>
+     </xg>
+     <xg>
+       <x>вылӧ каян – вылісянь и усян </x>
+       <xt xml:lang="rus" src_type="saying:поговорка">высоко заберёшься с высоты и упадёшь</xt>
+     </xg>
+   </mg>
+   <mg relId="1">
+     <tg xml:lang="rus">
+       <t>сверху, со стороны руководящих органов</t>
+     </tg>
+     <xg>
+       <x>индӧд воӧма вылісянь</x>
+       <xt xml:lang="rus">получено указание сверху</xt>
+     </xg>
+   </mg>
+   <mg relId="2">
+     <tg xml:lang="rus">
+       <t>сверху, с верховьев реки</t>
+     </tg>
+     <xg>
+       <x>паракод локтӧ вылісянь</x>
+       <xt xml:lang="rus">пароход идёт сверху</xt>
+     </xg>
+   </mg>
+</e>
+<e>
+   <lg t1="В" t2="Ы" t3="Л" uri="9124-vyliti" id="9124">
+     <l pos="Adv">выліті</l>
+       <l_var type="molodtsov-cyr">выліті</l_var>
+   </lg>
+   <mg relId="0">
+     <tg xml:lang="rus">
+       <t>высоко</t>
+     </tg>
+     <xg>
+       <x>самолёт лэбӧ выліті</x>
+       <xt xml:lang="rus">самолёт летит высоко</xt>
+     </xg>
+   </mg>
+   <mg relId="1">
+     <tg xml:lang="rus">
+       <t>поверху</t>
+     </tg>
+     <xg>
+       <x>стенсӧ штукатуритӧма, а вылітіыс краситӧма</x>
+       <xt xml:lang="rus">стены оштукатурены, а поверху покрашены</xt>
+     </xg>
+   </mg>
+</e>
+<e>
+   <lg t1="В" t2="Ы" t3="Л" uri="9131-vyl-d" id="9131">
+     <l pos="Adv">вылӧд</l>
+       <l_var type="molodtsov-cyr">вылӧԁ</l_var>
+   </lg>
+   <mg relId="0"> <sg><s s_type="see">вывт Ⅱ в 1 значении</s></sg>
+     <tg xml:lang="rus">
+       <t></t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg t1="В" t2="Ы" t3="Л" uri="9136-vyl-dznyd" id="9136">
+     <l pos="Adv">вылӧдзныд</l>
+       <l_var type="molodtsov-cyr">вылӧԇныԁ</l_var>
+   </lg>
+   <mg relId="0">
+     <tg xml:lang="rus">
+       <t><acronym title="местоимение"><em>мест.</em></acronym> <acronym title="послеложно-личное (местоимение)"><em>послел.-личн.</em></acronym> <acronym title="пространственное значение"><em>простр.</em></acronym> <acronym title="местоимение"><em>мест.</em></acronym> <acronym title="2-ое лицо"><em>2 л.</em></acronym> до вас; к вам</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg t1="В" t2="Ы" t3="Л" uri="9138-vyl-dznym" id="9138">
+     <l pos="Adv">вылӧдзным</l>
+       <l_var type="molodtsov-cyr">вылӧԇным</l_var>
+   </lg>
+   <mg relId="0">
+     <tg xml:lang="rus">
+       <t><acronym title="местоимение"><em>мест.</em></acronym> <acronym title="послеложно-личное (местоимение)"><em>послел.-личн.</em></acronym> <acronym title="пространственное значение"><em>простр.</em></acronym> <acronym title="местоимение"><em>мест.</em></acronym> <acronym title="1-ое лицо"><em>1 л.</em></acronym> до нас; к нам</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg t1="В" t2="Ы" t3="Л" uri="9140-vyl-dznys" id="9140">
+     <l pos="Adv">вылӧдзныс</l>
+       <l_var type="molodtsov-cyr">вылӧԇныс</l_var>
+   </lg>
+   <mg relId="0">
+     <tg xml:lang="rus">
+       <t><acronym title="местоимение"><em>мест.</em></acronym> <acronym title="послеложно-личное (местоимение)"><em>послел.-личн.</em></acronym> <acronym title="пространственное значение"><em>простр.</em></acronym> <acronym title="местоимение"><em>мест.</em></acronym> <acronym title="3-ье лицо"><em>3 л.</em></acronym> до них; к ним</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg t1="В" t2="Ы" t3="Л" uri="9141-vyl-dzyd" id="9141">
+     <l pos="Adv">вылӧдзыд</l>
+       <l_var type="molodtsov-cyr">вылӧԇыԁ</l_var>
+   </lg>
+   <mg relId="0">
+     <tg xml:lang="rus">
+       <t><acronym title="местоимение"><em>мест.</em></acronym> <acronym title="послеложно-личное (местоимение)"><em>послел.-личн.</em></acronym> <acronym title="пространственное значение"><em>простр.</em></acronym> <acronym title="единственное число"><em>ед.ч.</em></acronym> <acronym title="2-ое лицо"><em>2 л.</em></acronym> до тебя; к тебе</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg t1="В" t2="Ы" t3="Л" uri="9143-vyl-dzym" id="9143">
+     <l pos="Adv">вылӧдзым</l>
+       <l_var type="molodtsov-cyr">вылӧԇым</l_var>
+   </lg>
+   <mg relId="0">
+     <tg xml:lang="rus">
+       <t><acronym title="местоимение"><em>мест.</em></acronym> <acronym title="послеложно-личное (местоимение)"><em>послел.-личн.</em></acronym> <acronym title="пространственное значение"><em>простр.</em></acronym> <acronym title="единственное число"><em>ед.ч.</em></acronym> <acronym title="1-ое лицо"><em>1 л.</em></acronym> до меня; ко мне</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg t1="В" t2="Ы" t3="Л" uri="9144-vyl-dzys" id="9144">
+     <l pos="Adv">вылӧдзыс</l>
+       <l_var type="molodtsov-cyr">вылӧԇыс</l_var>
+   </lg>
+   <mg relId="0">
+     <tg xml:lang="rus">
+       <t><acronym title="местоимение"><em>мест.</em></acronym> <acronym title="послеложно-личное (местоимение)"><em>послел.-личн.</em></acronym> <acronym title="пространственное значение"><em>простр.</em></acronym> <acronym title="единственное число"><em>ед.ч.</em></acronym> <acronym title="3-ье лицо"><em>3 л.</em></acronym> до него; к нему</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg t1="Г" t2="А" t3="Т" uri="9690-gatsh-n" id="9690">
+     <l pos="Adv">гатшӧн</l>
+       <l_var type="molodtsov-cyr">гащӧн</l_var>
+   </lg>
+   <mg relId="0">
+     <tg xml:lang="rus">
+       <t>на спине, навзничь</t>
+     </tg>
+     <xg>
+       <x>гатшӧн куйлыны</x>
+       <xt xml:lang="rus">лежать навзничь</xt>
+     </xg>
+     <xg>
+       <x>гатшӧн узьны</x>
+       <xt xml:lang="rus"> спать <em>(лёжа)</em> на спине</xt>
+     </xg>
+     <xg>
+       <x>гӧрд пася гатшӧн пӧтӧлӧкӧд ветлӧдлӧ</x>
+       <xt xml:lang="rus" src_type="riddle:загадка">одет в рыжую шубу, ходит по потолку (<em>отгадка</em> <stress>тӧрӧкан</stress> таракан)</xt>
+     </xg>
+   </mg>
+</e>
+<e>
+   <lg t1="Г" t2="Е" t3="З" uri="9799-gezij-n" id="9799">
+     <l pos="Adv">гезйӧн</l>
+       <l_var type="molodtsov-cyr">гезјӧн</l_var>
+   </lg>
+   <mg relId="0"> <sg><s s_type="see">гезъясьӧмӧн</s></sg>
+     <tg xml:lang="rus">
+       <t></t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg t1="Г" t2="И" t3="З" uri="9981-giz-" id="9981">
+     <l pos="Adv">гизь</l>
+       <l_var type="molodtsov-cyr">гіԅ</l_var>
+   </lg>
+   <mg relId="0"> <sg><s s_type="see">гизь-гизьӧн</s></sg>
+     <tg xml:lang="rus">
+       <t></t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg t1="Г" t2="Л" t3="А" uri="10134-glas-n" id="10134">
+     <l pos="Adv">гласӧн</l>
+       <l_var type="molodtsov-cyr">гласӧн</l_var>
+   </lg>
+   <mg relId="0">
+     <tg xml:lang="rus">
+       <t>громко</t>
+     </tg>
+     <xg>
+       <x>гласӧн бӧрдны</x>
+       <xt xml:lang="rus">громко плакать</xt>
+     </xg>
+   </mg>
+</e>
+<e>
+   <lg t1="Г" t2="О" t3="З" uri="10248-gozij-n" id="10248">
+     <l pos="Adv">гозйӧн</l>
+       <l_var type="molodtsov-cyr">гозјӧн</l_var>
+   </lg>
+   <mg relId="0"> <sg><s s_type="see">гозйӧн-гозйӧн</s></sg>
+     <tg xml:lang="rus">
+       <t></t>
+     </tg>
+   </mg>
+   <mg relId="1">
+     <tg xml:lang="rus">
+       <t>парой, муж с женой (совместно)</t>
+     </tg>
+     <xg>
+       <x>ми да найӧ гозйӧн и вӧлім</x>
+       <xt xml:lang="rus">были мы, муж с женой, и они, муж с женой</xt>
+     </xg>
+     <xg>
+       <x>◊ гозйӧн-пӧлӧн ворсны</x>
+       <xt xml:lang="rus">играть в третий лишний</xt>
+     </xg>
+   </mg>
+</e>
+<e>
+   <lg t1="Г" t2="О" t3="Р" uri="10497-gort-" id="10497">
+     <l pos="Adv">гортӧ</l>
+       <l_var type="molodtsov-cyr">гортӧ</l_var>
+   </lg>
+   <mg relId="0">
+     <tg xml:lang="rus">
+       <t>домой</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg t1="Г" t2="У" t3="Г" uri="11358-gug-n" id="11358">
+     <l pos="Adv">гугӧн</l>
+       <l_var type="molodtsov-cyr">гугӧн</l_var>
+   </lg>
+   <mg relId="0">
+     <tg xml:lang="rus">
+       <t>навыворот, наизнанку</t>
+     </tg>
+     <xg>
+       <x>гугӧн вурны</x>
+       <xt xml:lang="rus">сшить наизнанку</xt>
+     </xg>
+     <xg>
+       <x>ставыс артмис гугӧн </x>
+       <xt xml:lang="rus"><acronym title="в переносном значении"><em>перен.</em></acronym> всё получилось навыворот</xt>
+     </xg>
+     <xg>
+       <x>◊ гач сылы гугӧн</x>
+       <xt xml:lang="rus"> чтоб ему ни дна ни покрышки </xt>
+        <xt xml:lang="rus" src_type="literally:буквально"> штаны ему наизнанку</xt>
+     </xg>
+   </mg>
+</e>
+<e>
+   <lg t1="Г" t2="У" t3="З" uri="11477-guz-b-n" id="11477">
+     <l pos="Adv">гузьӧбӧн</l>
+       <l_var type="molodtsov-cyr">гуԅӧбӧн</l_var>
+   </lg>
+   <mg relId="0">
+     <tg xml:lang="rus">
+       <t>гурьбой</t>
+     </tg>
+     <xg>
+       <x>гузьӧбӧн петны</x>
+       <xt xml:lang="rus">выйти гурьбой</xt>
+     </xg>
+   </mg>
+</e>
+<e>
+   <lg t1="Г" t2="У" t3="М" uri="11595-gumyl-ga-n" id="11595">
+     <l pos="Adv">гумыльгаӧн</l>
+       <l_var type="molodtsov-cyr">гумыԉгаӧн</l_var>
+   </lg>
+   <mg relId="0"> <sg><s s_type="see">гумыль-гамыль во 2 значении</s></sg>
+     <tg xml:lang="rus">
+       <t></t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg t1="Г" t2="У" t3="С" uri="11741-gus-n" id="11741">
+     <l pos="Adv">гусьӧн</l>
+       <l_var type="molodtsov-cyr">гуԍӧн</l_var>
+   </lg>
+   <mg relId="0">
+     <tg xml:lang="rus">
+       <t>тайно; втайне; тайком; украдкой; втихомолку; воровски</t>
+     </tg>
+     <xg>
+       <x>гусьӧн волыны</x>
+       <xt xml:lang="rus"> приходить тайно <em>(тайком, украдкой)</em></xt>
+     </xg>
+     <xg>
+       <x>гусьӧн лӧсьӧдчыны</x>
+       <xt xml:lang="rus">готовиться втайне, тайком</xt>
+     </xg>
+     <xg>
+       <x>гусьӧн пурсьысь пон ёнджыка курччасьӧ </x>
+       <xt xml:lang="rus" src_type="proverb:пословица">в тихом омуте черти водятся</xt>
+     </xg>
+   </mg>
+   <mg relId="1">
+     <tg xml:lang="rus">
+       <t>скрытно; незаметно</t>
+     </tg>
+     <xg>
+       <x>йӧзысь гусьӧн</x>
+       <xt xml:lang="rus">скрытно от людей</xt>
+     </xg>
+     <xg>
+       <x>гусьӧн матыстчыны</x>
+       <xt xml:lang="rus">скрытно подойти</xt>
+     </xg>
+     <xg>
+       <x>притчаыд гусьӧн морттӧ кыйӧдӧ</x>
+       <xt xml:lang="rus">беда подстерегает человека незаметно</xt>
+     </xg>
+   </mg>
+   <mg relId="2">
+     <tg xml:lang="rus">
+       <t>про себя, тихо; шёпотом</t>
+     </tg>
+     <xg>
+       <x>гусьӧн артасьны</x>
+       <xt xml:lang="rus">считать в уме</xt>
+     </xg>
+     <xg>
+       <x>гусьӧн бӧрдны</x>
+       <xt xml:lang="rus">тихо плакать</xt>
+     </xg>
+     <xg>
+       <x>гусьӧнджык сёрнит</x>
+       <xt xml:lang="rus">потише говори</xt>
+     </xg>
+   </mg>
+   <mg relId="3">
+     <tg xml:lang="rus">
+       <t>по секрету</t>
+     </tg>
+     <xg>
+       <x>гусьӧн тэныд висьтала</x>
+       <xt xml:lang="rus">по секрету тебе скажу</xt>
+     </xg>
+     <xg>
+       <x>◊ улі гусьӧн да вылі мырдӧн овны</x>
+       <xt xml:lang="rus">жить в тяжёлых условиях</xt>
+     </xg>
+   </mg>
+</e>
+<e>
+   <lg t1="Д" t2="О" t3="Р" uri="14217-dorad" id="14217">
+     <l pos="Adv">дорад</l>
+       <l_var type="molodtsov-cyr">ԁораԁ</l_var>
+   </lg>
+   <mg relId="0">
+     <tg xml:lang="rus">
+       <t><acronym title="местоимение"><em>мест.</em></acronym> <acronym title="послеложно-личное (местоимение)"><em>послел.-личн.</em></acronym> <acronym title="единственное число"><em>ед.ч.</em></acronym> <acronym title="2-ое лицо"><em>2 л.</em></acronym> у, около, вблизи, подле <em>(тебя)</em></t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg t1="Д" t2="О" t3="Р" uri="14224-doram" id="14224">
+     <l pos="Adv">дорам</l>
+       <l_var type="molodtsov-cyr">ԁорам</l_var>
+   </lg>
+   <mg relId="0">
+     <tg xml:lang="rus">
+       <t><acronym title="местоимение"><em>мест.</em></acronym> <acronym title="послеложно-личное (местоимение)"><em>послел.-личн.</em></acronym> <acronym title="единственное число"><em>ед.ч.</em></acronym> <acronym title="1-ое лицо"><em>1 л.</em></acronym> у, около, вблизи, подле <em>(меня)</em></t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg t1="Д" t2="О" t3="Р" uri="14227-doranyd" id="14227">
+     <l pos="Adv">дораныд</l>
+       <l_var type="molodtsov-cyr">ԁораныԁ</l_var>
+   </lg>
+   <mg relId="0">
+     <tg xml:lang="rus">
+       <t><acronym title="местоимение"><em>мест.</em></acronym> <acronym title="послеложно-личное (местоимение)"><em>послел.-личн.</em></acronym> <acronym title="местоимение"><em>мест.</em></acronym> <acronym title="2-ое лицо"><em>2 л.</em></acronym> у, около, вблизи, возле <em>(вас)</em></t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg t1="Д" t2="О" t3="Р" uri="14229-doranym" id="14229">
+     <l pos="Adv">дораным</l>
+       <l_var type="molodtsov-cyr">ԁораным</l_var>
+   </lg>
+   <mg relId="0">
+     <tg xml:lang="rus">
+       <t><acronym title="местоимение"><em>мест.</em></acronym> <acronym title="послеложно-личное (местоимение)"><em>послел.-личн.</em></acronym> <acronym title="местоимение"><em>мест.</em></acronym> <acronym title="1-ое лицо"><em>1 л.</em></acronym> у, около, возле, вблизи <em>(нас)</em></t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg t1="Д" t2="О" t3="Р" uri="14231-doranys" id="14231">
+     <l pos="Adv">дораныс</l>
+       <l_var type="molodtsov-cyr">ԁораныс</l_var>
+   </lg>
+   <mg relId="0">
+     <tg xml:lang="rus">
+       <t><acronym title="местоимение"><em>мест.</em></acronym> <acronym title="послеложно-личное (местоимение)"><em>послел.-личн.</em></acronym> <acronym title="местоимение"><em>мест.</em></acronym> <acronym title="3-ье лицо"><em>3 л.</em></acronym> у, около, возле, вблизи <em>(них)</em></t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg t1="Д" t2="О" t3="Р" uri="14232-doras" id="14232">
+     <l pos="Adv">дорас</l>
+       <l_var type="molodtsov-cyr">ԁорас</l_var>
+   </lg>
+   <mg relId="0">
+     <tg xml:lang="rus">
+       <t><acronym title="местоимение"><em>мест.</em></acronym> <acronym title="послеложно-личное (местоимение)"><em>послел.-личн.</em></acronym> <acronym title="единственное число"><em>ед.ч.</em></acronym> <acronym title="3-ье лицо"><em>3 л.</em></acronym> у, около, возле, вблизи <em>(него)</em></t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg t1="Д" t2="О" t3="Р" uri="14328-dors-yd" id="14328">
+     <l pos="Adv">дорсьыд</l>
+       <l_var type="molodtsov-cyr">ԁорԍыԁ</l_var>
+   </lg>
+   <mg relId="0">
+     <tg xml:lang="rus">
+       <t><acronym title="местоимение"><em>мест.</em></acronym> <acronym title="послеложно-личное (местоимение)"><em>послел.-личн.</em></acronym> <acronym title="единственное число"><em>ед.ч.</em></acronym> <acronym title="2-ое лицо"><em>2 л.</em></acronym> от тебя; от себя; около, возле, у себя</t>
+     </tg>
+     <xg>
+       <x>дорсьыд аддзы</x>
+       <xt xml:lang="rus">около себя смотри</xt>
+     </xg>
+     <xg>
+       <x>дорсьыд корсьны колӧ</x>
+       <xt xml:lang="rus">у тебя надо искать</xt>
+     </xg>
+   </mg>
+</e>
+<e>
+   <lg t1="Д" t2="О" t3="Р" uri="14330-dors-ym" id="14330">
+     <l pos="Adv">дорсьым</l>
+       <l_var type="molodtsov-cyr">ԁорԍым</l_var>
+   </lg>
+   <mg relId="0">
+     <tg xml:lang="rus">
+       <t><acronym title="местоимение"><em>мест.</em></acronym> <acronym title="послеложно-личное (местоимение)"><em>послел.-личн.</em></acronym> <acronym title="единственное число"><em>ед.ч.</em></acronym> <acronym title="1-ое лицо"><em>1 л.</em></acronym> от меня, около, возле, у себя <em>(меня)</em></t>
+     </tg>
+     <xg>
+       <x>понйӧй дорсьым эз вешйыв</x>
+       <xt xml:lang="rus">собака от меня не отходила</xt>
+     </xg>
+   </mg>
+</e>
+<e>
+   <lg t1="Д" t2="О" t3="Р" uri="14335-dors-ynyd" id="14335">
+     <l pos="Adv">дорсьыныд</l>
+       <l_var type="molodtsov-cyr">ԁорԍыныԁ</l_var>
+   </lg>
+   <mg relId="0">
+     <tg xml:lang="rus">
+       <t><acronym title="местоимение"><em>мест.</em></acronym> <acronym title="послеложно-личное (местоимение)"><em>послел.-личн.</em></acronym> <acronym title="местоимение"><em>мест.</em></acronym> <acronym title="2-ое лицо"><em>2 л.</em></acronym> от вас; около, возле, у вас <em>(самих)</em></t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg t1="Д" t2="О" t3="Р" uri="14336-dors-ynym" id="14336">
+     <l pos="Adv">дорсьыным</l>
+       <l_var type="molodtsov-cyr">ԁорԍыным</l_var>
+   </lg>
+   <mg relId="0">
+     <tg xml:lang="rus">
+       <t><acronym title="местоимение"><em>мест.</em></acronym> <acronym title="послеложно-личное (местоимение)"><em>послел.-личн.</em></acronym> <acronym title="местоимение"><em>мест.</em></acronym> <acronym title="1-ое лицо"><em>1 л.</em></acronym> от нас; около, возле, у нас</t>
+     </tg>
+     <xg>
+       <x>дорсьыным пӧрӧдім пусӧ</x>
+       <xt xml:lang="rus">возле себя мы срубили дерево</xt>
+     </xg>
+   </mg>
+</e>
+<e>
+   <lg t1="Д" t2="О" t3="Р" uri="14338-dors-ynys" id="14338">
+     <l pos="Adv">дорсьыныс</l>
+       <l_var type="molodtsov-cyr">ԁорԍыныс</l_var>
+   </lg>
+   <mg relId="0">
+     <tg xml:lang="rus">
+       <t><acronym title="местоимение"><em>мест.</em></acronym> <acronym title="послеложно-личное (местоимение)"><em>послел.-личн.</em></acronym> <acronym title="местоимение"><em>мест.</em></acronym> <acronym title="3-ье лицо"><em>3 л.</em></acronym> от них <em>(от себя)</em>; возле, около, у них</t>
+     </tg>
+     <xg>
+       <x>дорсьыныс лымсӧ весалісны</x>
+       <xt xml:lang="rus">возле себя они снег убрали</xt>
+     </xg>
+   </mg>
+</e>
+<e>
+   <lg t1="Д" t2="О" t3="Р" uri="14386-dorysh-n" id="14386">
+     <l pos="Adv">дорышӧн</l>
+       <l_var type="molodtsov-cyr">ԁорышӧн</l_var>
+   </lg>
+   <mg relId="0"> <sg><s s_type="see">дорышвыв</s></sg>
+     <tg xml:lang="rus">
+       <t></t>
+     </tg>
+     <xg>
+       <x>дорышӧн кыпӧдчис йи пластыс</x>
+       <xt xml:lang="rus">пласт льда стал ребром</xt>
+     </xg>
+   </mg>
+   <mg relId="1">
+     <tg xml:lang="rus">
+       <t><acronym title="в переносном значении"><em>перен.</em></acronym> против; с протестом; на дыбы</t>
+     </tg><br />
+     <xg>
+       <x>нывлы тшӧктісны мунны, но сійӧ дорышӧн сувтіс</x>
+       <xt xml:lang="rus"> девочке велели идти, но она запротестовала </xt>
+        <xt xml:lang="rus" src_type="literally:буквально"> стала против</xt>
+     </xg>
+   </mg>
+</e>
+<e>
+   <lg t1="Д" t2="Р" t3="У" uri="14707-drug-n" id="14707">
+     <l pos="Adv">другӧн</l>
+       <l_var type="molodtsov-cyr">ԁругӧн</l_var>
+   </lg>
+   <mg relId="0">
+     <tg xml:lang="rus">
+       <t>сразу</t>
+     </tg>
+     <xg>
+       <x>сійӧс другӧн он и тӧд</x>
+       <xt xml:lang="rus">его сразу и не узнаешь</xt>
+     </xg>
+     <xg>
+       <x>сьӧлӧмтӧ кепысь моз другӧн он веж</x>
+       <xt xml:lang="rus">сердце, как рукавицы, сразу не сменишь</xt>
+     </xg>
+   </mg>
+</e>
+<e>
+   <lg t1="Д" t2="Ы" t3="Р" uri="15162-dyr" id="15162">
+     <l pos="Adv">дыр</l>
+       <l_var type="molodtsov-cyr">ԁыр</l_var>
+   </lg>
+   <mg relId="0">
+     <tg xml:lang="rus">
+       <t>долго || долгий, продолжительный</t>
+     </tg>
+     <xg>
+       <x>дыр виччысьны</x>
+       <xt xml:lang="rus">долго ждать</xt>
+     </xg>
+     <xg>
+       <x>дыр овны</x>
+       <xt xml:lang="rus">а) долго жить</xt>
+       <xt xml:lang="rus">б) бодрствовать <em>(поздно лечь)</em></xt>
+     </xg>
+     <xg>
+       <x>дыр видзӧдіс енэжлань</x>
+       <xt xml:lang="rus">долго смотрел на небо</xt>
+     </xg>
+     <xg>
+       <x>дыр кежлӧ</x>
+       <xt xml:lang="rus">надолго</xt>
+     </xg>
+     <xg>
+       <x>дыр кежлӧ мунны</x>
+       <xt xml:lang="rus">надолго уехать</xt>
+     </xg>
+     <xg>
+       <x>дыр куйлыны</x>
+       <xt xml:lang="rus">належаться <acronym title="разговорное"><em>разг.</em></acronym>; залежаться, залёживаться</xt>
+     </xg>
+     <xg>
+       <x>дыр кыссьысь</x>
+       <xt xml:lang="rus">длительный, продолжительный</xt>
+     </xg>
+     <xg>
+       <x>дыр мысти</x>
+       <xt xml:lang="rus">через долгое время, спустя много времени</xt>
+     </xg>
+     <xg>
+       <x>дыр узьысь </x>
+       <xt xml:lang="rus"><acronym title="разговорное"><em>разг.</em></acronym> соня</xt>
+     </xg>
+     <xg>
+       <x>дыр бӧрйысигад бӧр кокыс сюрӧ </x>
+       <xt xml:lang="rus" src_type="saying:поговорка">когда долго выбираешь, плохая невеста выищется </xt>
+        <xt xml:lang="rus" src_type="literally:буквально"> задняя нога</xt>
+     </xg>
+     <xg>
+       <x>дыр кӧ кутан узьны, кувтӧдзыд водзӧса лоан йӧзлы </x>
+       <xt xml:lang="rus" src_type="saying:поговорка">долго будешь спать, до самой смерти будешь в долгу перед людьми</xt>
+     </xg>
+     <xg>
+       <x>дыр узигад йӧв-выйыд оз сод </x>
+       <xt xml:lang="rus" src_type="saying:поговорка">долго спать в хозяйстве молока и масла не прибавится</xt>
+     </xg>
+   </mg>
+   <mg relId="1">
+     <tg xml:lang="rus">
+       <t><acronym title="употребляется"><em>употр.</em></acronym> <em>при образовании существительных, обозначающих определённый период какого-либо занятия</em></t>
+     </tg>
+     <xg>
+       <x>велӧдчан дыр</x>
+       <xt xml:lang="rus">период учения</xt>
+     </xg>
+     <xg>
+       <x>вундан дыр</x>
+       <xt xml:lang="rus">жатва, время жатвы</xt>
+     </xg>
+     <xg>
+       <x>челядь дыр</x>
+       <xt xml:lang="rus">детство, детские годы</xt>
+     </xg>
+     <xg>
+       <x>ытшкан дыр</x>
+       <xt xml:lang="rus">сенокос, время сенокоса</xt>
+     </xg>
+     <xg>
+       <x>◊ дыр кӧсйысь</x>
+       <xt xml:lang="rus"> тяжёл на подъём </xt>
+        <xt xml:lang="rus" src_type="literally:буквально"> долго собирающийся</xt>
+     </xg>
+     <xg>
+       <x>◊ дыр нюжӧдны</x>
+       <xt xml:lang="rus">откладывать в долгий ящик</xt>
+     </xg>
+     <xg>
+       <x>◊ дыр новлігад и шляпа гынмӧ юр серти</x>
+       <xt xml:lang="rus"> поживёшь – полюбишь </xt>
+        <xt xml:lang="rus" src_type="literally:буквально"> если долго носить шляпу, то и она наваляется по голове</xt>
+     </xg>
+     <xg>
+       <x>◊ ӧні миян дырным</x>
+       <xt xml:lang="rus">наша взяла</xt>
+     </xg>
+   </mg>
+</e>
+<e>
+   <lg t1="Д" t2="Ы" t3="Р" uri="15171-dyr-n" id="15171">
+     <l pos="Adv">дырӧн</l>
+       <l_var type="molodtsov-cyr">ԁырӧн</l_var>
+   </lg>
+   <mg relId="0">
+     <tg xml:lang="rus">
+       <t>с течением времени, со временем; постепенно</t>
+     </tg>
+     <xg>
+       <x>дырӧн велалас</x>
+       <xt xml:lang="rus">со временем привыкнет</xt>
+     </xg>
+     <xg>
+       <x>дырӧн мынтыся</x>
+       <xt xml:lang="rus">с годами расплачусь</xt>
+     </xg>
+     <xg>
+       <x>челядь вочасӧн босьтӧны бать-мамыслысь дырӧн чӧжсьӧм сямсӧ</x>
+       <xt xml:lang="rus">детям постепенно передаётся годами накопившийся ум родителей</xt>
+     </xg>
+   </mg>
+   <mg relId="1">
+     <tg xml:lang="rus">
+       <t>когда-нибудь</t>
+     </tg>
+     <xg>
+       <x>дырӧн вола</x>
+       <xt xml:lang="rus">когда-нибудь приду</xt>
+     </xg>
+     <xg>
+       <x>дырӧн-ӧ вӧчан?</x>
+       <xt xml:lang="rus">за какое время сделаешь?</xt>
+     </xg>
+   </mg>
+   <mg relId="2">
+     <tg xml:lang="rus">
+       <t>мало-помалу <acronym title="разговорное"><em>разг.</em></acronym></t>
+     </tg>
+     <xg>
+       <x>дырӧн сьӧд босьтны</x>
+       <xt xml:lang="rus">мало-помалу привыкать</xt>
+     </xg>
+   </mg>
+</e>
+<e>
+   <lg t1="Д" t2="І" t3="Н" uri="13755-dinad" id="13755">
+     <l pos="Adv">дінад</l>
+       <l_var type="molodtsov-cyr">ԁінаԁ</l_var>
+   </lg>
+   <mg relId="0">
+     <tg xml:lang="rus">
+       <t><acronym title="местоимение"><em>мест.</em></acronym> <acronym title="послеложно-личное (местоимение)"><em>послел.-личн.</em></acronym> <acronym title="единственное число"><em>ед.ч.</em></acronym> <acronym title="2-ое лицо"><em>2 л.</em></acronym> при тебе; к тебе</t>
+     </tg>
+     <xg>
+       <x>дінад босьт</x>
+       <xt xml:lang="rus"> <em>(ты)</em> к себе возьми</xt>
+     </xg>
+   </mg>
+</e>
+<e>
+   <lg t1="Д" t2="І" t3="Н" uri="13756-dinam" id="13756">
+     <l pos="Adv">дінам</l>
+       <l_var type="molodtsov-cyr">ԁінам</l_var>
+   </lg>
+   <mg relId="0">
+     <tg xml:lang="rus">
+       <t><acronym title="местоимение"><em>мест.</em></acronym> <acronym title="послеложно-личное (местоимение)"><em>послел.-личн.</em></acronym> <acronym title="единственное число"><em>ед.ч.</em></acronym> <acronym title="1-ое лицо"><em>1 л.</em></acronym> при мне; ко мне; около меня, у меня</t>
+     </tg>
+     <xg>
+       <x>дінам сулалӧ</x>
+       <xt xml:lang="rus">при мне стоит</xt>
+     </xg>
+   </mg>
+</e>
+<e>
+   <lg t1="Д" t2="І" t3="Н" uri="13759-dinanyd" id="13759">
+     <l pos="Adv">дінаныд</l>
+       <l_var type="molodtsov-cyr">ԁінаныԁ</l_var>
+   </lg>
+   <mg relId="0">
+     <tg xml:lang="rus">
+       <t><acronym title="местоимение"><em>мест.</em></acronym> <acronym title="послеложно-личное (местоимение)"><em>послел.-личн.</em></acronym> <acronym title="местоимение"><em>мест.</em></acronym> <acronym title="2-ое лицо"><em>2 л.</em></acronym> при вас; у вас, около вас; к себе</t>
+     </tg>
+     <xg>
+       <x>чемоданъяснытӧ дінаныд босьтӧй</x>
+       <xt xml:lang="rus">возьмите свои чемоданы к себе</xt>
+     </xg>
+   </mg>
+</e>
+<e>
+   <lg t1="Д" t2="І" t3="Н" uri="13760-dinanym" id="13760">
+     <l pos="Adv">дінаным</l>
+       <l_var type="molodtsov-cyr">ԁінаным</l_var>
+   </lg>
+   <mg relId="0">
+     <tg xml:lang="rus">
+       <t><acronym title="местоимение"><em>мест.</em></acronym> <acronym title="послеложно-личное (местоимение)"><em>послел.-личн.</em></acronym> <acronym title="местоимение"><em>мест.</em></acronym> <acronym title="1-ое лицо"><em>1 л.</em></acronym> при нас; к нам; около нас</t>
+     </tg>
+     <xg>
+       <x>дінаным видзны кодӧскӧ</x>
+       <xt xml:lang="rus"> держать <em>кого-либо</em> при себе</xt>
+     </xg>
+   </mg>
+</e>
+<e>
+   <lg t1="Д" t2="І" t3="Н" uri="13763-dinanys" id="13763">
+     <l pos="Adv">дінаныс</l>
+       <l_var type="molodtsov-cyr">ԁінаныс</l_var>
+   </lg>
+   <mg relId="0">
+     <tg xml:lang="rus">
+       <t><acronym title="местоимение"><em>мест.</em></acronym> <acronym title="послеложно-личное (местоимение)"><em>послел.-личн.</em></acronym> <acronym title="местоимение"><em>мест.</em></acronym> <acronym title="3-ье лицо"><em>3 л.</em></acronym> при них; к ним, у них, около них</t>
+     </tg>
+     <xg>
+       <x>мед эськӧ став челядьыс дінаныс вӧліны</x>
+       <xt xml:lang="rus">хотелось им, чтобы все дети при них были</xt>
+     </xg>
+   </mg>
+</e>
+<e>
+   <lg t1="Д" t2="І" t3="Н" uri="13766-dinas" id="13766">
+     <l pos="Adv">дінас</l>
+       <l_var type="molodtsov-cyr">ԁінас</l_var>
+   </lg>
+   <mg relId="0">
+     <tg xml:lang="rus">
+       <t><acronym title="местоимение"><em>мест.</em></acronym> <acronym title="послеложно-личное (местоимение)"><em>послел.-личн.</em></acronym> <acronym title="единственное число"><em>ед.ч.</em></acronym> <acronym title="3-ье лицо"><em>3 л.</em></acronym> при нём; к нему, у него, около него</t>
+     </tg>
+     <xg>
+       <x>ныв-пиыс дінас некод абу</x>
+       <xt xml:lang="rus">из детей никого нет уже при нём</xt>
+     </xg>
+   </mg>
+</e>
+<e>
+   <lg t1="Д" t2="І" t3="Н" uri="13788-dins-yd" id="13788">
+     <l pos="Adv">дінсьыд</l>
+       <l_var type="molodtsov-cyr">ԁінԍыԁ</l_var>
+   </lg>
+   <mg relId="0">
+     <tg xml:lang="rus">
+       <t><acronym title="местоимение"><em>мест.</em></acronym> <acronym title="послеложно-личное (местоимение)"><em>послел.-личн.</em></acronym> <acronym title="единственное число"><em>ед.ч.</em></acronym> <acronym title="2-ое лицо"><em>2 л.</em></acronym> от тебя</t>
+     </tg>
+     <xg>
+       <x>дінсьыд менӧ эн вӧтлы</x>
+       <xt xml:lang="rus">не гони меня от себя</xt>
+     </xg>
+   </mg>
+</e>
+<e>
+   <lg t1="Д" t2="І" t3="Н" uri="13790-dins-ym" id="13790">
+     <l pos="Adv">дінсьым</l>
+       <l_var type="molodtsov-cyr">ԁінԍым</l_var>
+   </lg>
+   <mg relId="0">
+     <tg xml:lang="rus">
+       <t><acronym title="местоимение"><em>мест.</em></acronym> <acronym title="послеложно-личное (местоимение)"><em>послел.-личн.</em></acronym> <acronym title="единственное число"><em>ед.ч.</em></acronym> <acronym title="1-ое лицо"><em>1 л.</em></acronym> от меня</t>
+     </tg>
+     <xg>
+       <x>понйӧй дінсьым оз ветлы</x>
+       <xt xml:lang="rus">собака от меня не отходит</xt>
+     </xg>
+   </mg>
+</e>
+<e>
+   <lg t1="Д" t2="І" t3="Н" uri="13793-dins-ynyd" id="13793">
+     <l pos="Adv">дінсьыныд</l>
+       <l_var type="molodtsov-cyr">ԁінԍыныԁ</l_var>
+   </lg>
+   <mg relId="0">
+     <tg xml:lang="rus">
+       <t><acronym title="местоимение"><em>мест.</em></acronym> <acronym title="послеложно-личное (местоимение)"><em>послел.-личн.</em></acronym> <acronym title="местоимение"><em>мест.</em></acronym> <acronym title="2-ое лицо"><em>2 л.</em></acronym> от вас</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg t1="Д" t2="І" t3="Н" uri="13794-dins-ynym" id="13794">
+     <l pos="Adv">дінсьыным</l>
+       <l_var type="molodtsov-cyr">ԁінԍыным</l_var>
+   </lg>
+   <mg relId="0">
+     <tg xml:lang="rus">
+       <t><acronym title="местоимение"><em>мест.</em></acronym> <acronym title="послеложно-личное (местоимение)"><em>послел.-личн.</em></acronym> <acronym title="местоимение"><em>мест.</em></acronym> <acronym title="1-ое лицо"><em>1 л.</em></acronym> от нас</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg t1="Д" t2="І" t3="Н" uri="13795-dins-ynys" id="13795">
+     <l pos="Adv">дінсьыныс</l>
+       <l_var type="molodtsov-cyr">ԁінԍыныс</l_var>
+   </lg>
+   <mg relId="0">
+     <tg xml:lang="rus">
+       <t><acronym title="местоимение"><em>мест.</em></acronym> <acronym title="послеложно-личное (местоимение)"><em>послел.-личн.</em></acronym> <acronym title="местоимение"><em>мест.</em></acronym> <acronym title="3-ье лицо"><em>3 л.</em></acronym> от них</t>
+     </tg>
+     <xg>
+       <x>дінсьыныс табак дук кылӧ</x>
+       <xt xml:lang="rus">от них табаком пахнет</xt>
+     </xg>
+   </mg>
+</e>
+<e>
+   <lg t1="Д" t2="І" t3="Н" uri="13798-dins-ys" id="13798">
+     <l pos="Adv">дінсьыс</l>
+       <l_var type="molodtsov-cyr">ԁінԍыс</l_var>
+   </lg>
+   <mg relId="0">
+     <tg xml:lang="rus">
+       <t><acronym title="местоимение"><em>мест.</em></acronym> <acronym title="послеложно-личное (местоимение)"><em>послел.-личн.</em></acronym> <acronym title="единственное число"><em>ед.ч.</em></acronym> <acronym title="3-ье лицо"><em>3 л.</em></acronym> от него</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg t1="Д" t2="І" t3="Н" uri="13804-dintinyd" id="13804">
+     <l pos="Adv">дінтіныд</l>
+       <l_var type="molodtsov-cyr">ԁінтіныԁ</l_var>
+   </lg>
+   <mg relId="0">
+     <tg xml:lang="rus">
+       <t><acronym title="местоимение"><em>мест.</em></acronym> <acronym title="послеложно-личное (местоимение)"><em>послел.-личн.</em></acronym> <acronym title="местоимение"><em>мест.</em></acronym> <acronym title="2-ое лицо"><em>2 л.</em></acronym> около, возле, мимо вас</t>
+     </tg>
+     <xg>
+       <x>дінтіныд лэбис утка</x>
+       <xt xml:lang="rus">утка пролетела мимо вас</xt>
+     </xg>
+   </mg>
+</e>
+<e>
+   <lg t1="Д" t2="І" t3="Н" uri="13805-dintinym" id="13805">
+     <l pos="Adv">дінтіным</l>
+       <l_var type="molodtsov-cyr">ԁінтіным</l_var>
+   </lg>
+   <mg relId="0">
+     <tg xml:lang="rus">
+       <t><acronym title="местоимение"><em>мест.</em></acronym> <acronym title="послеложно-личное (местоимение)"><em>послел.-личн.</em></acronym> <acronym title="местоимение"><em>мест.</em></acronym> <acronym title="1-ое лицо"><em>1 л.</em></acronym> около, возле, мимо нас</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg t1="Д" t2="І" t3="Н" uri="13808-dintinys" id="13808">
+     <l pos="Adv">дінтіныс</l>
+       <l_var type="molodtsov-cyr">ԁінтіныс</l_var>
+   </lg>
+   <mg relId="0">
+     <tg xml:lang="rus">
+       <t><acronym title="местоимение"><em>мест.</em></acronym> <acronym title="послеложно-личное (местоимение)"><em>послел.-личн.</em></acronym> <acronym title="местоимение"><em>мест.</em></acronym> <acronym title="3-ье лицо"><em>3 л.</em></acronym> около, возле, мимо них</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg t1="Д" t2="І" t3="Н" uri="13810-dintiyd" id="13810">
+     <l pos="Adv">дінтіыд</l>
+       <l_var type="molodtsov-cyr">ԁінтіыԁ</l_var>
+   </lg>
+   <mg relId="0">
+     <tg xml:lang="rus">
+       <t><acronym title="местоимение"><em>мест.</em></acronym> <acronym title="послеложно-личное (местоимение)"><em>послел.-личн.</em></acronym> <acronym title="единственное число"><em>ед.ч.</em></acronym> <acronym title="2-ое лицо"><em>2 л.</em></acronym> около, возле, мимо тебя</t>
+     </tg>
+     <xg>
+       <x>дінтіыд муні</x>
+       <xt xml:lang="rus"> около тебя <em>(я)</em> прошёл</xt>
+     </xg>
+   </mg>
+</e>
+<e>
+   <lg t1="Д" t2="І" t3="Н" uri="13813-dintiym" id="13813">
+     <l pos="Adv">дінтіым</l>
+       <l_var type="molodtsov-cyr">ԁінтіым</l_var>
+   </lg>
+   <mg relId="0">
+     <tg xml:lang="rus">
+       <t><acronym title="местоимение"><em>мест.</em></acronym> <acronym title="послеложно-личное (местоимение)"><em>послел.-личн.</em></acronym> <acronym title="единственное число"><em>ед.ч.</em></acronym> <acronym title="1-ое лицо"><em>1 л.</em></acronym> около, возле, мимо меня</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg t1="Д" t2="І" t3="Н" uri="13816-dintiys" id="13816">
+     <l pos="Adv">дінтіыс</l>
+       <l_var type="molodtsov-cyr">ԁінтіыс</l_var>
+   </lg>
+   <mg relId="0">
+     <tg xml:lang="rus">
+       <t><acronym title="местоимение"><em>мест.</em></acronym> <acronym title="послеложно-личное (местоимение)"><em>послел.-личн.</em></acronym> <acronym title="единственное число"><em>ед.ч.</em></acronym> <acronym title="3-ье лицо"><em>3 л.</em></acronym> около, возле, мимо него <em>(неё)</em></t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg t1="Ӧ" t2="Т" t3="А" uri="37755-tar-m-darsyan-" id="37755">
+     <l pos="Adv">ӧтар-мӧдарсянь</l>
+       <l_var type="molodtsov-cyr">ӧтар-мӧԁарԍаԋ</l_var>
+   </lg>
+   <mg relId="0"> <sg><s s_type="see">ӧтарсянь-мӧдарсянь</s></sg>
+     <tg xml:lang="rus">
+       <t></t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg t1="Ӧ" t2="Т" t3="А" uri="37758-tar-m-daryn" id="37758">
+     <l pos="Adv">ӧтар-мӧдарын</l>
+       <l_var type="molodtsov-cyr">ӧтар-мӧԁарын</l_var>
+   </lg>
+   <mg relId="0"> <sg><s s_type="see">ӧтарын-мӧдарын</s></sg>
+     <tg xml:lang="rus">
+       <t></t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg t1="Ӧ" t2="Т" t3="А" uri="37753-tar-m-dar-" id="37753">
+     <l pos="Adv">ӧтар-мӧдарӧ</l>
+       <l_var type="molodtsov-cyr">ӧтар-мӧԁарӧ</l_var>
+   </lg>
+   <mg relId="0"> <sg><s s_type="see">ӧтарӧ-мӧдарӧ</s></sg>
+     <tg xml:lang="rus">
+       <t></t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg t1="Ӧ" t2="Т" t3="А" uri="37748-tarlan-" id="37748">
+     <l pos="Adv">ӧтарлань</l>
+       <l_var type="molodtsov-cyr">ӧтарлаԋ</l_var>
+   </lg>
+   <mg relId="0">
+     <tg xml:lang="rus">
+       <t><em>редко</em> </t>
+     </tg> <sg><s s_type="see">ӧтарӧ в 1 значении</s></sg>
+   </mg>
+</e>
+<e>
+   <lg t1="Ӧ" t2="Т" t3="А" uri="37768-tarsyan-" id="37768">
+     <l pos="Adv">ӧтарсянь</l>
+       <l_var type="molodtsov-cyr">ӧтарԍаԋ</l_var>
+   </lg>
+   <mg relId="0">
+     <tg xml:lang="rus">
+       <t>с одной стороны, с одного направления</t>
+     </tg>
+     <xg>
+       <x>ме тэнӧ ӧтарсянь виччыси, а воин мӧдарсянь</x>
+       <xt xml:lang="rus">я тебя поджидал с одной стороны, а ты прибыл с другой</xt>
+     </xg>
+     <xg>
+       <x>ӧтарсянь и мӧдарсянь кылісны ошкана гӧлӧсъяс</x>
+       <xt xml:lang="rus">с одной и с другой стороны слышались одобрительные голоса</xt>
+     </xg>
+   </mg>
+   <mg relId="1">
+     <tg xml:lang="rus">
+       <t><em>в роли</em> <acronym title="вводное слово"><em>вводн.сл.</em></acronym> с одной стороны</t>
+     </tg>
+     <xg>
+       <x>ӧтарсянь кӧ, тайӧ бур, а мӧдарсянь кӧ – зэв уна кад вошӧ</x>
+       <xt xml:lang="rus">с одной стороны, это хорошо, а с другой – связано с потерей времени</xt>
+     </xg>
+   </mg>
+</e>
+<e>
+   <lg t1="Ӧ" t2="Т" t3="А" uri="37770-taryn" id="37770">
+     <l pos="Adv">ӧтарын</l>
+       <l_var type="molodtsov-cyr">ӧтарын</l_var>
+   </lg>
+   <mg relId="0">
+     <tg xml:lang="rus">
+       <t>в одной стороне</t>
+     </tg>
+     <xg>
+       <x>ми сыкӧд ӧтарын олам</x>
+       <xt xml:lang="rus">мы с ним живём в одной стороне</xt>
+     </xg>
+   </mg>
+</e>
+<e>
+   <lg t1="Ӧ" t2="Т" t3="А" uri="37760-tar-" id="37760">
+     <l pos="Adv">ӧтарӧ</l>
+       <l_var type="molodtsov-cyr">ӧтарӧ</l_var>
+   </lg>
+   <mg relId="0">
+     <tg xml:lang="rus">
+       <t>в одну сторону; в одном направлении</t>
+     </tg>
+     <xg>
+       <x>ӧтарӧ ни мӧдарӧ</x>
+       <xt xml:lang="rus">ни взад ни вперёд</xt>
+     </xg>
+     <xg>
+       <x>морт олӧмыд абу жӧ ӧтарӧ визувтысь ва</x>
+       <xt xml:lang="rus">человеческая жизнь не текущая в одну сторону река</xt>
+     </xg>
+     <xg>
+       <x>ӧтарӧ нин лолалӧ</x>
+       <xt xml:lang="rus"> уже не молодая </xt>
+        <xt xml:lang="rus" src_type="literally:буквально"> дышит уже в одну сторону</xt>
+     </xg>
+     <xg>
+       <x>ӧти ӧтарӧ, мӧд мӧдарӧ </x>
+       <xt xml:lang="rus" src_type="saying:поговорка">кто в лес, кто по дрова</xt>
+     </xg>
+   </mg>
+   <mg relId="1">
+     <tg xml:lang="rus">
+       <t>всё <acronym title="разговорное"><em>разг.</em></acronym></t>
+     </tg>
+     <xg>
+       <x>ӧтарӧ омӧльтчӧ</x>
+       <xt xml:lang="rus">он всё худеет</xt>
+     </xg>
+   </mg>
+   <mg relId="2">
+     <tg xml:lang="rus">
+       <t>то и дело, постоянно, беспрерывно, беспрестанно</t>
+     </tg>
+     <xg>
+       <x>ӧтарӧ воалісны выль йӧз</x>
+       <xt xml:lang="rus">беспрерывно прибывали новые люди</xt>
+     </xg>
+     <xg>
+       <x>ӧтарӧ сёйӧ</x>
+       <xt xml:lang="rus">он то и дело ест</xt>
+     </xg>
+     <xg>
+       <x>ӧтарӧ юасьны</x>
+       <xt xml:lang="rus">беспрерывно спрашивать</xt>
+     </xg>
+     <xg>
+       <x>◊ век ӧтарӧ</x>
+       <xt xml:lang="rus">беспрестанно, неустанно; всё более и более; неуклонно</xt>
+     </xg>
+     <xg>
+       <x>◊ ӧтарӧ ассьыс висьталӧ</x>
+       <xt xml:lang="rus">он заладил своё; он всё своё твердит; он сел на своего конька</xt>
+     </xg>
+     <xg>
+       <x>◊ ӧтарӧ век водзӧ</x>
+       <xt xml:lang="rus">шаг за шагом, всё вперёд</xt>
+     </xg>
+     <xg>
+       <x>◊ ӧтарӧ помӧн</x>
+       <xt xml:lang="rus">только и знает</xt>
+     </xg>
+     <xg>
+       <x>◊ ӧтарӧ помӧн удждысьӧ</x>
+       <xt xml:lang="rus">только и знает, что занимает</xt>
+     </xg>
+   </mg>
+</e>
+<e>
+   <lg t1="Ӧ" t2="Т" t3="И" uri="37888-ti-m-dlayn" id="37888">
+     <l pos="Adv">ӧти-мӧдлаын</l>
+       <l_var type="molodtsov-cyr">ӧԏі-мӧԁлаын</l_var>
+   </lg>
+   <mg relId="0">
+     <tg xml:lang="rus">
+       <t>то в одном месте, то в другом; кое-где</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg t1="Ӧ" t2="Т" t3="И" uri="37860-tiklayn" id="37860">
+     <l pos="Adv">ӧтиклаын</l>
+       <l_var type="molodtsov-cyr">ӧԏіклаын</l_var>
+   </lg>
+   <mg relId="0"> <sg><s s_type="see">ӧтилаын</s></sg>
+     <tg xml:lang="rus">
+       <t></t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg t1="Ӧ" t2="Т" t3="И" uri="37857-tikla-" id="37857">
+     <l pos="Adv">ӧтиклаӧ</l>
+       <l_var type="molodtsov-cyr">ӧԏіклаӧ</l_var>
+   </lg>
+   <mg relId="0"> <sg><s s_type="see">ӧтилаӧ</s></sg>
+     <tg xml:lang="rus">
+       <t></t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg t1="Ӧ" t2="Т" t3="И" uri="37882-tilayn" id="37882">
+     <l pos="Adv">ӧтилаын</l>
+       <l_var type="molodtsov-cyr">ӧԏілаын</l_var>
+   </lg>
+   <mg relId="0">
+     <tg xml:lang="rus">
+       <t>в одном месте, на одном месте</t>
+     </tg>
+     <xg>
+       <x>ӧтилаын олӧм-вылӧм</x>
+       <xt xml:lang="rus">оседлый образ жизни</xt>
+     </xg>
+   </mg>
+   <mg relId="1">
+     <tg xml:lang="rus">
+       <t>вместе</t>
+     </tg>
+     <xg>
+       <x>ми лӧсьӧдчим мунны ӧтилаын</x>
+       <xt xml:lang="rus">мы согласились ехать вместе</xt>
+     </xg>
+     <xg>
+       <x>ӧтилаын олігӧн сукджык рокыд </x>
+       <xt xml:lang="rus" src_type="saying:поговорка">когда живут вместе, каша гуще</xt>
+     </xg>
+   </mg>
+</e>
+<e>
+   <lg t1="Ӧ" t2="Т" t3="Н" uri="38079-tnog-n" id="38079">
+     <l pos="Adv">ӧтногӧн</l>
+       <l_var type="molodtsov-cyr">ӧтногӧн</l_var>
+   </lg>
+   <mg relId="0"> <sg><s s_type="see">ӧтног</s></sg>
+     <tg xml:lang="rus">
+       <t></t>
+     </tg>
+     <xg>
+       <x>ӧтногӧн гӧгӧрвоны</x>
+       <xt xml:lang="rus">одинаково понимать</xt>
+     </xg>
+   </mg>
+</e>
+<e>
+   <lg t1="Ӧ" t2="Т" t3="С" uri="38158-ts-glas-n" id="38158">
+     <l pos="Adv">ӧтсӧгласӧн</l>
+       <l_var type="molodtsov-cyr">ӧтсӧгласӧн</l_var>
+   </lg>
+   <mg relId="0">
+     <tg xml:lang="rus">
+       <t>единогласно, единодушно</t>
+     </tg>
+     <xg>
+       <x>ӧтсӧгласӧн бӧрйыны</x>
+       <xt xml:lang="rus">избрать, выбрать единогласно</xt>
+     </xg>
+     <xg>
+       <x>ӧтсӧгласӧн шуны</x>
+       <xt xml:lang="rus"> единогласно решить <em>что-либо</em></xt>
+     </xg>
+   </mg>
+   <mg relId="1">
+     <tg xml:lang="rus">
+       <t>согласно; дружно</t>
+     </tg>
+     <xg>
+       <x>ӧтсӧгласӧн босьтчыны</x>
+       <xt xml:lang="rus">дружно приняться, взяться</xt>
+     </xg>
+     <xg>
+       <x>ӧтсӧгласӧн овны</x>
+       <xt xml:lang="rus">жить согласно, жить в согласии</xt>
+     </xg>
+   </mg>
+   <mg relId="2">
+     <tg xml:lang="rus">
+       <t>по предварительному уговору, сговорившись, по сговору</t>
+     </tg>
+     <xg>
+       <x>ӧтсӧгласӧн лэптыны кодкӧ вылӧ слава</x>
+       <xt xml:lang="rus">сговорившись, возвести на кого-либо напраслину</xt>
      </xg>
    </mg>
 </e>

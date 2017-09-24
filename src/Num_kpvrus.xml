@@ -157,7 +157,8 @@
      </xg><br />
      <xg>
        <x>дас ур </x>
-       <xt xml:lang="rus"><acronym title="устаревшее слово"><em>уст.</em></acronym> три копейки </xt><com>(<acronym title="буквально"><em>букв.</em></acronym> десять белок)</com>
+       <xt xml:lang="rus"><acronym title="устаревшее слово"><em>уст.</em></acronym> три копейки </xt>
+        <xt xml:lang="rus" src_type="literally:буквально"> десять белок</xt>
      </xg><br />
      <xg>
        <x>дас ура деньга</x>
@@ -216,7 +217,8 @@
      </xg><br />
      <xg>
        <x>◊ квайт пӧв костӧ пырны</x>
-       <xt xml:lang="rus">умереть </xt><com>(<acronym title="буквально"><em>букв.</em></acronym> зайти меж шести досок)</com>
+       <xt xml:lang="rus">умереть </xt>
+        <xt xml:lang="rus" src_type="literally:буквально"> зайти меж шести досок</xt>
      </xg><br />
      <xg>
        <x>◊ квайт чуня</x>
@@ -534,7 +536,8 @@
      </xg><br />
      <xg>
        <x>◊ кык бӧр кок йылын сулавны</x>
-       <xt xml:lang="rus">угождать </xt><com>(<acronym title="буквально"><em>букв.</em></acronym> стоять на задних лапах)</com>
+       <xt xml:lang="rus">угождать </xt>
+        <xt xml:lang="rus" src_type="literally:буквально"> стоять на задних лапах</xt>
      </xg><br />
      <xg>
        <x>◊ кык жель</x>
@@ -542,7 +545,8 @@
      </xg><br />
      <xg>
        <x>◊ кык жель костӧ босьтантор</x>
-       <xt xml:lang="rus">не стоит ломаного гроша </xt><com>(<acronym title="буквально"><em>букв.</em></acronym> то, что можно взять двумя щепками)</com>
+       <xt xml:lang="rus">не стоит ломаного гроша </xt>
+        <xt xml:lang="rus" src_type="literally:буквально"> то, что можно взять двумя щепками</xt>
      </xg><br />
      <xg>
        <x>◊ кык кымӧр костӧ пуктыны</x>
@@ -728,7 +732,8 @@
      </xg><br />
      <xg>
        <x>нелямын арӧс бӧрад бабаыд абу нин баба </x>
-       <xt xml:lang="rus"  src_type="saying:поговорка">сорок лет – бабий век </xt><com>(<acronym title="буквально"><em>букв.</em></acronym> после сорока лет женщина уже не женщина)</com>
+       <xt xml:lang="rus"  src_type="saying:поговорка">сорок лет – бабий век </xt>
+        <xt xml:lang="rus" src_type="literally:буквально"> после сорока лет женщина уже не женщина</xt>
      </xg>
    </mg>
 </e>
@@ -1103,7 +1108,8 @@
      </xg><br />
      <xg>
        <x>◊ сё ен могысь</x>
-       <xt xml:lang="rus">сделай милость, очень прошу </xt><com>(<acronym title="буквально"><em>букв.</em></acronym> ради ста богов)</com>
+       <xt xml:lang="rus">сделай милость, очень прошу </xt>
+        <xt xml:lang="rus" src_type="literally:буквально"> ради ста богов</xt>
      </xg>
      <xg>
        <x>◊ сё майбыр</x>
@@ -1111,7 +1117,8 @@
      </xg><br />
      <xg>
        <x>◊ сё мокасьт, сё мор</x>
-       <xt xml:lang="rus">чёрт побери </xt><com>(<acronym title="буквально"><em>букв.</em></acronym> сто чертей)</com>
+       <xt xml:lang="rus">чёрт побери </xt>
+        <xt xml:lang="rus" src_type="literally:буквально"> сто чертей</xt>
      </xg>
      <xg>
        <x>◊ сё пӧгиб</x>
@@ -1433,11 +1440,13 @@
      </xg><br />
      <xg>
        <x>◊ ӧти плака вылӧ сувтны</x>
-       <xt xml:lang="rus">клясться </xt><com>(<acronym title="буквально"><em>букв.</em></acronym> встать на одну доску)</com>
+       <xt xml:lang="rus">клясться </xt>
+        <xt xml:lang="rus" src_type="literally:буквально"> встать на одну доску</xt>
      </xg><br />
      <xg>
        <x>◊ ӧти пӧв кузя ветлыны</x>
-       <xt xml:lang="rus">ходить по струнке (по ниточке) </xt><com>(<acronym title="буквально"><em>букв.</em></acronym> ходить по одной половице)</com>
+       <xt xml:lang="rus">ходить по струнке (по ниточке) </xt>
+        <xt xml:lang="rus" src_type="literally:буквально"> ходить по одной половице</xt>
      </xg>
    </mg>
 </e>
@@ -1564,6 +1573,105 @@
        <x>найӧ вӧліны витӧн</x>
        <xt xml:lang="rus">их было пятеро</xt>
      </xg>
+   </mg>
+</e>
+<e>
+   <lg t1="Д" t2="А" t3="С" uri="12189-das-vit" id="12189">
+     <l pos="Num">дас вит</l>
+       <l_var type="molodtsov-cyr">ԁас віт</l_var>
+   </lg>
+   <mg relId="0">
+     <tg xml:lang="rus">
+       <t>пятнадцать</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg t1="Д" t2="А" t3="С" uri="12192-das-kvaijt" id="12192">
+     <l pos="Num">дас квайт</l>
+       <l_var type="molodtsov-cyr">ԁас квајт</l_var>
+   </lg>
+   <mg relId="0">
+     <tg xml:lang="rus">
+       <t>шестнадцать</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg t1="Д" t2="А" t3="С" uri="12185-das-kuim" id="12185">
+     <l pos="Num">дас куим</l>
+       <l_var type="molodtsov-cyr">ԁас куім</l_var>
+   </lg>
+   <mg relId="0">
+     <tg xml:lang="rus">
+       <t>тринадцать</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg t1="Д" t2="А" t3="С" uri="12183-das-kyk" id="12183">
+     <l pos="Num">дас кык</l>
+       <l_var type="molodtsov-cyr">ԁас кык</l_var>
+   </lg>
+   <mg relId="0">
+     <tg xml:lang="rus">
+       <t>двенадцать</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg t1="Д" t2="А" t3="С" uri="12198-das-k-k-yamys" id="12198">
+     <l pos="Num">дас кӧкъямыс</l>
+       <l_var type="molodtsov-cyr">ԁас кӧкјамыс</l_var>
+   </lg>
+   <mg relId="0">
+     <tg xml:lang="rus">
+       <t>восемнадцать</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg t1="Д" t2="А" t3="С" uri="12186-das-nyol-" id="12186">
+     <l pos="Num">дас нёль</l>
+       <l_var type="molodtsov-cyr">ԁас ԋоԉ</l_var>
+   </lg>
+   <mg relId="0">
+     <tg xml:lang="rus">
+       <t>четырнадцать</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg t1="Д" t2="А" t3="С" uri="12195-das-sizim" id="12195">
+     <l pos="Num">дас сизим</l>
+       <l_var type="molodtsov-cyr">ԁас ԍіԅім</l_var>
+   </lg>
+   <mg relId="0">
+     <tg xml:lang="rus">
+       <t>семнадцать</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg t1="Д" t2="А" t3="С" uri="12201-das-kmys" id="12201">
+     <l pos="Num">дас ӧкмыс</l>
+       <l_var type="molodtsov-cyr">ԁас ӧкмыс</l_var>
+   </lg>
+   <mg relId="0">
+     <tg xml:lang="rus">
+       <t>девятнадцать</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg t1="Д" t2="А" t3="С" uri="12180-das-ti" id="12180">
+     <l pos="Num">дас ӧти</l>
+       <l_var type="molodtsov-cyr">ԁас ӧԏі</l_var>
+   </lg>
+   <mg relId="0">
+     <tg xml:lang="rus">
+       <t>одиннадцать</t>
+     </tg>
    </mg>
 </e>
 

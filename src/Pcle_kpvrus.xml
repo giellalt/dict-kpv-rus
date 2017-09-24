@@ -738,5 +738,75 @@
      </xg>
    </mg>
 </e>
+<e exclude="fst">
+   <lg t1="А" t2="Б" t3="У" uri="28-abu-s-" id="28"><l pos="Pcle">абуӧсь</l>
+       <l_var type="molodtsov-cyr">aбуӧԍ</l_var>
+   </lg>
+   <mg relId="0">
+     <tg xml:lang="rus">
+       <t>нет</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg t1="Б" t2="А" t3="Р" uri="1700-bara" id="1700">
+     <l hid="Hom2" pos="Pcle">бара</l>
+       <l_var type="molodtsov-cyr">бара</l_var>
+   </lg>
+   <mg relId="0">
+     <tg xml:lang="rus">
+       <t pos="Pcle"> уж; же; и; только</t>
+     </tg>
+     <xg>
+       <x>код бара татшӧмтӧ ньӧбас!</x>
+       <xt xml:lang="rus">кто же такое купит!</xt>
+     </xg>
+     <xg>
+       <x>код бара тайӧс вермис вӧчны!</x>
+       <xt xml:lang="rus">кто только мог это натворить!</xt>
+     </xg>
+     <xg>
+       <x>коді бара тадзсӧ вӧчис!</x>
+       <xt xml:lang="rus">и кто так сделал!</xt>
+     </xg>
+     <xg>
+       <x>кор бара тайӧ помасяс?</x>
+       <xt xml:lang="rus">когда уж это кончится?</xt>
+     </xg>
+     <xg>
+       <x>кӧн бара сійӧ ӧні?</x>
+       <xt xml:lang="rus">и где он теперь?</xt>
+     </xg>
+     <xg>
+       <x>кутшӧм бара сэні вӧрыс?</x>
+       <xt xml:lang="rus">какой уж там лес?</xt>
+     </xg>
+     <xg>
+       <x>кыдзи бара кутам овнысӧ</x>
+       <xt xml:lang="rus">как уж будем жить</xt>
+     </xg>
+     <xg>
+       <x>мыйла бара ме висьталі сылы!</x>
+       <xt xml:lang="rus">зачем только я сказал ему!</xt>
+     </xg>
+   </mg>
+   <mg relId="1">
+     <tg xml:lang="rus">
+       <t>небось <acronym title="разговорное"><em>разг.</em></acronym></t>
+     </tg>
+     <xg>
+       <x>мунан бара, корасны кӧ</x>
+       <xt xml:lang="rus">пойдёшь, небось, если вызовут</xt>
+     </xg>
+     <xg>
+       <x>сійӧ бара оз бӧрддзы</x>
+       <xt xml:lang="rus">он, небось, не заплачет</xt>
+     </xg>
+     <xg>
+       <x>тыртан бара норматӧ, кытчӧ лоан</x>
+       <xt xml:lang="rus">выполнишь, небось, норму, куда денешься</xt>
+     </xg>
+   </mg>
+</e>
 
 </r> 

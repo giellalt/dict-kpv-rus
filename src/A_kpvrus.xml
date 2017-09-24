@@ -1480,7 +1480,8 @@
      </xg><br />
      <xg>
        <x>◊ тӧлысь гуга, шонді бана </x>
-       <xt xml:lang="rus"><acronym title="фольклор">фольк.</acronym> раскрасавица-краса </xt><com>(<acronym title="буквально">букв.</acronym> изнанкой как луна, лицом как солнце)</com>
+       <xt xml:lang="rus"><acronym title="фольклор">фольк.</acronym> раскрасавица-краса </xt>
+        <xt xml:lang="rus" src_type="literally:буквально"> изнанкой как луна, лицом как солнце</xt>
      </xg>
    </mg>
 </e>
@@ -1918,7 +1919,8 @@
      </xg><br />
      <xg>
        <x>биа ва</x>
-       <xt xml:lang="rus">спирт </xt><com>(<acronym title="буквально">букв.</acronym> горячая вода)</com>
+       <xt xml:lang="rus">спирт </xt>
+        <xt xml:lang="rus" src_type="literally:буквально"> горячая вода</xt>
      </xg>
    </mg>
    <mg relId="1">
@@ -2042,7 +2044,8 @@
      </xg><br />
      <xg>
        <x>биа-бордъя моз гӧнитны</x>
-       <xt xml:lang="rus">нестись как вихрь </xt><com>(<acronym title="буквально">букв.</acronym> проскакать как огнекрылый)</com>
+       <xt xml:lang="rus">нестись как вихрь </xt>
+        <xt xml:lang="rus" src_type="literally:буквально"> проскакать как огнекрылый</xt>
      </xg>
    </mg>
 </e>
@@ -2383,7 +2386,8 @@
      </xg><br />
      <xg>
        <x>◊ кабала бордъя</x>
-       <xt xml:lang="rus">легкомысленный </xt><com>(<acronym title="буквально">букв.</acronym> с бумажными крыльями)</com>
+       <xt xml:lang="rus">легкомысленный </xt>
+        <xt xml:lang="rus" src_type="literally:буквально"> с бумажными крыльями</xt>
      </xg>
    </mg>
 </e>
@@ -3282,7 +3286,8 @@
      </xg><br />
      <xg>
        <x>◊ быгйӧсь вом</x>
-       <xt xml:lang="rus">болтун, бестолковый спорщик </xt><com>(<acronym title="буквально">букв.</acronym> рот в пене)</com>
+       <xt xml:lang="rus">болтун, бестолковый спорщик </xt>
+        <xt xml:lang="rus" src_type="literally:буквально"> рот в пене</xt>
      </xg>
    </mg>
 </e>
@@ -3558,7 +3563,8 @@
      </xg><br />
      <xg>
        <x>семьяыс бӧрдан коли</x>
-       <xt xml:lang="rus">его семья осталась в горе </xt><com>(<acronym title="буквально">букв.</acronym> плачущей)</com>
+       <xt xml:lang="rus">его семья осталась в горе </xt>
+        <xt xml:lang="rus" src_type="literally:буквально"> плачущей</xt>
      </xg>
    </mg>
 </e>
@@ -3593,7 +3599,8 @@
      </xg><br />
      <xg>
        <x>бӧрдтӧм кага оз качайтны </x>
-       <xt xml:lang="rus" src_type="proverb:пословица">дитя не плачет – мать не разумеет </xt><com>(<acronym title="буквально">букв.</acronym> неплачущего ребёнка не укачивают)</com>
+       <xt xml:lang="rus" src_type="proverb:пословица">дитя не плачет – мать не разумеет </xt>
+        <xt xml:lang="rus" src_type="literally:буквально"> неплачущего ребёнка не укачивают</xt>
      </xg>
    </mg>
 </e>
@@ -3752,7 +3759,8 @@
      </xg><br />
      <xg>
        <x>◊ бӧръя лыыс висьталас</x>
-       <xt xml:lang="rus">итог покажет </xt><com>(<acronym title="буквально">букв.</acronym> последняя косточка скажет)</com>
+       <xt xml:lang="rus">итог покажет </xt>
+        <xt xml:lang="rus" src_type="literally:буквально"> последняя косточка скажет</xt>
      </xg>
    </mg>
 </e>
@@ -3878,7 +3886,8 @@
      </xg><br />
      <xg>
        <x>важ сола вылад оз юктӧд </x>
-       <xt xml:lang="rus" src_type="saying:поговорка">старая хлеб-соль забывается </xt><com>(<acronym title="буквально">букв.</acronym> на старое солёное не пьётся)</com>
+       <xt xml:lang="rus" src_type="saying:поговорка">старая хлеб-соль забывается </xt>
+        <xt xml:lang="rus" src_type="literally:буквально"> на старое солёное не пьётся</xt>
      </xg>
    </mg>
    <mg relId="2">
@@ -5397,7 +5406,8 @@
      </xg><br />
      <xg>
        <x>◊ йӧз вира</x>
-       <xt xml:lang="rus">не в духе </xt><com>(<acronym title="буквально">букв.</acronym> с чужой кровью)</com>
+       <xt xml:lang="rus">не в духе </xt>
+        <xt xml:lang="rus" src_type="literally:буквально"> с чужой кровью</xt>
      </xg><br />
      <xg>
        <x>◊ ме вылӧ абу вира</x>
@@ -7566,7 +7576,8 @@
      </xg><br />
      <xg>
        <x>гожся луныд йӧлӧн-выйӧн исковтӧ </x>
-       <xt xml:lang="rus" src_type="saying:поговорка">летний день год кормит </xt><com>(<acronym title="буквально">букв.</acronym> летний день молоком-маслом катится)</com>
+       <xt xml:lang="rus" src_type="saying:поговорка">летний день год кормит </xt>
+        <xt xml:lang="rus" src_type="literally:буквально"> летний день молоком-маслом катится</xt>
      </xg>
    </mg>
 </e>
@@ -8383,7 +8394,8 @@
      </xg><br />
      <xg>
        <x>гыма зэрыд дыр оз зэр </x>
-       <xt xml:lang="rus" src_type="saying:поговорка">вспыльчивый человек быстро успокаивается </xt><com>(<acronym title="буквально">букв.</acronym> дождь с громом не бывает долгим)</com>
+       <xt xml:lang="rus" src_type="saying:поговорка">вспыльчивый человек быстро успокаивается </xt>
+        <xt xml:lang="rus" src_type="literally:буквально"> дождь с громом не бывает долгим</xt>
      </xg>
    </mg>
    <mg relId="1">
@@ -8500,7 +8512,8 @@
      </xg><br />
      <xg>
        <x>гырысь черилӧн юрыс пыдын </x>
-       <xt xml:lang="rus" src_type="proverb:пословица">без труда не вынешь и рыбку из пруда </xt><com>(<acronym title="буквально">букв.</acronym> у крупной рыбы голова глубоко)</com>
+       <xt xml:lang="rus" src_type="proverb:пословица">без труда не вынешь и рыбку из пруда </xt>
+        <xt xml:lang="rus" src_type="literally:буквально"> у крупной рыбы голова глубоко</xt>
      </xg>
    </mg>
    <mg relId="1">
@@ -8561,11 +8574,13 @@
      </tg><br />
      <xg>
        <x>◊ гырысь синма пож</x>
-       <xt xml:lang="rus">хвастун </xt><com>(<acronym title="буквально">букв.</acronym> решето с крупными ячейками)</com>
+       <xt xml:lang="rus">хвастун </xt>
+        <xt xml:lang="rus" src_type="literally:буквально"> решето с крупными ячейками</xt>
      </xg><br />
      <xg>
        <x>◊ гырысь чериӧ пуксьыны</x>
-       <xt xml:lang="rus">считать себя важной птицей </xt><com>(<acronym title="буквально">букв.</acronym> большой рыбой)</com>
+       <xt xml:lang="rus">считать себя важной птицей </xt>
+        <xt xml:lang="rus" src_type="literally:буквально"> большой рыбой</xt>
      </xg>
    </mg>
 </e>
@@ -8701,11 +8716,13 @@
    <mg relId="0"><span class="underline">употребляется лишь в составе выражений:</span><br />
      <xg>
        <x>гӧж киа</x>
-       <xt xml:lang="rus">неуклюжий </xt><com>(<acronym title="буквально">букв.</acronym> с замёрзшими руками)</com>
+       <xt xml:lang="rus">неуклюжий </xt>
+        <xt xml:lang="rus" src_type="literally:буквально"> с замёрзшими руками</xt>
      </xg><br />
      <xg>
        <x>гӧж тӧрӧкан кодь</x>
-       <xt xml:lang="rus">нерасторопный </xt><com>(<acronym title="буквально">букв.</acronym> как замёрзший таракан)</com>
+       <xt xml:lang="rus">нерасторопный </xt>
+        <xt xml:lang="rus" src_type="literally:буквально"> как замёрзший таракан</xt>
      </xg>
    </mg>
 </e>
@@ -10126,11 +10143,13 @@
      </tg><br />
      <xg>
        <x>дзибыр ветки кодь</x>
-       <xt xml:lang="rus">непоседа, егоза </xt><com>(<acronym title="буквально">букв.</acronym> как зыбкая лодочка)</com>
+       <xt xml:lang="rus">непоседа, егоза </xt>
+        <xt xml:lang="rus" src_type="literally:буквально"> как зыбкая лодочка</xt>
      </xg><br />
      <xg>
        <x>дзибыр пыжӧ эн пуксьы </x>
-       <xt xml:lang="rus" src_type="saying:поговорка">не в свои сани не садись </xt><com>(<acronym title="буквально">букв.</acronym> в шаткую лодку не садись)</com>
+       <xt xml:lang="rus" src_type="saying:поговорка">не в свои сани не садись </xt>
+        <xt xml:lang="rus" src_type="literally:буквально"> в шаткую лодку не садись</xt>
      </xg>
    </mg>
 </e>
@@ -10420,7 +10439,8 @@
      </xg><br />
      <xg>
        <x>дзурыд поводдя</x>
-       <xt xml:lang="rus">погода, когда скрипит снег </xt><com>(<acronym title="буквально">букв.</acronym> скрипучая погода)</com>
+       <xt xml:lang="rus">погода, когда скрипит снег </xt>
+        <xt xml:lang="rus" src_type="literally:буквально"> скрипучая погода</xt>
      </xg>
    </mg>
    <mg relId="1">
@@ -10696,7 +10716,8 @@
      </xg>
      <xg>
        <x>дона овлӧ кольк ас пӧраас </x>
-       <xt xml:lang="rus" src_type="saying:поговорка">дорога ложка к обеду </xt><com>(<acronym title="буквально">букв.</acronym> яйцо бывает дорого в свое время)</com>
+       <xt xml:lang="rus" src_type="saying:поговорка">дорога ложка к обеду </xt>
+        <xt xml:lang="rus" src_type="literally:буквально"> яйцо бывает дорого в свое время</xt>
      </xg>
    </mg>
    <mg relId="1">
@@ -10820,11 +10841,13 @@
      </xg>
      <xg>
        <x>донтӧм дона, да бур ёна </x>
-       <xt xml:lang="rus" src_type="saying:поговорка">и дёшево, и сердито </xt><com>(<acronym title="буквально">букв.</acronym> и дёшево, и очень хорошо)</com>
+       <xt xml:lang="rus" src_type="saying:поговорка">и дёшево, и сердито </xt>
+        <xt xml:lang="rus" src_type="literally:буквально"> и дёшево, и очень хорошо</xt>
      </xg>
      <xg>
        <x>донтӧм вугырнад он кый </x>
-       <xt xml:lang="rus" src_type="saying:поговорка">на дешёвую удочку не поймаешь </xt><com>(<acronym title="соответствует">соотв.</acronym> на кривой не объедешь)</com>
+       <xt xml:lang="rus" src_type="saying:поговорка">на дешёвую удочку не поймаешь </xt>
+        <xt xml:lang="rus" src_type="equivalent:соответствует"> на кривой не объедешь</xt>
      </xg>
    </mg>
    <mg relId="1">
@@ -10837,7 +10860,8 @@
      </xg><br />
      <xg>
        <x>◊ донтӧм вина юны</x>
-       <xt xml:lang="rus">угореть </xt><com>(<acronym title="буквально">букв.</acronym> выпить дешёвое вино)</com>
+       <xt xml:lang="rus">угореть </xt>
+        <xt xml:lang="rus" src_type="literally:буквально"> выпить дешёвое вино</xt>
      </xg>
    </mg>
 </e>
@@ -13231,7 +13255,8 @@
      </xg>; <sg><s pos="A" s_type="see">зарни</s></sg><br />
      <xg>
        <x>◊ зӧлӧтӧй кай лыйны пестор абу</x>
-       <xt xml:lang="rus">дров нет совсем </xt><com>(<acronym title="буквально">букв.</acronym> нечем кинуть даже в золотую птичку)</com>
+       <xt xml:lang="rus">дров нет совсем </xt>
+        <xt xml:lang="rus" src_type="literally:буквально"> нечем кинуть даже в золотую птичку</xt>
      </xg>
    </mg>
 </e>
@@ -14035,7 +14060,8 @@
      </xg>
      <xg>
        <x>◊ ичӧт кывйӧдз эз волы</x>
-       <xt xml:lang="rus">еды кот наплакал </xt><com>(<acronym title="буквально">букв.</acronym> на язычок не попало)</com>
+       <xt xml:lang="rus">еды кот наплакал </xt>
+        <xt xml:lang="rus" src_type="literally:буквально"> на язычок не попало</xt>
      </xg>
      <xg>
        <x>◊ ичӧт туйӧ овны</x>
@@ -15974,7 +16000,8 @@
      </xg><br />
      <xg>
        <x>дзик ковтӧм</x>
-       <xt xml:lang="rus">пятое колесо в телеге </xt><com>(<acronym title="буквально">букв.</acronym> совсем ненужное)</com>
+       <xt xml:lang="rus">пятое колесо в телеге </xt>
+        <xt xml:lang="rus" src_type="literally:буквально"> совсем ненужное</xt>
      </xg>
    </mg>
 </e>
@@ -16615,7 +16642,8 @@
      </xg><br />
      <xg>
        <x>колан висьӧмӧн висьмыны</x>
-       <xt xml:lang="rus">стать жадным </xt><com>(<acronym title="буквально">букв.</acronym> заболеть жадностью)</com>
+       <xt xml:lang="rus">стать жадным </xt>
+        <xt xml:lang="rus" src_type="literally:буквально"> заболеть жадностью</xt>
      </xg>
    </mg>
 </e>
@@ -16711,7 +16739,8 @@
      </xg><br />
      <xg>
        <x>колана висьӧмӧн висьмыны</x>
-       <xt xml:lang="rus">стать жадным </xt><com>(<acronym title="буквально">букв.</acronym> заболеть жадностью)</com>
+       <xt xml:lang="rus">стать жадным </xt>
+        <xt xml:lang="rus" src_type="literally:буквально"> заболеть жадностью</xt>
      </xg>
    </mg>
    <mg relId="6">
@@ -18669,7 +18698,8 @@
      </xg><br />
      <xg>
        <x>кыв-вора морт быдлаӧ сибалӧ </x>
-       <xt xml:lang="rus" src_type="proverb:пословица">общительный человек ко всем сумеет подойти </xt><com>(<acronym title="буквально">букв.</acronym> язык до Киева доведёт)</com>
+       <xt xml:lang="rus" src_type="proverb:пословица">общительный человек ко всем сумеет подойти </xt>
+        <xt xml:lang="rus" src_type="literally:буквально"> язык до Киева доведёт</xt>
      </xg>
    </mg>
 </e>
@@ -18842,7 +18872,8 @@
      </xg><br />
      <xg>
        <x>◊ кывъя немӧй</x>
-       <xt xml:lang="rus">немой поневоле; вынужденный молчать </xt><com>(<acronym title="буквально">букв.</acronym> немой с языком)</com>
+       <xt xml:lang="rus">немой поневоле; вынужденный молчать </xt>
+        <xt xml:lang="rus" src_type="literally:буквально"> немой с языком</xt>
      </xg>
    </mg>
 </e>
@@ -19323,7 +19354,8 @@
      </xg><br />
      <xg>
        <x>◊ кын кӧрӧг чужъявны</x>
-       <xt xml:lang="rus">бездельничать </xt><com>(<acronym title="буквально">букв.</acronym> пинать мёрзлые комья земли)</com>
+       <xt xml:lang="rus">бездельничать </xt>
+        <xt xml:lang="rus" src_type="literally:буквально"> пинать мёрзлые комья земли</xt>
      </xg><br />
      <xg>
        <x>◊ кын косӧн косьмыны</x>
@@ -19351,7 +19383,8 @@
      </xg><br />
      <xg>
        <x>◊ кын пу йирны</x>
-       <xt xml:lang="rus">выполнять тяжёлую работу </xt><com>(<acronym title="буквально">букв.</acronym> грызть мёрзлое дерево)</com>
+       <xt xml:lang="rus">выполнять тяжёлую работу </xt>
+        <xt xml:lang="rus" src_type="literally:буквально"> грызть мёрзлое дерево</xt>
      </xg><br />
      <xg>
        <x>◊ кын сьӧлӧма</x>
@@ -20673,7 +20706,8 @@
      </xg><br />
      <xg>
        <x>лукав мортлысь ныртӧ он чег</x>
-       <xt xml:lang="rus">упрямого человека не переломить </xt><com>(<acronym title="буквально">букв.</acronym> нос не переломишь)</com>
+       <xt xml:lang="rus">упрямого человека не переломить </xt>
+        <xt xml:lang="rus" src_type="literally:буквально"> нос не переломишь</xt>
      </xg>
    </mg>
 </e>
@@ -20801,7 +20835,8 @@
      </tg><br />
      <xg>
        <x>◊ луши-лаши нин кык мыш мунны</x>
-       <xt xml:lang="rus">уж лучше разойтись </xt><com>(<acronym title="буквально">букв.</acronym> показать друг другу спины)</com>
+       <xt xml:lang="rus">уж лучше разойтись </xt>
+        <xt xml:lang="rus" src_type="literally:буквально"> показать друг другу спины</xt>
      </xg>
    </mg>
 </e>
@@ -21034,7 +21069,8 @@
      </xg><br />
      <xg>
        <x>тшыг кынӧмыд лэчыд </x>
-       <xt xml:lang="rus" src_type="proverb:пословица">голод не тётка </xt><com>(<acronym title="буквально">букв.</acronym> голодный желудок бойкий)</com>
+       <xt xml:lang="rus" src_type="proverb:пословица">голод не тётка </xt>
+        <xt xml:lang="rus" src_type="literally:буквально"> голодный желудок бойкий</xt>
      </xg>
    </mg>
    <mg relId="3">
@@ -21061,7 +21097,8 @@
      </tg> <sg><s pos="A" s_type="seeAlso">вильыш в 1 значении</s></sg><br />
      <xg>
        <x>◊ лэчыд кыв улӧ сюрны</x>
-       <xt xml:lang="rus">попасть на зубок </xt><com>(<acronym title="буквально">букв.</acronym> попасть под острый язык)</com>
+       <xt xml:lang="rus">попасть на зубок </xt>
+        <xt xml:lang="rus" src_type="literally:буквально"> попасть под острый язык</xt>
      </xg><br />
      <xg>
        <x>◊ лэчыд шома</x>
@@ -22054,7 +22091,8 @@
      </xg><br />
      <xg>
        <x>лӧнь ва вылын унджык шактарыс </x>
-       <xt xml:lang="rus" src_type="proverb:пословица">в тихом омуте черти водятся </xt><com>(<acronym title="буквально">букв.</acronym> в тихой воде больше наносного хлама)</com>
+       <xt xml:lang="rus" src_type="proverb:пословица">в тихом омуте черти водятся </xt>
+        <xt xml:lang="rus" src_type="literally:буквально"> в тихой воде больше наносного хлама</xt>
      </xg>
    </mg>
    <mg relId="1">
@@ -22738,7 +22776,8 @@
      </tg><br />
      <xg>
        <x>тулан – матичувса звер </x>
-       <xt xml:lang="rus"><acronym title="в переносном значении">перен.</acronym> куница – зверь с ценным мехом </xt><com>(<acronym title="буквально">букв.</acronym> находящийся под матицей зверь)</com>
+       <xt xml:lang="rus"><acronym title="в переносном значении">перен.</acronym> куница – зверь с ценным мехом </xt>
+        <xt xml:lang="rus" src_type="literally:буквально"> находящийся под матицей зверь</xt>
      </xg>
    </mg>
 </e>
@@ -22776,7 +22815,8 @@
      </xg><br />
      <xg>
        <x>матысса идзас бурджык ылысса турунысь </x>
-       <xt xml:lang="rus" src_type="saying:поговорка">лучше синица в руках, чем журавль в небе </xt><com>(<acronym title="буквально">букв.</acronym> солома поблизости лучше сена вдали)</com>
+       <xt xml:lang="rus" src_type="saying:поговорка">лучше синица в руках, чем журавль в небе </xt>
+        <xt xml:lang="rus" src_type="literally:буквально"> солома поблизости лучше сена вдали</xt>
      </xg>
    </mg>
    <mg relId="1">
@@ -23348,7 +23388,8 @@
      </xg><br />
      <xg>
        <x>мисьтӧм чужӧм </x>
-       <xt xml:lang="rus"><acronym title="бранное слово, выражение">бран.</acronym> противный, противная рожа </xt><com>(<acronym title="буквально">букв.</acronym> некрасивое лицо)</com>
+       <xt xml:lang="rus"><acronym title="бранное слово, выражение">бран.</acronym> противный, противная рожа </xt>
+        <xt xml:lang="rus" src_type="literally:буквально"> некрасивое лицо</xt>
      </xg><br />
      <xg>
        <x>мисьтӧм нимыд абу на из ноп кыскӧм </x>
@@ -24289,7 +24330,8 @@
      </tg><br />
      <xg>
        <x>выныс муртавтӧм</x>
-       <xt xml:lang="rus">он очень сильный </xt><com>(<acronym title="буквально">букв.</acronym> сила его неизмеримая)</com>
+       <xt xml:lang="rus">он очень сильный </xt>
+        <xt xml:lang="rus" src_type="literally:буквально"> сила его неизмеримая</xt>
      </xg>
    </mg>
 </e>
@@ -24677,11 +24719,13 @@
      </xg><br />
      <xg>
        <x>мыжа мортлӧн мыжыс ачыс горӧдчӧ </x>
-       <xt xml:lang="rus" src_type="saying:поговорка">на воре шапка горит </xt><com>(<acronym title="буквально">букв.</acronym> вина виноватого человека сама откликается)</com>
+       <xt xml:lang="rus" src_type="saying:поговорка">на воре шапка горит </xt>
+        <xt xml:lang="rus" src_type="literally:буквально"> вина виноватого человека сама откликается</xt>
      </xg><br />
      <xg>
        <x>мыжалӧн кыв помыс петалӧ </x>
-       <xt xml:lang="rus" src_type="saying:поговорка">виноватый проговаривается </xt><com>(<acronym title="соответствует">соотв.</acronym> на воре шапка горит)</com>
+       <xt xml:lang="rus" src_type="saying:поговорка">виноватый проговаривается </xt>
+        <xt xml:lang="rus" src_type="equivalent:соответствует"> на воре шапка горит</xt>
      </xg><br />
      <xg>
        <x>мыжатӧ синмыс вузалӧ </x>
@@ -26334,11 +26378,13 @@
      </xg><br />
      <xg>
        <x>нимкодьыс вомас оз тӧр </x>
-       <xt xml:lang="rus" src_type="saying:поговорка">на седьмом небе от счастья </xt><com>(<acronym title="буквально">букв.</acronym> радость во рту не помещается)</com>
+       <xt xml:lang="rus" src_type="saying:поговорка">на седьмом небе от счастья </xt>
+        <xt xml:lang="rus" src_type="literally:буквально"> радость во рту не помещается</xt>
      </xg><br />
      <xg>
        <x>нимкодьысла ку пиас оз тӧр </x>
-       <xt xml:lang="rus" src_type="saying:поговорка">вне себя от радости </xt><com>(<acronym title="буквально">букв.</acronym> от радости в собственной коже не помещается)</com>
+       <xt xml:lang="rus" src_type="saying:поговорка">вне себя от радости </xt>
+        <xt xml:lang="rus" src_type="literally:буквально"> от радости в собственной коже не помещается</xt>
      </xg><br />
      <xg>
        <x>зэв нимкодь!</x>
@@ -27117,7 +27163,8 @@
      </tg><br />
      <xg>
        <x>◊ нэр пӧлян кодь</x>
-       <xt xml:lang="rus">молод ещё </xt><com>(<acronym title="буквально">букв.</acronym> как неотвердевший дудчатый стебель)</com>
+       <xt xml:lang="rus">молод ещё </xt>
+        <xt xml:lang="rus" src_type="literally:буквально"> как неотвердевший дудчатый стебель</xt>
      </xg>
    </mg>
 </e>
@@ -27589,7 +27636,8 @@
      </tg><br />
      <xg>
        <x>◊ нёра пу он веськӧд, лёк мортӧс он велӧд </x>
-       <xt xml:lang="rus" src_type="saying:поговорка">горбатого могила исправит </xt><com>(<acronym title="буквально">букв.</acronym> кривое дерево не выпрямишь, плохого человека не научишь)</com>
+       <xt xml:lang="rus" src_type="saying:поговорка">горбатого могила исправит </xt>
+        <xt xml:lang="rus" src_type="literally:буквально"> кривое дерево не выпрямишь, плохого человека не научишь</xt>
      </xg>
    </mg>
 </e>
@@ -27943,7 +27991,8 @@
      </xg><br />
      <xg>
        <x>озыр мортлӧн питшӧгыс шоныд </x>
-       <xt xml:lang="rus" src_type="saying:поговорка">у богатого человека карман толстый </xt><com>(<acronym title="буквально">букв.</acronym> пазуха тёплая)</com>
+       <xt xml:lang="rus" src_type="saying:поговорка">у богатого человека карман толстый </xt>
+        <xt xml:lang="rus" src_type="literally:буквально"> пазуха тёплая</xt>
      </xg><br />
      <xg>
        <x>озыр жӧник – скӧтыс кань да чипан, дозмукыс – пань да перна </x>
@@ -30004,7 +30053,8 @@
      </xg><br />
      <xg>
        <x>сійӧ поводнӧй пу пила</x>
-       <xt xml:lang="rus">он порядочный нуда </xt><com>(<acronym title="буквально">букв.</acronym> он – настоящая деревянная пила)</com>
+       <xt xml:lang="rus">он порядочный нуда </xt>
+        <xt xml:lang="rus" src_type="literally:буквально"> он – настоящая деревянная пила</xt>
      </xg>
    </mg>
 </e>
@@ -30943,7 +30993,8 @@
      </xg><br />
      <xg>
        <x>приданнӧй вайысь али приданнӧй нуысь чужис?</x>
-       <xt xml:lang="rus">кто родился? мальчик или девочка? </xt><com>(<acronym title="буквально">букв.</acronym> приносящий приданое или уносящая приданое)</com>
+       <xt xml:lang="rus">кто родился? мальчик или девочка? </xt>
+        <xt xml:lang="rus" src_type="literally:буквально"> приносящий приданое или уносящая приданое</xt>
      </xg>
    </mg>
 </e>
@@ -32236,7 +32287,8 @@
      </xg><br />
      <xg>
        <x>◊ пӧрысь пон ройӧ оз увт </x>
-       <xt xml:lang="rus" src_type="saying:поговорка">старый конь борозды не портит </xt><com>(<acronym title="буквально">букв.</acronym> старая собака на древесный лишайник не лает)</com>
+       <xt xml:lang="rus" src_type="saying:поговорка">старый конь борозды не портит </xt>
+        <xt xml:lang="rus" src_type="literally:буквально"> старая собака на древесный лишайник не лает</xt>
      </xg>
    </mg>
    <mg relId="1">
@@ -32530,7 +32582,8 @@
      </xg><br />
      <xg>
        <x>рам руч локтӧ</x>
-       <xt xml:lang="rus">клонит ко сну </xt><com>(<acronym title="буквально">букв.</acronym> смирная лиса подходит)</com>
+       <xt xml:lang="rus">клонит ко сну </xt>
+        <xt xml:lang="rus" src_type="literally:буквально"> смирная лиса подходит</xt>
      </xg>
    </mg>
 </e>
@@ -33462,7 +33515,8 @@
      </xg><br />
      <xg>
        <x>◊ тшыг кынӧмыд пӧ не рӧднӧй вок </x>
-       <xt xml:lang="rus" src_type="proverb:пословица">голод не тётка </xt><com>(<acronym title="буквально">букв.</acronym> голод – не родной брат)</com>
+       <xt xml:lang="rus" src_type="proverb:пословица">голод не тётка </xt>
+        <xt xml:lang="rus" src_type="literally:буквально"> голод – не родной брат</xt>
      </xg>
    </mg>
 </e>
@@ -34088,7 +34142,8 @@
      </xg><br />
      <xg>
        <x>◊ сера удж</x>
-       <xt xml:lang="rus">работа, требующая мастерства, уменья </xt><com>(<acronym title="буквально">букв.</acronym> работа с узорами)</com>
+       <xt xml:lang="rus">работа, требующая мастерства, уменья </xt>
+        <xt xml:lang="rus" src_type="literally:буквально"> работа с узорами</xt>
      </xg><br />
      <xg>
        <x>◊ сера чача <acronym title="диалектное">диал.</acronym> </x>
@@ -34096,7 +34151,8 @@
      </xg><br />
      <xg>
        <x>◊ сера чачаӧ вӧчны</x>
-       <xt xml:lang="rus">разукрасить, как бог черепаху (избить) </xt><com>(<acronym title="буквально">букв.</acronym> сделать пёструю игрушку)</com>
+       <xt xml:lang="rus">разукрасить, как бог черепаху (избить) </xt>
+        <xt xml:lang="rus" src_type="literally:буквально"> сделать пёструю игрушку</xt>
      </xg>
    </mg>
 </e>
@@ -34445,7 +34501,8 @@
       </xg>
      <xg>
        <x>сира гезйӧн кыскыны</x>
-       <xt xml:lang="rus">затащить силой </xt><com>(<acronym title="буквально">букв.</acronym> просмолённой верёвкой)</com>
+       <xt xml:lang="rus">затащить силой </xt>
+        <xt xml:lang="rus" src_type="literally:буквально"> просмолённой верёвкой</xt>
      </xg>
    </mg>
 </e>
@@ -34988,7 +35045,8 @@
      </xg><br />
      <xg>
        <x>◊ важ сола вылад оз юктӧд </x>
-       <xt xml:lang="rus" src_type="saying:поговорка">старая хлеб-соль забывается </xt><com>(<acronym title="буквально">букв.</acronym> на прежнюю соль не пьётся)</com>
+       <xt xml:lang="rus" src_type="saying:поговорка">старая хлеб-соль забывается </xt>
+        <xt xml:lang="rus" src_type="literally:буквально"> на прежнюю соль не пьётся</xt>
      </xg><br />
      <xg>
        <x>◊ сола овлӧ йӧз няньыд, да омӧля юктӧдӧ </x>
@@ -35001,7 +35059,8 @@
      </tg><br />
      <xg>
        <x>тайӧ ветлӧм сола лои</x>
-       <xt xml:lang="rus">эта поездка оказалась дорогой </xt><com>(<acronym title="буквально">букв.</acronym> солоно обошлась)</com>
+       <xt xml:lang="rus">эта поездка оказалась дорогой </xt>
+        <xt xml:lang="rus" src_type="literally:буквально"> солоно обошлась</xt>
      </xg>
    </mg>
 </e>
@@ -36898,7 +36957,8 @@
      </xg><br />
      <xg>
        <x>сісь юр</x>
-       <xt xml:lang="rus">голова садовая </xt><com>(<acronym title="буквально">букв.</acronym> гнилая голова – о плохой памяти)</com>
+       <xt xml:lang="rus">голова садовая </xt>
+        <xt xml:lang="rus" src_type="literally:буквально"> гнилая голова – о плохой памяти</xt>
      </xg>
    </mg>
 </e>
@@ -39803,7 +39863,8 @@
      </xg><br />
      <xg>
        <x>тӧрытъя лун корсьны</x>
-       <xt xml:lang="rus">стучаться в открытую дверь </xt><com>(<acronym title="буквально">букв.</acronym> искать вчерашний день)</com>
+       <xt xml:lang="rus">стучаться в открытую дверь </xt>
+        <xt xml:lang="rus" src_type="literally:буквально"> искать вчерашний день</xt>
      </xg>
    </mg>
 </e>
@@ -40391,11 +40452,13 @@
      </xg><br />
      <xg>
        <x>◊ уль кучик кодь</x>
-       <xt xml:lang="rus">семь пятниц на неделе </xt><com>(<acronym title="буквально">букв.</acronym> как кожа-сыромятина)</com>
+       <xt xml:lang="rus">семь пятниц на неделе </xt>
+        <xt xml:lang="rus" src_type="literally:буквально"> как кожа-сыромятина</xt>
      </xg><br />
      <xg>
        <x>◊ ныр улыд уль на</x>
-       <xt xml:lang="rus">молоко на губах не обсохло </xt><com>(<acronym title="буквально">букв.</acronym> под носом ещё сыро)</com>
+       <xt xml:lang="rus">молоко на губах не обсохло </xt>
+        <xt xml:lang="rus" src_type="literally:буквально"> под носом ещё сыро</xt>
      </xg><br />
      <xg>
        <x>◊ уль чипан кольк кодь</x>
@@ -41812,7 +41875,8 @@
      </xg><br />
      <xg>
        <x>висьталіс лӧня, но чорыд гӧлӧсӧн</x>
-       <xt xml:lang="rus">сказал спокойно, но строго </xt><com>(<acronym title="буквально">букв.</acronym> строгим голосом)</com>
+       <xt xml:lang="rus">сказал спокойно, но строго </xt>
+        <xt xml:lang="rus" src_type="literally:буквально"> строгим голосом</xt>
      </xg><br />
      <xg>
        <x>вӧр-валӧн законъяс чорыдӧсь</x>
@@ -41898,7 +41962,8 @@
      </tg><br />
      <xg>
        <x>сё чудеса!</x>
-       <xt xml:lang="rus">вот диво! </xt><com>(<acronym title="буквально">букв.</acronym> сто чудес)</com>
+       <xt xml:lang="rus">вот диво! </xt>
+        <xt xml:lang="rus" src_type="literally:буквально"> сто чудес</xt>
      </xg><br />
      <xg>
        <x>чудеса сяма</x>
@@ -42027,7 +42092,8 @@
       </xg>
      <xg>
        <x>◊ чукля бӧж</x>
-       <xt xml:lang="rus">льстец </xt><com>(<acronym title="буквально">букв.</acronym> как кривой хвост)</com>
+       <xt xml:lang="rus">льстец </xt>
+        <xt xml:lang="rus" src_type="literally:буквально"> как кривой хвост</xt>
      </xg><br />
      <xg>
        <x>◊ чукля ки </x>
@@ -42358,7 +42424,8 @@
      </xg><br />
      <xg>
        <x>◊ квайт чуня</x>
-       <xt xml:lang="rus">нечист на руку </xt><com>(<acronym title="буквально">букв.</acronym> шестипалый)</com>
+       <xt xml:lang="rus">нечист на руку </xt>
+        <xt xml:lang="rus" src_type="literally:буквально"> шестипалый</xt>
      </xg>
    </mg>
 </e>
@@ -43567,7 +43634,8 @@
      </xg><br />
      <xg>
        <x>◊ шоч пиня сынанӧн сынавны</x>
-       <xt xml:lang="rus">наказать </xt><com>(<acronym title="буквально">букв.</acronym> расчесать редкозубым гребнем)</com>
+       <xt xml:lang="rus">наказать </xt>
+        <xt xml:lang="rus" src_type="literally:буквально"> расчесать редкозубым гребнем</xt>
      </xg>
    </mg>
 </e>
@@ -44436,7 +44504,8 @@
      </xg><br />
      <xg>
        <x>◊ ыджыд из мышку вылысь уси</x>
-       <xt xml:lang="rus">гора с плеч </xt><com>(<acronym title="буквально">букв.</acronym> большой камень со спины свалился)</com>
+       <xt xml:lang="rus">гора с плеч </xt>
+        <xt xml:lang="rus" src_type="literally:буквально"> большой камень со спины свалился</xt>
      </xg><br />
      <xg>
        <x>◊ ыджыд тай</x>
@@ -44444,11 +44513,13 @@
      </xg><br />
      <xg>
        <x>◊ ыджыд туй босьтны</x>
-       <xt xml:lang="rus">хотеть быть за главного </xt><com>(<acronym title="буквально">букв.</acronym> захватить главную дорогу)</com>
+       <xt xml:lang="rus">хотеть быть за главного </xt>
+        <xt xml:lang="rus" src_type="literally:буквально"> захватить главную дорогу</xt>
      </xg><br />
      <xg>
        <x>◊ ыджыд шомӧс</x>
-       <xt xml:lang="rus">важная птица </xt><com>(<acronym title="буквально">букв.</acronym> большая квашня)</com>
+       <xt xml:lang="rus">важная птица </xt>
+        <xt xml:lang="rus" src_type="literally:буквально"> большая квашня</xt>
      </xg><br />
      <xg>
        <x>◊ ыджыд юр </x>
@@ -44949,7 +45020,8 @@
      </xg><br />
      <xg>
        <x>◊ эмыд тай водзӧ ас дорас эмсӧ кыскӧ</x>
-       <xt xml:lang="rus">добро тянет к себе ещё добро </xt><com>(<acronym title="соответствует">соотв.</acronym> деньги к деньгам идут)</com>
+       <xt xml:lang="rus">добро тянет к себе ещё добро </xt>
+        <xt xml:lang="rus" src_type="equivalent:соответствует"> деньги к деньгам идут</xt>
      </xg><br />
      <xg>
        <x>◊ эм нисьӧ абукодь</x>
@@ -46936,7 +47008,8 @@
      </xg><br />
      <xg>
        <x>ӧнія нывъяс пань тыр ваӧ оз пӧдны </x>
-       <xt xml:lang="rus" src_type="saying:поговорка">теперешние девушки не растеряются, постоят за себя </xt><com>(<acronym title="буквально">букв.</acronym> в ложке воды не утонут)</com>
+       <xt xml:lang="rus" src_type="saying:поговорка">теперешние девушки не растеряются, постоят за себя </xt>
+        <xt xml:lang="rus" src_type="literally:буквально"> в ложке воды не утонут</xt>
      </xg>
    </mg>
    <mg relId="1">
@@ -48337,7 +48410,8 @@
      </xg><br />
      <xg>
        <x>босьтан киыд оз мудз, а сетан киыд мудзӧ </x>
-       <xt xml:lang="rus" src_type="proverb:пословица">брать легко, а отдавать трудно </xt><com>(<acronym title="буквально"><em>букв.</em></acronym> берущая рука не устаёт, а дающая рука устаёт)</com>
+       <xt xml:lang="rus" src_type="proverb:пословица">брать легко, а отдавать трудно </xt>
+        <xt xml:lang="rus" src_type="literally:буквально"> берущая рука не устаёт, а дающая рука устаёт</xt>
      </xg>
    </mg>
    <mg relId="1">
@@ -49269,7 +49343,8 @@
      </tg><br />
      <xg>
        <x>сійӧ код нин вӧлі, довъялан юра</x>
-       <xt xml:lang="rus">он был уже пьяным, еле держал голову </xt><com>(<acronym title="буквально"><em>букв.</em></acronym> с качающейся головой)</com>
+       <xt xml:lang="rus">он был уже пьяным, еле держал голову </xt>
+        <xt xml:lang="rus" src_type="literally:буквально"> с качающейся головой</xt>
      </xg>
    </mg>
 </e>
@@ -51803,7 +51878,8 @@
      </tg><br />
      <xg>
        <x>◊ увтчан понлӧн увтчӧмыс и олӧмыс </x>
-       <xt xml:lang="rus"  src_type="saying:поговорка">у собаки-пустолайки вся жизнь – лай </xt><com>(<acronym title="соответствует"><em>соотв.</em></acronym> собака лает, ветер носит)</com>
+       <xt xml:lang="rus"  src_type="saying:поговорка">у собаки-пустолайки вся жизнь – лай </xt>
+        <xt xml:lang="rus" src_type="equivalent:соответствует"> собака лает, ветер носит</xt>
      </xg>
    </mg>
 </e>
@@ -54311,7 +54387,8 @@
      </xg><br />
      <xg>
        <x>◊ син еджыдӧн видзӧдны</x>
-       <xt xml:lang="rus"> косо, недружелюбно смотреть </xt><com>(<acronym title="буквально"><em>букв.</em></acronym> посмотреть белком)</com>
+       <xt xml:lang="rus"> косо, недружелюбно смотреть </xt>
+        <xt xml:lang="rus" src_type="literally:буквально"> посмотреть белком</xt>
      </xg>
    </mg>
 </e>
@@ -54788,7 +54865,8 @@
      </xg><br />
      <xg>
        <x>◊ кузь пиня</x>
-       <xt xml:lang="rus"> бранчливый, зубастый </xt><com>(<acronym title="буквально"><em>букв.</em></acronym> длиннозубый)</com>
+       <xt xml:lang="rus"> бранчливый, зубастый </xt>
+        <xt xml:lang="rus" src_type="literally:буквально"> длиннозубый</xt>
      </xg><br />
      <xg>
        <x>◊ кузь туисӧ сӧвтны</x>
@@ -55685,7 +55763,8 @@
      </xg><br />
      <xg>
        <x>тыртӧм пансян моз бергавны</x>
-       <xt xml:lang="rus"> кидаться, бегать без толку из угла в угол </xt><com>(<acronym title="буквально"><em>букв.</em></acronym> крутиться, как пустая сновалка)</com>
+       <xt xml:lang="rus"> кидаться, бегать без толку из угла в угол </xt>
+        <xt xml:lang="rus" src_type="literally:буквально"> крутиться, как пустая сновалка</xt>
      </xg>
    </mg>
 </e>
@@ -55708,7 +55787,8 @@
      </xg><br />
      <xg>
        <x>◊ увтӧм пу йылӧ катӧдны</x>
-       <xt xml:lang="rus"> разыгрывать, обманывать; одурачивать </xt><com>(<acronym title="буквально"><em>букв.</em></acronym> поднимать на дерево без сучьев)</com>
+       <xt xml:lang="rus"> разыгрывать, обманывать; одурачивать </xt>
+        <xt xml:lang="rus" src_type="literally:буквально"> поднимать на дерево без сучьев</xt>
      </xg>
    </mg>
 </e>
@@ -58092,7 +58172,8 @@
      </xg><br />
      <xg>
        <x>вӧчтӧм гыр кодь</x>
-       <xt xml:lang="rus"> неуклюжий, нестатный, грубого сложения </xt><com>(<acronym title="буквально"><em>букв.</em></acronym> как недоделанная ступа)</com>
+       <xt xml:lang="rus"> неуклюжий, нестатный, грубого сложения </xt>
+        <xt xml:lang="rus" src_type="literally:буквально"> как недоделанная ступа</xt>
      </xg><br />
      <xg>
        <x>вӧчтӧм керка</x>
@@ -58626,7 +58707,8 @@
      </tg><br />
      <xg>
        <x>гӧрддзавтӧм гӧрӧд разьны</x>
-       <xt xml:lang="rus"> бить баклуши </xt><com>(<acronym title="буквально"><em>букв.</em></acronym> развязать незавязанный узел)</com>
+       <xt xml:lang="rus"> бить баклуши </xt>
+        <xt xml:lang="rus" src_type="literally:буквально"> развязать незавязанный узел</xt>
      </xg>
    </mg>
 </e>
@@ -60086,7 +60168,8 @@
      </tg><br />
      <xg>
        <x>кыйтӧм сьӧла пуны </x>
-       <xt xml:lang="rus"  src_type="saying:поговорка">делить шкуру неубитого медведя </xt><com>(<acronym title="буквально"><em>букв.</em></acronym> варить непойманного рябчика)</com>
+       <xt xml:lang="rus"  src_type="saying:поговорка">делить шкуру неубитого медведя </xt>
+        <xt xml:lang="rus" src_type="literally:буквально"> варить непойманного рябчика</xt>
      </xg>
    </mg>
 </e>
@@ -60541,7 +60624,8 @@
      </tg><br />
      <xg>
        <x>лыйтӧм урӧс эн куль </x>
-       <xt xml:lang="rus"  src_type="saying:поговорка">делить шкуру неубитого медведя </xt><com>(<acronym title="буквально"><em>букв.</em></acronym> с неподстреленной белки шкуру не снимай)</com>
+       <xt xml:lang="rus"  src_type="saying:поговорка">делить шкуру неубитого медведя </xt>
+        <xt xml:lang="rus" src_type="literally:буквально"> с неподстреленной белки шкуру не снимай</xt>
      </xg>
    </mg>
 </e>
@@ -64743,7 +64827,8 @@
      </tg><br />
      <xg>
        <x>чошкӧдчӧм пель</x>
-       <xt xml:lang="rus"> ушки на макушке </xt><com>(<acronym title="буквально"><em>букв.</em></acronym> насторожённые уши)</com>
+       <xt xml:lang="rus"> ушки на макушке </xt>
+        <xt xml:lang="rus" src_type="literally:буквально"> насторожённые уши</xt>
      </xg>
    </mg>
    <mg relId="1">
@@ -66146,7 +66231,8 @@
      </xg><br />
      <xg>
        <x>бонзьӧм пуӧ сир йиджӧ пыдӧджык </x>
-       <xt xml:lang="rus"  src_type="saying:поговорка">где тонко, там и рвётся </xt><com>(<acronym title="буквально"><em>букв.</em></acronym> в измочаленное дерево смола глубоко въедается)</com>
+       <xt xml:lang="rus"  src_type="saying:поговорка">где тонко, там и рвётся </xt>
+        <xt xml:lang="rus" src_type="literally:буквально"> в измочаленное дерево смола глубоко въедается</xt>
      </xg>
    </mg>
    <mg relId="1">
@@ -66726,7 +66812,8 @@
      </xg><br />
      <xg>
        <x>быд видз костын дасысь гӧтрасьӧ да век гӧтыртӧм</x>
-       <xt xml:lang="rus"> очень часто меняет жён </xt><com>(<acronym title="буквально"><em>букв.</em></acronym> десять раз между постами женится и всё без жены)</com>
+       <xt xml:lang="rus"> очень часто меняет жён </xt>
+        <xt xml:lang="rus" src_type="literally:буквально"> десять раз между постами женится и всё без жены</xt>
      </xg><br />
      <xg>
        <x>гӧтыртӧм мужикыд кылалан чаг кодь</x>
@@ -67034,7 +67121,8 @@
      </xg><br />
      <xg>
        <x>◊ кизьтӧм вом</x>
-       <xt xml:lang="rus"> болтун </xt><com>(<acronym title="буквально"><em>букв.</em></acronym> рот без застёжки)</com>
+       <xt xml:lang="rus"> болтун </xt>
+        <xt xml:lang="rus" src_type="literally:буквально"> рот без застёжки</xt>
      </xg><br />
      <xg>
        <x>◊ кизьтӧм вома</x>
@@ -67708,7 +67796,8 @@
      </tg><br />
      <xg>
        <x>медтӧм казак овлывлӧ, вердтӧм оз </x>
-       <xt xml:lang="rus" src_type="proverb:пословица">работнику можно не платить, но нельзя его не кормить </xt><com>(<acronym title="буквально"><em>букв.</em></acronym> работник без оплаты бывает, без пищи – нет)</com>
+       <xt xml:lang="rus" src_type="proverb:пословица">работнику можно не платить, но нельзя его не кормить </xt>
+        <xt xml:lang="rus" src_type="literally:буквально"> работник без оплаты бывает, без пищи – нет</xt>
      </xg>
    </mg>
 </e>
@@ -67816,7 +67905,8 @@
      </xg><br />
      <xg>
        <x>◊ морттӧм гӧлӧсӧн горзыны</x>
-       <xt xml:lang="rus"> кричать благим матом </xt><com>(<acronym title="буквально"><em>букв.</em></acronym> нечеловеческим голосом)</com>
+       <xt xml:lang="rus"> кричать благим матом </xt>
+        <xt xml:lang="rus" src_type="literally:буквально"> нечеловеческим голосом</xt>
      </xg>
    </mg>
 </e>
@@ -68095,7 +68185,8 @@
      </tg><br />
      <xg>
        <x>◊ нювтӧм кукань кодь</x>
-       <xt xml:lang="rus"> слабый, хилый </xt><com>(<acronym title="буквально"><em>букв.</em></acronym> как необлизанный телёнок)</com>
+       <xt xml:lang="rus"> слабый, хилый </xt>
+        <xt xml:lang="rus" src_type="literally:буквально"> как необлизанный телёнок</xt>
      </xg>
    </mg>
 </e>
@@ -68194,7 +68285,8 @@
      </tg><br />
      <xg>
        <x>◊ онтӧм пӧтка</x>
-       <xt xml:lang="rus"> человек, которому не спится </xt><com>(<acronym title="буквально"><em>букв.</em></acronym> бессонная дичь)</com>
+       <xt xml:lang="rus"> человек, которому не спится </xt>
+        <xt xml:lang="rus" src_type="literally:буквально"> бессонная дичь</xt>
      </xg>
    </mg>
 </e>
@@ -70316,7 +70408,8 @@
      </tg><br />
      <xg>
        <x>шырйӧдтӧм розь моз оз пуксьыв</x>
-       <xt xml:lang="rus"> егоза, на месте не усидит </xt><com>(<acronym title="буквально"><em>букв.</em></acronym> как не вдёрнутая дырка в мешке)</com>
+       <xt xml:lang="rus"> егоза, на месте не усидит </xt>
+        <xt xml:lang="rus" src_type="literally:буквально"> как не вдёрнутая дырка в мешке</xt>
      </xg>
    </mg>
 </e>
@@ -71075,6 +71168,118 @@
      <xg>
        <x>бокыса грезд</x>
        <xt xml:lang="rus">селение, находящееся в стороне</xt>
+     </xg>
+   </mg>
+</e>
+<e>
+   <lg t1="Б" t2="О" t3="Л" uri="2499-bolk-ya" id="2499">
+     <l hid="Hom1" pos="A">болкъя</l>
+       <l_var type="molodtsov-cyr">болкја</l_var>
+   </lg>
+   <mg relId="0">
+     <tg xml:lang="rus">
+       <t>крытый, с верхом</t>
+     </tg>
+     <xg>
+       <x>болкъя автомашина</x>
+       <xt xml:lang="rus">крытая автомашина</xt>
+     </xg>
+     <xg>
+       <x>болкъя додь</x>
+       <xt xml:lang="rus">возок с верхом, крытая повозка</xt>
+     </xg>
+   </mg>
+</e>
+<e>
+   <lg t1="Б" t2="О" t3="Л" uri="2499-bolk-ya" id="2499">
+     <l hid="Hom2" pos="A">болкъя</l>
+       <l_var type="molodtsov-cyr">болкја</l_var>
+   </lg>
+   <mg relId="0">
+     <tg xml:lang="rus">
+       <t>мешковатый, свободный</t>
+     </tg>
+     <xg>
+       <x>пинжак мышкыс болкъя</x>
+       <xt xml:lang="rus">спинка пиджака мешковата</xt>
+     </xg>
+   </mg>
+</e>
+<e>
+   <lg t1="Б" t2="У" t3="Л" uri="3543-bulan-ij" id="3543">
+     <l pos="A">буланӧй</l>
+       <l_var type="molodtsov-cyr">буланӧј</l_var>
+   </lg>
+   <mg relId="0">
+     <tg xml:lang="rus">
+       <t>буланый <em>(светло-рыжий; с чёрным хвостом и гривой)</em></t>
+     </tg>
+     <xg>
+       <x>буланӧй вӧв</x>
+       <xt xml:lang="rus">буланая лошадь</xt>
+     </xg>
+     <xg>
+       <x>буланӧй гӧна</x>
+       <xt xml:lang="rus">буланой масти</xt>
+     </xg>
+   </mg>
+</e>
+<e>
+   <lg t1="Д" t2="О" t3="Л" uri="14026-dolyd" id="14026">
+     <l pos="A">долыд</l>
+       <l_var type="molodtsov-cyr">ԁолыԁ</l_var>
+   </lg>
+   <mg relId="0">
+     <tg xml:lang="rus">
+       <t>радостный, весёлый, жизнерадостный || радостно, весело</t>
+     </tg>
+     <xg>
+       <x>зэв долыд морт</x>
+       <xt xml:lang="rus">очень жизнерадостный человек</xt>
+     </xg>
+     <xg>
+       <x>долыд олӧм</x>
+       <xt xml:lang="rus">радостная жизнь</xt>
+     </xg>
+     <xg>
+       <x>меным талун зэв долыд</x>
+       <xt xml:lang="rus">мне сегодня очень весело</xt>
+     </xg>
+     <xg>
+       <x>сьӧлӧм вылын кокни да долыд</x>
+       <xt xml:lang="rus">на сердце легко и радостно</xt>
+     </xg>
+     <xg>
+       <x>челядьыдлӧн быд шогыс, быд долыдыс инмӧ медводз мам сьӧлӧмӧ</x>
+       <xt xml:lang="rus">у детей всякое горе и радость трогает сердце матери</xt>
+     </xg>
+   </mg>
+   <mg relId="1"> <rg><r range_space="dialect"/></rg>
+     <tg xml:lang="rus">
+       <t>ходкий, быстроходный <em>(о лодке)</em></t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg t1="Д" t2="Ӧ" t3="Л" uri="14543-d-la" id="14543">
+     <l pos="A">дӧла</l>
+       <l_var type="molodtsov-cyr">ԁӧла</l_var>
+   </lg>
+   <mg relId="0">
+     <tg xml:lang="rus">
+       <t>пылающий</t>
+     </tg>
+     <xg>
+       <x>дӧла би</x>
+       <xt xml:lang="rus">очень жаркий, пылающий огонь</xt>
+     </xg>
+     <xg>
+       <x>пес дӧла биӧн сотчис</x>
+       <xt xml:lang="rus">дрова ярко горели</xt>
+     </xg>
+     <xg>
+       <x>чужӧмыс дӧла би</x>
+       <xt xml:lang="rus">щёки пылают</xt>
      </xg>
    </mg>
 </e>
