@@ -14,4 +14,256 @@
      </xg>
    </mg>
 </e>
+<e>
+   <lg t1="Д" t2="А" t3="С" uri="12207-das-d" id="12207">
+     <l pos="Det">дасӧд</l>
+       <l_var type="molodtsov-cyr">ԁасӧԁ</l_var>
+   </lg>
+   <mg relId="0">
+     <tg xml:lang="rus">
+       <t><acronym title="имя числительное"><em>числ.</em></acronym> <acronym title="порядковое числительное"><em>порядк.</em></acronym> десятый</t>
+     </tg>
+     <xg>
+       <x>быд дасӧд</x>
+       <xt xml:lang="rus">каждый десятый</xt>
+     </xg>
+     <xg>
+       <x>дасӧд класс</x>
+       <xt xml:lang="rus">десятый класс</xt>
+     </xg>
+   </mg>
+</e>
+<e>
+   <lg t1="К" t2="В" t3="А" uri="20478-kvaijtsyo-d" id="20478">
+     <l pos="Det" type="Ord">квайтсёӧд</l>
+       <l_var type="molodtsov-cyr">квајтԍоӧԁ</l_var>
+   </lg>
+   <mg relId="0">
+     <tg xml:lang="rus">
+       <t><acronym title="имя числительное"><em>числ.</em></acronym> <acronym title="порядковое числительное"><em>порядк.</em></acronym> шестисотый</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg t1="К" t2="В" t3="А" uri="20481-kvaijtymyn-d" id="20481">
+     <l pos="Det" type="Ord">квайтымынӧд</l>
+       <l_var type="molodtsov-cyr">квајтымынӧԁ</l_var>
+   </lg>
+   <mg relId="0">
+     <tg xml:lang="rus">
+       <t><acronym title="имя числительное"><em>числ.</em></acronym> <acronym title="порядковое числительное"><em>порядк.</em></acronym> шестидесятый</t>
+     </tg>
+     <xg>
+       <x>квайтымынӧд вылын</x>
+       <xt xml:lang="rus">на шестидесятом году</xt>
+     </xg>
+     <xg>
+       <x>квайтымынӧд лунӧ</x>
+       <xt xml:lang="rus">на шестидесятый день</xt>
+     </xg>
+   </mg>
+</e>
+<e>
+   <lg t1="К" t2="В" t3="А" uri="20467-kvaijt-d" id="20467">
+     <l pos="Det" type="Ord">квайтӧд</l>
+       <l_var type="molodtsov-cyr">квајтӧԁ</l_var>
+   </lg>
+   <mg relId="0">
+     <tg xml:lang="rus">
+       <t><acronym title="имя числительное"><em>числ.</em></acronym> <acronym title="порядковое числительное"><em>порядк.</em></acronym> шестой</t>
+     </tg>
+     <xg>
+       <x>квайтӧд морт</x>
+       <xt xml:lang="rus">шестой человек</xt>
+     </xg>
+     <xg>
+       <x>квайтӧд дас тыртны</x>
+       <xt xml:lang="rus"></xt>
+     </xg><br />&#160;&#160;&#160;&#160;&#160;&#160;а) доживать шестой десяток<br />&#160;&#160;&#160;&#160;&#160;&#160;б) делать шестой десяток <em>чего-либо (<acronym title="например"><em>напр.</em></acronym>, при вязке снопов)</em><br />
+     <xg>
+       <x>◊ квайтӧд чуньыд век кузь </x>
+       <xt xml:lang="rus" src_type="proverb:пословица">шестой палец всегда длиннее</xt>
+     </xg>
+   </mg>
+</e>
+<e>
+   <lg t1="К" t2="У" t3="И" uri="25228-kuimsyo-d" id="25228">
+     <l pos="Det" type="Ord">куимсёӧд</l>
+       <l_var type="molodtsov-cyr">куімԍоӧԁ</l_var>
+   </lg>
+   <mg relId="0">
+     <tg xml:lang="rus">
+       <t><acronym title="имя числительное"><em>числ.</em></acronym> <acronym title="порядковое числительное"><em>порядк.</em></acronym> трёхсотый</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg t1="К" t2="Ы" t3="З" uri="26461-kyz-d" id="26461">
+     <l pos="Det" type="Ord">кызьӧд</l>
+       <l_var type="molodtsov-cyr">кыԅӧԁ</l_var>
+   </lg>
+   <mg relId="0">
+     <tg xml:lang="rus">
+       <t><acronym title="имя числительное"><em>числ.</em></acronym> <acronym title="порядковое числительное"><em>порядк.</em></acronym> двадцатый</t>
+     </tg>
+     <xg>
+       <x>кызьӧд арӧс</x>
+       <xt xml:lang="rus">двадцатый год</xt>
+     </xg>
+     <xg>
+       <x>кызьӧд вылын</x>
+       <xt xml:lang="rus">на двадцатом году</xt>
+     </xg>
+   </mg>
+</e>
+<e>
+   <lg t1="К" t2="Ы" t3="К" uri="26615-kyksyo-d" id="26615">
+     <l pos="Det" type="Ord">кыксёӧд</l>
+       <l_var type="molodtsov-cyr">кыкԍоӧԁ</l_var>
+   </lg>
+   <mg relId="0">
+     <tg xml:lang="rus">
+       <t><acronym title="имя числительное"><em>числ.</em></acronym> <acronym title="порядковое числительное"><em>порядк.</em></acronym> двухсотый</t>
+     </tg>
+     <xg>
+       <x>кыксёӧд керка</x>
+       <xt xml:lang="rus">двухсотый дом</xt>
+     </xg>
+   </mg>
+</e>
+<e>
+   <lg t1="К" t2="Ы" t3="К" uri="26598-kyk-d" id="26598">
+     <l pos="Det" type="Ord">кыкӧд</l>
+       <l_var type="molodtsov-cyr">кыкӧԁ</l_var>
+   </lg>
+   <mg relId="0">
+     <tg xml:lang="rus">
+       <t>второй <em>(<acronym title="употребляется"><em>употр.</em></acronym> в составных <acronym title="порядковое числительное"><em>порядк.</em></acronym> <acronym title="имя числительное"><em>числ.</em></acronym>)</em></t>
+     </tg>
+     <xg>
+       <x>дас кыкӧд</x>
+       <xt xml:lang="rus">двенадцатый</xt>
+     </xg>
+     <xg>
+       <x>комын кыкӧд</x>
+       <xt xml:lang="rus">тридцать второй</xt>
+     </xg>
+   </mg>
+</e>
+<e>
+   <lg t1="К" t2="Ы" t3="М" uri="26709-kymyn-d" id="26709">
+     <l pos="Det" type="Ord">кымынӧд</l>
+       <l_var type="molodtsov-cyr">кымынӧԁ</l_var>
+   </lg>
+   <mg relId="0">
+     <tg xml:lang="rus">
+       <t><acronym title="местоимение"><em>мест.</em></acronym> <acronym title="вопросительное (местоимение, частица)"><em>вопр.</em></acronym> <em>и</em> <acronym title="относительное (местоимение)"><em>относ.</em></acronym> который</t>
+     </tg>
+     <xg>
+       <x>кымынӧд лун турӧбалӧ</x>
+       <xt xml:lang="rus">который день бушует вьюга</xt>
+     </xg>
+     <xg>
+       <x>кымынӧд тӧлысь велӧдчан?</x>
+       <xt xml:lang="rus">который месяц учишься?</xt>
+     </xg>
+   </mg>
+</e>
+<e>
+   <lg t1="Н" t2="Ё" t3="Л" uri="34361-nyol-d" id="34361">
+     <l pos="Det">нёльӧд</l>
+       <l_var type="molodtsov-cyr">ԋоԉӧԁ</l_var>
+   </lg>
+   <mg relId="0">
+     <tg xml:lang="rus">
+       <t><acronym title="имя числительное"><em>числ.</em></acronym> <acronym title="порядковое числительное"><em>порядк.</em></acronym> четвёртый</t>
+     </tg>
+     <xg>
+       <x>нёльӧд морт</x>
+       <xt xml:lang="rus"> четвёртый <em>(по счёту)</em> человек</xt>
+     </xg>
+     <xg>
+       <x>нёльӧд луннас</x>
+       <xt xml:lang="rus">на четвёртый день</xt>
+     </xg>
+     <xg>
+       <x>нёльӧд сё</x>
+       <xt xml:lang="rus">четвёртая сотня</xt>
+     </xg>
+     <xg>
+       <x>нёльӧдысь</x>
+       <xt xml:lang="rus">(в) четвёртый раз</xt>
+     </xg>
+     <xg>
+       <x>нёльӧдысьӧн</x>
+       <xt xml:lang="rus">по четвёртому разу</xt>
+     </xg>
+     <xg>
+       <x>нёльӧд юкӧн</x>
+       <xt xml:lang="rus">четверть, четвёртая часть</xt>
+     </xg>
+     <xg>
+       <x>нёльӧд-кӧ </x>
+       <xt xml:lang="rus" pos="Parenthetic">в-четвёртых</xt>
+     </xg>
+     <xg>
+       <x>нёльӧд во велӧдчӧ</x>
+       <xt xml:lang="rus">он четвёртый год учится</xt>
+     </xg>
+     <xg>
+       <x>сылы нёльӧд арӧс регыд</x>
+       <xt xml:lang="rus">ему скоро пойдёт четвёртый год</xt>
+     </xg>
+   </mg>
+</e>
+<e>
+   <lg t1="Ӧ" t2="К" t3="М" uri="37552-kmysdas-d" id="37552">
+     <l pos="Det" type="Ord">ӧкмысдасӧд</l>
+       <l_var type="molodtsov-cyr">ӧкмысԁасӧԁ</l_var>
+   </lg>
+   <mg relId="0">
+     <tg xml:lang="rus">
+       <t><acronym title="имя числительное"><em>числ.</em></acronym> <acronym title="порядковое числительное"><em>порядк.</em></acronym> девяностый</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg t1="Ӧ" t2="К" t3="М" uri="37559-kmyssyo-d" id="37559">
+     <l pos="Det" type="Ord">ӧкмыссёӧд</l>
+       <l_var type="molodtsov-cyr">ӧкмыԍԍоӧԁ</l_var>
+   </lg>
+   <mg relId="0">
+     <tg xml:lang="rus">
+       <t><acronym title="имя числительное"><em>числ.</em></acronym> <acronym title="порядковое числительное"><em>порядк.</em></acronym> девятисотый</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg t1="Ӧ" t2="К" t3="М" uri="37555-kmys-d" id="37555">
+     <l pos="Det" type="Ord">ӧкмысӧд</l>
+       <l_var type="molodtsov-cyr">ӧкмысӧԁ</l_var>
+   </lg>
+   <mg relId="0">
+     <tg xml:lang="rus">
+       <t><acronym title="имя числительное"><em>числ.</em></acronym> <acronym title="порядковое числительное"><em>порядк.</em></acronym> девятый</t>
+     </tg>
+     <xg>
+       <x>ӧкмысӧдысь</x>
+       <xt xml:lang="rus">девятый раз</xt>
+     </xg>
+   </mg>
+</e>
+<e>
+   <lg t1="Ӧ" t2="Т" t3="И" uri="37865-tik-d" id="37865">
+     <l pos="Det" type="Ord">ӧтикӧд</l>
+       <l_var type="molodtsov-cyr">ӧԏікӧԁ</l_var>
+   </lg>
+   <mg relId="0"><span class="underline">употребляется лишь в составе выражений:</span><br />
+     <xg>
+       <x>дас ӧтикӧд</x>
+       <xt xml:lang="rus">одиннадцатый</xt>
+     </xg>
+   </mg>
+</e>
+
 </r> 
