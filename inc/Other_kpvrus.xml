@@ -8680,7 +8680,7 @@
    </mg>
 </e>
 <e>
-   <lg t1="М" t2="Е" t3="Н" uri="31376-menly" id="31376"><l>менлы</l>
+   <lg t1="М" t2="Е" t3="Н" uri="31376-menly" id="31376"><l pos="Pron" type="Pers">менлы</l>
        <l_var type="molodtsov-cyr">менлы</l_var>
    </lg>
    <mg relId="0"> <sg><s s_type="see">меным</s></sg>
@@ -8706,7 +8706,7 @@
    </mg>
 </e>
 <e>
-   <lg t1="М" t2="Е" t3="Н" uri="31379-mens-ym" id="31379"><l>менсьым</l>
+   <lg t1="М" t2="Е" t3="Н" uri="31379-mens-ym" id="31379"><l pos="Pron" type="Pers">менсьым</l>
        <l_var type="molodtsov-cyr">менԍым</l_var>
    </lg>
    <mg relId="0">
@@ -8733,7 +8733,7 @@
    </mg>
 </e>
 <e>
-   <lg t1="М" t2="Е" t3="Н" uri="31382-menym" id="31382"><l>меным</l>
+   <lg t1="М" t2="Е" t3="Н" uri="31382-menym" id="31382"><l pos="Pron" type="Pers">меным</l>
        <l_var type="molodtsov-cyr">меным</l_var>
    </lg>
    <mg relId="0">
@@ -8764,7 +8764,7 @@
    </mg>
 </e>
 <e>
-   <lg t1="М" t2="Е" t3="Н" uri="31378-men-" id="31378"><l>менӧ</l>
+   <lg t1="М" t2="Е" t3="Н" uri="31378-men-" id="31378"><l pos="Pron" type="Pers">менӧ</l>
        <l_var type="molodtsov-cyr">менӧ</l_var>
    </lg>
    <mg relId="0">
@@ -8791,7 +8791,7 @@
    </mg>
 </e>
 <e>
-   <lg t1="М" t2="Е" t3="Р" uri="31426-meropriyatt-" id="31426"><l>мероприяттьӧ</l>
+   <lg t1="М" t2="Е" t3="Р" uri="31426-meropriyatt-" id="31426"><l pos="N">мероприяттьӧ</l>
        <l_var type="molodtsov-cyr">меропріјаԏԏӧ</l_var>
    </lg>
    <mg relId="0">
@@ -8809,7 +8809,7 @@
    </mg>
 </e>
 <e>
-   <lg t1="М" t2="Е" t3="С" uri="31454-mestoimenn-" id="31454"><l>местоименньӧ</l>
+   <lg t1="М" t2="Е" t3="С" uri="31454-mestoimenn-" id="31454"><l pos="N">местоименньӧ</l>
        <l_var type="molodtsov-cyr">местоімеԋԋӧ</l_var>
    </lg>
    <mg relId="0" domain="grammar">
@@ -8819,11 +8819,12 @@
      <xg>
        <x>личнӧй местоименньӧ</x>
        <xt xml:lang="rus"> личное местоимение</xt>
-     </xg> <sg><s s_type="seeAlso">нимвежтас</s></sg>
+     </xg>
+     <sg><s s_type="seeAlso">нимвежтас</s></sg>
    </mg>
 </e>
 <e>
-   <lg t1="М" t2="Е" t3="С" uri="31456-mesyan-" id="31456"><l>месянь</l>
+   <lg t1="М" t2="Е" t3="С" uri="31456-mesyan-" id="31456"><l pos="Pron" type="Pers">месянь</l>
        <l_var type="molodtsov-cyr">меԍаԋ</l_var>
    </lg>
    <mg relId="0">
@@ -8841,7 +8842,7 @@
    </mg>
 </e>
 <e>
-   <lg t1="М" t2="Е" t3="Х" uri="31505-mehanizatsiya" id="31505"><l>механизация</l>
+   <lg t1="М" t2="Е" t3="Х" uri="31505-mehanizatsiya" id="31505"><l pos="N">механизация</l>
        <l_var type="molodtsov-cyr">мехаԋізаціа</l_var>
    </lg>
    <mg relId="0">
@@ -8851,7 +8852,7 @@
    </mg>
 </e>
 <e>
-   <lg t1="М" t2="Е" t3="Ы" uri="31543-meyn" id="31543"><l>меын</l>
+   <lg t1="М" t2="Е" t3="Ы" uri="31543-meyn" id="31543"><l pos="Pron" type="Pers">меын</l>
        <l_var type="molodtsov-cyr">меын</l_var>
    </lg>
    <mg relId="0">
@@ -8865,7 +8866,7 @@
    </mg>
 </e>
 <e>
-   <lg t1="М" t2="Е" t3="Я" uri="31548-meyam" id="31548"><l>меям</l>
+   <lg t1="М" t2="Е" t3="Я" uri="31548-meyam" id="31548"><l pos="Pron" type="Pers">меям</l>
        <l_var type="molodtsov-cyr">мејам</l_var> <rg><r range_space="dialect"/></rg>
    </lg>
    <mg relId="0"> <sg><s s_type="see">менам</s></sg>
@@ -8875,7 +8876,7 @@
    </mg>
 </e>
 <e>
-   <lg t1="М" t2="Е" t3="Ӧ" uri="31393-me-dz" id="31393"><l>меӧдз</l>
+   <lg t1="М" t2="Е" t3="Ӧ" uri="31393-me-dz" id="31393"><l pos="Pron" type="Pers">меӧдз</l>
        <l_var type="molodtsov-cyr">меӧԇ</l_var>
    </lg>
    <mg relId="0">
@@ -9068,7 +9069,7 @@
    </mg>
 </e>
 <e>
-   <lg t1="М" t2="И" t3="Я" uri="31775-miyank-d" id="31775"><l>миянкӧд</l>
+   <lg t1="М" t2="И" t3="Я" uri="31775-miyank-d" id="31775"><l pos="Pron" type="Pers">миянкӧд</l>
        <l_var type="molodtsov-cyr">міјанкӧԁ</l_var>
    </lg>
    <mg relId="0">
@@ -9095,7 +9096,7 @@
    </mg>
 </e>
 <e>
-   <lg t1="М" t2="И" t3="Я" uri="31776-miyanla" id="31776"><l>миянла</l>
+   <lg t1="М" t2="И" t3="Я" uri="31776-miyanla" id="31776"><l pos="Pron" type="Pers">миянла</l>
        <l_var type="molodtsov-cyr">міјанла</l_var>
    </lg>
    <mg relId="0">
@@ -9109,7 +9110,7 @@
    </mg>
 </e>
 <e>
-   <lg t1="М" t2="И" t3="Я" uri="31782-miyanlan-" id="31782"><l>миянлань</l>
+   <lg t1="М" t2="И" t3="Я" uri="31782-miyanlan-" id="31782"><l pos="Pron" type="Pers">миянлань</l>
        <l_var type="molodtsov-cyr">міјанлаԋ</l_var>
    </lg>
    <mg relId="0">
@@ -9127,7 +9128,7 @@
    </mg>
 </e>
 <e>
-   <lg t1="М" t2="И" t3="Я" uri="31790-miyanly" id="31790"><l>миянлы</l>
+   <lg t1="М" t2="И" t3="Я" uri="31790-miyanly" id="31790"><l pos="Pron" type="Pers">миянлы</l>
        <l_var type="molodtsov-cyr">міјанлы</l_var>
    </lg>
    <mg relId="0">
@@ -9145,7 +9146,7 @@
    </mg>
 </e>
 <e>
-   <lg t1="М" t2="И" t3="Я" uri="31787-miyanl-n" id="31787"><l>миянлӧн</l>
+   <lg t1="М" t2="И" t3="Я" uri="31787-miyanl-n" id="31787"><l pos="Pron" type="Pers">миянлӧн</l>
        <l_var type="molodtsov-cyr">міјанлӧн</l_var>
    </lg>
    <mg relId="0"> <sg><s s_type="see">миян</s></sg>
@@ -9163,7 +9164,7 @@
    </mg>
 </e>
 <e>
-   <lg t1="М" t2="И" t3="Я" uri="31802-miyansyan-" id="31802"><l>миянсянь</l>
+   <lg t1="М" t2="И" t3="Я" uri="31802-miyansyan-" id="31802"><l pos="Pron" type="Pers">миянсянь</l>
        <l_var type="molodtsov-cyr">міјанԍаԋ</l_var>
    </lg>
    <mg relId="0">
@@ -9194,7 +9195,7 @@
    </mg>
 </e>
 <e>
-   <lg t1="М" t2="И" t3="Я" uri="31807-miyanyn" id="31807"><l>миянын</l>
+   <lg t1="М" t2="И" t3="Я" uri="31807-miyanyn" id="31807"><l pos="Pron" type="Pers">миянын</l>
        <l_var type="molodtsov-cyr">міјанын</l_var>
    </lg>
    <mg relId="0">
@@ -9217,7 +9218,7 @@
    </mg>
 </e>
 <e>
-   <lg t1="М" t2="И" t3="Я" uri="31794-miyan-" id="31794"><l>миянӧ</l>
+   <lg t1="М" t2="И" t3="Я" uri="31794-miyan-" id="31794"><l pos="Pron" type="Pers">миянӧ</l>
        <l_var type="molodtsov-cyr">міјанӧ</l_var>
    </lg>
    <mg relId="0">
@@ -9231,7 +9232,7 @@
    </mg>
 </e>
 <e>
-   <lg t1="М" t2="И" t3="Я" uri="31796-miyan-dz" id="31796"><l>миянӧдз</l>
+   <lg t1="М" t2="И" t3="Я" uri="31796-miyan-dz" id="31796"><l pos="Pron" type="Pers">миянӧдз</l>
        <l_var type="molodtsov-cyr">міјанӧԇ</l_var>
    </lg>
    <mg relId="0">
@@ -9249,7 +9250,7 @@
    </mg>
 </e>
 <e>
-   <lg t1="М" t2="И" t3="Я" uri="31797-miyan-s" id="31797"><l>миянӧс</l>
+   <lg t1="М" t2="И" t3="Я" uri="31797-miyan-s" id="31797"><l pos="Pron" type="Pers">миянӧс</l>
        <l_var type="molodtsov-cyr">міјанӧс</l_var>
    </lg>
    <mg relId="0">
@@ -20056,7 +20057,7 @@
    </mg>
 </e>
 <e>
-   <lg t1="Т" t2="Э" t3="А" uri="55075-tea-mea" id="55075"><l>тэа-меа</l>
+   <lg t1="Т" t2="Э" t3="А" uri="55075-tea-mea" id="55075"><l pos="Pron" type="Pers">тэа-меа</l>
        <l_var type="molodtsov-cyr">теа-меа</l_var>
    </lg>
    <mg relId="0">
@@ -20086,7 +20087,7 @@
    </mg>
 </e>
 <e>
-   <lg t1="Т" t2="Э" t3="Д" uri="55080-ted" id="55080"><l>тэд</l>
+   <lg t1="Т" t2="Э" t3="Д" uri="55080-ted" id="55080"><l pos="Pron" type="Pers">тэд</l>
        <l_var type="molodtsov-cyr">теԁ</l_var>
    </lg>
    <mg relId="0">
@@ -20100,7 +20101,7 @@
    </mg>
 </e>
 <e>
-   <lg t1="Т" t2="Э" t3="Н" uri="55087-ten" id="55087"><l>тэн</l>
+   <lg t1="Т" t2="Э" t3="Н" uri="55087-ten" id="55087"><l pos="Pron" type="Pers">тэн</l>
        <l_var type="molodtsov-cyr">тен</l_var>
    </lg>
    <mg relId="0">
@@ -20114,7 +20115,7 @@
    </mg>
 </e>
 <e>
-   <lg t1="Т" t2="Э" t3="Н" uri="55089-tenad" id="55089"><l>тэнад</l>
+   <lg t1="Т" t2="Э" t3="Н" uri="55089-tenad" id="55089"><l pos="Pron" type="Pers">тэнад</l>
        <l_var type="molodtsov-cyr">тенаԁ</l_var>
    </lg>
    <mg relId="0">
@@ -20145,7 +20146,7 @@
    </mg>
 </e>
 <e>
-   <lg t1="Т" t2="Э" t3="Н" uri="55090-tens-yd" id="55090"><l>тэнсьыд</l>
+   <lg t1="Т" t2="Э" t3="Н" uri="55090-tens-yd" id="55090"><l pos="Pron" type="Pers">тэнсьыд</l>
        <l_var type="molodtsov-cyr">тенԍыԁ</l_var>
    </lg>
    <mg relId="0">
@@ -20516,7 +20517,7 @@
    </mg>
 </e>
 <e>
-   <lg t1="У" t2="В" t3="С" uri="55539-uvs-yd" id="55539"><l>увсьыд</l>
+   <lg t1="У" t2="В" t3="С" uri="55539-uvs-yd" id="55539"><l pos="Adv">увсьыд</l>
        <l_var type="molodtsov-cyr">увԍыԁ</l_var>
    </lg>
    <mg relId="0">
@@ -20530,7 +20531,7 @@
    </mg>
 </e>
 <e>
-   <lg t1="У" t2="В" t3="С" uri="55542-uvs-ym" id="55542"><l>увсьым</l>
+   <lg t1="У" t2="В" t3="С" uri="55542-uvs-ym" id="55542"><l pos="Adv">увсьым</l>
        <l_var type="molodtsov-cyr">увԍым</l_var>
    </lg>
    <mg relId="0">
@@ -20544,7 +20545,7 @@
    </mg>
 </e>
 <e>
-   <lg t1="У" t2="В" t3="С" uri="55543-uvs-ynyd" id="55543"><l>увсьыныд</l>
+   <lg t1="У" t2="В" t3="С" uri="55543-uvs-ynyd" id="55543"><l pos="Adv">увсьыныд</l>
        <l_var type="molodtsov-cyr">увԍыныԁ</l_var>
    </lg>
    <mg relId="0">
@@ -20558,7 +20559,7 @@
    </mg>
 </e>
 <e>
-   <lg t1="У" t2="В" t3="С" uri="55545-uvs-ynym" id="55545"><l>увсьыным</l>
+   <lg t1="У" t2="В" t3="С" uri="55545-uvs-ynym" id="55545"><l pos="Adv">увсьыным</l>
        <l_var type="molodtsov-cyr">увԍыным</l_var>
    </lg>
    <mg relId="0">
@@ -20568,7 +20569,7 @@
    </mg>
 </e>
 <e>
-   <lg t1="У" t2="В" t3="С" uri="55547-uvs-ynys" id="55547"><l>увсьыныс</l>
+   <lg t1="У" t2="В" t3="С" uri="55547-uvs-ynys" id="55547"><l pos="Adv">увсьыныс</l>
        <l_var type="molodtsov-cyr">увԍыныс</l_var>
    </lg>
    <mg relId="0">
@@ -20582,7 +20583,7 @@
    </mg>
 </e>
 <e>
-   <lg t1="У" t2="В" t3="С" uri="55548-uvs-ys" id="55548"><l>увсьыс</l>
+   <lg t1="У" t2="В" t3="С" uri="55548-uvs-ys" id="55548"><l pos="Adv">увсьыс</l>
        <l_var type="molodtsov-cyr">увԍыс</l_var>
    </lg>
    <mg relId="0">
