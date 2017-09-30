@@ -66327,7 +66327,7 @@
      </xg>
      <xg>
        <x src_type="saying:поговорка">бӧжтӧм вӧвнад он мун</x>
-       <xt src_type="literally:буквально">на бесхвостой лошади не поедешь</xt>
+       <xt src_type="literally:буквально" xml:lang="rus">на бесхвостой лошади не поедешь</xt>
      </xg>
    </mg>
 </e>
