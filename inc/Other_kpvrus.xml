@@ -4639,7 +4639,7 @@
    </mg>
 </e>
 <e>
-   <lg t1="М" t2="&amp;" t3="#" uri="31961-m-on" id="31961"><l>м&#039;он</l>
+   <lg t1="М" t2="&amp;" t3="#" uri="31961-m-on" id="31961"><l pos="CS">мон</l>
        <l_var type="molodtsov-cyr">мон</l_var>
    </lg>
    <mg relId="0">
@@ -4669,7 +4669,7 @@
    </mg>
 </e>
 <e>
-   <lg t1="М" t2="А" t3="М" uri="30592-mam" id="30592"><l>мам</l>
+   <lg t1="М" t2="А" t3="М" uri="30592-mam" id="30592"><l pos="N">мам</l>
        <l_var type="molodtsov-cyr">мам</l_var>
    </lg>
    <mg relId="0">
@@ -4745,7 +4745,7 @@
    </mg>
 </e>
 <e>
-   <lg t1="М" t2="А" t3="Р" uri="30729-marshal" id="30729"><l>маршал</l>
+   <lg t1="М" t2="А" t3="Р" uri="30729-marshal" id="30729"><l pos="N">маршал</l>
        <l_var type="molodtsov-cyr">маршал</l_var>
    </lg>
    <mg relId="0">
@@ -4759,7 +4759,7 @@
    </mg>
 </e>
 <e>
-   <lg t1="М" t2="А" t3="С" uri="30772-massiv" id="30772"><l>массив</l>
+   <lg t1="М" t2="А" t3="С" uri="30772-massiv" id="30772"><l pos="N">массив</l>
        <l_var type="molodtsov-cyr">маԍԍів</l_var>
    </lg>
    <mg relId="0">
@@ -4781,7 +4781,7 @@
    </mg>
 </e>
 <e>
-   <lg t1="М" t2="А" t3="Т" uri="30877-matyn" id="30877"><l>матын</l>
+   <lg t1="М" t2="А" t3="Т" uri="30877-matyn" id="30877"><l pos="Adv">матын</l>
        <l_var type="molodtsov-cyr">матын</l_var>
    </lg>
    <mg relId="0">
@@ -4803,7 +4803,7 @@
    </mg>
 </e>
 <e>
-   <lg t1="М" t2="А" t3="Т" uri="30881-matys" id="30881"><l>матыс</l>
+   <lg t1="М" t2="А" t3="Т" uri="30881-matys" id="30881"><l pos="A">матыс</l>
        <l_var type="molodtsov-cyr">матыс</l_var>
    </lg>
    <mg relId="0"> <sg><s s_type="see">матіса</s></sg>
@@ -4817,7 +4817,7 @@
    </mg>
 </e>
 <e>
-   <lg t1="М" t2="А" t3="Т" uri="30884-matysa" id="30884"><l>матыса</l>
+   <lg t1="М" t2="А" t3="Т" uri="30884-matysa" id="30884"><l pos="A">матыса</l>
        <l_var type="molodtsov-cyr">матыса</l_var>
    </lg>
    <mg relId="0"> <sg><s s_type="see">матіса</s></sg>
@@ -4831,7 +4831,7 @@
    </mg>
 </e>
 <e>
-   <lg t1="М" t2="А" t3="Т" uri="30847-mati" id="30847"><l>маті</l>
+   <lg t1="М" t2="А" t3="Т" uri="30847-mati" id="30847"><l pos="Adv">маті</l>
        <l_var type="molodtsov-cyr">маті</l_var>
    </lg>
    <mg relId="0">
@@ -4854,7 +4854,7 @@
    </mg>
 </e>
 <e>
-   <lg t1="М" t2="А" t3="Т" uri="30865-mat-" id="30865"><l>матӧ</l>
+   <lg t1="М" t2="А" t3="Т" uri="30865-mat-" id="30865"><l pos="Adv">матӧ</l>
        <l_var type="molodtsov-cyr">матӧ</l_var>
    </lg>
    <mg relId="0">
@@ -4898,7 +4898,7 @@
    </mg>
 </e>
 <e>
-   <lg t1="М" t2="А" t3="Ч" uri="30928-macha" id="30928"><l>мача</l>
+   <lg t1="М" t2="А" t3="Ч" uri="30928-macha" id="30928"><l pos="A">мача</l>
        <l_var type="molodtsov-cyr">мача</l_var>
    </lg>
    <mg relId="0">
@@ -4917,7 +4917,7 @@
    </mg>
 </e>
 <e>
-   <lg t1="М" t2="А" t3="Ш" uri="30953-mashinostroenn-" id="30953"><l>машиностроенньӧ</l>
+   <lg t1="М" t2="А" t3="Ш" uri="30953-mashinostroenn-" id="30953"><l pos="N">машиностроенньӧ</l>
        <l_var type="molodtsov-cyr">машіностројеԋԋӧ</l_var>
    </lg>
    <mg relId="0">
@@ -4931,7 +4931,7 @@
    </mg>
 </e>
 <e>
-   <lg t1="М" t2="Е" t3="Б" uri="30960-mebel-" id="30960"><l>мебель</l>
+   <lg t1="М" t2="Е" t3="Б" uri="30960-mebel-" id="30960"><l pos="N">мебель</l>
        <l_var type="molodtsov-cyr">мебеԉ</l_var>
    </lg>
    <mg relId="0">
@@ -5048,7 +5048,7 @@
    </mg>
 </e>
 <e>
-   <lg t1="М" t2="Е" t3="Д" uri="31013-medb-rti" id="31013"><l>медбӧрти</l>
+   <lg t1="М" t2="Е" t3="Д" uri="31013-medb-rti" id="31013"><l pos="Adv">медбӧрти</l>
        <l_var type="molodtsov-cyr">меԁбӧрԏі</l_var>
    </lg>
    <mg relId="0">
@@ -5066,7 +5066,7 @@
    </mg>
 </e>
 <e>
-   <lg t1="М" t2="Е" t3="Д" uri="31022-medb-ryn" id="31022"><l>медбӧрын</l>
+   <lg t1="М" t2="Е" t3="Д" uri="31022-medb-ryn" id="31022"><l pos="Adv">медбӧрын</l>
        <l_var type="molodtsov-cyr">меԁбӧрын</l_var>
    </lg>
    <mg relId="0">
@@ -5106,7 +5106,7 @@
    </mg>
 </e>
 <e>
-   <lg t1="М" t2="Е" t3="Д" uri="31035-medvizulin" id="31035"><l>медвизулін</l>
+   <lg t1="М" t2="Е" t3="Д" uri="31035-medvizulin" id="31035"><l pos="N">медвизулін</l>
        <l_var type="molodtsov-cyr">меԁвізулін</l_var>
    </lg>
    <mg relId="0">
@@ -5116,7 +5116,7 @@
    </mg>
 </e>
 <e>
-   <lg t1="М" t2="Е" t3="Д" uri="31058-medvoijd-r" id="31058"><l>медвойдӧр</l>
+   <lg t1="М" t2="Е" t3="Д" uri="31058-medvoijd-r" id="31058"><l pos="Adv">медвойдӧр</l>
        <l_var type="molodtsov-cyr">меԁвојԁӧр</l_var>
    </lg>
    <mg relId="0">
@@ -5135,7 +5135,7 @@
    </mg>
 </e>
 <e>
-   <lg t1="М" t2="Е" t3="Д" uri="31065-medvylys" id="31065"><l>медвылыс</l>
+   <lg t1="М" t2="Е" t3="Д" uri="31065-medvylys" id="31065"><l pos="A">медвылыс</l>
        <l_var type="molodtsov-cyr">меԁвылыс</l_var>
    </lg>
    <mg relId="0">
@@ -5154,7 +5154,7 @@
    </mg>
 </e>
 <e>
-   <lg t1="М" t2="Е" t3="Д" uri="31124-medkuz-" id="31124"><l>медкузь</l>
+   <lg t1="М" t2="Е" t3="Д" uri="31124-medkuz-" id="31124"><l pos="A">медкузь</l>
        <l_var type="molodtsov-cyr">меткуԅ</l_var>
    </lg>
    <mg relId="0">
@@ -5196,7 +5196,7 @@
    </mg>
 </e>
 <e>
-   <lg t1="М" t2="Е" t3="Д" uri="31128-medlyok" id="31128"><l>медлёк</l>
+   <lg t1="М" t2="Е" t3="Д" uri="31128-medlyok" id="31128"><l pos="A">медлёк</l>
        <l_var type="molodtsov-cyr">меԁԉок</l_var>
    </lg>
    <mg relId="0">
@@ -5214,7 +5214,7 @@
    </mg>
 </e>
 <e>
-   <lg t1="М" t2="Е" t3="Д" uri="31195-medsyas-" id="31195"><l>медсясӧ</l>
+   <lg t1="М" t2="Е" t3="Д" uri="31195-medsyas-" id="31195"><l pos="Adv">медсясӧ</l>
        <l_var type="molodtsov-cyr">метԍасӧ</l_var>
    </lg>
    <mg relId="0"> <sg><s s_type="see">медся Ⅱ</s></sg>
@@ -5288,7 +5288,7 @@
    </mg>
 </e>
 <e>
-   <lg t1="М" t2="Е" t3="Д" uri="31219-meduna" id="31219"><l>медуна</l>
+   <lg t1="М" t2="Е" t3="Д" uri="31219-meduna" id="31219"><l pos="Adv">медуна</l>
        <l_var type="molodtsov-cyr">меԁуна</l_var>
    </lg>
    <mg relId="0">
@@ -5307,7 +5307,7 @@
    </mg>
 </e>
 <e>
-   <lg t1="М" t2="Е" t3="Д" uri="31230-med-ya" id="31230"><l>медъя</l>
+   <lg t1="М" t2="Е" t3="Д" uri="31230-med-ya" id="31230"><l pos="Adv">медъя</l>
        <l_var type="molodtsov-cyr">меԁја</l_var>
    </lg>
    <mg relId="0">
@@ -5321,7 +5321,7 @@
    </mg>
 </e>
 <e>
-   <lg t1="М" t2="Е" t3="Д" uri="31235-medym" id="31235"><l>медым</l>
+   <lg t1="М" t2="Е" t3="Д" uri="31235-medym" id="31235"><l pos="CS">медым</l>
        <l_var type="molodtsov-cyr">меԁым</l_var>
    </lg>
    <mg relId="0"> <sg><s s_type="see">мед Ⅰ</s></sg>
@@ -5358,7 +5358,7 @@
    </mg>
 </e>
 <e>
-   <lg t1="М" t2="Е" t3="Ж" uri="31251-mezhdomett-" id="31251"><l>междометтьӧ</l>
+   <lg t1="М" t2="Е" t3="Ж" uri="31251-mezhdomett-" id="31251"><l pos="N">междометтьӧ</l>
        <l_var type="molodtsov-cyr">межԁомеԏԏӧ</l_var>
    </lg>
    <mg relId="0" domain="grammar">
@@ -5368,7 +5368,7 @@
    </mg>
 </e>
 <e>
-   <lg t1="М" t2="Е" t3="З" uri="31302-mez-s" id="31302"><l>мезӧс</l>
+   <lg t1="М" t2="Е" t3="З" uri="31302-mez-s" id="31302"><l pos="N">мезӧс</l>
        <l_var type="molodtsov-cyr">мезӧс</l_var>
    </lg>
    <mg relId="0">
@@ -5378,7 +5378,7 @@
    </mg>
 </e>
 <e>
-   <lg t1="М" t2="Е" t3="К" uri="31308-mek-d" id="31308"><l>мекӧд</l>
+   <lg t1="М" t2="Е" t3="К" uri="31308-mek-d" id="31308"><l pos="Pron">мекӧд</l>
        <l_var type="molodtsov-cyr">мекӧԁ</l_var>
    </lg>
    <mg relId="0">
@@ -5392,7 +5392,7 @@
    </mg>
 </e>
 <e>
-   <lg t1="М" t2="Е" t3="Л" uri="31313-mela" id="31313"><l>мела</l>
+   <lg t1="М" t2="Е" t3="Л" uri="31313-mela" id="31313"><l pos="Pron">мела</l>
        <l_var type="molodtsov-cyr">мела</l_var>
    </lg>
    <mg relId="0">
@@ -5406,7 +5406,7 @@
    </mg>
 </e>
 <e>
-   <lg t1="М" t2="Е" t3="Л" uri="31322-melan-" id="31322"><l>мелань</l>
+   <lg t1="М" t2="Е" t3="Л" uri="31322-melan-" id="31322"><l pos="Pron">мелань</l>
        <l_var type="molodtsov-cyr">мелаԋ</l_var>
    </lg>
    <mg relId="0">
@@ -5428,7 +5428,7 @@
    </mg>
 </e>
 <e>
-   <lg t1="М" t2="Е" t3="М" uri="31364-mem" id="31364"><l>мем</l>
+   <lg t1="М" t2="Е" t3="М" uri="31364-mem" id="31364"><l pos="Pron">мем</l>
        <l_var type="molodtsov-cyr">мем</l_var>
    </lg>
    <mg relId="0"> <sg><s s_type="see">меным</s></sg>
@@ -5447,7 +5447,7 @@
    </mg>
 </e>
 <e>
-   <lg t1="М" t2="Е" t3="Н" uri="31369-men" id="31369"><l>мен</l>
+   <lg t1="М" t2="Е" t3="Н" uri="31369-men" id="31369"><l pos="Pron">мен</l>
        <l_var type="molodtsov-cyr">мен</l_var>
    </lg>
    <mg relId="0"> <sg><s s_type="see">меным</s></sg>
@@ -5465,7 +5465,7 @@
    </mg>
 </e>
 <e>
-   <lg t1="М" t2="Е" t3="Н" uri="31371-menam" id="31371"><l>менам</l>
+   <lg t1="М" t2="Е" t3="Н" uri="31371-menam" id="31371"><l pos="Pron">менам</l>
        <l_var type="molodtsov-cyr">менам</l_var>
    </lg>
    <mg relId="0">
@@ -5532,7 +5532,7 @@
    </mg>
 </e>
 <e>
-   <lg t1="М" t2="Е" t3="Н" uri="31374-mender" id="31374"><l>мендер</l>
+   <lg t1="М" t2="Е" t3="Н" uri="31374-mender" id="31374"><l pos="N">мендер</l>
        <l_var type="molodtsov-cyr">менԃер</l_var>
    </lg>
    <mg relId="0"> <acronym title="ботаника"><em>бот.</em></acronym>
@@ -5717,7 +5717,7 @@
    </mg>
 </e>
 <e>
-   <lg t1="М" t2="И" t3="Л" uri="31604-mil-stina" id="31604"><l>милӧстина</l>
+   <lg t1="М" t2="И" t3="Л" uri="31604-mil-stina" id="31604"><l pos="N">милӧстина</l>
        <l_var type="molodtsov-cyr">мілӧԍԏіна</l_var>
    </lg>
    <mg relId="0">
@@ -5743,7 +5743,7 @@
    </mg>
 </e>
 <e>
-   <lg t1="М" t2="И" t3="Р" uri="31659-mirovozzrenn-" id="31659"><l>мировоззренньӧ</l>
+   <lg t1="М" t2="И" t3="Р" uri="31659-mirovozzrenn-" id="31659"><l pos="N">мировоззренньӧ</l>
        <l_var type="molodtsov-cyr">міровоззреԋԋӧ</l_var>
    </lg>
    <mg relId="0">
@@ -5753,7 +5753,7 @@
    </mg>
 </e>
 <e>
-   <lg t1="М" t2="И" t3="Р" uri="31667-mir-n" id="31667"><l>мирӧн</l>
+   <lg t1="М" t2="И" t3="Р" uri="31667-mir-n" id="31667"><l pos="Adv">мирӧн</l>
        <l_var type="molodtsov-cyr">мірӧн</l_var>
    </lg>
    <mg relId="0">
@@ -5767,7 +5767,7 @@
    </mg>
 </e>
 <e>
-   <lg t1="М" t2="И" t3="С" uri="31674-misa" id="31674"><l>миса</l>
+   <lg t1="М" t2="И" t3="С" uri="31674-misa" id="31674"><l pos="N">миса</l>
        <l_var type="molodtsov-cyr">міса</l_var>
    </lg>
    <mg relId="0">
@@ -5781,7 +5781,7 @@
    </mg>
 </e>
 <e>
-   <lg t1="М" t2="И" t3="Ч" uri="31718-micha" id="31718"><l>мича</l>
+   <lg t1="М" t2="И" t3="Ч" uri="31718-micha" id="31718"><l pos="A">мича</l>
        <l_var type="molodtsov-cyr">міча</l_var>
    </lg>
    <mg relId="0">
@@ -6092,7 +6092,7 @@
    </mg>
 </e>
 <e>
-   <lg t1="М" t2="О" t3="Г" uri="31857-mog-n" id="31857"><l>могӧн</l>
+   <lg t1="М" t2="О" t3="Г" uri="31857-mog-n" id="31857"><l pos="Adv">могӧн</l>
        <l_var type="molodtsov-cyr">могӧн</l_var>
    </lg>
    <mg relId="0">
@@ -6133,7 +6133,7 @@
    </mg>
 </e>
 <e>
-   <lg t1="М" t2="О" t3="Л" uri="31943-molodech" id="31943"><l>молодеч</l>
+   <lg t1="М" t2="О" t3="Л" uri="31943-molodech" id="31943"><l pos="N">молодеч</l>
        <l_var type="molodtsov-cyr">молоԃеч</l_var>
    </lg>
    <mg relId="0">
@@ -6372,7 +6372,7 @@
    </mg>
 </e>
 <e>
-   <lg t1="М" t2="У" t3="Д" uri="32397-mudz" id="32397"><l>мудз</l>
+   <lg t1="М" t2="У" t3="Д" uri="32397-mudz" id="32397"><l pos="N">мудз</l>
        <l_var type="molodtsov-cyr">муԇ</l_var>
    </lg>
    <mg relId="0">
@@ -6755,7 +6755,7 @@
    </mg>
 </e>
 <e>
-   <lg t1="М" t2="Ы" t3="Е" uri="32933-myetsh" id="32933"><l>мыетш</l>
+   <lg t1="М" t2="Ы" t3="Е" uri="32933-myetsh" id="32933"><l pos="Adv">мыетш</l>
        <l_var type="molodtsov-cyr">мыјещ</l_var>
    </lg>
    <mg relId="0">
@@ -6794,7 +6794,7 @@
    </mg>
 </e>
 <e>
-   <lg t1="М" t2="Ы" t3="Е" uri="32934-myetshk-" id="32934"><l>мыетшкӧ</l>
+   <lg t1="М" t2="Ы" t3="Е" uri="32934-myetshk-" id="32934"><l pos="Adv">мыетшкӧ</l>
        <l_var type="molodtsov-cyr">мыјещкӧ</l_var>
    </lg>
    <mg relId="0">
@@ -7061,7 +7061,7 @@
    </mg>
 </e>
 <e>
-   <lg t1="М" t2="Ы" t3="Й" uri="33006-myij-nibud-" id="33006"><l>мый-нибудь</l>
+   <lg t1="М" t2="Ы" t3="Й" uri="33006-myij-nibud-" id="33006"><l pos="Pron">мый-нибудь</l>
        <l_var type="molodtsov-cyr">мыј-ԋібуԃ</l_var>
    </lg>
    <mg relId="0"> <sg><s s_type="see">мыйкӧ</s></sg>
@@ -7071,7 +7071,7 @@
    </mg>
 </e>
 <e>
-   <lg t1="М" t2="Ы" t3="Й" uri="32993-myijda" id="32993"><l>мыйда</l>
+   <lg t1="М" t2="Ы" t3="Й" uri="32993-myijda" id="32993"><l pos="Pron">мыйда</l>
        <l_var type="molodtsov-cyr">мыјԁа</l_var>
    </lg>
    <mg relId="0"> <sg><s s_type="see">мыйта</s></sg>
@@ -7085,7 +7085,7 @@
    </mg>
 </e>
 <e>
-   <lg t1="М" t2="Ы" t3="Й" uri="32995-myijdak-" id="32995"><l>мыйдакӧ</l>
+   <lg t1="М" t2="Ы" t3="Й" uri="32995-myijdak-" id="32995"><l pos="Pron">мыйдакӧ</l>
        <l_var type="molodtsov-cyr">мыјԁакӧ</l_var>
    </lg>
    <mg relId="0"> <sg><s s_type="see">мыйтакӧ</s></sg>
@@ -7095,7 +7095,7 @@
    </mg>
 </e>
 <e>
-   <lg t1="М" t2="Ы" t3="Й" uri="32999-myijk-" id="32999"><l>мыйкӧ</l>
+   <lg t1="М" t2="Ы" t3="Й" uri="32999-myijk-" id="32999"><l pos="Pron">мыйкӧ</l>
        <l_var type="molodtsov-cyr">мыјкӧ</l_var>
    </lg>
    <mg relId="0">
@@ -7174,7 +7174,7 @@
    </mg>
 </e>
 <e>
-   <lg t1="М" t2="Ы" t3="Й" uri="33004-myijlak-" id="33004"><l>мыйлакӧ</l>
+   <lg t1="М" t2="Ы" t3="Й" uri="33004-myijlak-" id="33004"><l pos="Adv">мыйлакӧ</l>
        <l_var type="molodtsov-cyr">мыјлакӧ</l_var>
    </lg>
    <mg relId="0">
@@ -7192,7 +7192,7 @@
    </mg>
 </e>
 <e>
-   <lg t1="М" t2="Ы" t3="Й" uri="33010-myijsyur-" id="33010"><l>мыйсюрӧ</l>
+   <lg t1="М" t2="Ы" t3="Й" uri="33010-myijsyur-" id="33010"><l pos="Pron">мыйсюрӧ</l>
        <l_var type="molodtsov-cyr">мыјԍурӧ</l_var>
    </lg>
    <mg relId="0">
@@ -7237,7 +7237,7 @@
    </mg>
 </e>
 <e>
-   <lg t1="М" t2="Ы" t3="Й" uri="33015-myijta" id="33015"><l>мыйта</l>
+   <lg t1="М" t2="Ы" t3="Й" uri="33015-myijta" id="33015"><l pos="Pron">мыйта</l>
        <l_var type="molodtsov-cyr">мыјта</l_var>
    </lg>
    <mg relId="0">
@@ -7291,7 +7291,7 @@
    </mg>
 </e>
 <e>
-   <lg t1="М" t2="Ы" t3="Й" uri="33016-myijtak-" id="33016"><l>мыйтакӧ</l>
+   <lg t1="М" t2="Ы" t3="Й" uri="33016-myijtak-" id="33016"><l pos="Pron">мыйтакӧ</l>
        <l_var type="molodtsov-cyr">мыјтакӧ</l_var>
    </lg>
    <mg relId="0">
@@ -7318,7 +7318,7 @@
    </mg>
 </e>
 <e>
-   <lg t1="М" t2="Ы" t3="Й" uri="33020-myijt-mk-" id="33020"><l>мыйтӧмкӧ</l>
+   <lg t1="М" t2="Ы" t3="Й" uri="33020-myijt-mk-" id="33020"><l pos="Pron">мыйтӧмкӧ</l>
        <l_var type="molodtsov-cyr">мыјтӧмкӧ</l_var>
    </lg>
    <mg relId="0"> <sg><s s_type="see">мыйтакӧ</s></sg>
@@ -7332,7 +7332,7 @@
    </mg>
 </e>
 <e>
-   <lg t1="М" t2="Ы" t3="Й" uri="33023-myijya" id="33023"><l>мыйя</l>
+   <lg t1="М" t2="Ы" t3="Й" uri="33023-myijya" id="33023"><l pos="Pron">мыйя</l>
        <l_var type="molodtsov-cyr">мыјја</l_var>
    </lg>
    <mg relId="0"> <sg><s s_type="see">мыйкӧ</s></sg>
@@ -7342,7 +7342,7 @@
    </mg>
 </e>
 <e>
-   <lg t1="М" t2="Ы" t3="Й" uri="33008-myij-s" id="33008"><l>мыйӧс</l>
+   <lg t1="М" t2="Ы" t3="Й" uri="33008-myij-s" id="33008"><l pos="Adv">мыйӧс</l>
        <l_var type="molodtsov-cyr">мыјӧс</l_var> <rg><r range_space="dialect"/></rg>
    </lg>
    <mg relId="0"> <sg><s s_type="see">мыйла</s></sg>
@@ -7409,7 +7409,7 @@
    </mg>
 </e>
 <e>
-   <lg t1="М" t2="Ы" t3="Л" uri="33094-myl-k-ya" id="33094"><l>мылькъя</l>
+   <lg t1="М" t2="Ы" t3="Л" uri="33094-myl-k-ya" id="33094"><l pos="A">мылькъя</l>
        <l_var type="molodtsov-cyr">мыԉкја</l_var>
    </lg>
    <mg relId="0">
@@ -7431,7 +7431,7 @@
    </mg>
 </e>
 <e>
-   <lg t1="М" t2="Ы" t3="Л" uri="33065-myl-d" id="33065"><l>мылӧд</l>
+   <lg t1="М" t2="Ы" t3="Л" uri="33065-myl-d" id="33065"><l pos="N">мылӧд</l>
        <l_var type="molodtsov-cyr">мылӧԁ</l_var>
    </lg>
    <mg relId="0">
@@ -7457,7 +7457,7 @@
    </mg>
 </e>
 <e>
-   <lg t1="М" t2="Ы" t3="Л" uri="33069-myl-s" id="33069"><l>мылӧс</l>
+   <lg t1="М" t2="Ы" t3="Л" uri="33069-myl-s" id="33069"><l pos="N">мылӧс</l>
        <l_var type="molodtsov-cyr">мылӧс</l_var> <rg><r range_space="dialect"/></rg>
    </lg>
    <mg relId="0">
@@ -7482,7 +7482,7 @@
    </mg>
 </e>
 <e>
-   <lg t1="М" t2="Ы" t3="Р" uri="33181-myrd-n" id="33181"><l>мырдӧн</l>
+   <lg t1="М" t2="Ы" t3="Р" uri="33181-myrd-n" id="33181"><l pos="Adv">мырдӧн</l>
        <l_var type="molodtsov-cyr">мырԁӧн</l_var>
    </lg>
    <mg relId="0">
@@ -7562,7 +7562,7 @@
    </mg>
 </e>
 <e>
-   <lg t1="М" t2="Ы" t3="Т" uri="33311-mytsh-d" id="33311"><l>мытшӧд</l>
+   <lg t1="М" t2="Ы" t3="Т" uri="33311-mytsh-d" id="33311"><l pos="N">мытшӧд</l>
        <l_var type="molodtsov-cyr">мыщӧԁ</l_var>
    </lg>
    <mg relId="0">
@@ -7610,7 +7610,7 @@
    </mg>
 </e>
 <e>
-   <lg t1="М" t2="Ы" t3="Ш" uri="33378-myshku" id="33378"><l>мышку</l>
+   <lg t1="М" t2="Ы" t3="Ш" uri="33378-myshku" id="33378"><l pos="N">мышку</l>
        <l_var type="molodtsov-cyr">мышку</l_var>
    </lg>
    <mg relId="0"> <sg><s s_type="see">мыш в 1 значении</s></sg>
@@ -7643,11 +7643,12 @@
 <e>
    <lg t1="" t2="" t3="" uri="мэ коми морт" id="65382"><l>мэ коми морт</l>
    </lg>
-   <mg relId="0">я коми человек
+   <mg relId="0">
+     <tg xml:lang="rus"><t>я коми человек</t></tg>
    </mg>
 </e>
 <e>
-   <lg t1="М" t2="Ӧ" t3="Д" uri="32137-m-d" id="32137"><l>мӧд</l>
+   <lg t1="М" t2="Ӧ" t3="Д" uri="32137-m-d" id="32137"><l pos="Det">мӧд</l>
        <l_var type="molodtsov-cyr">мӧԁ</l_var>
    </lg>
    <mg relId="0">
@@ -7795,7 +7796,7 @@
    </mg>
 </e>
 <e>
-   <lg t1="М" t2="Ӧ" t3="Д" uri="32139-m-da-m-d" id="32139"><l>мӧда-мӧд</l>
+   <lg t1="М" t2="Ӧ" t3="Д" uri="32139-m-da-m-d" id="32139"><l pos="Pron">мӧда-мӧд</l>
        <l_var type="molodtsov-cyr">мӧԁа-мӧԁ</l_var>
    </lg>
    <mg relId="0">
@@ -7845,7 +7846,7 @@
    </mg>
 </e>
 <e>
-   <lg t1="М" t2="Ӧ" t3="Д" uri="32141-m-dar" id="32141"><l>мӧдар</l>
+   <lg t1="М" t2="Ӧ" t3="Д" uri="32141-m-dar" id="32141"><l pos="Det">мӧдар</l>
        <l_var type="molodtsov-cyr">мӧԁар</l_var>
    </lg>
    <mg relId="0">
@@ -7916,7 +7917,7 @@
    </mg>
 </e>
 <e>
-   <lg t1="М" t2="Ӧ" t3="Д" uri="32146-m-darlador" id="32146"><l>мӧдарладор</l>
+   <lg t1="М" t2="Ӧ" t3="Д" uri="32146-m-darlador" id="32146"><l pos="N">мӧдарладор</l>
        <l_var type="molodtsov-cyr">мӧԁарлаԁор</l_var>
    </lg>
    <mg relId="0">
@@ -7952,7 +7953,7 @@
    </mg>
 </e>
 <e>
-   <lg t1="М" t2="Ӧ" t3="Д" uri="32148-m-darlan-" id="32148"><l>мӧдарланьӧ</l>
+   <lg t1="М" t2="Ӧ" t3="Д" uri="32148-m-darlan-" id="32148"><l pos="Adv">мӧдарланьӧ</l>
        <l_var type="molodtsov-cyr">мӧԁарлаԋӧ</l_var>
    </lg>
    <mg relId="0">
@@ -8029,7 +8030,7 @@
    </mg>
 </e>
 <e>
-   <lg t1="М" t2="Ӧ" t3="Д" uri="32157-m-dasyv" id="32157"><l>мӧдасыв</l>
+   <lg t1="М" t2="Ӧ" t3="Д" uri="32157-m-dasyv" id="32157"><l pos="N">мӧдасыв</l>
        <l_var type="molodtsov-cyr">мӧԁасыв</l_var> <rg><r range_space="dialect"/></rg>
    </lg>
    <mg relId="0">
@@ -8039,7 +8040,7 @@
    </mg>
 </e>
 <e>
-   <lg t1="М" t2="Ӧ" t3="Д" uri="32168-m-dzov" id="32168"><l>мӧдзов</l>
+   <lg t1="М" t2="Ӧ" t3="Д" uri="32168-m-dzov" id="32168"><l pos="N">мӧдзов</l>
        <l_var type="molodtsov-cyr">мӧԇов</l_var> <rg><r range_space="dialect"/></rg>
    </lg>
    <mg relId="0">
@@ -8049,7 +8050,7 @@
    </mg>
 </e>
 <e>
-   <lg t1="М" t2="Ӧ" t3="Д" uri="32176-m-dij-z" id="32176"><l>мӧдйӧз</l>
+   <lg t1="М" t2="Ӧ" t3="Д" uri="32176-m-dij-z" id="32176"><l pos="Adv">мӧдйӧз</l>
        <l_var type="molodtsov-cyr">мӧԁјӧз</l_var> <rg><r range_space="dialect"/></rg>
    </lg>
    <mg relId="0"> <sg><s s_type="see">мӧдысь во 2 и 3 значениях</s></sg>
@@ -8074,7 +8075,7 @@
    </mg>
 </e>
 <e>
-   <lg t1="М" t2="Ӧ" t3="Д" uri="32187-m-dlati" id="32187"><l>мӧдлаті</l>
+   <lg t1="М" t2="Ӧ" t3="Д" uri="32187-m-dlati" id="32187"><l pos="Adv">мӧдлаті</l>
        <l_var type="molodtsov-cyr">мӧԁлаті</l_var>
    </lg>
    <mg relId="0">
@@ -8088,7 +8089,7 @@
    </mg>
 </e>
 <e>
-   <lg t1="М" t2="Ӧ" t3="Д" uri="32183-m-dla-" id="32183"><l>мӧдлаӧ</l>
+   <lg t1="М" t2="Ӧ" t3="Д" uri="32183-m-dla-" id="32183"><l pos="Adv">мӧдлаӧ</l>
        <l_var type="molodtsov-cyr">мӧԁлаӧ</l_var>
    </lg>
    <mg relId="0">
@@ -8164,7 +8165,7 @@
    </mg>
 </e>
 <e>
-   <lg t1="М" t2="Ӧ" t3="С" uri="32288-m-ska-kuk-ya" id="32288"><l>мӧска-кукъя</l>
+   <lg t1="М" t2="Ӧ" t3="С" uri="32288-m-ska-kuk-ya" id="32288"><l pos="N">мӧска-кукъя</l>
        <l_var type="molodtsov-cyr">мӧска-кукја</l_var>
    </lg>
    <mg relId="0">
@@ -8174,7 +8175,7 @@
    </mg>
 </e>
 <e>
-   <lg t1="М" t2="Ӧ" t3="Т" uri="32319-m-tyr" id="32319"><l>мӧтыр</l>
+   <lg t1="М" t2="Ӧ" t3="Т" uri="32319-m-tyr" id="32319"><l pos="N">мӧтыр</l>
        <l_var type="molodtsov-cyr">мӧтыр</l_var>
    </lg>
    <mg relId="0">
@@ -8331,7 +8332,7 @@
    </mg>
 </e>
 <e>
-   <lg t1="Н" t2="А" t3="Б" uri="33422-naberezhn-ij" id="33422"><l>набережнӧй</l>
+   <lg t1="Н" t2="А" t3="Б" uri="33422-naberezhn-ij" id="33422"><l pos="N">набережнӧй</l>
        <l_var type="molodtsov-cyr">набережнӧј</l_var>
    </lg>
    <mg relId="0">
@@ -8342,7 +8343,7 @@
 </e>
 <e>
    <lg t1="Н" t2="А" t3="Д" uri="33506-nadz" id="33506">
-     <l hid="Hom1">надз</l>
+     <l hid="Hom1" pos="A">надз</l>
        <l_var type="molodtsov-cyr">наԇ</l_var>
    </lg>
    <mg relId="0">
@@ -8401,7 +8402,7 @@
    </mg>
 </e>
 <e>
-   <lg t1="Н" t2="А" t3="Ж" uri="33557-nazhyl-" id="33557"><l>нажыль</l>
+   <lg t1="Н" t2="А" t3="Ж" uri="33557-nazhyl-" id="33557"><l pos="N">нажыль</l>
        <l_var type="molodtsov-cyr">нажыԉ</l_var>
    </lg>
    <mg relId="0">
@@ -8411,7 +8412,7 @@
    </mg>
 </e>
 <e>
-   <lg t1="Н" t2="А" t3="Й" uri="33576-naijdysh" id="33576"><l>найдыш</l>
+   <lg t1="Н" t2="А" t3="Й" uri="33576-naijdysh" id="33576"><l pos="N">найдыш</l>
        <l_var type="molodtsov-cyr">најԁыш</l_var>
    </lg>
    <mg relId="0">
@@ -8429,7 +8430,7 @@
    </mg>
 </e>
 <e>
-   <lg t1="Н" t2="А" t3="Й" uri="33581-naij-s" id="33581"><l>найӧс</l>
+   <lg t1="Н" t2="А" t3="Й" uri="33581-naij-s" id="33581"><l pos="Pron">найӧс</l>
        <l_var type="molodtsov-cyr">најӧс</l_var>
    </lg>
    <mg relId="0">
@@ -8447,7 +8448,7 @@
    </mg>
 </e>
 <e>
-   <lg t1="Н" t2="А" t3="К" uri="33600-naklonenn-" id="33600"><l>наклоненньӧ</l>
+   <lg t1="Н" t2="А" t3="К" uri="33600-naklonenn-" id="33600"><l pos="N">наклоненньӧ</l>
        <l_var type="molodtsov-cyr">наклоԋеԋԋӧ</l_var>
    </lg>
    <mg relId="0" domain="grammar">
@@ -8461,7 +8462,7 @@
    </mg>
 </e>
 <e>
-   <lg t1="Н" t2="А" t3="К" uri="33605-nak-d" id="33605"><l>накӧд</l>
+   <lg t1="Н" t2="А" t3="К" uri="33605-nak-d" id="33605"><l pos="Pron">накӧд</l>
        <l_var type="molodtsov-cyr">накӧԁ</l_var>
    </lg>
    <mg relId="0">
@@ -8475,7 +8476,7 @@
    </mg>
 </e>
 <e>
-   <lg t1="Н" t2="А" t3="Л" uri="33615-nalador" id="33615"><l>наладор</l>
+   <lg t1="Н" t2="А" t3="Л" uri="33615-nalador" id="33615"><l pos="N">наладор</l>
        <l_var type="molodtsov-cyr">налаԁор</l_var>
    </lg>
    <mg relId="0"> <sg><s s_type="see">наладорӧ в 1 значении</s></sg>
@@ -8485,7 +8486,7 @@
    </mg>
 </e>
 <e>
-   <lg t1="Н" t2="А" t3="Л" uri="33624-nalan-" id="33624"><l>налань</l>
+   <lg t1="Н" t2="А" t3="Л" uri="33624-nalan-" id="33624"><l pos="Pron">налань</l>
        <l_var type="molodtsov-cyr">налаԋ</l_var>
    </lg>
    <mg relId="0">
@@ -8499,7 +8500,7 @@
    </mg>
 </e>
 <e>
-   <lg t1="Н" t2="А" t3="Л" uri="33646-naly" id="33646"><l>налы</l>
+   <lg t1="Н" t2="А" t3="Л" uri="33646-naly" id="33646"><l pos="Pron">налы</l>
        <l_var type="molodtsov-cyr">налы</l_var>
    </lg>
    <mg relId="0">
@@ -8513,7 +8514,7 @@
    </mg>
 </e>
 <e>
-   <lg t1="Н" t2="А" t3="Л" uri="33667-nalya" id="33667"><l>наля</l>
+   <lg t1="Н" t2="А" t3="Л" uri="33667-nalya" id="33667"><l pos="N">наля</l>
        <l_var type="molodtsov-cyr">наԉа</l_var>
    </lg>
    <mg relId="0"><strong>наля, нальӧ</strong><br />
@@ -8531,7 +8532,7 @@
    </mg>
 </e>
 <e>
-   <lg t1="Н" t2="А" t3="Л" uri="33645-nal-n" id="33645"><l>налӧн</l>
+   <lg t1="Н" t2="А" t3="Л" uri="33645-nal-n" id="33645"><l pos="Pron">налӧн</l>
        <l_var type="molodtsov-cyr">налӧн</l_var>
    </lg>
    <mg relId="0">
@@ -8562,7 +8563,7 @@
    </mg>
 </e>
 <e>
-   <lg t1="Н" t2="А" t3="М" uri="33670-namerenn-" id="33670"><l>намеренньӧ</l>
+   <lg t1="Н" t2="А" t3="М" uri="33670-namerenn-" id="33670"><l pos="N">намеренньӧ</l>
        <l_var type="molodtsov-cyr">намереԋԋӧ</l_var>
    </lg>
    <mg relId="0">
@@ -8572,7 +8573,7 @@
    </mg>
 </e>
 <e>
-   <lg t1="Н" t2="А" t3="Р" uri="33709-naradchik" id="33709"><l>нарадчик</l>
+   <lg t1="Н" t2="А" t3="Р" uri="33709-naradchik" id="33709"><l pos="N">нарадчик</l>
        <l_var type="molodtsov-cyr">наращік</l_var>
    </lg>
    <mg relId="0">
@@ -8593,7 +8594,7 @@
    </mg>
 </e>
 <e>
-   <lg t1="Н" t2="А" t3="Р" uri="33735-narodnos-t" id="33735"><l>народносьт</l>
+   <lg t1="Н" t2="А" t3="Р" uri="33735-narodnos-t" id="33735"><l pos="N">народносьт</l>
        <l_var type="molodtsov-cyr">нароԁноԍт</l_var>
    </lg>
    <mg relId="0">
@@ -8632,7 +8633,7 @@
    </mg>
 </e>
 <e>
-   <lg t1="Н" t2="А" t3="С" uri="33787-nastuplenn-" id="33787"><l>наступленньӧ</l>
+   <lg t1="Н" t2="А" t3="С" uri="33787-nastuplenn-" id="33787"><l pos="N">наступленньӧ</l>
        <l_var type="molodtsov-cyr">наступԉеԋԋӧ</l_var>
    </lg>
    <mg relId="0">
@@ -8646,7 +8647,7 @@
    </mg>
 </e>
 <e>
-   <lg t1="Н" t2="А" t3="Ч" uri="33814-nach" id="33814"><l>нач</l>
+   <lg t1="Н" t2="А" t3="Ч" uri="33814-nach" id="33814"><l pos="Adv">нач</l>
        <l_var type="molodtsov-cyr">нач</l_var>
    </lg>
    <mg relId="0">
@@ -8677,7 +8678,7 @@
    </mg>
 </e>
 <e>
-   <lg t1="Н" t2="А" t3="Ы" uri="33850-nayn" id="33850"><l>наын</l>
+   <lg t1="Н" t2="А" t3="Ы" uri="33850-nayn" id="33850"><l pos="Pron">наын</l>
        <l_var type="molodtsov-cyr">наын</l_var>
    </lg>
    <mg relId="0">
@@ -8691,7 +8692,7 @@
    </mg>
 </e>
 <e>
-   <lg t1="Н" t2="А" t3="Ӧ" uri="33691-na-dz" id="33691"><l>наӧдз</l>
+   <lg t1="Н" t2="А" t3="Ӧ" uri="33691-na-dz" id="33691"><l pos="Pron">наӧдз</l>
        <l_var type="molodtsov-cyr">наӧԇ</l_var>
    </lg>
    <mg relId="0">
@@ -8705,7 +8706,7 @@
    </mg>
 </e>
 <e>
-   <lg t1="Н" t2="Е" t3="Б" uri="33877-nebesa" id="33877"><l>небеса</l>
+   <lg t1="Н" t2="Е" t3="Б" uri="33877-nebesa" id="33877"><l pos="N">небеса</l>
        <l_var type="molodtsov-cyr">ԋебеса</l_var>
    </lg>
    <mg relId="0">
@@ -8731,7 +8732,7 @@
    </mg>
 </e>
 <e>
-   <lg t1="Н" t2="Е" t3="Б" uri="33898-neburinik" id="33898"><l>небуриник</l>
+   <lg t1="Н" t2="Е" t3="Б" uri="33898-neburinik" id="33898"><l pos="N">небуриник</l>
        <l_var type="molodtsov-cyr">ԋебуріԋік</l_var>
    </lg>
    <mg relId="0">
@@ -8745,7 +8746,7 @@
    </mg>
 </e>
 <e>
-   <lg t1="Н" t2="Е" t3="Г" uri="33970-negramotnos-t" id="33970"><l>неграмотносьт</l>
+   <lg t1="Н" t2="Е" t3="Г" uri="33970-negramotnos-t" id="33970"><l pos="N">неграмотносьт</l>
        <l_var type="molodtsov-cyr">ԋеграмотноԍт</l_var>
    </lg>
    <mg relId="0">
@@ -8759,7 +8760,7 @@
    </mg>
 </e>
 <e>
-   <lg t1="Н" t2="Е" t3="З" uri="34015-nezavisimos-t" id="34015"><l>независимосьт</l>
+   <lg t1="Н" t2="Е" t3="З" uri="34015-nezavisimos-t" id="34015"><l pos="N">независимосьт</l>
        <l_var type="molodtsov-cyr">ԋезавіԍімоԍт</l_var>
    </lg>
    <mg relId="0">
@@ -8769,7 +8770,7 @@
    </mg>
 </e>
 <e>
-   <lg t1="Н" t2="Е" t3="З" uri="34027-nezdorov-e" id="34027"><l>нездоровье</l>
+   <lg t1="Н" t2="Е" t3="З" uri="34027-nezdorov-e" id="34027"><l pos="N">нездоровье</l>
        <l_var type="molodtsov-cyr">ԋезԁоровјӧ</l_var>
    </lg>
    <mg relId="0">
@@ -8779,7 +8780,7 @@
    </mg>
 </e>
 <e>
-   <lg t1="Н" t2="Е" t3="К" uri="34049-nekodarsyan-" id="34049"><l>некодарсянь</l>
+   <lg t1="Н" t2="Е" t3="К" uri="34049-nekodarsyan-" id="34049"><l pos="Adv">некодарсянь</l>
        <l_var type="molodtsov-cyr">ԋекоԁарԍаԋ</l_var>
    </lg>
    <mg relId="0">
@@ -8798,7 +8799,7 @@
    </mg>
 </e>
 <e>
-   <lg t1="Н" t2="Е" t3="К" uri="34050-nekodaryn" id="34050"><l>некодарын</l>
+   <lg t1="Н" t2="Е" t3="К" uri="34050-nekodaryn" id="34050"><l pos="Adv">некодарын</l>
        <l_var type="molodtsov-cyr">ԋекоԁарын</l_var>
    </lg>
    <mg relId="0">
@@ -8812,7 +8813,7 @@
    </mg>
 </e>
 <e>
-   <lg t1="Н" t2="Е" t3="К" uri="34048-nekodar-" id="34048"><l>некодарӧ</l>
+   <lg t1="Н" t2="Е" t3="К" uri="34048-nekodar-" id="34048"><l pos="Adv">некодарӧ</l>
        <l_var type="molodtsov-cyr">ԋекоԁарӧ</l_var>
    </lg>
    <mg relId="0">
@@ -8826,7 +8827,7 @@
    </mg>
 </e>
 <e>
-   <lg t1="Н" t2="Е" t3="К" uri="34053-nekodk-d" id="34053"><l>некодкӧд</l>
+   <lg t1="Н" t2="Е" t3="К" uri="34053-nekodk-d" id="34053"><l pos="Pron">некодкӧд</l>
        <l_var type="molodtsov-cyr">ԋекоткӧԁ</l_var>
    </lg>
    <mg relId="0">
@@ -8849,7 +8850,7 @@
    </mg>
 </e>
 <e>
-   <lg t1="Н" t2="Е" t3="К" uri="34057-nekodly" id="34057"><l>некодлы</l>
+   <lg t1="Н" t2="Е" t3="К" uri="34057-nekodly" id="34057"><l pos="Pron">некодлы</l>
        <l_var type="molodtsov-cyr">ԋекоԁлы</l_var>
    </lg>
    <mg relId="0">
@@ -8876,7 +8877,7 @@
    </mg>
 </e>
 <e>
-   <lg t1="Н" t2="Е" t3="К" uri="34054-nekodl-n" id="34054"><l>некодлӧн</l>
+   <lg t1="Н" t2="Е" t3="К" uri="34054-nekodl-n" id="34054"><l pos="Pron">некодлӧн</l>
        <l_var type="molodtsov-cyr">ԋекоԁлӧн</l_var>
    </lg>
    <mg relId="0">
@@ -8890,7 +8891,7 @@
    </mg>
 </e>
 <e>
-   <lg t1="Н" t2="Е" t3="К" uri="34065-nekodsyan-" id="34065"><l>некодсянь</l>
+   <lg t1="Н" t2="Е" t3="К" uri="34065-nekodsyan-" id="34065"><l pos="Pron">некодсянь</l>
        <l_var type="molodtsov-cyr">ԋекотԍаԋ</l_var>
    </lg>
    <mg relId="0">
@@ -8905,7 +8906,7 @@
    </mg>
 </e>
 <e>
-   <lg t1="Н" t2="Е" t3="К" uri="34060-nekod-n" id="34060"><l>некодӧн</l>
+   <lg t1="Н" t2="Е" t3="К" uri="34060-nekod-n" id="34060"><l pos="Pron">некодӧн</l>
        <l_var type="molodtsov-cyr">ԋекоԁӧн</l_var>
    </lg>
    <mg relId="0">
@@ -8928,7 +8929,7 @@
    </mg>
 </e>
 <e>
-   <lg t1="Н" t2="Е" t3="К" uri="34062-nekod-s" id="34062"><l>некодӧс</l>
+   <lg t1="Н" t2="Е" t3="К" uri="34062-nekod-s" id="34062"><l pos="Pron">некодӧс</l>
        <l_var type="molodtsov-cyr">ԋекоԁӧс</l_var>
    </lg>
    <mg relId="0">
@@ -8955,7 +8956,7 @@
    </mg>
 </e>
 <e>
-   <lg t1="Н" t2="Е" t3="К" uri="34070-nekor" id="34070"><l>некор</l>
+   <lg t1="Н" t2="Е" t3="К" uri="34070-nekor" id="34070"><l pos="Adv">некор</l>
        <l_var type="molodtsov-cyr">ԋекор</l_var>
    </lg>
    <mg relId="0">
@@ -8990,7 +8991,7 @@
    </mg>
 </e>
 <e>
-   <lg t1="Н" t2="Е" t3="К" uri="34077-nekydz" id="34077"><l>некыдз</l>
+   <lg t1="Н" t2="Е" t3="К" uri="34077-nekydz" id="34077"><l pos="Adv">некыдз</l>
        <l_var type="molodtsov-cyr">ԋекыԇ</l_var>
    </lg>
    <mg relId="0">
@@ -9016,7 +9017,7 @@
    </mg>
 </e>
 <e>
-   <lg t1="Н" t2="Е" t3="К" uri="34084-nekymynlati" id="34084"><l>некымынлаті</l>
+   <lg t1="Н" t2="Е" t3="К" uri="34084-nekymynlati" id="34084"><l pos="Adv">некымынлаті</l>
        <l_var type="molodtsov-cyr">ԋекымынлаті</l_var>
    </lg>
    <mg relId="0"> <sg><s s_type="see">некымынлаын</s></sg>
@@ -9026,7 +9027,7 @@
    </mg>
 </e>
 <e>
-   <lg t1="Н" t2="Е" t3="К" uri="34085-nekymynlayn" id="34085"><l>некымынлаын</l>
+   <lg t1="Н" t2="Е" t3="К" uri="34085-nekymynlayn" id="34085"><l pos="Adv">некымынлаын</l>
        <l_var type="molodtsov-cyr">ԋекымынлаын</l_var>
    </lg>
    <mg relId="0">
@@ -9036,7 +9037,7 @@
    </mg>
 </e>
 <e>
-   <lg t1="Н" t2="Е" t3="К" uri="34082-nekymynla-" id="34082"><l>некымынлаӧ</l>
+   <lg t1="Н" t2="Е" t3="К" uri="34082-nekymynla-" id="34082"><l pos="Adv">некымынлаӧ</l>
        <l_var type="molodtsov-cyr">ԋекымынлаӧ</l_var>
    </lg>
    <mg relId="0">
@@ -9046,7 +9047,7 @@
    </mg>
 </e>
 <e>
-   <lg t1="Н" t2="Е" t3="К" uri="34099-nekyt-n" id="34099"><l>некытӧн</l>
+   <lg t1="Н" t2="Е" t3="К" uri="34099-nekyt-n" id="34099"><l pos="Adv">некытӧн</l>
        <l_var type="molodtsov-cyr">ԋекытӧн</l_var>
    </lg>
    <mg relId="0"> <sg><s s_type="see">некӧн</s></sg>
@@ -9060,7 +9061,7 @@
    </mg>
 </e>
 <e>
-   <lg t1="Н" t2="Е" t3="К" uri="34071-nek-n" id="34071"><l>некӧн</l>
+   <lg t1="Н" t2="Е" t3="К" uri="34071-nek-n" id="34071"><l pos="Adv">некӧн</l>
        <l_var type="molodtsov-cyr">ԋекӧн</l_var>
    </lg>
    <mg relId="0">
@@ -9165,7 +9166,7 @@
    </mg>
 </e>
 <e>
-   <lg t1="Н" t2="Е" t3="У" uri="34267-neuna" id="34267"><l>неуна</l>
+   <lg t1="Н" t2="Е" t3="У" uri="34267-neuna" id="34267"><l pos="Adv">неуна</l>
        <l_var type="molodtsov-cyr">ԋеуна</l_var>
    </lg>
    <mg relId="0">
@@ -9229,7 +9230,7 @@
    </mg>
 </e>
 <e>
-   <lg t1="Н" t2="Е" t3="У" uri="34270-neuna-n" id="34270"><l>неунаӧн</l>
+   <lg t1="Н" t2="Е" t3="У" uri="34270-neuna-n" id="34270"><l pos="Adv">неунаӧн</l>
        <l_var type="molodtsov-cyr">ԋеунаӧн</l_var>
    </lg>
    <mg relId="0">
@@ -9265,7 +9266,7 @@
    </mg>
 </e>
 <e>
-   <lg t1="Н" t2="Е" t3="Ы" uri="34288-neylyn" id="34288"><l>неылын</l>
+   <lg t1="Н" t2="Е" t3="Ы" uri="34288-neylyn" id="34288"><l pos="Adv">неылын</l>
        <l_var type="molodtsov-cyr">ԋеылын</l_var>
    </lg>
    <mg relId="0">
@@ -9283,7 +9284,7 @@
    </mg>
 </e>
 <e>
-   <lg t1="Н" t2="Е" t3="Ы" uri="34283-neylisa" id="34283"><l>неыліса</l>
+   <lg t1="Н" t2="Е" t3="Ы" uri="34283-neylisa" id="34283"><l pos="A">неыліса</l>
        <l_var type="molodtsov-cyr">ԋеыліса</l_var>
    </lg>
    <mg relId="0">
@@ -9293,7 +9294,7 @@
    </mg>
 </e>
 <e>
-   <lg t1="Н" t2="Е" t3="Ы" uri="34287-neyl-" id="34287"><l>неылӧ</l>
+   <lg t1="Н" t2="Е" t3="Ы" uri="34287-neyl-" id="34287"><l pos="Adv">неылӧ</l>
        <l_var type="molodtsov-cyr">ԋеылӧ</l_var>
    </lg>
    <mg relId="0">
@@ -9385,7 +9386,7 @@
    </mg>
 </e>
 <e>
-   <lg t1="Н" t2="И" t3="А" uri="34473-nia" id="34473"><l>ниа</l>
+   <lg t1="Н" t2="И" t3="А" uri="34473-nia" id="34473"><l pos="N">ниа</l>
        <l_var type="molodtsov-cyr">ԋіа</l_var>
    </lg>
    <mg relId="0">
