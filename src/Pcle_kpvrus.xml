@@ -700,7 +700,7 @@
 </e>
 <e>
    <lg t1="А" t2="Л" t3="И" uri="450-ali" id="450">
-     <l hid="Hom3">али</l>
+     <l hid="Hom3" pos="Pcle" type="Qst">али</l>
        <l_var type="molodtsov-cyr">aԉі</l_var>
    </lg>
    <mg relId="0">
@@ -821,12 +821,12 @@
 </e>
 <e>
    <lg t1="Б" t2="Ы" t3="Д" uri="4104-byd-n" id="4104">
-     <l hid="Hom2">быдӧн</l>
+     <l hid="Hom2" pos="Pcle">быдӧн</l>
        <l_var type="molodtsov-cyr">быԁӧн</l_var>
    </lg>
    <mg relId="0">
      <tg xml:lang="rus">
-       <t pos="Pcle"> даже</t>
+       <t pos="Pcle">даже</t>
      </tg>
      <xg>
        <x>гӧрдӧдӧма чужӧмыс быдӧн</x>

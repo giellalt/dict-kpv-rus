@@ -2397,7 +2397,7 @@
 </e>
 <e>
    <lg t1="А" t2="Д" t3="Ӧ" uri="281-ad-ij" id="281">
-     <l hid="Hom2">адӧй</l>
+     <l hid="Hom2" pos="Interj">адӧй</l>
        <l_var type="molodtsov-cyr">aԁӧј</l_var>
    </lg>
    <mg> <rg><r range_space="dialect"/></rg>
@@ -2586,7 +2586,7 @@
 </e>
 <e>
    <lg t1="К" t2="И" t3="С" uri="21432-kis-" id="21432">
-     <l hid="Hom2">кись</l>
+     <l hid="Hom2" pos="Interj">кись</l>
        <l_var type="molodtsov-cyr">кіԍ</l_var>
    </lg>
    <mg>
@@ -2597,7 +2597,7 @@
 </e>
 <e>
    <lg t1="К" t2="О" t3="Т" uri="23503-kot" id="23503">
-     <l hid="Hom1">кот</l>
+     <l hid="Hom1" pos="Interj">кот</l>
        <l_var type="molodtsov-cyr">кот</l_var>
    </lg>
    <mg>
@@ -2612,7 +2612,7 @@
 </e>
 <e>
    <lg t1="К" t2="У" t3="А" uri="25009-kua" id="25009">
-     <l hid="Hom2">куа</l>
+     <l hid="Hom2" pos="Interj">куа</l>
        <l_var type="molodtsov-cyr">куа</l_var>
    </lg>
    <mg>
@@ -2623,7 +2623,7 @@
 </e>
 <e>
    <lg t1="К" t2="Ы" t3="С" uri="27117-kys-" id="27117">
-     <l hid="Hom2">кысь</l>
+     <l hid="Hom2" pos="Interj">кысь</l>
        <l_var type="molodtsov-cyr">кыԍ</l_var>
    </lg>
    <mg> <sg><s s_type="see">кись Ⅱ</s></sg>
@@ -2672,7 +2672,7 @@
 </e>
 <e>
    <lg t1="О" t2="Й" t3="" uri="36395-oij" id="36395">
-     <l hid="Hom1">ой</l>
+     <l hid="Hom1" pos="Interj">ой</l>
        <l_var type="molodtsov-cyr">ој</l_var>
    </lg>
    <mg>
@@ -2695,7 +2695,7 @@
 </e>
 <e>
    <lg t1="О" t2="К" t3="" uri="36469-ok" id="36469">
-     <l hid="Hom1">ок</l>
+     <l hid="Hom1" pos="Interj">ок</l>
        <l_var type="molodtsov-cyr">ок</l_var>
    </lg>
    <mg>
@@ -2742,7 +2742,7 @@
 </e>
 <e>
    <lg t1="Т" t2="О" t3="Р" uri="52318-tork" id="52318">
-     <l hid="Hom2">торк</l>
+     <l hid="Hom2" pos="Interj">торк</l>
        <l_var type="molodtsov-cyr">торк</l_var>
    </lg>
    <mg>
@@ -2757,7 +2757,7 @@
 </e>
 <e>
    <lg t1="У" t2="Р" t3="А" uri="56271-ura" id="56271">
-     <l hid="Hom3">ура</l>
+     <l hid="Hom3" pos="Interj">ура</l>
        <l_var type="molodtsov-cyr">ура</l_var>
    </lg>
    <mg>
@@ -2772,7 +2772,7 @@
 </e>
 <e>
    <lg t1="Ч" t2="Ӧ" t3="В" uri="58543-ch-v" id="58543">
-     <l hid="Hom2">чӧв</l>
+     <l hid="Hom2" pos="Interj">чӧв</l>
        <l_var type="molodtsov-cyr">чӧв</l_var>
    </lg>
    <mg>
@@ -2787,7 +2787,7 @@
 </e>
 <e>
    <lg t1="Ш" t2="В" t3="А" uri="59968-shvach" id="59968">
-     <l hid="Hom2">швач</l>
+     <l hid="Hom2" pos="Interj">швач</l>
        <l_var type="molodtsov-cyr">швач</l_var>
    </lg>
    <mg>
