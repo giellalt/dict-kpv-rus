@@ -37273,5 +37273,1251 @@
      </xg>
    </mg>
 </e>
+<e>
+   <lg t1="К" t2="О" t3="П" uri="23023-kopyra" id="23023">
+     <l pos="Adv">копыра</l>
+       <l_var type="molodtsov-cyr">копыра</l_var>
+   </lg>
+   <mg relId="0">
+     <tg xml:lang="rus">
+       <t>с поклоном</t>
+     </tg>
+     <xg>
+       <x>копыра аттьӧ</x>
+       <xt xml:lang="rus">благодарность с поклоном</xt>
+     </xg>
+   </mg>
+   <mg relId="1">
+     <tg xml:lang="rus">
+       <t>наклонившийся, наклонённый; с наклоном; склонённый</t>
+     </tg>
+     <xg>
+       <x>копыра бадь</x>
+       <xt xml:lang="rus">наклонившаяся ива</xt>
+     </xg>
+     <xg>
+       <x>копыра юрӧн</x>
+       <xt xml:lang="rus">со склонённой головой</xt>
+     </xg>
+     <xg>
+       <x>копыра кутны юр</x>
+       <xt xml:lang="rus">держать голову в наклонном положении</xt>
+     </xg>
+   </mg>
+</e>
+<e>
+   <lg t1="К" t2="О" t3="П" uri="23030-kopyr-n" id="23030">
+     <l pos="Adv">копырӧн</l>
+       <l_var type="molodtsov-cyr">копырӧн</l_var>
+   </lg>
+   <mg relId="0">
+     <tg xml:lang="rus">
+       <t>наклонившись, нагнувшись, согнувшись; склонившись; наклонно; в наклонном положении</t>
+     </tg>
+     <xg>
+       <x>муӧдз копырӧн мунны</x>
+       <xt xml:lang="rus">идти, нагнувшись до земли</xt>
+     </xg>
+     <xg>
+       <x>копырӧн котӧртны туй вомӧн</x>
+       <xt xml:lang="rus">перебежать дорогу нагнувшись</xt>
+     </xg>
+   </mg>
+</e>
+<e>
+   <lg t1="К" t2="О" t3="Р" uri="23129-kor-nibud-" id="23129">
+     <l pos="Adv">кор-нибудь</l>
+       <l_var type="molodtsov-cyr">кор-ԋібуԃ</l_var>
+   </lg>
+   <mg relId="0">
+     <tg xml:lang="rus">
+       <t>когда-нибудь</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg t1="К" t2="О" t3="Р" uri="23106-kork-kork-" id="23106">
+     <l pos="Adv">коркӧ-коркӧ</l>
+       <l_var type="molodtsov-cyr">коркӧ-коркӧ</l_var>
+   </lg>
+   <mg relId="0">
+     <tg xml:lang="rus">
+       <t>изредка</t>
+     </tg>
+     <xg>
+       <x>коркӧ-коркӧ пырыштлыны на ордӧ</x>
+       <xt xml:lang="rus">изредка заходить к ним</xt>
+     </xg>
+   </mg>
+</e>
+<e>
+   <lg t1="К" t2="О" t3="Р" uri="23107-kork-nekork-" id="23107">
+     <l pos="Adv">коркӧ-некоркӧ</l>
+       <l_var type="molodtsov-cyr">коркӧ-ԋекоркӧ</l_var>
+   </lg>
+   <mg relId="0">
+     <tg xml:lang="rus">
+       <t>спустя много времени; рано ли поздно ли; долго ли коротко ли; со временем</t>
+     </tg>
+     <xg>
+       <x>коркӧ-некоркӧ сыліс жӧ лымйыс</x>
+       <xt xml:lang="rus">рано ли поздно ли, снег всё же растаял</xt>
+     </xg>
+     <xg>
+       <x>коркӧ-некоркӧ югдас ставыс</x>
+       <xt xml:lang="rus">со временем всё станет ясно</xt>
+     </xg>
+   </mg>
+</e>
+<e>
+   <lg t1="К" t2="О" t3="Р" uri="23115-kork-yas-" id="23115">
+     <l pos="Adv">коркӧясӧ</l>
+       <l_var type="molodtsov-cyr">коркӧјасӧ</l_var>
+   </lg>
+   <mg relId="0">
+     <tg xml:lang="rus">
+       <t>временами, иногда; кое-когда</t>
+     </tg>
+     <xg>
+       <x>коркӧясӧ ветлыны вӧрӧ</x>
+       <xt xml:lang="rus">иногда ходить в лес</xt>
+     </xg>
+   </mg>
+</e>
+<e>
+   <lg t1="К" t2="О" t3="Р" uri="23235-korsyan-" id="23235">
+     <l pos="Adv">корсянь</l>
+       <l_var type="molodtsov-cyr">корԍаԋ</l_var>
+   </lg>
+   <mg relId="0">
+     <tg xml:lang="rus">
+       <t>с каких пор, с какого времени</t>
+     </tg>
+     <xg>
+       <x>корсянь тэ тані?</x>
+       <xt xml:lang="rus">с каких пор ты здесь?</xt>
+     </xg>
+   </mg>
+</e>
+<e>
+   <lg t1="К" t2="О" t3="Р" uri="23236-korsyan-k-" id="23236">
+     <l pos="Adv">корсянькӧ</l>
+       <l_var type="molodtsov-cyr">корԍаԋкӧ</l_var>
+   </lg>
+   <mg relId="0">
+     <tg xml:lang="rus">
+       <t>с некоторых пор</t>
+     </tg>
+     <xg>
+       <x>корсянькӧ лои тӧдмалӧма</x>
+       <xt xml:lang="rus">с некоторых пор стало известно</xt>
+     </xg>
+   </mg>
+</e>
+<e>
+   <lg t1="К" t2="О" t3="Р" uri="23251-kor-yas-" id="23251">
+     <l pos="Adv">коръясӧ</l>
+       <l_var type="molodtsov-cyr">корјасӧ</l_var>
+   </lg>
+   <mg relId="0">
+     <tg xml:lang="rus">
+       <t>когда, в какие времена</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg t1="К" t2="О" t3="Р" uri="23254-kor-yas-k-" id="23254">
+     <l pos="Adv">коръясӧкӧ</l>
+       <l_var type="molodtsov-cyr">корјасӧкӧ</l_var>
+   </lg>
+   <mg relId="0">
+     <tg xml:lang="rus">
+       <t>кое-когда; иногда, иной раз</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg t1="К" t2="О" t3="С" uri="23373-kosti" id="23373">
+     <l pos="Adv">кості</l>
+       <l_var type="molodtsov-cyr">кості</l_var>
+   </lg>
+   <mg relId="0">
+     <tg xml:lang="rus">
+       <t>раньше времени, преждевременно</t>
+     </tg>
+     <xg>
+       <x>кості кувны</x>
+       <xt xml:lang="rus">преждевременно умереть</xt>
+     </xg>
+     <xg>
+       <x>кості пӧрысьмыны</x>
+       <xt xml:lang="rus">преждевременно состариться</xt>
+     </xg>
+     <xg>
+       <x>сы кості, та кості</x>
+       <xt xml:lang="rus">а) так быстро, так скоро</xt>
+       <xt xml:lang="rus">б) за это время</xt>
+     </xg>
+     <xg>
+       <x>сэк кості</x>
+       <xt xml:lang="rus">тем временем</xt>
+     </xg>
+   </mg>
+</e>
+<e>
+   <lg t1="К" t2="У" t3="Т" uri="25973-kutsh-mak-" id="25973">
+     <l pos="Adv">кутшӧмакӧ</l>
+       <l_var type="molodtsov-cyr">кущӧмакӧ</l_var>
+   </lg>
+   <mg relId="0">
+     <tg xml:lang="rus">
+       <t>как-то, каким-то образом</t>
+     </tg>
+     <xg>
+       <x>быд морт кутшӧмакӧ асруа</x>
+       <xt xml:lang="rus">каждый человек своеобразен</xt>
+     </xg>
+     <xg>
+       <x>кутшӧмакӧ колӧ петкӧдлыны ӧнія олӧмсӧ</x>
+       <xt xml:lang="rus">нужно как-то показать современную жизнь</xt>
+     </xg>
+   </mg>
+</e>
+<e>
+   <lg t1="К" t2="У" t3="Т" uri="25975-kutsh-mas-k-" id="25975">
+     <l pos="Adv">кутшӧмасӧкӧ</l>
+       <l_var type="molodtsov-cyr">кущӧмасӧкӧ</l_var>
+   </lg>
+   <mg relId="0"> <sg><s s_type="see">кутшӧмакӧ</s></sg>
+     <tg xml:lang="rus">
+       <t></t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg t1="К" t2="У" t3="Т" uri="25976-kutsh-mdzhyk" id="25976">
+     <l pos="Adv">кутшӧмджык</l>
+       <l_var type="molodtsov-cyr">кущӧмҗык</l_var>
+   </lg>
+   <mg relId="0">
+     <tg xml:lang="rus">
+       <t>какой, каков || как, каково</t>
+     </tg>
+     <xg>
+       <x>кутшӧмджык дӧра тэныд колӧ?</x>
+       <xt xml:lang="rus">какой материал тебе нужен?</xt>
+     </xg>
+     <xg>
+       <x>кутшӧмджык тані овны?</x>
+       <xt xml:lang="rus">как здесь живётся?</xt>
+     </xg>
+     <xg>
+       <x>чужӧм вылас кутшӧмджык?</x>
+       <xt xml:lang="rus">каков он собой?</xt>
+     </xg>
+   </mg>
+</e>
+<e>
+   <lg t1="К" t2="У" t3="Т" uri="25978-kutsh-mdzhyka" id="25978">
+     <l pos="Adv">кутшӧмджыка</l>
+       <l_var type="molodtsov-cyr">кущӧмҗыка</l_var>
+   </lg>
+   <mg relId="0">
+     <tg xml:lang="rus">
+       <t>как, каково</t>
+     </tg>
+     <xg>
+       <x>кутшӧмджыка видзӧны?</x>
+       <xt xml:lang="rus">как охраняют?</xt>
+     </xg>
+     <xg>
+       <x>кутшӧмджыка тані вердӧны?</x>
+       <xt xml:lang="rus">как здесь кормят?</xt>
+     </xg>
+   </mg>
+</e>
+<e>
+   <lg t1="К" t2="У" t3="Ш" uri="26089-kush-dz" id="26089">
+     <l pos="Adv">кушӧдз</l>
+       <l_var type="molodtsov-cyr">кушӧԇ</l_var>
+   </lg>
+   <mg relId="0">
+     <tg xml:lang="rus">
+       <t>догола, наголо</t>
+     </tg>
+     <xg>
+       <x>юр шырны кушӧдз</x>
+       <xt xml:lang="rus">остричь голову наголо</xt>
+     </xg>
+   </mg>
+   <mg relId="1">
+     <tg xml:lang="rus">
+       <t>дочиста, без остатка, до дна, до основания</t>
+     </tg>
+     <xg>
+       <x>кушӧдз сёйны</x>
+       <xt xml:lang="rus">дочиста съесть</xt>
+     </xg>
+   </mg>
+   <mg relId="2">
+     <tg xml:lang="rus">
+       <t>дотла</t>
+     </tg>
+     <xg>
+       <x>кушӧдз ворссьыны</x>
+       <xt xml:lang="rus">дотла проиграть</xt>
+     </xg>
+     <xg>
+       <x>кушӧдз сотчыны</x>
+       <xt xml:lang="rus">дотла сгореть</xt>
+     </xg>
+   </mg>
+</e>
+<e>
+   <lg t1="К" t2="У" t3="Ш" uri="26099-kush-n" id="26099">
+     <l pos="Adv">кушӧн</l>
+       <l_var type="molodtsov-cyr">кушӧн</l_var>
+   </lg>
+   <mg relId="0">
+     <tg xml:lang="rus">
+       <t>порожняком; налегке</t>
+     </tg>
+     <xg>
+       <x>ветлыны кушӧн</x>
+       <xt xml:lang="rus">ездить налегке</xt>
+     </xg>
+     <xg>
+       <x>кушӧн мунны</x>
+       <xt xml:lang="rus">а) ехать порожняком</xt>
+       <xt xml:lang="rus">б) идти налегке</xt>
+     </xg>
+   </mg>
+   <mg relId="1">
+     <tg xml:lang="rus">
+       <t>вхолостую</t>
+     </tg>
+     <xg>
+       <x>кушӧн бергавны</x>
+       <xt xml:lang="rus">вращаться вхолостую</xt>
+     </xg>
+   </mg>
+</e>
+<e>
+   <lg t1="К" t2="Ы" t3="Д" uri="26353-kydzdzhyk" id="26353">
+     <l pos="Adv">кыдзджык</l>
+       <l_var type="molodtsov-cyr">кыԇҗык</l_var>
+   </lg>
+   <mg relId="0"> <sg><s s_type="see">кыдзиджык</s></sg>
+     <tg xml:lang="rus">
+       <t></t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg t1="К" t2="Ы" t3="Д" uri="26356-kydzi" id="26356">
+     <l pos="Adv">кыдзи</l>
+       <l_var type="molodtsov-cyr">кыԇі</l_var>
+   </lg>
+   <mg relId="0"> <sg><s s_type="see">кыдз Ⅱ</s></sg>
+     <tg xml:lang="rus">
+       <t></t>
+     </tg>
+     <xg>
+       <x>видзӧдны, кыдзи ва вылын разалӧны кытшъяс</x>
+       <xt xml:lang="rus">смотреть, как на воде расходятся круги</xt>
+     </xg>
+     <xg>
+       <x>кыдзи нӧ ме верма тэныд эскыны?</x>
+       <xt xml:lang="rus">как же я могу тебе верить?</xt>
+     </xg>
+     <xg>
+       <x>кӧть сэсся кыдзи ов</x>
+       <xt xml:lang="rus">хоть как живи</xt>
+     </xg>
+     <xg>
+       <x>кыдзи олан-вылан?</x>
+       <xt xml:lang="rus">как поживаешь?</xt>
+     </xg>
+   </mg>
+</e>
+<e>
+   <lg t1="К" t2="Ы" t3="Д" uri="26367-kydzi-myij" id="26367">
+     <l pos="Adv">кыдзи-мый</l>
+       <l_var type="molodtsov-cyr">кыԇі-мыј</l_var>
+   </lg>
+   <mg relId="0">
+     <tg xml:lang="rus">
+       <t>как, каким образом</t>
+     </tg>
+     <xg>
+       <x>кыдзи-мый висьталіс</x>
+       <xt xml:lang="rus">как рассказал</xt>
+     </xg>
+     <xg>
+       <x>кыдзи-мый верман</x>
+       <xt xml:lang="rus">всемерно</xt>
+     </xg>
+   </mg>
+</e>
+<e>
+   <lg t1="К" t2="Ы" t3="Д" uri="26359-kydzidzhyk" id="26359">
+     <l pos="Adv">кыдзиджык</l>
+       <l_var type="molodtsov-cyr">кыԇіҗык</l_var>
+   </lg>
+   <mg relId="0">
+     <tg xml:lang="rus">
+       <t>как именно</t>
+     </tg>
+     <xg>
+       <x>висьталышта, кыдзиджык тайӧ лои</x>
+       <xt xml:lang="rus">расскажу немножко, как именно это произошло</xt>
+     </xg>
+     <xg>
+       <x>кыдзиджык сійӧ уджалӧ</x>
+       <xt xml:lang="rus">как именно он работает</xt>
+     </xg>
+   </mg>
+</e>
+<e>
+   <lg t1="К" t2="Ы" t3="Д" uri="26364-kydzik-n" id="26364">
+     <l pos="Adv">кыдзикӧн</l>
+       <l_var type="molodtsov-cyr">кыԇікӧн</l_var>
+   </lg>
+   <mg relId="0"><strong>кыдзикӧн, кыдзик</strong><br />
+     <tg xml:lang="rus">
+       <t>как, каким образом</t>
+     </tg>
+     <xg>
+       <x>кыдзикӧн кага вермис усьны потанысь?</x>
+       <xt xml:lang="rus">каким образом ребёнок мог выпасть из люльки?</xt>
+     </xg>
+   </mg>
+</e>
+<e>
+   <lg t1="К" t2="Ы" t3="Д" uri="26375-kydzsyur-" id="26375">
+     <l pos="Adv">кыдзсюрӧ</l>
+       <l_var type="molodtsov-cyr">кычԍурӧ</l_var>
+   </lg>
+   <mg relId="0">
+     <tg xml:lang="rus">
+       <t>кое-как, небрежно; как попало <acronym title="разговорное"><em>разг.</em></acronym></t>
+     </tg>
+     <xg>
+       <x>кыдзсюрӧ вӧчӧма</x>
+       <xt xml:lang="rus">сделано кое-как</xt>
+     </xg>
+     <xg>
+       <x>лыйсисны кыдзсюрӧ</x>
+       <xt xml:lang="rus">стреляли как попало</xt>
+     </xg>
+   </mg>
+</e>
+<e>
+   <lg t1="К" t2="Ы" t3="З" uri="26402-kyzvyij-" id="26402">
+     <l pos="Adv">кызвыйӧ</l>
+       <l_var type="molodtsov-cyr">кызвыјӧ</l_var>
+   </lg>
+   <mg relId="0">
+     <tg xml:lang="rus">
+       <t>в основном</t>
+     </tg>
+     <xg>
+       <x>лымйыс кызвыйӧ сыліс</x>
+       <xt xml:lang="rus">снег в основном растаял</xt>
+     </xg>
+     <xg>
+       <x>кызвыйӧ эштӧдны</x>
+       <xt xml:lang="rus">в основном закончить</xt>
+     </xg>
+   </mg>
+</e>
+<e>
+   <lg t1="К" t2="Ы" t3="К" uri="26573-kyklati" id="26573">
+     <l pos="Adv">кыклаті</l>
+       <l_var type="molodtsov-cyr">кыклаті</l_var>
+   </lg>
+   <mg relId="0">
+     <tg xml:lang="rus">
+       <t>в двух местах</t>
+     </tg>
+     <xg>
+       <x>кыклаті вундыны</x>
+       <xt xml:lang="rus">отрезать в двух местах</xt>
+     </xg>
+     <xg>
+       <x>кыклаті орӧдны</x>
+       <xt xml:lang="rus">порвать в двух местах</xt>
+     </xg>
+   </mg>
+</e>
+<e>
+   <lg t1="К" t2="Ы" t3="К" uri="26576-kyklayn" id="26576">
+     <l pos="Adv">кыклаын</l>
+       <l_var type="molodtsov-cyr">кыклаын</l_var>
+   </lg>
+   <mg relId="0">
+     <tg xml:lang="rus">
+       <t>в двух местах</t>
+     </tg>
+     <xg>
+       <x>кыклаын лыддьысьны</x>
+       <xt xml:lang="rus">числиться в двух местах</xt>
+     </xg>
+     <xg>
+       <x>кыклаын овны</x>
+       <xt xml:lang="rus">жить в двух местах</xt>
+     </xg>
+   </mg>
+</e>
+<e>
+   <lg t1="К" t2="Ы" t3="К" uri="26626-kykys-n" id="26626">
+     <l pos="Adv">кыкысьӧн</l>
+       <l_var type="molodtsov-cyr">кыкыԍӧн</l_var>
+   </lg>
+   <mg relId="0">
+     <tg xml:lang="rus">
+       <t>за два раза; в два приёма</t>
+     </tg>
+     <xg>
+       <x>кыкысьӧн вайны</x>
+       <xt xml:lang="rus">принести за два раза</xt>
+     </xg>
+   </mg>
+</e>
+<e>
+   <lg t1="К" t2="Ы" t3="К" uri="26600-kyk-n" id="26600">
+     <l pos="Adv">кыкӧн</l>
+       <l_var type="molodtsov-cyr">кыкӧн</l_var>
+   </lg>
+   <mg relId="0">
+     <tg xml:lang="rus">
+       <t>вдвоём</t>
+     </tg>
+     <xg>
+       <x>кыкӧн мунны</x>
+       <xt xml:lang="rus">вдвоём идти</xt>
+     </xg>
+   </mg>
+</e>
+<e>
+   <lg t1="К" t2="Ы" t3="С" uri="27107-kyssyur-" id="27107">
+     <l pos="Adv">кыссюрӧ</l>
+       <l_var type="molodtsov-cyr">кыԍԍурӧ</l_var>
+   </lg>
+   <mg relId="0">
+     <tg xml:lang="rus">
+       <t>откуда-либо, откуда-нибудь; где-либо; где-нибудь; где попало</t>
+     </tg>
+     <xg>
+       <x>кыссюрӧ босьтны оз ков</x>
+       <xt xml:lang="rus">не надо брать где попало</xt>
+     </xg>
+   </mg>
+</e>
+<e>
+   <lg t1="К" t2="Ы" t3="С" uri="27118-kys-k-" id="27118">
+     <l pos="Adv">кыськӧ</l>
+       <l_var type="molodtsov-cyr">кыԍкӧ</l_var>
+   </lg>
+   <mg relId="0">
+     <tg xml:lang="rus">
+       <t>откуда-то</t>
+     </tg>
+     <xg>
+       <x>кыськӧ ылысь босьтны</x>
+       <xt xml:lang="rus">взять откуда-то издалека</xt>
+     </xg>
+   </mg>
+   <mg relId="1">
+     <tg xml:lang="rus">
+       <t>откуда-нибудь</t>
+     </tg>
+     <xg>
+       <x>кыськӧ колӧ судзӧдны</x>
+       <xt xml:lang="rus">откуда-нибудь надо достать</xt>
+     </xg>
+   </mg>
+   <mg relId="2">
+     <tg xml:lang="rus">
+       <t>где-то</t>
+     </tg>
+     <xg>
+       <x>кыськӧ босьтӧма</x>
+       <xt xml:lang="rus">где-то раздобыл</xt>
+     </xg>
+   </mg>
+   <mg relId="3">
+     <tg xml:lang="rus">
+       <t>где-нибудь</t>
+     </tg>
+     <xg>
+       <x>кыськӧ корсян</x>
+       <xt xml:lang="rus">где-нибудь найдёшь</xt>
+     </xg>
+     <xg>
+       <x>◊ кыськӧ тай эм!</x>
+       <xt xml:lang="rus">вон ведь какой!</xt>
+     </xg>
+   </mg>
+</e>
+<e>
+   <lg t1="К" t2="Ы" t3="С" uri="27127-kysyan-" id="27127">
+     <l pos="Adv">кысянь</l>
+       <l_var type="molodtsov-cyr">кыԍаԋ</l_var>
+   </lg>
+   <mg relId="0">
+     <tg xml:lang="rus">
+       <t>откуда; с какой стороны</t>
+     </tg>
+     <xg>
+       <x>кысянь воис?</x>
+       <xt xml:lang="rus">откуда пришёл?</xt>
+     </xg>
+     <xg>
+       <x>талун кысянь тӧлыс?</x>
+       <xt xml:lang="rus">откуда, с какой стороны сегодня ветер?</xt>
+     </xg>
+   </mg>
+</e>
+<e>
+   <lg t1="К" t2="Ы" t3="С" uri="27130-kysyan-k-" id="27130">
+     <l pos="Adv">кысянькӧ</l>
+       <l_var type="molodtsov-cyr">кыԍаԋкӧ</l_var>
+   </lg>
+   <mg relId="0">
+     <tg xml:lang="rus">
+       <t>откуда-то</t>
+     </tg>
+     <xg>
+       <x>кысянькӧ ылісянь</x>
+       <xt xml:lang="rus">откуда-то издалека</xt>
+     </xg>
+     <xg>
+       <x>кысянькӧ ывла вывсянь</x>
+       <xt xml:lang="rus">откуда-то с улицы</xt>
+     </xg>
+   </mg>
+</e>
+<e>
+   <lg t1="К" t2="Ы" t3="Т" uri="27136-kytk-" id="27136">
+     <l pos="Adv">кыткӧ</l>
+       <l_var type="molodtsov-cyr">кыткӧ</l_var>
+   </lg>
+   <mg relId="0"> <sg><s s_type="see">кытікӧ</s></sg>
+     <tg xml:lang="rus">
+       <t></t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg t1="К" t2="Ы" t3="Т" uri="27149-kytsyur-" id="27149">
+     <l pos="Adv">кытсюрӧ</l>
+       <l_var type="molodtsov-cyr">кытԍурӧ</l_var>
+   </lg>
+   <mg relId="0">
+     <tg xml:lang="rus">
+       <t>кое-где; местами</t>
+     </tg>
+     <xg>
+       <x>кытсюрӧ вурышті</x>
+       <xt xml:lang="rus">кое-где подшил</xt>
+     </xg>
+     <xg>
+       <x>додьсӧ кытсюрӧ колӧ дзоньтавны</x>
+       <xt xml:lang="rus">сани кое-где следует починить</xt>
+     </xg>
+     <xg>
+       <x>кытсюрӧ киссьӧма</x>
+       <xt xml:lang="rus">кое-где износилось</xt>
+     </xg>
+     <xg>
+       <x>кытсюрӧ талун зэрис</x>
+       <xt xml:lang="rus">местами сегодня прошёл дождь</xt>
+     </xg>
+   </mg>
+</e>
+<e>
+   <lg t1="К" t2="Ы" t3="Т" uri="27153-kytchan-" id="27153">
+     <l pos="Adv">кытчаньӧ</l>
+       <l_var type="molodtsov-cyr">кыччаԋӧ</l_var>
+   </lg>
+   <mg relId="0"><strong>кытчаньӧ, кытчань</strong><br />
+     <tg xml:lang="rus">
+       <t>в какую сторону; куда</t>
+     </tg>
+     <xg>
+       <x>кытчаньӧ колӧ пӧрӧдны пусӧ</x>
+       <xt xml:lang="rus">в какую сторону надо повалить дерево</xt>
+     </xg>
+   </mg>
+</e>
+<e>
+   <lg t1="К" t2="Ы" t3="Т" uri="27156-kytch-" id="27156">
+     <l pos="Adv">кытчӧ</l>
+       <l_var type="molodtsov-cyr">кыччӧ</l_var>
+   </lg>
+   <mg relId="0">
+     <tg xml:lang="rus">
+       <t>куда</t>
+     </tg>
+     <xg>
+       <x>кытчӧ веськалӧ</x>
+       <xt xml:lang="rus">куда попало</xt>
+     </xg>
+     <xg>
+       <x>кытчӧ гажыд</x>
+       <xt xml:lang="rus">куда угодно</xt>
+     </xg>
+     <xg>
+       <x>кӧть кытчӧ</x>
+       <xt xml:lang="rus">хоть куда</xt>
+     </xg>
+     <xg>
+       <x>кытчӧ син видзӧдӧ</x>
+       <xt xml:lang="rus">куда глаза глядят</xt>
+     </xg>
+     <xg>
+       <x>кытчӧ сьӧлӧм лэбзьӧ, сэтчӧ син пышйӧ</x>
+       <xt xml:lang="rus">куда сердце летит, туда око бежит</xt>
+     </xg>
+   </mg>
+   <mg relId="1">
+     <tg xml:lang="rus">
+       <t>где</t>
+     </tg>
+     <xg>
+       <x>кытчӧ водны?</x>
+       <xt xml:lang="rus">где лечь?</xt>
+     </xg>
+     <xg>
+       <x>кытчӧ оз ков, эн сюйсьы</x>
+       <xt xml:lang="rus">не вмешивайся, куда не надо</xt>
+     </xg>
+   </mg>
+</e>
+<e>
+   <lg t1="К" t2="Ы" t3="Т" uri="27157-kytch-dz" id="27157">
+     <l pos="Adv">кытчӧдз</l>
+       <l_var type="molodtsov-cyr">кыччӧԇ</l_var>
+   </lg>
+   <mg relId="0">
+     <tg xml:lang="rus">
+       <t>докуда <acronym title="просторечное"><em>прост.</em></acronym>; до какого места, предела</t>
+     </tg>
+     <xg>
+       <x>кытчӧдз ветлінныд?</x>
+       <xt xml:lang="rus">докуда дошли?</xt>
+     </xg>
+   </mg>
+   <mg relId="1">
+     <tg xml:lang="rus">
+       <t>пока</t>
+     </tg>
+     <xg>
+       <x>сэтчӧдз, кытчӧдз</x>
+       <xt xml:lang="rus">до тех пор, пока</xt>
+     </xg>
+     <xg>
+       <x>кытчӧдз ловъя</x>
+       <xt xml:lang="rus">пока жив</xt>
+     </xg>
+     <xg>
+       <x>кытчӧдз оз пемды</x>
+       <xt xml:lang="rus">пока не стемнеет</xt>
+     </xg>
+     <xg>
+       <x>кытчӧдз оз чуксавны</x>
+       <xt xml:lang="rus">пока не разбудят</xt>
+     </xg>
+   </mg>
+   <mg relId="2">
+     <tg xml:lang="rus">
+       <t>до каких пор</t>
+     </tg>
+     <xg>
+       <x>кытчӧдз тайӧ кутас кыссьыны</x>
+       <xt xml:lang="rus">до каких пор это будет длиться</xt>
+     </xg>
+   </mg>
+</e>
+<e>
+   <lg t1="К" t2="Ы" t3="Т" uri="27159-kytch-dzk-" id="27159">
+     <l pos="Adv">кытчӧдзкӧ</l>
+       <l_var type="molodtsov-cyr">кыччӧчкӧ</l_var>
+   </lg>
+   <mg relId="0">
+     <tg xml:lang="rus">
+       <t>докуда-то; до какого-то места, предела</t>
+     </tg>
+     <xg>
+       <x>кытчӧдзкӧ кывтлісны пыжӧн</x>
+       <xt xml:lang="rus">до какого-то места плавали на лодке</xt>
+     </xg>
+   </mg>
+   <mg relId="1">
+     <tg xml:lang="rus">
+       <t>до каких-то пор</t>
+     </tg>
+     <xg>
+       <x>кытчӧдзкӧ олам на му вылас</x>
+       <xt xml:lang="rus">до поры до времени проживём на земле</xt>
+     </xg>
+   </mg>
+</e>
+<e>
+   <lg t1="К" t2="Ы" t3="Т" uri="27161-kytch-k-" id="27161">
+     <l pos="Adv">кытчӧкӧ</l>
+       <l_var type="molodtsov-cyr">кыччӧкӧ</l_var>
+   </lg>
+   <mg relId="0">
+     <tg xml:lang="rus">
+       <t>куда-то, куда-либо; куда-нибудь</t>
+     </tg>
+     <xg>
+       <x>кытчӧкӧ вошис</x>
+       <xt xml:lang="rus">куда-то подевался</xt>
+     </xg>
+     <xg>
+       <x>кытчӧкӧ пуксьӧй</x>
+       <xt xml:lang="rus">присядьте куда-нибудь</xt>
+     </xg>
+     <xg>
+       <x>кытчӧкӧ районӧ вуджӧдісны</x>
+       <xt xml:lang="rus">перевели куда-то в район</xt>
+     </xg>
+   </mg>
+</e>
+<e>
+   <lg t1="К" t2="Ы" t3="Т" uri="27166-kytch-syur-" id="27166">
+     <l pos="Adv">кытчӧсюрӧ</l>
+       <l_var type="molodtsov-cyr">кыччӧԍурӧ</l_var>
+   </lg>
+   <mg relId="0">
+     <tg xml:lang="rus">
+       <t>кое-куда</t>
+     </tg>
+     <xg>
+       <x>кытчӧсюрӧ колӧ гижны</x>
+       <xt xml:lang="rus">кое-куда надо написать</xt>
+     </xg>
+     <xg>
+       <x>кытчӧсюрӧ колӧ меным ветлыны</x>
+       <xt xml:lang="rus">мне надо кое-куда сходить</xt>
+     </xg>
+   </mg>
+   <mg relId="1">
+     <tg xml:lang="rus">
+       <t>куда попало</t>
+     </tg>
+     <xg>
+       <x>кытчӧсюрӧ койны сьӧм</x>
+       <xt xml:lang="rus">швырять деньги куда попало</xt>
+     </xg>
+   </mg>
+</e>
+<e>
+   <lg t1="К" t2="Ы" t3="Т" uri="27168-kytch-yas-k-" id="27168">
+     <l pos="Adv">кытчӧясӧкӧ</l>
+       <l_var type="molodtsov-cyr">кыччӧјасӧкӧ</l_var>
+   </lg>
+   <mg relId="0"> <sg><s s_type="see">кытчӧкӧ</s></sg>
+     <tg xml:lang="rus">
+       <t></t>
+     </tg>
+     <xg>
+       <x>кытчӧясӧкӧ пыралім</x>
+       <xt xml:lang="rus">кое-куда заходили</xt>
+     </xg>
+   </mg>
+</e>
+<e>
+   <lg t1="К" t2="Ы" t3="Т" uri="27252-kytys-k-" id="27252">
+     <l pos="Adv">кытыськӧ</l>
+       <l_var type="molodtsov-cyr">кытыԍкӧ</l_var>
+   </lg>
+   <mg relId="0"> <sg><s s_type="see">кыськӧ</s></sg>
+     <tg xml:lang="rus">
+       <t></t>
+     </tg>
+     <xg>
+       <x>кытыськӧ кипом изки сюрис</x>
+       <xt xml:lang="rus">где-то нашлась ручная мельница</xt>
+     </xg>
+   </mg>
+</e>
+<e>
+   <lg t1="К" t2="Ы" t3="Т" uri="27254-kytysyan-k-" id="27254">
+     <l pos="Adv">кытысянькӧ</l>
+       <l_var type="molodtsov-cyr">кытыԍаԋкӧ</l_var>
+   </lg>
+   <mg relId="0"> <sg><s s_type="see">кысянькӧ</s></sg>
+     <tg xml:lang="rus">
+       <t></t>
+     </tg>
+     <xg>
+       <x>кытысянькӧ ӧвтыштіс уль руӧн</x>
+       <xt xml:lang="rus">откуда-то повеяло сыростью</xt>
+     </xg>
+   </mg>
+</e>
+<e>
+   <lg t1="К" t2="Ы" t3="Т" uri="27132-kyti" id="27132">
+     <l pos="Adv">кыті</l>
+       <l_var type="molodtsov-cyr">кыті</l_var>
+   </lg>
+   <mg relId="0"><strong>кыті, кыт</strong><br />
+     <tg xml:lang="rus">
+       <t>где, по какому месту</t>
+     </tg>
+     <xg>
+       <x>кыті ті мунінныд?</x>
+       <xt xml:lang="rus">где вы шли?</xt>
+     </xg>
+     <xg>
+       <x>кыті емыс, сэті и сунисыс </x>
+       <xt xml:lang="rus" src_type="proverb:пословица">куда иголка, туда и нитка</xt>
+     </xg>
+   </mg>
+</e>
+<e>
+   <lg t1="К" t2="Ы" t3="Т" uri="27134-kytik-" id="27134">
+     <l pos="Adv">кытікӧ</l>
+       <l_var type="molodtsov-cyr">кытікӧ</l_var>
+   </lg>
+   <mg relId="0">
+     <tg xml:lang="rus">
+       <t>где-то</t>
+     </tg>
+     <xg>
+       <x>кытікӧ мунӧма да эз вочаась</x>
+       <xt xml:lang="rus">он где-то прошёл и не встретился</xt>
+     </xg>
+     <xg>
+       <x>кытъястікӧ ветлӧдлӧ</x>
+       <xt xml:lang="rus">где-то ходит</xt>
+     </xg>
+     <xg>
+       <x>кытікӧ сотчӧ</x>
+       <xt xml:lang="rus">где-то горит</xt>
+     </xg>
+   </mg>
+</e>
+<e>
+   <lg t1="К" t2="Ы" t3="Т" uri="27135-kytisyan-" id="27135">
+     <l pos="Adv">кытісянь</l>
+       <l_var type="molodtsov-cyr">кытіԍаԋ</l_var>
+   </lg>
+   <mg relId="0"> <sg><s s_type="see">кысянь</s></sg>
+     <tg xml:lang="rus">
+       <t></t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg t1="К" t2="Ы" t3="Т" uri="27142-kyt-n" id="27142">
+     <l pos="Adv">кытӧн</l>
+       <l_var type="molodtsov-cyr">кытӧн</l_var>
+   </lg>
+   <mg relId="0">
+     <tg xml:lang="rus">
+       <t>где</t>
+     </tg>
+     <xg>
+       <x>сійӧ кытӧн?</x>
+       <xt xml:lang="rus">где он?</xt>
+     </xg>
+   </mg>
+   <mg relId="1">
+     <tg xml:lang="rus">
+       <t>который</t>
+     </tg>
+     <xg>
+       <x>школа, кытӧн велӧдчис вок</x>
+       <xt xml:lang="rus">школа, в которой учился брат</xt>
+     </xg>
+     <xg>
+       <x>кытӧн висьӧ, сэтӧн ки; кытӧн муса (мича), сэтӧн син</x>
+       <xt xml:lang="rus">где больно, там рука; где мило, там глаза</xt>
+     </xg>
+   </mg>
+</e>
+<e>
+   <lg t1="К" t2="Ы" t3="Т" uri="27144-kyt-nk-" id="27144">
+     <l pos="Adv">кытӧнкӧ</l>
+       <l_var type="molodtsov-cyr">кытӧнкӧ</l_var>
+   </lg>
+   <mg relId="0"> <sg><s s_type="see">кӧнкӧ</s></sg>
+     <tg xml:lang="rus">
+       <t></t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg t1="К" t2="Ы" t3="Т" uri="27146-kyt-nsyur-" id="27146">
+     <l pos="Adv">кытӧнсюрӧ</l>
+       <l_var type="molodtsov-cyr">кытӧнԍурӧ</l_var>
+   </lg>
+   <mg relId="0">
+     <tg xml:lang="rus">
+       <t>кое-где</t>
+     </tg>
+     <xg>
+       <x>кытӧнсюрӧ вотӧсыс эм</x>
+       <xt xml:lang="rus">кое-где ягоды есть</xt>
+     </xg>
+     <xg>
+       <x>кытӧнсюрӧ гымалӧма</x>
+       <xt xml:lang="rus">кое-где была гроза</xt>
+     </xg>
+   </mg>
+</e>
+<e>
+   <lg t1="К" t2="Ӧ" t3="Н" uri="24157-k-n-myij" id="24157">
+     <l pos="Adv">кӧн-мый</l>
+       <l_var type="molodtsov-cyr">кӧн-мыј</l_var>
+   </lg>
+   <mg relId="0">
+     <tg xml:lang="rus">
+       <t>где</t>
+     </tg>
+     <xg>
+       <x>кӧн-мый ветлан</x>
+       <xt xml:lang="rus">где ходишь, где пропадаешь</xt>
+     </xg>
+   </mg>
+</e>
+<e>
+   <lg t1="К" t2="Ӧ" t3="Н" uri="24155-k-nk-k-nk-" id="24155">
+     <l pos="Adv">кӧнкӧ-кӧнкӧ</l>
+       <l_var type="molodtsov-cyr">кӧнкӧ-кӧнкӧ</l_var>
+   </lg>
+   <mg relId="0"> <sg><s s_type="see">кӧнсюрӧ</s></sg>
+     <tg xml:lang="rus">
+       <t></t>
+     </tg>
+     <xg>
+       <x>кӧнкӧ-кӧнкӧ эм нин тшак</x>
+       <xt xml:lang="rus">кое-где уже есть грибы</xt>
+     </xg>
+   </mg>
+</e>
+<e>
+   <lg t1="К" t2="Ӧ" t3="Н" uri="24196-k-n-yasynk-" id="24196">
+     <l pos="Adv">кӧнъясынкӧ</l>
+       <l_var type="molodtsov-cyr">кӧнјасынкӧ</l_var>
+   </lg>
+   <mg relId="0"> <sg><s s_type="see">кӧнсюрӧ</s></sg>
+     <tg xml:lang="rus">
+       <t></t>
+     </tg>
+     <xg>
+       <x>кӧнъясынкӧ олӧны на</x>
+       <xt xml:lang="rus">кое-где живут ещё</xt>
+     </xg>
+   </mg>
+</e>
+<e>
+   <lg t1="К" t2="Ӧ" t3="Н" uri="24149-k-ni" id="24149">
+     <l pos="Adv">кӧні</l>
+       <l_var type="molodtsov-cyr">кӧні</l_var>
+   </lg>
+   <mg relId="0"> <sg><s s_type="see">кӧн Ⅰ</s></sg>
+     <tg xml:lang="rus">
+       <t></t>
+     </tg>
+     <xg>
+       <x>кӧні тэ ӧні?</x>
+       <xt xml:lang="rus">где ты сейчас?</xt>
+     </xg>
+     <xg>
+       <x>кӧні сійӧ велӧдчис?</x>
+       <xt xml:lang="rus">где он учился?</xt>
+     </xg>
+     <xg>
+       <x>кӧні олан, сэні и колан</x>
+       <xt xml:lang="rus"> где родился, там и пригодился </xt>
+       <xt xml:lang="rus" src_type="literally:буквально"> где живёшь, там и нужен</xt>
+     </xg>
+     <xg>
+       <x>кӧні тэ чужин?</x>
+       <xt xml:lang="rus">где ты родился?</xt>
+     </xg>
+   </mg>
+</e>
+<e>
+   <lg t1="К" t2="Ӧ" t3="Ш" uri="24567-k-shel-n" id="24567">
+     <l pos="Adv">кӧшельӧн</l>
+       <l_var type="molodtsov-cyr">кӧшеԉӧн</l_var>
+   </lg>
+   <mg relId="0">
+     <tg xml:lang="rus">
+       <t>на спине; на закорках</t>
+     </tg>
+     <xg>
+       <x>кӧшельӧн нуны</x>
+       <xt xml:lang="rus">нести на спине; нести на закорках</xt>
+     </xg>
+   </mg>
+</e>
+<e>
+   <lg t1="Л" t2="А" t3="Д" uri="27445-lad-n" id="27445">
+     <l pos="Adv">ладӧн</l>
+       <l_var type="molodtsov-cyr">лаԁӧн</l_var>
+   </lg>
+   <mg relId="0">
+     <tg xml:lang="rus">
+       <t>толком; разумно</t>
+     </tg>
+     <xg>
+       <x>ладӧн висьтавны</x>
+       <xt xml:lang="rus">говорить толком</xt>
+     </xg>
+   </mg>
+   <mg relId="1">
+     <tg xml:lang="rus">
+       <t>медленно, неторопливо</t>
+     </tg>
+     <xg>
+       <x>ладӧн сёрнитӧ, оз тэрмась</x>
+       <xt xml:lang="rus">он говорит медленно, не торопится</xt>
+     </xg>
+   </mg>
+</e>
+<e>
+   <lg t1="Л" t2="У" t3="Н" uri="29285-lunkosm-s" id="29285">
+     <l pos="Adv">лункосмӧс</l>
+       <l_var type="molodtsov-cyr">лункосмӧс</l_var>
+   </lg>
+   <mg relId="0"> <sg><s s_type="see">лункосмӧсӧн</s></sg>
+     <tg xml:lang="rus">
+       <t></t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg t1="Л" t2="У" t3="Н" uri="29287-lunkosm-s-n" id="29287">
+     <l pos="Adv">лункосмӧсӧн</l>
+       <l_var type="molodtsov-cyr">лункосмӧсӧн</l_var>
+   </lg>
+   <mg relId="0">
+     <tg xml:lang="rus">
+       <t>через день</t>
+     </tg>
+     <xg>
+       <x>лункосмӧсӧн волывлыны</x>
+       <xt xml:lang="rus">приходить через день</xt>
+     </xg>
+     <xg>
+       <x>лункосмӧсӧн уджавны</x>
+       <xt xml:lang="rus">работать через день</xt>
+     </xg>
+   </mg>
+</e>
+<e>
+   <lg t1="Л" t2="У" t3="Н" uri="29324-lunysij-n" id="29324">
+     <l pos="Adv">лунысйӧн</l>
+       <l_var type="molodtsov-cyr">лунысјӧн</l_var>
+   </lg>
+   <mg relId="0">
+     <tg xml:lang="rus">
+       <t>подённо</t>
+     </tg>
+     <xg>
+       <x>лунысйӧн уджавны</x>
+       <xt xml:lang="rus">работать подённо</xt>
+     </xg>
+   </mg>
+   <mg relId="1">
+     <tg xml:lang="rus">
+       <t>без ночёвки, только на день</t>
+     </tg><br />
+     <xg>
+       <x>лунысйӧн ветлыны</x>
+       <xt xml:lang="rus"> ходить <em>куда-либо</em> днём <em>(без ночёвки)</em></xt>
+     </xg>
+   </mg>
+</e>
+<e>
+   <lg t1="У" t2="В" t3="С" uri="55539-uvs-yd" id="55539">
+     <l pos="Adv">увсьыд</l>
+       <l_var type="molodtsov-cyr">увԍыԁ</l_var>
+   </lg>
+   <mg relId="0">
+     <tg xml:lang="rus">
+       <t><acronym title="местоимение"><em>мест.</em></acronym> <acronym title="послеложно-личное (местоимение)"><em>послел.-личн.</em></acronym> из-под тебя</t>
+     </tg>
+     <xg>
+       <x>эн лэдз син увсьыд</x>
+       <xt xml:lang="rus">не выпускай из поля зрения</xt>
+     </xg>
+   </mg>
+</e>
+<e>
+   <lg t1="У" t2="В" t3="С" uri="55542-uvs-ym" id="55542">
+     <l pos="Adv">увсьым</l>
+       <l_var type="molodtsov-cyr">увԍым</l_var>
+   </lg>
+   <mg relId="0">
+     <tg xml:lang="rus">
+       <t><acronym title="местоимение"><em>мест.</em></acronym> <acronym title="послеложно-личное (местоимение)"><em>послел.-личн.</em></acronym> <acronym title="1-ое лицо"><em>1 л.</em></acronym> <acronym title="единственное число"><em>ед.ч.</em></acronym> из-под меня</t>
+     </tg>
+     <xg>
+       <x>увсьым нуисны</x>
+       <xt xml:lang="rus">из-под меня унесли</xt>
+     </xg>
+   </mg>
+</e>
+<e>
+   <lg t1="У" t2="В" t3="С" uri="55543-uvs-ynyd" id="55543">
+     <l pos="Adv">увсьыныд</l>
+       <l_var type="molodtsov-cyr">увԍыныԁ</l_var>
+   </lg>
+   <mg relId="0">
+     <tg xml:lang="rus">
+       <t><acronym title="местоимение"><em>мест.</em></acronym> <acronym title="послеложно-личное (местоимение)"><em>послел.-личн.</em></acronym> <acronym title="2-ое лицо"><em>2 л.</em></acronym> <acronym title="местоимение"><em>мест.</em></acronym> из-под вас</t>
+     </tg>
+     <xg>
+       <x>увсьыныд корсьӧй</x>
+       <xt xml:lang="rus">ищите под собой</xt>
+     </xg>
+   </mg>
+</e>
+<e>
+   <lg t1="У" t2="В" t3="С" uri="55545-uvs-ynym" id="55545">
+     <l pos="Adv">увсьыным</l>
+       <l_var type="molodtsov-cyr">увԍыным</l_var>
+   </lg>
+   <mg relId="0">
+     <tg xml:lang="rus">
+       <t><acronym title="местоимение"><em>мест.</em></acronym> <acronym title="послеложно-личное (местоимение)"><em>послел.-личн.</em></acronym> <acronym title="1-ое лицо"><em>1 л.</em></acronym> <acronym title="местоимение"><em>мест.</em></acronym> из-под нас</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg t1="У" t2="В" t3="С" uri="55547-uvs-ynys" id="55547">
+     <l pos="Adv">увсьыныс</l>
+       <l_var type="molodtsov-cyr">увԍыныс</l_var>
+   </lg>
+   <mg relId="0">
+     <tg xml:lang="rus">
+       <t><acronym title="местоимение"><em>мест.</em></acronym> <acronym title="послеложно-личное (местоимение)"><em>послел.-личн.</em></acronym> <acronym title="3-ье лицо"><em>3 л.</em></acronym> <acronym title="местоимение"><em>мест.</em></acronym> из-под них</t>
+     </tg>
+     <xg>
+       <x>кыскыны увсьыныс</x>
+       <xt xml:lang="rus">вытащить из-под них</xt>
+     </xg>
+   </mg>
+</e>
+<e>
+   <lg t1="У" t2="В" t3="С" uri="55548-uvs-ys" id="55548">
+     <l pos="Adv">увсьыс</l>
+       <l_var type="molodtsov-cyr">увԍыс</l_var>
+   </lg>
+   <mg relId="0">
+     <tg xml:lang="rus">
+       <t><acronym title="местоимение"><em>мест.</em></acronym> <acronym title="послеложно-личное (местоимение)"><em>послел.-личн.</em></acronym> <acronym title="3-ье лицо"><em>3 л.</em></acronym> <acronym title="единственное число"><em>ед.ч.</em></acronym> из-под него</t>
+     </tg>
+   </mg>
+</e>
 
 </r> 

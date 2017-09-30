@@ -265,5 +265,298 @@
      </xg>
    </mg>
 </e>
+<e>
+   <lg t1="Б" t2="Ы" t3="Д" uri="4043-byd" id="4043">
+     <l hid="Hom1" pos="Det">быд</l>
+       <l_var type="molodtsov-cyr">быԁ</l_var>
+   </lg>
+   <mg relId="0">
+     <tg xml:lang="rus">
+       <t><acronym title="местоимение"><em>мест.</em></acronym> <acronym title="обобщительное (местоимение)"><em>обобщ.</em></acronym> <acronym title="определительное (местоимение)"><em>опред.</em></acronym> каждый, всякий, любой</t>
+     </tg>
+     <xg>
+       <x>быд здук</x>
+       <xt xml:lang="rus">в любой момент</xt>
+     </xg>
+     <xg>
+       <x>быд лун</x>
+       <xt xml:lang="rus">каждый день</xt>
+     </xg>
+     <xg>
+       <x>быд пӧлӧс</x>
+       <xt xml:lang="rus">всяких сортов</xt>
+     </xg>
+     <xg>
+       <x>быд нинӧм абуысь видчыны</x>
+       <xt xml:lang="rus">ругаться из-за каждого пустяка</xt>
+     </xg>
+     <xg>
+       <x>быд удж уджалӧ</x>
+       <xt xml:lang="rus">любую работу делает</xt>
+     </xg>
+     <xg>
+       <x>тулыс-гожӧмнад быд энь пӧтка быдтысьӧ</x>
+       <xt xml:lang="rus">весной и летом каждая птица-самка выводит птенцов</xt>
+     </xg>
+     <xg>
+       <x>быд керкаын Кузьма да Конӧ</x>
+       <xt xml:lang="rus" src_type="riddle:загадка"> в каждом доме Кузьма и Конэ (<em>отгадка</em> <stress>кузь лабич да коник лабич</stress> длинная лавка и короткая у входа)<br /></xt>
+     </xg>
+     <xg>
+       <x>◊ быд сюв пом эн тырт</x>
+       <xt xml:lang="rus"> не ешь сверх меры </xt>
+       <xt xml:lang="rus" src_type="literally:буквально"> каждый конец кишок не заполняй</xt>
+     </xg>
+   </mg>
+</e>
+<e>
+   <lg t1="К" t2="О" t3="М" uri="22819-komyn-d" id="22819">
+     <l pos="Det">комынӧд</l>
+       <l_var type="molodtsov-cyr">комынӧԁ</l_var>
+   </lg>
+   <mg relId="0">
+     <tg xml:lang="rus">
+       <t><acronym title="имя числительное"><em>числ.</em></acronym> <acronym title="порядковое числительное"><em>порядк.</em></acronym> тридцатый</t>
+     </tg>
+     <xg>
+       <x>комынӧд лун</x>
+       <xt xml:lang="rus">тридцатый день</xt>
+     </xg>
+   </mg>
+</e>
+<e>
+   <lg t1="К" t2="Ӧ" t3="К" uri="23992-k-k-yamysdas-d" id="23992">
+     <l pos="Det">кӧкъямысдасӧд</l>
+       <l_var type="molodtsov-cyr">кӧкјамысԁасӧԁ</l_var>
+   </lg>
+   <mg relId="0">
+     <tg xml:lang="rus">
+       <t><acronym title="имя числительное"><em>числ.</em></acronym> <acronym title="порядковое числительное"><em>порядк.</em></acronym> восьмидесятый</t>
+     </tg>
+     <xg>
+       <x>кӧкъямысдасӧд арӧс мӧдӧдчис</x>
+       <xt xml:lang="rus">пошёл восьмидесятый год</xt>
+     </xg>
+   </mg>
+</e>
+<e>
+   <lg t1="К" t2="Ӧ" t3="К" uri="23999-k-k-yamyssyo-d" id="23999">
+     <l pos="Det">кӧкъямыссёӧд</l>
+       <l_var type="molodtsov-cyr">кӧкјамысԍоӧԁ</l_var>
+   </lg>
+   <mg relId="0">
+     <tg xml:lang="rus">
+       <t><acronym title="имя числительное"><em>числ.</em></acronym> <acronym title="порядковое числительное"><em>порядк.</em></acronym> восьмисотый</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg t1="К" t2="Ӧ" t3="К" uri="23995-k-k-yamys-d" id="23995">
+     <l pos="Det">кӧкъямысӧд</l>
+       <l_var type="molodtsov-cyr">кӧкјамысӧԁ</l_var>
+   </lg>
+   <mg relId="0">
+     <tg xml:lang="rus">
+       <t><acronym title="имя числительное"><em>числ.</em></acronym> <acronym title="порядковое числительное"><em>порядк.</em></acronym> восьмой</t>
+     </tg>
+     <xg>
+       <x>кӧкъямысӧдысь</x>
+       <xt xml:lang="rus">восьмой раз</xt>
+     </xg>
+     <xg>
+       <x>дас кӧкъямысӧд</x>
+       <xt xml:lang="rus">восемнадцатый</xt>
+     </xg>
+     <xg>
+       <x>◊ кӧкъямысӧд мӧслӧн кукань</x>
+       <xt xml:lang="rus"> седьмая вода на киселе </xt>
+       <xt xml:lang="rus" src_type="literally:буквально"> телёнок от восьмой коровы</xt>
+     </xg>
+   </mg>
+</e>
+<e>
+   <lg t1="Л" t2="Ю" t3="Б" uri="29947-lyub-ij" id="29947">
+     <l pos="Det">любӧй</l>
+       <l_var type="molodtsov-cyr">ԉубӧј</l_var>
+   </lg>
+   <mg relId="0">
+     <tg xml:lang="rus">
+       <t>любой; каждый, всякий</t>
+     </tg>
+     <xg>
+       <x>любӧй морт</x>
+       <xt xml:lang="rus">любой человек</xt>
+     </xg>
+     <xg>
+       <x>тайӧс любӧй вӧчас</x>
+       <xt xml:lang="rus">это любой сделает</xt>
+     </xg>
+   </mg>
+   <mg relId="1">
+     <tg xml:lang="rus">
+       <t>любой, какой угодно</t>
+     </tg>
+     <xg>
+       <x>любӧй кадӧ</x>
+       <xt xml:lang="rus">в любое время</xt>
+     </xg>
+   </mg>
+</e>
+<e>
+   <lg t1="М" t2="И" t3="Л" uri="31589-milliard-d" id="31589">
+     <l pos="Det">миллиардӧд</l>
+       <l_var type="molodtsov-cyr">міԉԉарԁӧԁ</l_var>
+   </lg>
+   <mg relId="0">
+     <tg xml:lang="rus">
+       <t><acronym title="имя числительное"><em>числ.</em></acronym> <acronym title="порядковое числительное"><em>порядк.</em></acronym> миллиардный</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg t1="М" t2="И" t3="Л" uri="31601-million-d" id="31601">
+     <l pos="Det">миллионӧд</l>
+       <l_var type="molodtsov-cyr">міԉԉонӧԁ</l_var>
+   </lg>
+   <mg relId="0">
+     <tg xml:lang="rus">
+       <t><acronym title="имя числительное"><em>числ.</em></acronym> <acronym title="порядковое числительное"><em>порядк.</em></acronym> миллионный</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg t1="Н" t2="Е" t3="Л" uri="34122-nelyamyn-d" id="34122">
+     <l pos="Det">нелямынӧд</l>
+       <l_var type="molodtsov-cyr">ԋеԉамынӧԁ</l_var>
+   </lg>
+   <mg relId="0">
+     <tg xml:lang="rus">
+       <t><acronym title="имя числительное"><em>числ.</em></acronym> <acronym title="порядковое числительное"><em>порядк.</em></acronym> сороковой</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg t1="Н" t2="Ё" t3="Л" uri="34370-nyol-syo-d" id="34370">
+     <l pos="Det">нёльсёӧд</l>
+       <l_var type="molodtsov-cyr">ԋоԉԍоӧԁ</l_var>
+   </lg>
+   <mg relId="0">
+     <tg xml:lang="rus">
+       <t><acronym title="имя числительное"><em>числ.</em></acronym> <acronym title="порядковое числительное"><em>порядк.</em></acronym> четырёхсотый</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg t1="С" t2="И" t3="З" uri="47292-sizimdas-d" id="47292">
+     <l pos="Det">сизимдасӧд</l>
+       <l_var type="molodtsov-cyr">ԍіԅімԁасӧԁ</l_var>
+   </lg>
+   <mg relId="0">
+     <tg xml:lang="rus">
+       <t><acronym title="имя числительное"><em>числ.</em></acronym> <acronym title="порядковое числительное"><em>порядк.</em></acronym> семидесятый</t>
+     </tg>
+     <xg>
+       <x>сизимдасӧд лист бок</x>
+       <xt xml:lang="rus">семидесятая страница</xt>
+     </xg>
+     <xg>
+       <x>сылы сизимдасӧд арӧс нин</x>
+       <xt xml:lang="rus">ему уже семидесятый год</xt>
+     </xg>
+   </mg>
+</e>
+<e>
+   <lg t1="С" t2="И" t3="З" uri="47307-sizimsyo-d" id="47307">
+     <l pos="Det">сизимсёӧд</l>
+       <l_var type="molodtsov-cyr">ԍіԅімԍоӧԁ</l_var>
+   </lg>
+   <mg relId="0">
+     <tg xml:lang="rus">
+       <t><acronym title="имя числительное"><em>числ.</em></acronym> <acronym title="порядковое числительное"><em>порядк.</em></acronym> семисотый</t>
+     </tg>
+     <xg>
+       <x>сизимсёӧд номер</x>
+       <xt xml:lang="rus">семисотый номер</xt>
+     </xg>
+   </mg>
+</e>
+<e>
+   <lg t1="С" t2="И" t3="З" uri="47303-sizim-d" id="47303">
+     <l pos="Det">сизимӧд</l>
+       <l_var type="molodtsov-cyr">ԍіԅімӧԁ</l_var>
+   </lg>
+   <mg relId="0">
+     <tg xml:lang="rus">
+       <t><acronym title="имя числительное"><em>числ.</em></acronym> <acronym title="порядковое числительное"><em>порядк.</em></acronym>1. седьмой</t>
+     </tg>
+     <xg>
+       <x>сизимӧд лист бок</x>
+       <xt xml:lang="rus">седьмая страница</xt>
+     </xg>
+     <xg>
+       <x>сизимӧд юкӧн</x>
+       <xt xml:lang="rus">седьмая доля</xt>
+     </xg>
+   </mg>
+   <mg relId="1">
+     <tg xml:lang="rus">
+       <t>семёрка <acronym title="разговорное"><em>разг.</em></acronym></t>
+     </tg>
+     <xg>
+       <x>сизимӧд номера автобус</x>
+       <xt xml:lang="rus">автобус седьмого маршрута</xt>
+     </xg>
+     <xg>
+       <x>◊ куйлыны сизимӧд керйӧ кок лэптӧмӧн</x>
+       <xt xml:lang="rus"> бездельничать </xt>
+       <xt xml:lang="rus" src_type="literally:буквально"> лежать, подняв ноги на седьмое бревно</xt>
+     </xg>
+   </mg>
+</e>
+<e>
+   <lg t1="С" t2="Ю" t3="Р" uri="50643-syurs-d" id="50643">
+     <l pos="Det">сюрсӧд</l>
+       <l_var type="molodtsov-cyr">ԍурсӧԁ</l_var>
+   </lg>
+   <mg relId="0">
+     <tg xml:lang="rus">
+       <t><acronym title="имя числительное"><em>числ.</em></acronym> <acronym title="порядковое числительное"><em>порядк.</em></acronym> тысячный</t>
+     </tg>
+     <xg>
+       <x>сюрсӧд юкӧн</x>
+       <xt xml:lang="rus">тысячная доля</xt>
+     </xg>
+   </mg>
+</e>
+<e>
+   <lg t1="С" t2="Ё" t3="Ӧ" uri="47017-syo-d" id="47017">
+     <l pos="Det">сёӧд</l>
+       <l_var type="molodtsov-cyr">ԍоӧԁ</l_var>
+   </lg>
+   <mg relId="0">
+     <tg xml:lang="rus">
+       <t><acronym title="имя числительное"><em>числ.</em></acronym> <acronym title="порядковое числительное"><em>порядк.</em></acronym> сотый</t>
+     </tg>
+     <xg>
+       <x>сёӧд номер</x>
+       <xt xml:lang="rus">сотый номер</xt>
+     </xg>
+     <xg>
+       <x>сёӧд юкӧн</x>
+       <xt xml:lang="rus">сотая доля</xt>
+     </xg>
+   </mg>
+</e>
+<e>
+   <lg t1="Т" t2="Ы" t3="С" uri="54996-tysyacha-d" id="54996">
+     <l pos="Det">тысячаӧд</l>
+       <l_var type="molodtsov-cyr">тыԍачаӧԁ</l_var>
+   </lg>
+   <mg relId="0">
+     <tg xml:lang="rus">
+       <t><acronym title="имя числительное"><em>числ.</em></acronym> <acronym title="порядковое числительное"><em>порядк.</em></acronym> тысячный</t>
+     </tg>
+   </mg>
+</e>
 
 </r> 

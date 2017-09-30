@@ -808,5 +808,47 @@
      </xg>
    </mg>
 </e>
+<e>
+   <lg t1="Б" t2="Ы" t3="Д" uri="4106-byds-n" id="4106">
+     <l hid="Hom2" pos="Pcle">быдсӧн</l>
+       <l_var type="molodtsov-cyr">бытсӧн</l_var>
+   </lg>
+   <mg relId="0"> <sg><s hid="Hom2" pos="Pcle" s_type="see">быдӧн</s></sg>
+     <tg xml:lang="rus">
+       <t></t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg t1="Б" t2="Ы" t3="Д" uri="4104-byd-n" id="4104">
+     <l hid="Hom2">быдӧн</l>
+       <l_var type="molodtsov-cyr">быԁӧн</l_var>
+   </lg>
+   <mg relId="0">
+     <tg xml:lang="rus">
+       <t pos="Pcle"> даже</t>
+     </tg>
+     <xg>
+       <x>гӧрдӧдӧма чужӧмыс быдӧн</x>
+       <xt xml:lang="rus">даже лицо покраснело</xt>
+     </xg>
+     <xg>
+       <x>быдӧн лӧзӧдіс</x>
+       <xt xml:lang="rus">даже посинел</xt>
+     </xg>
+     <xg>
+       <x>быдӧн любӧ лои</x>
+       <xt xml:lang="rus">даже обрадовался</xt>
+     </xg>
+     <xg>
+       <x>ме быдӧн кынмылі места вылӧ</x>
+       <xt xml:lang="rus">я даже застыл на месте</xt>
+     </xg>
+     <xg>
+       <x>пӧсьӧ быдӧн шыбитіс</x>
+       <xt xml:lang="rus">даже в пот бросило</xt>
+     </xg>
+   </mg>
+</e>
 
 </r> 
