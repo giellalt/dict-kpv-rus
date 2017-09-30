@@ -1861,7 +1861,7 @@
      </xg>
      <xg>
        <x>зіль мортлы низьыд-мойыд керка пельӧсӧдыс кайӧ</x>
-       <xt src_type="saying:поговорка">на ловца и зверь бежит</xt>
+       <xt src_type="saying:поговорка" xml:lang="rus">на ловца и зверь бежит</xt>
        <xt xml:lang="rus" src_type="literally:буквально">в дом трудолюбивого человека бобры-соболи сами идут</xt>
      </xg> <sg><s s_type="seeAlso">уджач</s></sg>
    </mg>
@@ -4867,7 +4867,7 @@
      </xg>
      <xg>
        <x>матӧ пуктан – ылысь босьтан</x>
-       <xt src_type="saying:поговорка">близко положишь – далеко возьмёшь <em>(<acronym title="то есть"><em>т.е.</em></acronym> украдут)</em></xt>
+       <xt src_type="saying:поговорка" xml:lang="rus">близко положишь – далеко возьмёшь <em>(<acronym title="то есть"><em>т.е.</em></acronym> украдут)</em></xt>
      </xg>
    </mg>
    <mg relId="1">
@@ -17878,7 +17878,7 @@
      </xg>
      <xg>
        <x>◊ ускӧй луддзис</x>
-       <xt src_type="saying:поговорка">усы зачесались (предвкушать угощение)</xt>
+       <xt src_type="saying:поговорка" xml:lang="rus">усы зачесались (предвкушать угощение)</xt>
      </xg>
    </mg>
 </e>
@@ -18192,7 +18192,7 @@
      </xg>
      <xg>
        <x>◊ ыджыд козлӧн и чалльыс кыз</x>
-       <xt src_type="saying:поговорка">у большой ели и ветки толстые (каковы родители, таковы и дети)</xt>
+       <xt src_type="saying:поговорка" xml:lang="rus">у большой ели и ветки толстые (каковы родители, таковы и дети)</xt>
      </xg>
    </mg>
    <mg relId="2">
@@ -21232,11 +21232,11 @@
      </xg>
      <xg>
        <x>◊ этша ваӧн изӧ</x>
-       <xt src_type="saying:поговорка">при малой воде мелет (без ветра мелет)</xt>
+       <xt src_type="saying:поговорка" xml:lang="rus">при малой воде мелет (без ветра мелет)</xt>
      </xg>
      <xg>
        <x>◊ этша ваӧн кӧтасьӧ</x>
-       <xt src_type="saying:поговорка">в малой воде мокнет (из-за пустяков раздражается)</xt>
+       <xt src_type="saying:поговорка" xml:lang="rus">в малой воде мокнет (из-за пустяков раздражается)</xt>
      </xg>
    </mg>
    <mg relId="1">
@@ -21982,7 +21982,7 @@
    </mg>
 </e>
 <e>
-   <lg t1="Ю" t2="Р" t3="Л" uri="64869-yurl-s" id="64869"><l>юрлӧс</l>
+   <lg t1="Ю" t2="Р" t3="Л" uri="64869-yurl-s" id="64869"><l pos="N">юрлӧс</l>
        <l_var type="molodtsov-cyr">јурлӧс</l_var>
    </lg>
    <mg relId="0">
@@ -22011,7 +22011,7 @@
      </xg>
      <xg>
        <x>◊ ӧти юрлӧс вылын узьӧны комын вок</x>
-       <xt src_type="riddle:загадка">на одной подушке спят тридцать братьев (<em>отгадка</em> <stress>йирк</stress> потолок)</xt>
+       <xt src_type="riddle:загадка" xml:lang="rus">на одной подушке спят тридцать братьев (<em>отгадка</em> <stress>йирк</stress> потолок)</xt>
      </xg>
      <xg>
        <x>◊ юрлӧскӧд вӧтасьны</x>
@@ -22020,7 +22020,7 @@
    </mg>
 </e>
 <e>
-   <lg t1="Ю" t2="Р" t3="С" uri="64909-yursigus-" id="64909"><l>юрсигусь</l>
+   <lg t1="Ю" t2="Р" t3="С" uri="64909-yursigus-" id="64909"><l pos="N">юрсигусь</l>
        <l_var type="molodtsov-cyr">јурԍігуԍ</l_var>
    </lg>
    <mg relId="0">
@@ -22038,7 +22038,7 @@
    </mg>
 </e>
 <e>
-   <lg t1="Я" t2="Г" t3="Л" uri="65017-yagla" id="65017"><l>ягла</l>
+   <lg t1="Я" t2="Г" t3="Л" uri="65017-yagla" id="65017"><l pos="N">ягла</l>
        <l_var type="molodtsov-cyr">јагла</l_var> <rg><r range_space="dialect"/></rg>
    </lg>
    <mg relId="0">
@@ -22048,7 +22048,7 @@
    </mg>
 </e>
 <e>
-   <lg t1="Я" t2="Г" t3="Л" uri="65019-yaglador" id="65019"><l>ягладор</l>
+   <lg t1="Я" t2="Г" t3="Л" uri="65019-yaglador" id="65019"><l pos="N">ягладор</l>
        <l_var type="molodtsov-cyr">јаглаԁор</l_var>
    </lg>
    <mg relId="0">
@@ -22066,7 +22066,7 @@
    </mg>
 </e>
 <e>
-   <lg t1="Я" t2="Е" t3="С" uri="65040-yaesnicha" id="65040"><l>яеснича</l>
+   <lg t1="Я" t2="Е" t3="С" uri="65040-yaesnicha" id="65040"><l pos="N">яеснича</l>
        <l_var type="molodtsov-cyr">јајеԍԋіча</l_var>
    </lg>
    <mg relId="0">
@@ -22080,7 +22080,7 @@
    </mg>
 </e>
 <e>
-   <lg t1="Я" t2="З" t3="Ы" uri="65042-yazykoznann-" id="65042"><l>языкознанньӧ</l>
+   <lg t1="Я" t2="З" t3="Ы" uri="65042-yazykoznann-" id="65042"><l pos="N">языкознанньӧ</l>
        <l_var type="molodtsov-cyr">јазыкознаԋԋӧ</l_var>
    </lg>
    <mg relId="0">
@@ -22090,7 +22090,7 @@
    </mg>
 </e>
 <e>
-   <lg t1="Я" t2="Н" t3="Д" uri="65146-yandzimkod-" id="65146"><l>яндзимкодь</l>
+   <lg t1="Я" t2="Н" t3="Д" uri="65146-yandzimkod-" id="65146"><l pos="Adv">яндзимкодь</l>
        <l_var type="molodtsov-cyr">јанԇімкоԃ</l_var>
    </lg>
    <mg relId="0">
@@ -22162,7 +22162,7 @@
    </mg>
 </e>
 <e>
-   <lg t1="Ё" t2="Н" t3="А" uri="15590-yona" id="15590"><l>ёна</l>
+   <lg t1="Ё" t2="Н" t3="А" uri="15590-yona" id="15590"><l pos="Adv">ёна</l>
        <l_var type="molodtsov-cyr">јона</l_var>
    </lg>
    <mg relId="0">
@@ -22403,7 +22403,7 @@
    </mg>
 </e>
 <e>
-   <lg t1="Ӧ" t2="Д" t3="В" uri="37338-dvak-" id="37338"><l>ӧдвакӧ</l>
+   <lg t1="Ӧ" t2="Д" t3="В" uri="37338-dvak-" id="37338"><l pos="Adv">ӧдвакӧ</l>
        <l_var type="molodtsov-cyr">ӧԁвакӧ</l_var>
    </lg>
    <mg relId="0">
@@ -22421,7 +22421,7 @@
    </mg>
 </e>
 <e>
-   <lg t1="Ӧ" t2="Д" t3="Й" uri="37379-dij-" id="37379"><l>ӧдйӧ</l>
+   <lg t1="Ӧ" t2="Д" t3="Й" uri="37379-dij-" id="37379"><l pos="Adv">ӧдйӧ</l>
        <l_var type="molodtsov-cyr">ӧԁјӧ</l_var>
    </lg>
    <mg relId="0">
@@ -22511,8 +22511,8 @@
      </tg>
    </mg>
 </e>
-<e>
-   <lg t1="Ӧ" t2="К" t3="Т" uri="37597-kt-" id="37597"><l>ӧктӧ</l>
+<e exclude="fst">
+   <lg t1="Ӧ" t2="К" t3="Т" uri="37597-kt-" id="37597"><l pos="V">ӧктӧ</l>
        <l_var type="molodtsov-cyr">ӧктӧ</l_var>
    </lg>
    <mg relId="0">
@@ -22522,7 +22522,7 @@
    </mg>
 </e>
 <e>
-   <lg t1="Ӧ" t2="Н" t3="Ӧ" uri="37661-n-dz" id="37661"><l>ӧнӧдз</l>
+   <lg t1="Ӧ" t2="Н" t3="Ӧ" uri="37661-n-dz" id="37661"><l pos="Adv">ӧнӧдз</l>
        <l_var type="molodtsov-cyr">ӧнӧԇ</l_var>
    </lg>
    <mg relId="0"> <sg><s s_type="see">ӧніӧдз</s></sg>
