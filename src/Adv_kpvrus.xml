@@ -38519,5 +38519,264 @@
      </tg>
    </mg>
 </e>
+<e>
+   <lg t1="У" t2="Н" t3="Д" uri="56167-undzhyk" id="56167"><l pos="Adv">унджык</l>
+       <l_var type="molodtsov-cyr">унҗык</l_var>
+   </lg>
+   <mg relId="0">
+     <tg xml:lang="rus">
+       <t><acronym title="сравнительная степень"><em>сравнит.ст.</em></acronym> <em>от</em> <xref link="уна"> уна</xref> больше; побольше; большинство</t>
+     </tg>
+     <xg>
+       <x>унджык кывзы, а этшаджык сӧр</x>
+       <xt xml:lang="rus">больше слушай, меньше болтай</xt>
+     </xg>
+   </mg>
+   <mg relId="1">
+     <tg xml:lang="rus">
+       <t>чаще, в большинстве случаев</t>
+     </tg>
+     <xg>
+       <x>унджыксӧ вӧрысь ваям</x>
+       <xt xml:lang="rus">в большинстве случаев из лесу приносим</xt>
+     </xg>
+   </mg>
+   <mg relId="2">
+     <tg xml:lang="rus">
+       <t>преимущественно</t>
+     </tg>
+     <xg>
+       <x>сэн унджыкыс вӧлі челядь</x>
+       <xt xml:lang="rus">там были преимущественно дети</xt>
+     </xg>
+     <xg>
+       <x>◊ ыджыдлы унджык и колӧ</x>
+       <xt xml:lang="rus">большому больше и надобно</xt>
+     </xg>
+   </mg>
+</e>
+<e>
+   <lg t1="У" t2="Н" t3="А" uri="56122-una" id="56122">
+     <l pos="Adv">уна</l>
+       <l_var type="molodtsov-cyr">уна</l_var>
+   </lg>
+   <mg relId="0">
+     <tg xml:lang="rus">
+       <t>много</t>
+     </tg>
+     <xg>
+       <x>вывті уна</x>
+       <xt xml:lang="rus">слишком много</xt>
+     </xg>
+     <xg>
+       <x>зэв уна</x>
+       <xt xml:lang="rus">очень много</xt>
+     </xg>
+     <xg>
+       <x>уна вевсьӧн</x>
+       <xt xml:lang="rus">в несколько слоёв (рядов)</xt>
+     </xg>
+     <xg>
+       <x>уна пельӧ</x>
+       <xt xml:lang="rus">на много частей</xt>
+     </xg>
+     <xg>
+       <x>уна пӧв</x>
+       <xt xml:lang="rus">много раз</xt>
+     </xg>
+     <xg>
+       <x>уна корны</x>
+       <xt xml:lang="rus">много просить</xt>
+     </xg>
+   </mg>
+   <mg relId="1">
+     <tg xml:lang="rus">
+       <t><em>в</em> <acronym title="сочетание"><em>сочет.</em></acronym> много-</t>
+     </tg>
+     <xg>
+       <x>уна ваа</x>
+       <xt xml:lang="rus">многоводный</xt>
+     </xg>
+     <xg>
+       <x>уна вежӧртаса</x>
+       <xt xml:lang="rus">многозначный</xt>
+     </xg>
+     <xg>
+       <x>уна вося</x>
+       <xt xml:lang="rus">многолетний</xt>
+     </xg>
+     <xg>
+       <x>уна лунся</x>
+       <xt xml:lang="rus">многодневный</xt>
+     </xg>
+     <xg>
+       <x>уна дзоридзьяса</x>
+       <xt xml:lang="rus">многоцветный</xt>
+     </xg>
+     <xg>
+       <x>уна йӧза</x>
+       <xt xml:lang="rus">многолюдный</xt>
+     </xg>
+     <xg>
+       <x>уна лыда</x>
+       <xt xml:lang="rus">многочисленный</xt>
+     </xg>
+     <xg>
+       <x>уна лыд </x>
+       <xt xml:lang="rus"><acronym title="грамматическое"><em>грам.</em></acronym> множественное число</xt>
+     </xg>
+     <xg>
+       <x>уна лыдын</x>
+       <xt xml:lang="rus">во множественном числе</xt>
+     </xg>
+     <xg>
+       <x>уна пӧлӧс</x>
+       <xt xml:lang="rus">многообразный</xt>
+     </xg>
+     <xg>
+       <x>уна сикас</x>
+       <xt xml:lang="rus">разнообразный, разный, различный</xt>
+     </xg>
+     <xg>
+       <x>уна судта</x>
+       <xt xml:lang="rus">многоэтажный</xt>
+     </xg>
+     <xg>
+       <x>уна челядя</x>
+       <xt xml:lang="rus">многодетный</xt>
+     </xg>
+     <xg>
+       <x>уна юра</x>
+       <xt xml:lang="rus">многоголовый</xt>
+     </xg>
+     <xg>
+       <x>◊ уна быдтысьыдлы уна и лоӧ шогсьыны </x>
+       <xt xml:lang="rus" src_type="proverb:пословица">кто много детей вырастит, тот много горя испытает</xt>
+     </xg>
+     <xg>
+       <x>◊ уна кока да век стен бердын сулалӧ</x>
+       <xt xml:lang="rus" src_type="riddle:загадка">ног много, а всё около стены стоит (<em>отгадка</em> <stress>гӧлик</stress> метла)</xt>
+     </xg>
+     <xg>
+       <x>◊ уна дорӧ унджык и колӧ</x>
+       <xt xml:lang="rus">где много, туда больше и надо</xt>
+     </xg>
+     <xg>
+       <x>◊ уна вылӧ</x>
+       <xt xml:lang="rus">самое большее</xt>
+     </xg>
+     <xg>
+       <x>◊ уна пачысь нянь сёйлӧма</x>
+       <xt xml:lang="rus"> стреляный воробей </xt>
+       <xt xml:lang="rus" src_type="literally:буквально"> из многих печей хлеб ел</xt>
+     </xg>
+   </mg>
+</e>
+<e>
+   <lg t1="У" t2="Л" t3="Ӧ" uri="56018-ul-" id="56018">
+     <l hid="Hom2" pos="Adv">улӧ</l>
+       <l_var type="molodtsov-cyr">улӧ</l_var>
+   </lg>
+   <mg relId="0">
+     <tg xml:lang="rus">
+       <t>ниже, меньше, дешевле</t>
+     </tg>
+     <xg>
+       <x>кыксёысь улӧ</x>
+       <xt xml:lang="rus">менее двухсот</xt>
+     </xg>
+     <xg>
+       <x>сыысь улӧ оз позь</x>
+       <xt xml:lang="rus">меньше этого нельзя</xt>
+     </xg>
+     <xg>
+       <x>таысь улӧ ог вузав</x>
+       <xt xml:lang="rus">дешевле этого не продам</xt>
+     </xg>
+   </mg>
+</e>
+<e>
+   <lg t1="Н" t2="Е" t3="У" uri="34267-neuna" id="34267"><l pos="Adv">неуна</l>
+       <l_var type="molodtsov-cyr">ԋеуна</l_var>
+   </lg>
+   <mg relId="0">
+     <tg xml:lang="rus">
+       <t>немного, немножко</t>
+     </tg>
+     <xg>
+       <x>неуна озджык тырмы</x>
+       <xt xml:lang="rus">немного не хватает</xt>
+     </xg>
+     <xg>
+       <x>неуна шойччыштны</x>
+       <xt xml:lang="rus">немного отдохнуть</xt>
+     </xg>
+     <xg>
+       <x>неуна шӧйӧвошны</x>
+       <xt xml:lang="rus">слегка смутиться</xt>
+     </xg>
+     <xg>
+       <x>ва неуна ямис</x>
+       <xt xml:lang="rus">вода немного убыла</xt>
+     </xg>
+     <xg>
+       <x>неуна виччысьышт</x>
+       <xt xml:lang="rus">подожди немножко</xt>
+     </xg>
+     <xg>
+       <x>сійӧ неуна висьӧдчӧ</x>
+       <xt xml:lang="rus">ему немного нездоровится</xt>
+     </xg>
+     <xg>
+       <x>юрӧй неуна висьӧ</x>
+       <xt xml:lang="rus">голова немного болит</xt>
+     </xg>
+   </mg>
+   <mg relId="1">
+     <tg xml:lang="rus">
+       <t>немного, несколько; слегка</t>
+     </tg>
+     <xg>
+       <x>неуна чангылякодь ныр</x>
+       <xt xml:lang="rus">слегка курносый нос</xt>
+     </xg>
+     <xg>
+       <x>перк неуна ыджыдджык кеняысь</x>
+       <xt xml:lang="rus">кедровка несколько крупнее кукши</xt>
+     </xg>
+   </mg>
+   <mg relId="2">
+     <tg xml:lang="rus">
+       <t>едва; чуть</t>
+     </tg>
+     <xg>
+       <x>неуна эг кув</x>
+       <xt xml:lang="rus">я чуть не умер</xt>
+     </xg>
+     <xg>
+       <x>неуна эг усь</x>
+       <xt xml:lang="rus">я едва не упал</xt>
+     </xg>
+   </mg>
+</e>
+<e>
+   <lg t1="М" t2="Е" t3="Д" uri="31219-meduna" id="31219"><l pos="Adv">медуна</l>
+       <l_var type="molodtsov-cyr">меԁуна</l_var>
+   </lg>
+   <mg relId="0">
+     <tg xml:lang="rus">
+       <t>больше всего</t>
+     </tg>
+   </mg>
+   <mg relId="1">
+     <tg xml:lang="rus">
+       <t>больше, чем у других</t>
+     </tg>
+     <xg>
+       <x>сылӧн быдтор медуна</x>
+       <xt xml:lang="rus">у него всего больше, чем у других</xt>
+     </xg>
+   </mg>
+</e>
 
 </r> 
