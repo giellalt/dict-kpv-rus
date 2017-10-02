@@ -1,5 +1,6 @@
-<?xml version="1.0" encoding="utf-8"?> <r id="kpvrus" xml:lang="kpv">
-<e>
+<?xml version="1.0" encoding="UTF-8"?>
+<r xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:hfp="http://www.w3.org/2001/XMLSchema-hasFacetAndProperty" xmlns:fn="http://www.w3.org/2005/02/xpath-functions" xsi:noNamespaceSchemaLocation="../../../../../gtcore/schemas/fiu-dict-schema.xsd" xml:lang="kpv">
+  <e>
    <lg t1="Б" t2="Е" t3="Р" uri="1994-berg-dl-m-n" id="1994">
      <l pos="Ger" type="OMON">бергӧдлӧмӧн</l>
        <l_var type="molodtsov-cyr">бергӧԁлӧмӧн</l_var>
@@ -14,7 +15,56 @@
      </xg>
    </mg>
 </e>
-<e>
+  <e>
+   <lg t1="Б" t2="У" t3="Р" uri="3811-burmyt-dz" id="3811">
+     <l pos="Ger" type="TODZ">бурмытӧдз</l>
+       <l_var type="molodtsov-cyr">бурмытӧԇ</l_var>
+   </lg>
+   <mg relId="0"> <sg><s s_type="see">бурмымӧн</s></sg>
+     <tg xml:lang="rus">
+       <t/>
+     </tg>
+   </mg>
+</e>
+  <e>
+   <lg t1="Б" t2="Ӧ" t3="Б" uri="2774-b-bmyt-dz" id="2774">
+     <l pos="Ger" type="TODZ">бӧбмытӧдз</l>
+       <l_var type="molodtsov-cyr">бӧбмытӧԇ</l_var>
+   </lg>
+   <mg relId="0">
+     <tg xml:lang="rus">
+       <t>до одурения</t>
+     </tg>
+     <xg>
+       <x>бӧбмытӧдз велӧдны тригонометрия</x>
+       <xt xml:lang="rus">до одурения учить тригонометрию</xt>
+     </xg>
+   </mg>
+</e>
+  <e>
+   <lg t1="Б" t2="Ӧ" t3="Р" uri="2877-b-rdm-n" id="2877">
+     <l pos="Ger" type="MON">бӧрдмӧн</l>
+       <l_var type="molodtsov-cyr">бӧрԁмӧн</l_var>
+   </lg>
+   <mg relId="0">
+     <tg xml:lang="rus">
+       <t>до слёз</t>
+     </tg>
+     <xg>
+       <x>бӧрдмӧн жаль</x>
+       <xt xml:lang="rus">до слёз жалко</xt>
+     </xg>
+     <xg>
+       <x>бӧрдмӧн лои забеднӧ</x>
+       <xt xml:lang="rus">стало до слёз обидно</xt>
+     </xg>
+     <xg>
+       <x>бӧрдмӧн лои йӧзыслы таысь</x>
+       <xt xml:lang="rus">от этого люди заплакали</xt>
+     </xg>
+   </mg>
+</e>
+  <e>
    <lg t1="Б" t2="Ӧ" t3="Р" uri="2895-b-rd-m-n" id="2895">
      <l pos="Ger" type="OMON">бӧрдӧмӧн</l>
        <l_var type="molodtsov-cyr">бӧрԁӧмӧн</l_var>
@@ -30,14 +80,14 @@
      <xg>
        <x>бӧрдӧмӧн сорӧн (<em>или</em> бӧрдӧм сорӧн)</x>
        <xt xml:lang="rus"> с большой неохотой, нехотя, со слезами</xt>
-     </xg><br />
+     </xg><br/>
      <xg>
        <x>бӧрдӧмӧн шогтӧ он бырӧд </x>
        <xt xml:lang="rus" src_type="saying:поговорка">слезами горю не поможешь</xt>
      </xg>
    </mg>
 </e>
-<e>
+  <e>
    <lg t1="Б" t2="Ӧ" t3="Р" uri="2917-b-rijys-m-n" id="2917">
      <l pos="Ger" type="OMON">бӧрйысьмӧн</l>
        <l_var type="molodtsov-cyr">бӧрјыԍмӧн</l_var>
@@ -52,7 +102,7 @@
      </xg>
    </mg>
 </e>
-<e>
+  <e>
    <lg t1="Б" t2="Ӧ" t3="Р" uri="2911-b-rij-m-n" id="2911">
      <l pos="Ger" type="OMON">бӧрйӧмӧн</l>
        <l_var type="molodtsov-cyr">бӧрјӧмӧн</l_var>
@@ -67,18 +117,37 @@
      </xg>
    </mg>
 </e>
-<e>
+  <e>
+   <lg t1="В" t2="А" t3="Й" uri="4560-vaijm-n" id="4560">
+     <l pos="Ger" type="MON">ваймӧн</l>
+       <l_var type="molodtsov-cyr">вајмӧн</l_var>
+   </lg>
+   <mg relId="0">
+     <tg xml:lang="rus">
+       <t>на один раз, на одну доставку <em>(о количестве чего-либо)</em></t>
+     </tg>
+     <xg>
+       <x>ас вылын ваймӧн</x>
+       <xt xml:lang="rus">столько, сколько можно снести за один раз</xt>
+     </xg>
+     <xg>
+       <x>пес коли вӧрӧ ӧтчыд ваймӧн</x>
+       <xt xml:lang="rus">дров осталось в лесу на одну доставку</xt>
+     </xg>
+   </mg>
+</e>
+  <e>
    <lg t1="В" t2="А" t3="Р" uri="4790-varkij-m-n" id="4790">
      <l pos="Ger" type="OMON">варкйӧмӧн</l>
        <l_var type="molodtsov-cyr">варкјӧмӧн</l_var>
    </lg>
    <mg relId="0"> <sg><s s_type="see">варкйӧн</s></sg>
      <tg xml:lang="rus">
-       <t></t>
+       <t/>
      </tg>
    </mg>
 </e>
-<e>
+  <e>
    <lg t1="В" t2="А" t3="Р" uri="4887-vartch-m-n" id="4887">
      <l pos="Ger" type="OMON">вартчӧмӧн</l>
        <l_var type="molodtsov-cyr">варччӧмӧн</l_var>
@@ -93,7 +162,7 @@
      </xg>
    </mg>
 </e>
-<e>
+  <e>
    <lg t1="В" t2="Е" t3="Ж" uri="5182-vezhavidzt-g" id="5182">
      <l pos="Ger" type="TOG">вежавидзтӧг</l>
        <l_var type="molodtsov-cyr">вежавічтӧг</l_var>
@@ -112,7 +181,44 @@
      </xg>
    </mg>
 </e>
-<e>
+  <e>
+   <lg t1="В" t2="Е" t3="Ж" uri="5278-vezhm-n" id="5278">
+     <l pos="Ger" type="MON">вежмӧн</l>
+       <l_var type="molodtsov-cyr">вежмӧн</l_var>
+   </lg>
+   <mg relId="0">
+     <tg xml:lang="rus">
+       <t>перебивая, вперебой, наперебой</t>
+     </tg>
+     <xg>
+       <x>ӧта-мӧд вежмӧн висьтавлыны</x>
+       <xt xml:lang="rus">рассказывать, перебивая друг друга</xt>
+     </xg>
+     <xg>
+       <x>старукаяс вежмӧн ызгисны</x>
+       <xt xml:lang="rus">старухи наперебой болтали</xt>
+     </xg>
+   </mg>
+   <mg relId="1">
+     <tg xml:lang="rus">
+       <t>вперегонки, наперегонки</t>
+     </tg>
+     <xg>
+       <x>ӧта-мӧд вежмӧн уджавны</x>
+       <xt xml:lang="rus">работать наперегонки</xt>
+     </xg>
+   </mg>
+   <mg relId="2">
+     <tg xml:lang="rus">
+       <t>нарасхват</t>
+     </tg>
+     <xg>
+       <x>тӧвар ньӧбисны мӧда-мӧд вежмӧн</x>
+       <xt xml:lang="rus">товары брали нарасхват</xt>
+     </xg>
+   </mg>
+</e>
+  <e>
    <lg t1="В" t2="Е" t3="Л" uri="5539-velavt-g" id="5539">
      <l pos="Ger" type="TOG">велавтӧг</l>
        <l_var type="molodtsov-cyr">велавтӧг</l_var>
@@ -131,7 +237,7 @@
      </xg>
    </mg>
 </e>
-<e>
+  <e>
    <lg t1="В" t2="Е" t3="Р" uri="5806-verz-m-n" id="5806">
      <l pos="Ger" type="OMON">верзьӧмӧн</l>
        <l_var type="molodtsov-cyr">верԅӧмӧн</l_var>
@@ -150,7 +256,37 @@
      </xg>
    </mg>
 </e>
-<e>
+  <e>
+   <lg t1="В" t2="Е" t3="С" uri="6126-ves-p-rm-n" id="6126">
+     <l pos="Ger" type="MON">весьӧпӧрмӧн</l>
+       <l_var type="molodtsov-cyr">веԍӧпӧрмӧн</l_var>
+   </lg>
+   <mg relId="0">
+     <tg xml:lang="rus">
+       <t>до оцепенения</t>
+     </tg>
+     <xg>
+       <x>весьӧпӧрмӧн повзьыны</x>
+       <xt xml:lang="rus">испугаться до оцепенения</xt>
+     </xg>
+   </mg>
+</e>
+  <e>
+   <lg t1="В" t2="Е" t3="Т" uri="6203-vetlym-n" id="6203">
+     <l pos="Ger" type="MON">ветлымӧн</l>
+       <l_var type="molodtsov-cyr">ветлымӧн</l_var>
+   </lg>
+   <mg relId="0">
+     <tg xml:lang="rus">
+       <t>на одну ношу, на одну возку, на одну ездку</t>
+     </tg>
+     <xg>
+       <x>зорӧдӧ туруныс коли кыкысь ветлымӧн</x>
+       <xt xml:lang="rus">в стогу сена осталось на две возки</xt>
+     </xg>
+   </mg>
+</e>
+  <e>
    <lg t1="В" t2="И" t3="Д" uri="6445-vidzt-m-n" id="6445">
      <l pos="Ger" type="OMON">видзтӧмӧн</l>
        <l_var type="molodtsov-cyr">вічтӧмӧн</l_var>
@@ -169,7 +305,26 @@
      </xg>
    </mg>
 </e>
-<e>
+  <e>
+   <lg t1="В" t2="И" t3="Д" uri="6412-vidz-dm-n" id="6412">
+     <l pos="Ger" type="MON">видзӧдмӧн</l>
+       <l_var type="molodtsov-cyr">віԇӧԁмӧн</l_var>
+   </lg>
+   <mg relId="0">
+     <tg xml:lang="rus">
+       <t>на глазах, очень быстро</t>
+     </tg>
+     <xg>
+       <x>видзӧдмӧн быдмыны</x>
+       <xt xml:lang="rus">расти на глазах</xt>
+     </xg>
+     <xg>
+       <x>видзӧдмӧн вежсьыны чужӧм вылысь</x>
+       <xt xml:lang="rus">на глазах измениться в лице</xt>
+     </xg>
+   </mg>
+</e>
+  <e>
    <lg t1="В" t2="И" t3="Д" uri="6424-vidz-dt-g" id="6424">
      <l pos="Ger" type="TOG">видзӧдтӧг</l>
        <l_var type="molodtsov-cyr">віԇӧттӧг</l_var>
@@ -197,7 +352,68 @@
      </xg>
    </mg>
 </e>
-<e>
+  <e>
+   <lg t1="В" t2="И" t3="З" uri="6581-vizuvtm-n" id="6581">
+     <l pos="Ger" type="MON">визувтмӧн</l>
+       <l_var type="molodtsov-cyr">візувтмӧн</l_var>
+   </lg>
+   <mg relId="0"><span class="underline">употребляется лишь в составе выражений:</span><br/>
+     <xg>
+       <x>пӧсь визувтмӧн</x>
+       <xt xml:lang="rus">до седьмого пота; до изнеможения</xt>
+     </xg>
+     <xg>
+       <x>шор визувтмӧн зэрис</x>
+       <xt xml:lang="rus">прошёл ливень</xt>
+     </xg>
+   </mg>
+</e>
+  <e>
+   <lg t1="В" t2="И" t3="М" uri="6733-vim-n" id="6733">
+     <l pos="Ger" type="MON">вимӧн</l>
+       <l_var type="molodtsov-cyr">вімӧн</l_var>
+   </lg>
+   <mg relId="0">
+     <tg xml:lang="rus">
+       <t>до смерти</t>
+     </tg>
+     <xg>
+       <x>лыйӧмыс абу лоӧма вимӧн</x>
+       <xt xml:lang="rus">выстрел оказался несмертельным</xt>
+     </xg>
+   </mg>
+</e>
+  <e>
+   <lg t1="В" t2="И" t3="Р" uri="6842-virsermunt-dz" id="6842">
+     <l pos="Ger" type="TODZ">вирсермунтӧдз</l>
+       <l_var type="molodtsov-cyr">вірԍермунтӧԇ</l_var>
+   </lg>
+   <mg relId="0">
+     <tg xml:lang="rus">
+       <t>до полусмерти</t>
+     </tg>
+     <xg>
+       <x>вирсермунтӧдз нӧйтны</x>
+       <xt xml:lang="rus">избить до полусмерти</xt>
+     </xg>
+   </mg>
+</e>
+  <e>
+   <lg t1="В" t2="И" t3="С" uri="6889-vis-mym-n" id="6889">
+     <l pos="Ger" type="MON">висьмымӧн</l>
+       <l_var type="molodtsov-cyr">віԍмымӧн</l_var>
+   </lg>
+   <mg relId="0">
+     <tg xml:lang="rus">
+       <t>до боли</t>
+     </tg>
+     <xg>
+       <x>видзӧдны син висьмымӧн</x>
+       <xt xml:lang="rus">смотреть до боли в глазах</xt>
+     </xg>
+   </mg>
+</e>
+  <e>
    <lg t1="В" t2="И" t3="С" uri="6906-vis-dt-g" id="6906">
      <l pos="Ger" type="TOG">висьӧдтӧг</l>
        <l_var type="molodtsov-cyr">віԍӧттӧг</l_var>
@@ -208,7 +424,7 @@
      </tg>
    </mg>
 </e>
-<e>
+  <e>
    <lg t1="В" t2="О" t3="М" uri="7633-vom-nal-m-n" id="7633">
      <l pos="Ger" type="OMON">вомӧналӧмӧн</l>
        <l_var type="molodtsov-cyr">вомӧналӧмӧн</l_var>
@@ -223,7 +439,38 @@
      </xg>
    </mg>
 </e>
-<e>
+  <e>
+   <lg t1="В" t2="У" t3="Д" uri="8618-vudzhm-n" id="8618">
+     <l pos="Ger" type="MON">вуджмӧн</l>
+       <l_var type="molodtsov-cyr">вуҗмӧн</l_var>
+   </lg>
+   <mg relId="0"><span class="underline">употребляется лишь в составе выражений:</span><br/>
+     <xg>
+       <x>во вуджмӧн</x>
+       <xt xml:lang="rus">столько, сколько нужно на год</xt>
+     </xg>
+     <xg>
+       <x>во вуджмӧн нянь босьтны</x>
+       <xt xml:lang="rus">получить хлеба на целый год</xt>
+     </xg>
+   </mg>
+</e>
+  <e>
+   <lg t1="В" t2="У" t3="З" uri="8710-vuzavm-n" id="8710">
+     <l pos="Ger" type="MON">вузавмӧн</l>
+       <l_var type="molodtsov-cyr">вузавмӧн</l_var>
+   </lg>
+   <mg relId="0">
+     <tg xml:lang="rus">
+       <t>столько, что можно уделить для продажи</t>
+     </tg>
+     <xg>
+       <x>нянь воис вузавмӧн</x>
+       <xt xml:lang="rus">хлеба уродилось столько, что можно уделить для продажи</xt>
+     </xg>
+   </mg>
+</e>
+  <e>
    <lg t1="Г" t2="Е" t3="З" uri="9808-gez-yas-m-n" id="9808">
      <l pos="Ger" type="OMON">гезъясьӧмӧн</l>
        <l_var type="molodtsov-cyr">гезјаԍӧмӧн</l_var>
@@ -234,7 +481,79 @@
      </tg>
    </mg>
 </e>
-<e>
+  <e>
+   <lg t1="Г" t2="О" t3="Р" uri="10429-gorz-dlym-n" id="10429">
+     <l pos="Ger" type="MON">горзьӧдлымӧн</l>
+       <l_var type="molodtsov-cyr">горԅӧԁлымӧн</l_var>
+   </lg>
+   <mg relId="0">
+     <tg xml:lang="rus">
+       <t>досыта, до полного насыщения</t>
+     </tg>
+     <xg>
+       <x>горзьӧдлымӧн сёйны</x>
+       <xt xml:lang="rus">наесться досыта, вдоволь</xt>
+     </xg>
+   </mg>
+</e>
+  <e>
+   <lg t1="Г" t2="У" t3="Д" uri="11451-gudyrtchym-n" id="11451">
+     <l pos="Ger" type="MON">гудыртчымӧн</l>
+       <l_var type="molodtsov-cyr">гуԁырччымӧн</l_var>
+   </lg>
+   <mg relId="0"><span class="underline">употребляется лишь в составе выражений:</span><br/>
+     <xg>
+       <x>сьӧлӧм гудыртчымӧн оз ков</x>
+       <xt xml:lang="rus">совсем не надо, душа не принимает</xt>
+     </xg>
+   </mg>
+</e>
+  <e>
+   <lg t1="Г" t2="Ӧ" t3="Р" uri="10952-g-rd-dm-n" id="10952">
+     <l pos="Ger" type="MON">гӧрдӧдмӧн</l>
+       <l_var type="molodtsov-cyr">гӧрԁӧԁмӧн</l_var>
+   </lg>
+   <mg relId="0">
+     <tg xml:lang="rus">
+       <t>до появления красноты</t>
+     </tg>
+     <xg>
+       <x>гӧрдӧдмӧн зыравны</x>
+       <xt xml:lang="rus">растереть до покраснения</xt>
+     </xg>
+   </mg>
+</e>
+  <e>
+   <lg t1="Г" t2="Ӧ" t3="Р" uri="10958-g-rd-dt-dz" id="10958">
+     <l pos="Ger" type="TODZ">гӧрдӧдтӧдз</l>
+       <l_var type="molodtsov-cyr">гӧрԁӧттӧԇ</l_var>
+   </lg>
+   <mg relId="0"> <sg><s s_type="see">гӧрдӧдмӧн</s></sg>
+     <tg xml:lang="rus">
+       <t/>
+     </tg>
+   </mg>
+</e>
+  <e>
+   <lg t1="Д" t2="Ж" t3="А" uri="12474-dzhag-dchym-n" id="12474">
+     <l pos="Ger" type="MON">джагӧдчымӧн</l>
+       <l_var type="molodtsov-cyr">җагӧччымӧн</l_var>
+   </lg>
+   <mg relId="0">
+     <tg xml:lang="rus">
+       <t>до зарезу; до удавления</t>
+     </tg>
+     <xg>
+       <x>джагӧдчымӧн шог</x>
+       <xt xml:lang="rus">так грустно, хоть удавись</xt>
+     </xg>
+     <xg>
+       <x>джагӧдчымӧн колӧ</x>
+       <xt xml:lang="rus">нужно до зарезу;</xt>
+     </xg>
+   </mg>
+</e>
+  <e>
    <lg t1="Д" t2="Ж" t3="Е" uri="12525-dzhen-d-d-m-n" id="12525">
      <l pos="Ger" type="OMON">дженьдӧдӧмӧн</l>
        <l_var type="molodtsov-cyr">җеԋԁӧԁӧмӧн</l_var>
@@ -249,7 +568,7 @@
      </xg>
    </mg>
 </e>
-<e>
+  <e>
    <lg t1="Д" t2="Ж" t3="Ӧ" uri="12584-dzh-mdavt-g" id="12584">
      <l pos="Ger" type="TOG">джӧмдавтӧг</l>
        <l_var type="molodtsov-cyr">җӧмԁавтӧг</l_var>
@@ -268,7 +587,7 @@
      </xg>
    </mg>
 </e>
-<e>
+  <e>
    <lg t1="Д" t2="Ж" t3="Ӧ" uri="12599-dzh-mdyvt-g" id="12599">
      <l pos="Ger" type="TOG">джӧмдывтӧг</l>
        <l_var type="molodtsov-cyr">җӧмԁывтӧг</l_var>
@@ -283,7 +602,7 @@
      </xg>
    </mg>
 </e>
-<e>
+  <e>
    <lg t1="Д" t2="З" t3="А" uri="12728-dzazhg-m-n" id="12728">
      <l pos="Ger" type="OMON">дзажгӧмӧн</l>
        <l_var type="molodtsov-cyr">ԇажгӧмӧн</l_var>
@@ -298,7 +617,7 @@
      </xg>
    </mg>
 </e>
-<e>
+  <e>
    <lg t1="Д" t2="З" t3="А" uri="12748-dzaijgys-m-n" id="12748">
      <l pos="Ger" type="OMON">дзайгысьӧмӧн</l>
        <l_var type="molodtsov-cyr">ԇајгыԍӧмӧн</l_var>
@@ -313,7 +632,7 @@
      </xg>
    </mg>
 </e>
-<e>
+  <e>
    <lg t1="Д" t2="З" t3="Е" uri="12792-dzebs-m-n" id="12792">
      <l pos="Ger" type="OMON">дзебсьӧмӧн</l>
        <l_var type="molodtsov-cyr">ԇепԍӧмӧн</l_var>
@@ -346,7 +665,7 @@
      </xg>
    </mg>
 </e>
-<e>
+  <e>
    <lg t1="Д" t2="З" t3="Е" uri="12810-dzebsyas-t-g" id="12810">
      <l pos="Ger" type="TOG">дзебсясьтӧг</l>
        <l_var type="molodtsov-cyr">ԇебԍаԍтӧг</l_var>
@@ -361,7 +680,27 @@
      </xg>
    </mg>
 </e>
-<e>
+  <e>
+   <lg t1="Д" t2="З" t3="Е" uri="12832-dzenavt-dz" id="12832">
+     <l pos="Ger" type="TODZ">дзенавтӧдз</l>
+       <l_var type="molodtsov-cyr">ԇенавтӧԇ</l_var>
+   </lg>
+   <mg relId="0">
+     <tg xml:lang="rus">
+       <t>до боли</t>
+     </tg>
+   </mg>
+   <mg relId="1">
+     <tg xml:lang="rus">
+       <t><acronym title="в переносном значении"><em>перен.</em></acronym> до отвала; плотно</t>
+     </tg>
+     <xg>
+       <x>рушку дзенавтӧдз пажнайтны</x>
+       <xt xml:lang="rus">обедать до отвала</xt>
+     </xg>
+   </mg>
+</e>
+  <e>
    <lg t1="Д" t2="З" t3="Е" uri="12890-dzesk-dch-m-n" id="12890">
      <l pos="Ger" type="OMON">дзескӧдчӧмӧн</l>
        <l_var type="molodtsov-cyr">ԇескӧччӧмӧн</l_var>
@@ -376,7 +715,71 @@
      </xg>
    </mg>
 </e>
-<e>
+  <e>
+   <lg t1="Д" t2="З" t3="И" uri="13033-dzirdavm-n" id="13033">
+     <l pos="Ger" type="MON">дзирдавмӧн</l>
+       <l_var type="molodtsov-cyr">ԇірԁавмӧн</l_var>
+   </lg>
+   <mg relId="0">
+     <tg xml:lang="rus">
+       <t>до блеска; до лоска</t>
+     </tg>
+     <xg>
+       <x>дзирдавмӧн вуштыны</x>
+       <xt xml:lang="rus">натереть до блеска</xt>
+     </xg>
+   </mg>
+</e>
+  <e>
+   <lg t1="Д" t2="З" t3="О" uri="13108-dzobavm-n" id="13108">
+     <l pos="Ger" type="MON">дзобавмӧн</l>
+       <l_var type="molodtsov-cyr">ԇобавмӧн</l_var>
+   </lg>
+   <mg relId="0">
+     <tg xml:lang="rus">
+       <t>до онемения, до потери чувствительности</t>
+     </tg>
+     <xg>
+       <x>ки дзобавмӧн сынны</x>
+       <xt xml:lang="rus">грести до онемения рук</xt>
+     </xg>
+   </mg>
+</e>
+  <e>
+   <lg t1="Д" t2="З" t3="О" uri="13257-dzormym-n" id="13257">
+     <l pos="Ger" type="MON">дзормымӧн</l>
+       <l_var type="molodtsov-cyr">ԇормымӧн</l_var>
+   </lg>
+   <mg relId="0">
+     <tg xml:lang="rus">
+       <t>до седин, до поседения</t>
+     </tg><br/>
+     <xg>
+       <x>дзормымӧн шогсьыны</x>
+       <xt xml:lang="rus"> поседеть от горя </xt><com>(<acronym title="буквально"><em>букв.</em></acronym> горевать до поседения)</com>
+     </xg>
+     <xg>
+       <x>юрси дзормымӧн</x>
+       <xt xml:lang="rus">до поседения волос</xt>
+     </xg>
+   </mg>
+</e>
+  <e>
+   <lg t1="Д" t2="З" t3="О" uri="13261-dzormyt-dz" id="13261">
+     <l pos="Ger" type="TODZ">дзормытӧдз</l>
+       <l_var type="molodtsov-cyr">ԇормытӧԇ</l_var>
+   </lg>
+   <mg relId="0">
+     <tg xml:lang="rus">
+       <t>до седин</t>
+     </tg>
+     <xg>
+       <x>дзормытӧдз овны</x>
+       <xt xml:lang="rus">дожить до седин</xt>
+     </xg>
+   </mg>
+</e>
+  <e>
    <lg t1="Д" t2="З" t3="У" uri="13347-dzuglyas-m-n" id="13347">
      <l pos="Ger" type="OMON">дзуглясьӧмӧн</l>
        <l_var type="molodtsov-cyr">ԇугԉаԍӧмӧн</l_var>
@@ -391,7 +794,7 @@
      </xg>
    </mg>
 </e>
-<e>
+  <e>
    <lg t1="Д" t2="З" t3="У" uri="13358-dzugs-m-n" id="13358">
      <l pos="Ger" type="OMON">дзугсьӧмӧн</l>
        <l_var type="molodtsov-cyr">ԇугԍӧмӧн</l_var>
@@ -406,7 +809,7 @@
      </xg>
    </mg>
 </e>
-<e>
+  <e>
    <lg t1="Д" t2="З" t3="У" uri="13537-dzurtt-g" id="13537">
      <l pos="Ger" type="TOG">дзурттӧг</l>
        <l_var type="molodtsov-cyr">ԇурттӧг</l_var>
@@ -421,7 +824,7 @@
      </xg>
    </mg>
 </e>
-<e>
+  <e>
    <lg t1="Д" t2="З" t3="У" uri="13532-dzurt-m-n" id="13532">
      <l pos="Ger" type="OMON">дзуртӧмӧн</l>
        <l_var type="molodtsov-cyr">ԇуртӧмӧн</l_var>
@@ -440,7 +843,7 @@
      </xg>
    </mg>
 </e>
-<e>
+  <e>
    <lg t1="Д" t2="И" t3="В" uri="13593-divuijtch-m-n" id="13593">
      <l pos="Ger" type="OMON">дивуйтчӧмӧн</l>
        <l_var type="molodtsov-cyr">ԃівујччӧмӧн</l_var>
@@ -464,7 +867,7 @@
      </xg>
    </mg>
 </e>
-<e>
+  <e>
    <lg t1="Д" t2="О" t3="В" uri="13885-dovkij-dl-m-n" id="13885">
      <l pos="Ger" type="OMON">довкйӧдлӧмӧн</l>
        <l_var type="molodtsov-cyr">ԁовкјӧԁлӧмӧн</l_var>
@@ -479,7 +882,7 @@
      </xg>
    </mg>
 </e>
-<e>
+  <e>
    <lg t1="Д" t2="О" t3="В" uri="13896-dovknit-m-n" id="13896">
      <l pos="Ger" type="OMON">довкнитӧмӧн</l>
        <l_var type="molodtsov-cyr">ԁовкԋітӧмӧн</l_var>
@@ -498,7 +901,7 @@
      </xg>
    </mg>
 </e>
-<e>
+  <e>
    <lg t1="Д" t2="О" t3="В" uri="13920-dov-yal-m-n" id="13920">
      <l pos="Ger" type="OMON">довъялӧмӧн</l>
        <l_var type="molodtsov-cyr">ԁовјалӧмӧн</l_var>
@@ -513,7 +916,64 @@
      </xg>
    </mg>
 </e>
-<e>
+  <e>
+   <lg t1="Д" t2="О" t3="Д" uri="13943-doddyas-t-dz" id="13943">
+     <l pos="Ger" type="TODZ">доддясьтӧдз</l>
+       <l_var type="molodtsov-cyr">ԁоԃԃаԍтӧԇ</l_var>
+   </lg>
+   <mg relId="0">
+     <tg xml:lang="rus">
+       <t pos="Ger"> до запряжки</t>
+     </tg>
+     <xg>
+       <x>доддясьтӧдз вӧвтӧ колӧ юктӧдны</x>
+       <xt xml:lang="rus">прежде чем запрягать, лошадь надо напоить</xt>
+     </xg>
+   </mg>
+</e>
+  <e>
+   <lg t1="Д" t2="О" t3="Й" uri="13973-doijdm-n" id="13973">
+     <l pos="Ger" type="MON">дойдмӧн</l>
+       <l_var type="molodtsov-cyr">ԁојԁмӧн</l_var>
+   </lg>
+   <mg relId="0">
+     <tg xml:lang="rus">
+       <t>до боли</t>
+     </tg>
+     <xg>
+       <x>гӧгӧр вӧлі пельтӧ дойдмӧн лӧнь</x>
+       <xt xml:lang="rus">кругом было тихо до боли в ушах</xt>
+     </xg>
+     <xg>
+       <x>сьыланкывйыс сьӧлӧм дойдмӧн кажитчис тӧдсаӧн</x>
+       <xt xml:lang="rus">песня казалась до боли в сердце знакомой</xt>
+     </xg>
+   </mg>
+</e>
+  <e>
+   <lg t1="Д" t2="О" t3="Й" uri="14002-doijmyt-dz" id="14002">
+     <l pos="Ger" type="TODZ">доймытӧдз</l>
+       <l_var type="molodtsov-cyr">ԁојмытӧԇ</l_var>
+   </lg>
+   <mg relId="0">
+     <tg xml:lang="rus">
+       <t>до боли</t>
+     </tg>
+     <xg>
+       <x>ачыс шогсьыліс сьӧлӧм доймытӧдз</x>
+       <xt xml:lang="rus">сам расстраивался до боли в сердце</xt>
+     </xg>
+     <xg>
+       <x>сьӧлӧм доймытӧдз вӧлі окота видзӧдлыны ещӧ ӧтчыд мамлы чужӧмас</x>
+       <xt xml:lang="rus">до боли в сердце хотелось ещё раз посмотреть на маму</xt>
+     </xg>
+     <xg>
+       <x>син доймытӧдз видзӧдны</x>
+       <xt xml:lang="rus">смотреть до боли в глазах</xt>
+     </xg>
+   </mg>
+</e>
+  <e>
    <lg t1="Д" t2="О" t3="Н" uri="14148-dont-g" id="14148">
      <l pos="Ger" type="TOG">донтӧг</l>
        <l_var type="molodtsov-cyr">ԁонтӧг</l_var>
@@ -536,7 +996,7 @@
      </xg>
    </mg>
 </e>
-<e>
+  <e>
    <lg t1="Д" t2="О" t3="Н" uri="14190-don-yal-m-n" id="14190">
      <l pos="Ger" type="OMON">донъялӧмӧн</l>
        <l_var type="molodtsov-cyr">ԁонјалӧмӧн</l_var>
@@ -551,7 +1011,7 @@
      </xg>
    </mg>
 </e>
-<e>
+  <e>
    <lg t1="Д" t2="О" t3="Н" uri="14198-don-yas-t-g" id="14198">
      <l pos="Ger" type="TOG">донъясьтӧг</l>
        <l_var type="molodtsov-cyr">ԁонјаԍтӧг</l_var>
@@ -566,7 +1026,7 @@
      </xg>
    </mg>
 </e>
-<e>
+  <e>
    <lg t1="Д" t2="О" t3="Р" uri="14254-dorijys-m-n" id="14254">
      <l pos="Ger" type="OMON">дорйысьӧмӧн</l>
        <l_var type="molodtsov-cyr">ԁорјыԍӧмӧн</l_var>
@@ -581,7 +1041,7 @@
      </xg>
    </mg>
 </e>
-<e>
+  <e>
    <lg t1="Д" t2="О" t3="Р" uri="14281-dorovtchyl-m-n" id="14281">
      <l pos="Ger" type="OMON">доровтчылӧмӧн</l>
        <l_var type="molodtsov-cyr">ԁоровччылӧмӧн</l_var>
@@ -601,7 +1061,22 @@
      </xg>
    </mg>
 </e>
-<e>
+  <e>
+   <lg t1="Д" t2="Р" t3="Ӧ" uri="14671-dr-zhzhitm-n" id="14671">
+     <l pos="Ger" type="MON">дрӧжжитмӧн</l>
+       <l_var type="molodtsov-cyr">ԁрӧжжітмӧн</l_var>
+   </lg>
+   <mg relId="0">
+     <tg xml:lang="rus">
+       <t>до дрожи</t>
+     </tg>
+     <xg>
+       <x>дрӧжжитмӧн повзьыны</x>
+       <xt xml:lang="rus">испугаться до дрожи</xt>
+     </xg>
+   </mg>
+</e>
+  <e>
    <lg t1="Д" t2="Р" t3="Ӧ" uri="14681-dr-zhmun-m-n" id="14681">
      <l pos="Ger" type="OMON">дрӧжмунӧмӧн</l>
        <l_var type="molodtsov-cyr">ԁрӧжмунӧмӧн</l_var>
@@ -616,7 +1091,27 @@
      </xg>
    </mg>
 </e>
-<e>
+  <e>
+   <lg t1="Д" t2="У" t3="Б" uri="14751-dubavt-dz" id="14751">
+     <l pos="Ger" type="TODZ">дубавтӧдз</l>
+       <l_var type="molodtsov-cyr">ԁубавтӧԇ</l_var>
+   </lg>
+   <mg relId="0">
+     <tg xml:lang="rus">
+       <t>до выдыхания; до потери крепости</t>
+     </tg>
+   </mg>
+   <mg relId="1">
+     <tg xml:lang="rus">
+       <t>до онемения; до омертвения; до задеревенения</t>
+     </tg>
+     <xg>
+       <x>сойяс дубавтӧдз ытшким</x>
+       <xt xml:lang="rus">косили до онемения рук</xt>
+     </xg>
+   </mg>
+</e>
+  <e>
    <lg t1="Д" t2="У" t3="В" uri="14792-duvg-dch-m-n" id="14792">
      <l pos="Ger" type="OMON">дувгӧдчӧмӧн</l>
        <l_var type="molodtsov-cyr">ԁувгӧччӧмӧн</l_var>
@@ -631,7 +1126,7 @@
      </xg>
    </mg>
 </e>
-<e>
+  <e>
    <lg t1="Д" t2="У" t3="Г" uri="14823-dugdyvlyt-g" id="14823">
      <l pos="Ger" type="TOG">дугдывлытӧг</l>
        <l_var type="molodtsov-cyr">ԁугԁывлытӧг</l_var>
@@ -655,7 +1150,7 @@
      </xg>
    </mg>
 </e>
-<e>
+  <e>
    <lg t1="Д" t2="У" t3="Г" uri="14829-dugdyvt-g" id="14829">
      <l pos="Ger" type="TOG">дугдывтӧг</l>
        <l_var type="molodtsov-cyr">ԁугԁывтӧг</l_var>
@@ -735,7 +1230,7 @@
      </xg>
    </mg>
 </e>
-<e>
+  <e>
    <lg t1="Д" t2="У" t3="Г" uri="14835-dugdyl-m-n" id="14835">
      <l pos="Ger" type="OMON">дугдылӧмӧн</l>
        <l_var type="molodtsov-cyr">ԁугԁылӧмӧн</l_var>
@@ -750,7 +1245,7 @@
      </xg>
    </mg>
 </e>
-<e>
+  <e>
    <lg t1="Д" t2="У" t3="З" uri="14893-duz-yal-m-n" id="14893">
      <l pos="Ger" type="OMON">дузъялӧмӧн</l>
        <l_var type="molodtsov-cyr">ԁузјалӧмӧн</l_var>
@@ -765,7 +1260,7 @@
      </xg>
    </mg>
 </e>
-<e>
+  <e>
    <lg t1="Д" t2="У" t3="К" uri="14903-dukal-m-n" id="14903">
      <l pos="Ger" type="OMON">дукалӧмӧн</l>
        <l_var type="molodtsov-cyr">ԁукалӧмӧн</l_var>
@@ -780,7 +1275,22 @@
      </xg>
    </mg>
 </e>
-<e>
+  <e>
+   <lg t1="Д" t2="У" t3="Л" uri="14965-dul-smunt-dz" id="14965">
+     <l pos="Ger" type="TODZ">дульсмунтӧдз</l>
+       <l_var type="molodtsov-cyr">ԁуԉсмунтӧԇ</l_var>
+   </lg>
+   <mg relId="0">
+     <tg xml:lang="rus">
+       <t>до потемнения в глазах; до потери сил; выбиваясь из сил</t>
+     </tg>
+     <xg>
+       <x>нывбаба уджаліс вой шӧрӧдз, син дульсмунтӧдз</x>
+       <xt xml:lang="rus">женщина работала до ночи, до потери сил</xt>
+     </xg>
+   </mg>
+</e>
+  <e>
    <lg t1="Д" t2="У" t3="М" uri="14978-dumaijt-m-n" id="14978">
      <l pos="Ger" type="OMON">думайтӧмӧн</l>
        <l_var type="molodtsov-cyr">ԁумајтӧмӧн</l_var>
@@ -795,7 +1305,7 @@
      </xg>
    </mg>
 </e>
-<e>
+  <e>
    <lg t1="Д" t2="У" t3="М" uri="15003-dumyshtt-g" id="15003">
      <l pos="Ger" type="TOG">думышттӧг</l>
        <l_var type="molodtsov-cyr">ԁумышттӧг</l_var>
@@ -811,14 +1321,14 @@
      <xg>
        <x>ыджыд мог думышттӧг решитны</x>
        <xt xml:lang="rus">необдуманно решить важный вопрос</xt>
-     </xg><br />
+     </xg><br/>
      <xg>
        <x>думышттӧг йирӧ эн пырӧй </x>
        <xt xml:lang="rus" src_type="saying:поговорка">не подумав, в омут не бросайтесь</xt>
      </xg>
    </mg>
 </e>
-<e>
+  <e>
    <lg t1="Д" t2="У" t3="М" uri="15008-dumyshtch-m-n" id="15008">
      <l pos="Ger" type="OMON">думыштчӧмӧн</l>
        <l_var type="molodtsov-cyr">ԁумышчӧмӧн</l_var>
@@ -833,7 +1343,7 @@
      </xg>
    </mg>
 </e>
-<e>
+  <e>
    <lg t1="Д" t2="У" t3="М" uri="14997-dumysht-m-n" id="14997">
      <l pos="Ger" type="OMON">думыштӧмӧн</l>
        <l_var type="molodtsov-cyr">ԁумыштӧмӧн</l_var>
@@ -856,7 +1366,49 @@
      </xg>
    </mg>
 </e>
-<e>
+  <e>
+   <lg t1="Д" t2="У" t3="М" uri="14984-dum-n" id="14984">
+     <l pos="Ger" type="MON">думӧн</l>
+       <l_var type="molodtsov-cyr">ԁумӧн</l_var>
+   </lg>
+   <mg relId="0">
+     <tg xml:lang="rus">
+       <t>мысленно; молчаливо; в душе, внутренне</t>
+     </tg>
+     <xg>
+       <x>думӧн дорйыся</x>
+       <xt xml:lang="rus">в душе оправдываюсь</xt>
+     </xg>
+     <xg>
+       <x>думӧн каитчыны</x>
+       <xt xml:lang="rus">мысленно раскаиваться</xt>
+     </xg>
+     <xg>
+       <x>думӧн корны</x>
+       <xt xml:lang="rus">мысленно просить</xt>
+     </xg>
+     <xg>
+       <x>думӧн лӧсьӧдны</x>
+       <xt xml:lang="rus">вообразить</xt>
+     </xg>
+   </mg>
+</e>
+  <e>
+   <lg t1="Д" t2="У" t3="Н" uri="15024-dundyt-dz" id="15024">
+     <l pos="Ger" type="TODZ">дундытӧдз</l>
+       <l_var type="molodtsov-cyr">ԁунԁытӧԇ</l_var>
+   </lg>
+   <mg relId="0">
+     <tg xml:lang="rus">
+       <t pos="Ger"> до вздутия; до отвала</t>
+     </tg>
+     <xg>
+       <x>сан сёйӧма, тыдалӧ, дундытӧдзыс</x>
+       <xt xml:lang="rus">росомаха наелась, видимо, до отвала</xt>
+     </xg>
+   </mg>
+</e>
+  <e>
    <lg t1="Д" t2="Э" t3="Л" uri="15265-del-dchyt-g" id="15265">
      <l pos="Ger" type="TOG">дэльӧдчытӧг</l>
        <l_var type="molodtsov-cyr">ԁеԉӧччытӧг</l_var>
@@ -871,7 +1423,7 @@
      </xg>
    </mg>
 </e>
-<e>
+  <e>
    <lg t1="Д" t2="Э" t3="Л" uri="15253-del-d-m-n" id="15253">
      <l pos="Ger" type="OMON">дэльӧдӧмӧн</l>
        <l_var type="molodtsov-cyr">ԁеԉӧԁӧмӧн</l_var>
@@ -886,7 +1438,7 @@
      </xg>
    </mg>
 </e>
-<e>
+  <e>
    <lg t1="Д" t2="І" t3="В" uri="13685-divz-m-n" id="13685">
      <l pos="Ger" type="OMON">дівзӧмӧн</l>
        <l_var type="molodtsov-cyr">ԁівзӧмӧн</l_var>
@@ -901,7 +1453,18 @@
      </xg>
    </mg>
 </e>
-<e>
+  <e>
+   <lg t1="Д" t2="Ӧ" t3="З" uri="14516-d-zmym-n" id="14516">
+     <l pos="Ger" type="MON">дӧзмымӧн</l>
+       <l_var type="molodtsov-cyr">ԁӧзмымӧн</l_var>
+   </lg>
+   <mg relId="0">
+     <tg xml:lang="rus">
+       <t>до потери терпения</t>
+     </tg>
+   </mg>
+</e>
+  <e>
    <lg t1="Д" t2="Ӧ" t3="З" uri="14522-d-zmyt-g" id="14522">
      <l pos="Ger" type="TOG">дӧзмытӧг</l>
        <l_var type="molodtsov-cyr">ԁӧзмытӧг</l_var>
@@ -920,7 +1483,22 @@
      </xg>
    </mg>
 </e>
-<e>
+  <e>
+   <lg t1="Д" t2="Ӧ" t3="З" uri="14523-d-zmyt-dz" id="14523">
+     <l pos="Ger" type="TODZ">дӧзмытӧдз</l>
+       <l_var type="molodtsov-cyr">ԁӧзмытӧԇ</l_var>
+   </lg>
+   <mg relId="0">
+     <tg xml:lang="rus">
+       <t>до потери терпения; до изнеможения</t>
+     </tg>
+     <xg>
+       <x>дӧзмытӧдз лоӧ корсьны зэрӧм бӧрад косін</x>
+       <xt xml:lang="rus">до изнеможения приходится искать сухое место после дождя</xt>
+     </xg>
+   </mg>
+</e>
+  <e>
    <lg t1="Д" t2="Ӧ" t3="З" uri="14511-d-zm-m-n" id="14511">
      <l pos="Ger" type="OMON">дӧзмӧмӧн</l>
        <l_var type="molodtsov-cyr">ԁӧзмӧмӧн</l_var>
@@ -939,7 +1517,22 @@
      </xg>
    </mg>
 </e>
-<e>
+  <e>
+   <lg t1="Д" t2="Ӧ" t3="Н" uri="14589-d-nz-yt-dz" id="14589">
+     <l pos="Ger" type="TODZ">дӧнзьытӧдз</l>
+       <l_var type="molodtsov-cyr">ԁӧнԅытӧԇ</l_var>
+   </lg>
+   <mg relId="0">
+     <tg xml:lang="rus">
+       <t>до устали; до изнеможения</t>
+     </tg>
+     <xg>
+       <x>дӧнзьытӧдз лои виччысьны</x>
+       <xt xml:lang="rus">до устали пришлось ждать</xt>
+     </xg>
+   </mg>
+</e>
+  <e>
    <lg t1="Ж" t2="А" t3="Л" uri="15784-zhalyaddzat-g" id="15784">
      <l pos="Ger" type="TOG">жаляддзатӧг</l>
        <l_var type="molodtsov-cyr">жаԉаԇԇатӧг</l_var>
@@ -954,7 +1547,22 @@
      </xg>
    </mg>
 </e>
-<e>
+  <e>
+   <lg t1="З" t2="А" t3="В" uri="16524-zavaritm-n" id="16524">
+     <l pos="Ger" type="MON">заваритмӧн</l>
+       <l_var type="molodtsov-cyr">заварітмӧн</l_var>
+   </lg>
+   <mg relId="0">
+     <tg xml:lang="rus">
+       <t>на одну заварку</t>
+     </tg>
+     <xg>
+       <x>чай колис заваритмӧн</x>
+       <xt xml:lang="rus">чая осталось на одну заварку</xt>
+     </xg>
+   </mg>
+</e>
+  <e>
    <lg t1="И" t2="С" t3="Т" uri="18683-ist-g" id="18683">
      <l pos="Ger" type="TOG">истӧг</l>
        <l_var type="molodtsov-cyr">істӧг</l_var>
@@ -982,18 +1590,33 @@
      <xg>
        <x>истӧгыс кӧтасьӧма</x>
        <xt xml:lang="rus">спички промокли</xt>
-     </xg><br />
+     </xg><br/>
      <xg>
        <x>◊ истӧг тув оз берд</x>
        <xt xml:lang="rus"> ничего нет </xt><com>(<acronym title="буквально"><em>букв.</em></acronym> спичка не скроется)</com>
-     </xg><br />
+     </xg><br/>
      <xg>
        <x>◊ истӧг тув поткӧдысь</x>
        <xt xml:lang="rus"> скупец </xt><com>(<acronym title="буквально"><em>букв.</em></acronym> использующий одну спичку два раза)</com>
      </xg>
    </mg>
 </e>
-<e>
+  <e>
+   <lg t1="Й" t2="Ӧ" t3="Й" uri="19127-ij-ijmym-n" id="19127">
+     <l pos="Ger" type="MON">йӧймымӧн</l>
+       <l_var type="molodtsov-cyr">јӧјмымӧн</l_var>
+   </lg>
+   <mg relId="0">
+     <tg xml:lang="rus">
+       <t>до сумасшествия</t>
+     </tg>
+     <xg>
+       <x>йӧймымӧн повзьыны</x>
+       <xt xml:lang="rus">испугаться до сумасшествия</xt>
+     </xg>
+   </mg>
+</e>
+  <e>
    <lg t1="К" t2="А" t3="Б" uri="19335-kabyrtch-m-n" id="19335">
      <l pos="Ger" type="OMON">кабыртчӧмӧн</l>
        <l_var type="molodtsov-cyr">кабырччӧмӧн</l_var>
@@ -1008,7 +1631,7 @@
      </xg>
    </mg>
 </e>
-<e>
+  <e>
    <lg t1="К" t2="А" t3="В" uri="19362-kavshas-m-n" id="19362">
      <l pos="Ger" type="OMON">кавшасьӧмӧн</l>
        <l_var type="molodtsov-cyr">кавшаԍӧмӧн</l_var>
@@ -1023,7 +1646,7 @@
      </xg>
    </mg>
 </e>
-<e>
+  <e>
    <lg t1="К" t2="А" t3="З" uri="19504-kaz-tyvt-g" id="19504">
      <l pos="Ger" type="TOG">казьтывтӧг</l>
        <l_var type="molodtsov-cyr">каԅтывтӧг</l_var>
@@ -1048,7 +1671,7 @@
      </tg>
    </mg>
 </e>
-<e>
+  <e>
    <lg t1="К" t2="А" t3="З" uri="19526-kazyavlyt-g" id="19526">
      <l pos="Ger" type="TOG">казявлытӧг</l>
        <l_var type="molodtsov-cyr">каԅавлытӧг</l_var>
@@ -1067,7 +1690,30 @@
      </xg>
    </mg>
 </e>
-<e>
+  <e>
+   <lg t1="К" t2="А" t3="З" uri="19527-kazyavm-n" id="19527">
+     <l pos="Ger" type="MON">казявмӧн</l>
+       <l_var type="molodtsov-cyr">каԅавмӧн</l_var>
+   </lg>
+   <mg relId="0">
+     <tg xml:lang="rus">
+       <t>заметно</t>
+     </tg>
+     <xg>
+       <x>казявмӧн вежсьыны</x>
+       <xt xml:lang="rus">заметно измениться</xt>
+     </xg>
+     <xg>
+       <x>казявмӧн вынаджык лои</x>
+       <xt xml:lang="rus">стал (он) заметно сильнее</xt>
+     </xg>
+     <xg>
+       <x>муртса казявмӧн довкнитны юрӧн</x>
+       <xt xml:lang="rus">еле заметно кивнуть головой</xt>
+     </xg>
+   </mg>
+</e>
+  <e>
    <lg t1="К" t2="А" t3="Т" uri="20251-katlas-m-n" id="20251">
      <l pos="Ger" type="OMON">катласьӧмӧн</l>
        <l_var type="molodtsov-cyr">катлаԍӧмӧн</l_var>
@@ -1082,7 +1728,7 @@
      </xg>
    </mg>
 </e>
-<e>
+  <e>
    <lg t1="К" t2="А" t3="Т" uri="20263-katl-dl-m-n" id="20263">
      <l pos="Ger" type="OMON">катлӧдлӧмӧн</l>
        <l_var type="molodtsov-cyr">катлӧԁлӧмӧн</l_var>
@@ -1102,7 +1748,7 @@
      </tg>
    </mg>
 </e>
-<e>
+  <e>
    <lg t1="К" t2="А" t3="Ш" uri="20433-kashk-m-n" id="20433">
      <l pos="Ger" type="OMON">кашкӧмӧн</l>
        <l_var type="molodtsov-cyr">кашкӧмӧн</l_var>
@@ -1113,7 +1759,7 @@
      </tg> <sg><s s_type="see">кашкигтыр</s></sg>
    </mg>
 </e>
-<e>
+  <e>
    <lg t1="К" t2="Е" t3="В" uri="20568-kevmys-m-n" id="20568">
      <l pos="Ger" type="OMON">кевмысьӧмӧн</l>
        <l_var type="molodtsov-cyr">кевмыԍӧмӧн</l_var>
@@ -1128,7 +1774,7 @@
      </xg>
    </mg>
 </e>
-<e>
+  <e>
    <lg t1="К" t2="Е" t3="Д" uri="20590-kedzovt-m-n" id="20590">
      <l pos="Ger" type="OMON">кедзовтӧмӧн</l>
        <l_var type="molodtsov-cyr">кеԇовтӧмӧн</l_var>
@@ -1144,7 +1790,7 @@
      </tg>
    </mg>
 </e>
-<e>
+  <e>
    <lg t1="К" t2="Е" t3="Ж" uri="20598-kezhavt-g" id="20598">
      <l pos="Ger" type="TOG">кежавтӧг</l>
        <l_var type="molodtsov-cyr">кежавтӧг</l_var>
@@ -1159,7 +1805,7 @@
      </xg>
    </mg>
 </e>
-<e>
+  <e>
    <lg t1="К" t2="Е" t3="Ж" uri="20645-kezh-m-n" id="20645">
      <l pos="Ger" type="OMON">кежӧмӧн</l>
        <l_var type="molodtsov-cyr">кежӧмӧн</l_var>
@@ -1174,7 +1820,7 @@
      </xg>
    </mg>
 </e>
-<e>
+  <e>
    <lg t1="К" t2="Е" t3="З" uri="20677-keznitch-m-n" id="20677">
      <l pos="Ger" type="OMON">кезнитчӧмӧн</l>
        <l_var type="molodtsov-cyr">кезԋіччӧмӧн</l_var>
@@ -1194,7 +1840,7 @@
      </xg>
    </mg>
 </e>
-<e>
+  <e>
    <lg t1="К" t2="Е" t3="К" uri="20715-kekurvidz-m-n" id="20715">
      <l pos="Ger" type="OMON">кекурвидзӧмӧн</l>
        <l_var type="molodtsov-cyr">кекурвіԇӧмӧн</l_var>
@@ -1209,7 +1855,7 @@
      </xg>
    </mg>
 </e>
-<e>
+  <e>
    <lg t1="К" t2="Е" t3="К" uri="20717-kekurtch-m-n" id="20717">
      <l pos="Ger" type="OMON">кекуртчӧмӧн</l>
        <l_var type="molodtsov-cyr">кекурччӧмӧн</l_var>
@@ -1220,7 +1866,37 @@
      </tg> <sg><s s_type="see">кекурвидзӧмӧн</s></sg>
    </mg>
 </e>
-<e>
+  <e>
+   <lg t1="К" t2="Е" t3="Л" uri="20744-kel-d-dm-n" id="20744">
+     <l pos="Ger" type="MON">кельдӧдмӧн</l>
+       <l_var type="molodtsov-cyr">кеԉԁӧԁмӧн</l_var>
+   </lg>
+   <mg relId="0">
+     <tg xml:lang="rus">
+       <t>до побледнения; добела</t>
+     </tg>
+     <xg>
+       <x>кельдӧдмӧн чабыртны кулак</x>
+       <xt xml:lang="rus">сжать кулак до побледнения</xt>
+     </xg>
+   </mg>
+</e>
+  <e>
+   <lg t1="К" t2="Е" t3="Л" uri="20752-kel-d-dt-dz" id="20752">
+     <l pos="Ger" type="TODZ">кельдӧдтӧдз</l>
+       <l_var type="molodtsov-cyr">кеԉԁӧттӧԇ</l_var>
+   </lg>
+   <mg relId="0">
+     <tg xml:lang="rus">
+       <t>добела; до побледнения; до посветления</t>
+     </tg>
+     <xg>
+       <x>кельдӧдтӧдз донӧдӧм шонді</x>
+       <xt xml:lang="rus">добела раскалённое солнце</xt>
+     </xg>
+   </mg>
+</e>
+  <e>
    <lg t1="К" t2="Е" t3="Л" uri="20733-kel-d-m-n" id="20733">
      <l pos="Ger" type="OMON">келӧдӧмӧн</l>
        <l_var type="molodtsov-cyr">келӧԁӧмӧн</l_var>
@@ -1235,7 +1911,7 @@
      </xg>
    </mg>
 </e>
-<e>
+  <e>
    <lg t1="К" t2="Е" t3="Л" uri="20735-kel-m-n" id="20735">
      <l pos="Ger" type="OMON">келӧмӧн</l>
        <l_var type="molodtsov-cyr">келӧмӧн</l_var>
@@ -1254,7 +1930,7 @@
      </xg>
    </mg>
 </e>
-<e>
+  <e>
    <lg t1="К" t2="И" t3="А" uri="21017-kias-t-g" id="21017">
      <l pos="Ger" type="TOG">киасьтӧг</l>
        <l_var type="molodtsov-cyr">кіаԍтӧг</l_var>
@@ -1265,7 +1941,7 @@
      </tg>
    </mg>
 </e>
-<e>
+  <e>
    <lg t1="К" t2="И" t3="А" uri="21016-kias-m-n" id="21016">
      <l pos="Ger" type="OMON">киасьӧмӧн</l>
        <l_var type="molodtsov-cyr">кіаԍӧмӧн</l_var>
@@ -1280,7 +1956,7 @@
      </xg>
    </mg>
 </e>
-<e>
+  <e>
    <lg t1="К" t2="И" t3="З" uri="21102-kizyavt-g" id="21102">
      <l pos="Ger" type="TOG">кизявтӧг</l>
        <l_var type="molodtsov-cyr">кіԅавтӧг</l_var>
@@ -1295,7 +1971,7 @@
      </xg>
    </mg>
 </e>
-<e>
+  <e>
    <lg t1="К" t2="И" t3="З" uri="21107-kizyal-m-n" id="21107">
      <l pos="Ger" type="OMON">кизялӧмӧн</l>
        <l_var type="molodtsov-cyr">кіԅалӧмӧн</l_var>
@@ -1310,7 +1986,7 @@
      </xg>
    </mg>
 </e>
-<e>
+  <e>
    <lg t1="К" t2="И" t3="З" uri="21113-kizyas-t-g" id="21113">
      <l pos="Ger" type="TOG">кизясьтӧг</l>
        <l_var type="molodtsov-cyr">кіԅаԍтӧг</l_var>
@@ -1325,7 +2001,7 @@
      </xg>
    </mg>
 </e>
-<e>
+  <e>
    <lg t1="К" t2="И" t3="К" uri="21151-kikurvidz-m-n" id="21151">
      <l pos="Ger" type="OMON">кикурвидзӧмӧн</l>
        <l_var type="molodtsov-cyr">кікурвіԇӧмӧн</l_var> <rg><r range_space="dialect"/></rg>
@@ -1336,7 +2012,18 @@
      </tg>
    </mg>
 </e>
-<e>
+  <e>
+   <lg t1="К" t2="И" t3="Л" uri="21235-kil-kuvt-dz" id="21235">
+     <l pos="Ger" type="TODZ">килькувтӧдз</l>
+       <l_var type="molodtsov-cyr">кіԉкувтӧԇ</l_var>
+   </lg>
+   <mg relId="0">
+     <tg xml:lang="rus">
+       <t pos="Ger"> до отчаяния; отчаявшись</t>
+     </tg>
+   </mg>
+</e>
+  <e>
    <lg t1="К" t2="И" t3="Р" uri="21360-kirg-m-n" id="21360">
      <l pos="Ger" type="OMON">киргӧмӧн</l>
        <l_var type="molodtsov-cyr">кіргӧмӧн</l_var>
@@ -1351,7 +2038,7 @@
      </xg>
    </mg>
 </e>
-<e>
+  <e>
    <lg t1="К" t2="И" t3="С" uri="21482-kis-t-g" id="21482">
      <l pos="Ger" type="TOG">кисьтӧг</l>
        <l_var type="molodtsov-cyr">кіԍтӧг</l_var>
@@ -1362,12 +2049,12 @@
      </tg>
    </mg>
 </e>
-<e>
+  <e>
    <lg t1="К" t2="И" t3="Т" uri="21501-kit-g-podt-g" id="21501">
      <l pos="Ger" type="TOG">китӧг-подтӧг</l>
        <l_var type="molodtsov-cyr">кітӧг-поттӧг</l_var>
    </lg>
-   <mg relId="0"><span class="underline">употребляется лишь в составе выражений:</span><br />
+   <mg relId="0"><span class="underline">употребляется лишь в составе выражений:</span><br/>
      <xg>
        <x>китӧг-подтӧг котӧртны</x>
        <xt xml:lang="rus">торопливо бежать</xt>
@@ -1378,7 +2065,7 @@
      </xg>
    </mg>
 </e>
-<e>
+  <e>
    <lg t1="К" t2="Л" t3="О" uri="21687-klopk-m-n" id="21687">
      <l pos="Ger" type="OMON">клопкӧмӧн</l>
        <l_var type="molodtsov-cyr">клопкӧмӧн</l_var>
@@ -1393,7 +2080,7 @@
      </xg>
    </mg>
 </e>
-<e>
+  <e>
    <lg t1="К" t2="О" t3="В" uri="21894-kovt-g" id="21894">
      <l pos="Ger" type="TOG">ковтӧг</l>
        <l_var type="molodtsov-cyr">ковтӧг</l_var>
@@ -1429,7 +2116,52 @@
      </xg>
    </mg>
 </e>
-<e>
+  <e>
+   <lg t1="К" t2="О" t3="Д" uri="21966-koddzym-n" id="21966">
+     <l pos="Ger" type="MON">коддзымӧн</l>
+       <l_var type="molodtsov-cyr">коԇԇымӧн</l_var>
+   </lg>
+   <mg relId="0">
+     <tg xml:lang="rus">
+       <t>допьяна</t>
+     </tg>
+     <xg>
+       <x>коддзымӧн оз ю</x>
+       <xt xml:lang="rus">допьяна не пьёт</xt>
+     </xg>
+   </mg>
+</e>
+  <e>
+   <lg t1="К" t2="О" t3="Д" uri="21970-koddzyt-dz" id="21970">
+     <l pos="Ger" type="TODZ">коддзытӧдз</l>
+       <l_var type="molodtsov-cyr">коԇԇытӧԇ</l_var>
+   </lg>
+   <mg relId="0"> <sg><s s_type="see">коддзӧдмӧн</s></sg>
+     <tg xml:lang="rus">
+       <t>; <xref link="коддзымӧн"> коддзымӧн</xref></t>
+     </tg>
+     <xg>
+       <x>коддзытӧдз юны</x>
+       <xt xml:lang="rus">напиться допьяна</xt>
+     </xg>
+   </mg>
+</e>
+  <e>
+   <lg t1="К" t2="О" t3="Д" uri="21955-koddz-dm-n" id="21955">
+     <l pos="Ger" type="MON">коддзӧдмӧн</l>
+       <l_var type="molodtsov-cyr">коԇԇӧԁмӧн</l_var>
+   </lg>
+   <mg relId="0">
+     <tg xml:lang="rus">
+       <t>допьяна</t>
+     </tg>
+     <xg>
+       <x>коддзӧдмӧн юктӧдны</x>
+       <xt xml:lang="rus">напоить допьяна</xt>
+     </xg>
+   </mg>
+</e>
+  <e>
    <lg t1="К" t2="О" t3="Д" uri="21993-kodzl-dl-m-n" id="21993">
      <l pos="Ger" type="OMON">кодзлӧдлӧмӧн</l>
        <l_var type="molodtsov-cyr">коԇлӧԁлӧмӧн</l_var>
@@ -1444,7 +2176,7 @@
      </xg>
    </mg>
 </e>
-<e>
+  <e>
    <lg t1="К" t2="О" t3="Д" uri="22036-kodijys-m-n" id="22036">
      <l pos="Ger" type="OMON">кодйысьӧмӧн</l>
        <l_var type="molodtsov-cyr">коԁјыԍӧмӧн</l_var>
@@ -1468,7 +2200,7 @@
      </xg>
    </mg>
 </e>
-<e>
+  <e>
    <lg t1="К" t2="О" t3="Й" uri="22144-koij-m-n" id="22144">
      <l pos="Ger" type="OMON">койӧмӧн</l>
        <l_var type="molodtsov-cyr">којӧмӧн</l_var>
@@ -1497,7 +2229,7 @@
      </tg>
    </mg>
 </e>
-<e>
+  <e>
    <lg t1="К" t2="О" t3="К" uri="22357-kokchunyas-m-n" id="22357">
      <l pos="Ger" type="OMON">кокчунясьӧмӧн</l>
        <l_var type="molodtsov-cyr">кокчуԋаԍӧмӧн</l_var>
@@ -1508,7 +2240,7 @@
      </tg>
    </mg>
 </e>
-<e>
+  <e>
    <lg t1="К" t2="О" t3="Л" uri="22446-koll-dt-g" id="22446">
      <l pos="Ger" type="TOG">колльӧдтӧг</l>
        <l_var type="molodtsov-cyr">коԉԉӧттӧг</l_var>
@@ -1524,7 +2256,7 @@
      </tg>
    </mg>
 </e>
-<e>
+  <e>
    <lg t1="К" t2="О" t3="Л" uri="22634-kol-chchyvt-g" id="22634">
      <l pos="Ger" type="TOG">кольччывтӧг</l>
        <l_var type="molodtsov-cyr">коԉччывтӧг</l_var>
@@ -1539,7 +2271,7 @@
      </xg>
    </mg>
 </e>
-<e>
+  <e>
    <lg t1="К" t2="О" t3="Л" uri="22653-kolyavt-g" id="22653">
      <l pos="Ger" type="TOG">колявтӧг</l>
        <l_var type="molodtsov-cyr">коԉавтӧг</l_var>
@@ -1563,7 +2295,7 @@
      </xg>
    </mg>
 </e>
-<e>
+  <e>
    <lg t1="К" t2="О" t3="С" uri="23274-kosavl-m-n" id="23274">
      <l pos="Ger" type="OMON">косавлӧмӧн</l>
        <l_var type="molodtsov-cyr">косавлӧмӧн</l_var>
@@ -1578,7 +2310,7 @@
      </xg>
    </mg>
 </e>
-<e>
+  <e>
    <lg t1="К" t2="О" t3="С" uri="23359-kostavlyt-g" id="23359">
      <l pos="Ger" type="TOG">коставлытӧг</l>
        <l_var type="molodtsov-cyr">коставлытӧг</l_var>
@@ -1606,7 +2338,7 @@
      </xg>
    </mg>
 </e>
-<e>
+  <e>
    <lg t1="К" t2="О" t3="С" uri="23356-kostavl-m-n" id="23356">
      <l pos="Ger" type="OMON">коставлӧмӧн</l>
        <l_var type="molodtsov-cyr">коставлӧмӧн</l_var>
@@ -1630,7 +2362,7 @@
      </xg>
    </mg>
 </e>
-<e>
+  <e>
    <lg t1="К" t2="О" t3="С" uri="23380-kost-dl-m-n" id="23380">
      <l pos="Ger" type="OMON">костӧдлӧмӧн</l>
        <l_var type="molodtsov-cyr">костӧԁлӧмӧн</l_var>
@@ -1645,7 +2377,22 @@
      </xg>
    </mg>
 </e>
-<e>
+  <e>
+   <lg t1="К" t2="О" t3="С" uri="23473-kosyavm-n" id="23473">
+     <l pos="Ger" type="MON">косявмӧн</l>
+       <l_var type="molodtsov-cyr">коԍавмӧн</l_var>
+   </lg>
+   <mg relId="0">
+     <tg xml:lang="rus">
+       <t>до рези; до звона <em>(в ушах)</em></t>
+     </tg>
+     <xg>
+       <x>пельяс косявмӧн чилзыны</x>
+       <xt xml:lang="rus">визжать до звона в ушах</xt>
+     </xg>
+   </mg>
+</e>
+  <e>
    <lg t1="К" t2="О" t3="Т" uri="23588-kotshk-dchyt-g" id="23588">
      <l pos="Ger" type="TOG">котшкӧдчытӧг</l>
        <l_var type="molodtsov-cyr">кощкӧччытӧг</l_var>
@@ -1660,7 +2407,52 @@
      </xg>
    </mg>
 </e>
-<e>
+  <e>
+   <lg t1="К" t2="О" t3="Ч" uri="23653-kochkavm-n" id="23653">
+     <l pos="Ger" type="MON">кочкавмӧн</l>
+       <l_var type="molodtsov-cyr">кочкавмӧн</l_var>
+   </lg>
+   <mg relId="0">
+     <tg xml:lang="rus">
+       <t>до колик</t>
+     </tg>
+     <xg>
+       <x>кочкавмӧн серавны</x>
+       <xt xml:lang="rus">смеяться до колик</xt>
+     </xg>
+   </mg>
+</e>
+  <e>
+   <lg t1="К" t2="О" t3="Ч" uri="23657-kochkavt-dz" id="23657">
+     <l pos="Ger" type="TODZ">кочкавтӧдз</l>
+       <l_var type="molodtsov-cyr">кочкавтӧԇ</l_var>
+   </lg>
+   <mg relId="0">
+     <tg xml:lang="rus">
+       <t>до колик</t>
+     </tg>
+     <xg>
+       <x>кочкавтӧдз копрасьны</x>
+       <xt xml:lang="rus">кланяться до колик</xt>
+     </xg>
+     <xg>
+       <x>кочкавтӧдз серавны</x>
+       <xt xml:lang="rus">смеяться до колик</xt>
+     </xg>
+   </mg>
+</e>
+  <e>
+   <lg t1="К" t2="О" t3="Я" uri="23684-koyavm-n" id="23684">
+     <l pos="Ger" type="MON">коявмӧн</l>
+       <l_var type="molodtsov-cyr">којавмӧн</l_var>
+   </lg>
+   <mg relId="0">
+     <tg xml:lang="rus">
+       <t>достаточный, чтобы можно было отливать, разбрасывать</t>
+     </tg>
+   </mg>
+</e>
+  <e>
    <lg t1="К" t2="Р" t3="У" uri="24931-krukas-lyt-g" id="24931">
      <l pos="Ger" type="TOG">крукасьлытӧг</l>
        <l_var type="molodtsov-cyr">крукаԍлытӧг</l_var>
@@ -1675,7 +2467,58 @@
      </xg>
    </mg>
 </e>
-<e>
+  <e>
+   <lg t1="К" t2="У" t3="В" uri="25050-kuvm-n" id="25050">
+     <l pos="Ger" type="MON">кувмӧн</l>
+       <l_var type="molodtsov-cyr">кувмӧн</l_var>
+   </lg>
+   <mg relId="0">
+     <tg xml:lang="rus">
+       <t>смертельно, насмерть, до́ смерти</t>
+     </tg>
+     <xg>
+       <x>кувмӧн доймыны</x>
+       <xt xml:lang="rus">расшибиться насмерть</xt>
+     </xg>
+     <xg>
+       <x>кувмӧн жугавны</x>
+       <xt xml:lang="rus">разбиться насмерть</xt>
+     </xg>
+     <xg>
+       <x>кувмӧн окота</x>
+       <xt xml:lang="rus">до смерти хочется; сильно хочется</xt>
+     </xg>
+     <xg>
+       <x>◊ кувмӧн колӧ тӧдны</x>
+       <xt xml:lang="rus">сгорать от любопытства</xt>
+     </xg>
+   </mg>
+</e>
+  <e>
+   <lg t1="К" t2="У" t3="В" uri="25065-kuvt-dz" id="25065">
+     <l pos="Ger" type="TODZ">кувтӧдз</l>
+       <l_var type="molodtsov-cyr">кувтӧԇ</l_var>
+   </lg>
+   <mg relId="0"> <sg><s s_type="see">кувмӧн</s></sg>
+     <tg xml:lang="rus">
+       <t/>
+     </tg>
+   </mg>
+   <mg relId="1">
+     <tg xml:lang="rus">
+       <t>до смерти; пока не умрёшь; до гробовой доски</t>
+     </tg>
+     <xg>
+       <x>шулӧны: дыр кӧ кутан узьны, кувтӧдзыд водзӧса лоан йӧзлы</x>
+       <xt xml:lang="rus">говорят: если долго будешь спать, до самой смерти будешь в долгу перед людьми</xt>
+     </xg>
+     <xg>
+       <x>◊ кувтӧдз колӧ</x>
+       <xt xml:lang="rus">позарез нужно; до́ смерти хочется</xt>
+     </xg>
+   </mg>
+</e>
+  <e>
    <lg t1="К" t2="У" t3="Ж" uri="25133-kuzht-g" id="25133">
      <l pos="Ger" type="TOG">кужтӧг</l>
        <l_var type="molodtsov-cyr">кужтӧг</l_var>
@@ -1690,7 +2533,7 @@
      </xg>
    </mg>
 </e>
-<e>
+  <e>
    <lg t1="К" t2="У" t3="Ж" uri="25131-kuzh-m-n" id="25131">
      <l pos="Ger" type="OMON">кужӧмӧн</l>
        <l_var type="molodtsov-cyr">кужӧмӧн</l_var>
@@ -1709,7 +2552,22 @@
      </xg>
    </mg>
 </e>
-<e>
+  <e>
+   <lg t1="К" t2="У" t3="И" uri="25220-kuim-n" id="25220">
+     <l pos="Ger" type="MON">куимӧн</l>
+       <l_var type="molodtsov-cyr">куімӧн</l_var>
+   </lg>
+   <mg relId="0">
+     <tg xml:lang="rus">
+       <t>втроём</t>
+     </tg>
+     <xg>
+       <x>ми вӧлім куимӧн</x>
+       <xt xml:lang="rus">мы были втроём</xt>
+     </xg>
+   </mg>
+</e>
+  <e>
    <lg t1="К" t2="У" t3="Й" uri="25246-kuijl-m-n" id="25246">
      <l pos="Ger" type="OMON">куйлӧмӧн</l>
        <l_var type="molodtsov-cyr">кујлӧмӧн</l_var>
@@ -1717,18 +2575,18 @@
    <mg relId="0">
      <tg xml:lang="rus">
        <t pos="Ger"> лёжа</t>
-     </tg><br />
+     </tg><br/>
      <xg>
        <x>куйлӧмӧн кынӧмыд оз пӧт </x>
        <xt xml:lang="rus" src_type="saying:поговорка">лёжа не прокормишься</xt>
-     </xg><br />
+     </xg><br/>
      <xg>
        <x>◊ куйлӧмӧн куйлыны</x>
        <xt xml:lang="rus">лежнем лежать</xt>
      </xg>
    </mg>
 </e>
-<e>
+  <e>
    <lg t1="К" t2="У" t3="Й" uri="25260-kuij-davt-g" id="25260">
      <l pos="Ger" type="TOG">куйӧдавтӧг</l>
        <l_var type="molodtsov-cyr">кујӧԁавтӧг</l_var>
@@ -1747,7 +2605,33 @@
      </xg>
    </mg>
 </e>
-<e>
+  <e>
+   <lg t1="К" t2="У" t3="Й" uri="25262-kuij-davt-dz" id="25262">
+     <l pos="Ger" type="TODZ">куйӧдавтӧдз</l>
+       <l_var type="molodtsov-cyr">кујӧԁавтӧԇ</l_var>
+   </lg>
+   <mg relId="0">
+     <tg xml:lang="rus">
+       <t pos="Ger"> до внесения навоза</t>
+     </tg>
+   </mg>
+</e>
+  <e>
+   <lg t1="К" t2="У" t3="Л" uri="25410-kul-myt-dz" id="25410">
+     <l pos="Ger" type="TODZ">кульмытӧдз</l>
+       <l_var type="molodtsov-cyr">куԉмытӧԇ</l_var>
+   </lg>
+   <mg relId="0">
+     <tg xml:lang="rus">
+       <t pos="Ger"> до нереста</t>
+     </tg>
+     <xg>
+       <x>чери кульмытӧдз кыйсьыны оз ков</x>
+       <xt xml:lang="rus">нельзя ловить рыбу до нереста</xt>
+     </xg>
+   </mg>
+</e>
+  <e>
    <lg t1="К" t2="У" t3="Р" uri="25745-kurchchyshtal-m-n" id="25745">
      <l pos="Ger" type="OMON">курччышталӧмӧн</l>
        <l_var type="molodtsov-cyr">курччышталӧмӧн</l_var>
@@ -1762,7 +2646,7 @@
      </xg>
    </mg>
 </e>
-<e>
+  <e>
    <lg t1="К" t2="У" t3="С" uri="25806-kusnyas-m-n" id="25806">
      <l pos="Ger" type="OMON">куснясьӧмӧн</l>
        <l_var type="molodtsov-cyr">кусԋаԍӧмӧн</l_var>
@@ -1777,7 +2661,7 @@
      </xg>
    </mg>
 </e>
-<e>
+  <e>
    <lg t1="К" t2="У" t3="С" uri="25864-kusyn-tch-m-n" id="25864">
      <l pos="Ger" type="OMON">кусыньтчӧмӧн</l>
        <l_var type="molodtsov-cyr">кусыԋччӧмӧн</l_var>
@@ -1792,7 +2676,7 @@
      </xg>
    </mg>
 </e>
-<e>
+  <e>
    <lg t1="К" t2="У" t3="Т" uri="25912-kutkyrtch-m-n" id="25912">
      <l pos="Ger" type="OMON">куткыртчӧмӧн</l>
        <l_var type="molodtsov-cyr">куткырччӧмӧн</l_var>
@@ -1807,7 +2691,7 @@
      </xg>
    </mg>
 </e>
-<e>
+  <e>
    <lg t1="К" t2="У" t3="Т" uri="25953-kutchys-t-g" id="25953">
      <l pos="Ger" type="TOG">кутчысьтӧг</l>
        <l_var type="molodtsov-cyr">куччыԍтӧг</l_var>
@@ -1826,7 +2710,7 @@
      </xg>
    </mg>
 </e>
-<e>
+  <e>
    <lg t1="К" t2="У" t3="Т" uri="25952-kutchys-m-n" id="25952">
      <l pos="Ger" type="OMON">кутчысьӧмӧн</l>
        <l_var type="molodtsov-cyr">куччыԍӧмӧн</l_var>
@@ -1858,7 +2742,7 @@
      </xg>
    </mg>
 </e>
-<e>
+  <e>
    <lg t1="К" t2="У" t3="Ч" uri="26042-kuchkal-m-n" id="26042">
      <l pos="Ger" type="OMON">кучкалӧмӧн</l>
        <l_var type="molodtsov-cyr">кучкалӧмӧн</l_var>
@@ -1873,7 +2757,7 @@
      </xg>
    </mg>
 </e>
-<e>
+  <e>
    <lg t1="К" t2="Ы" t3="В" uri="26194-kyvzys-t-g" id="26194">
      <l pos="Ger" type="TOG">кывзысьтӧг</l>
        <l_var type="molodtsov-cyr">кывзыԍтӧг</l_var>
@@ -1893,7 +2777,7 @@
      </tg>
    </mg>
 </e>
-<e>
+  <e>
    <lg t1="К" t2="Ы" t3="В" uri="26191-kyvzys-m-n" id="26191">
      <l pos="Ger" type="OMON">кывзысьӧмӧн</l>
        <l_var type="molodtsov-cyr">кывзыԍӧмӧн</l_var>
@@ -1917,7 +2801,7 @@
      </xg>
    </mg>
 </e>
-<e>
+  <e>
    <lg t1="К" t2="Ы" t3="В" uri="26224-kyvkutt-g" id="26224">
      <l pos="Ger" type="TOG">кывкуттӧг</l>
        <l_var type="molodtsov-cyr">кывкуттӧг</l_var>
@@ -1932,7 +2816,47 @@
      </xg>
    </mg>
 </e>
-<e>
+  <e>
+   <lg t1="К" t2="Ы" t3="В" uri="26262-kyvm-n" id="26262">
+     <l pos="Ger" type="MON">кывмӧн</l>
+       <l_var type="molodtsov-cyr">кывмӧн</l_var>
+   </lg>
+   <mg relId="0"><strong>кывмӧн, кывмӧнъя</strong><br/>
+     <tg xml:lang="rus">
+       <t>1. вслух; громко; слышно; явно, не таясь</t>
+     </tg>
+     <xg>
+       <x>кывмӧн вашкӧдчыны</x>
+       <xt xml:lang="rus">шептаться не таясь</xt>
+     </xg>
+     <xg>
+       <x>йӧзлы кывмӧн</x>
+       <xt xml:lang="rus">вслух</xt>
+     </xg>
+     <xg>
+       <x>кывмӧн сьывны</x>
+       <xt xml:lang="rus">громко петь</xt>
+     </xg>
+     <xg>
+       <x>кывмӧн ышловзьыны</x>
+       <xt xml:lang="rus">громко вздохнуть</xt>
+     </xg>
+   </mg>
+   <mg relId="1">
+     <tg xml:lang="rus">
+       <t>отчётливо, разборчиво, внятно</t>
+     </tg>
+     <xg>
+       <x>муртса кывмӧн</x>
+       <xt xml:lang="rus">невнятно</xt>
+     </xg>
+     <xg>
+       <x>кывмӧн лыддьы</x>
+       <xt xml:lang="rus">разборчиво читай</xt>
+     </xg>
+   </mg>
+</e>
+  <e>
    <lg t1="К" t2="Ы" t3="Л" uri="26654-kyl-dch-m-n" id="26654">
      <l pos="Ger" type="OMON">кылӧдчӧмӧн</l>
        <l_var type="molodtsov-cyr">кылӧччӧмӧн</l_var>
@@ -1947,7 +2871,41 @@
      </xg>
    </mg>
 </e>
-<e>
+  <e>
+   <lg t1="К" t2="Ы" t3="Л" uri="26668-kyl-n-vom-n" id="26668">
+     <l pos="Ger" type="MON">кылӧн-вомӧн</l>
+       <l_var type="molodtsov-cyr">кылӧн-вомӧн</l_var>
+   </lg>
+   <mg relId="0">
+     <tg xml:lang="rus">
+       <t>толком, ясно</t>
+     </tg>
+     <xg>
+       <x>кылӧн-вомӧн велӧдны</x>
+       <xt xml:lang="rus">научить толком</xt>
+     </xg>
+     <xg>
+       <x>тэныд вӧлі кылӧн-вомӧн шуӧма</x>
+       <xt xml:lang="rus">тебе ясно было сказано</xt>
+     </xg>
+   </mg>
+</e>
+  <e>
+   <lg t1="К" t2="Ы" t3="Н" uri="26774-kynmyt-dz" id="26774">
+     <l pos="Ger" type="TODZ">кынмытӧдз</l>
+       <l_var type="molodtsov-cyr">кынмытӧԇ</l_var>
+   </lg>
+   <mg relId="0">
+     <tg xml:lang="rus">
+       <t>до замерзания</t>
+     </tg>
+     <xg>
+       <x>кынмытӧдз сулавны да виччысьны</x>
+       <xt xml:lang="rus">стоять и ждать, пока не замёрз</xt>
+     </xg>
+   </mg>
+</e>
+  <e>
    <lg t1="К" t2="Ы" t3="Н" uri="26819-kyn-ks-d-m-n" id="26819">
      <l pos="Ger" type="OMON">кыньксьӧдӧмӧн</l>
        <l_var type="molodtsov-cyr">кыԋкԍӧԁӧмӧн</l_var>
@@ -1962,7 +2920,7 @@
      </xg>
    </mg>
 </e>
-<e>
+  <e>
    <lg t1="К" t2="Ы" t3="П" uri="26859-kypmun-m-n" id="26859">
      <l pos="Ger" type="OMON">кыпмунӧмӧн</l>
        <l_var type="molodtsov-cyr">кыпмунӧмӧн</l_var>
@@ -1977,7 +2935,7 @@
      </xg>
    </mg>
 </e>
-<e>
+  <e>
    <lg t1="К" t2="Ы" t3="С" uri="27058-kyskas-m-n" id="27058">
      <l pos="Ger" type="OMON">кыскасьӧмӧн</l>
        <l_var type="molodtsov-cyr">кыскаԍӧмӧн</l_var>
@@ -2001,7 +2959,45 @@
      </xg>
    </mg>
 </e>
-<e>
+  <e>
+   <lg t1="К" t2="Ы" t3="С" uri="27071-kyskym-n" id="27071">
+     <l pos="Ger" type="MON">кыскымӧн</l>
+       <l_var type="molodtsov-cyr">кыскымӧн</l_var>
+   </lg>
+   <mg relId="0">
+     <tg xml:lang="rus">
+       <t>столько, чтобы нести, везти</t>
+     </tg>
+     <xg>
+       <x>бадьсӧ кыскымӧн кераліс</x>
+       <xt xml:lang="rus">нарубил ивы столько, чтобы нести на себе</xt>
+     </xg>
+     <xg>
+       <x>вӧвлы кыскымӧн</x>
+       <xt xml:lang="rus">столько, чтобы везти на лошади</xt>
+     </xg>
+     <xg>
+       <x>кыкӧн кыскымӧн вылӧ тырмас</x>
+       <xt xml:lang="rus">хватит, чтобы нести вдвоём</xt>
+     </xg>
+     <xg>
+       <x>ӧтчыд кыскымӧн</x>
+       <xt xml:lang="rus">на одну возку</xt>
+     </xg>
+   </mg>
+</e>
+  <e>
+   <lg t1="К" t2="Ы" t3="С" uri="27089-kyskyshtm-n" id="27089">
+     <l pos="Ger" type="MON">кыскыштмӧн</l>
+       <l_var type="molodtsov-cyr">кыскыштмӧн</l_var>
+   </lg>
+   <mg relId="0">
+     <tg xml:lang="rus">
+       <t>на одну затяжку, на один глоток табачного дыма</t>
+     </tg>
+   </mg>
+</e>
+  <e>
    <lg t1="К" t2="Ы" t3="С" uri="27070-kysk-m-n" id="27070">
      <l pos="Ger" type="OMON">кыскӧмӧн</l>
        <l_var type="molodtsov-cyr">кыскӧмӧн</l_var>
@@ -2016,7 +3012,7 @@
      </xg>
    </mg>
 </e>
-<e>
+  <e>
    <lg t1="К" t2="Ы" t3="Т" uri="27195-kytshlavt-g" id="27195">
      <l pos="Ger" type="TOG">кытшлавтӧг</l>
        <l_var type="molodtsov-cyr">кыщлавтӧг</l_var>
@@ -2031,7 +3027,7 @@
      </xg>
    </mg>
 </e>
-<e>
+  <e>
    <lg t1="К" t2="Ы" t3="Т" uri="27199-kytshlal-m-n" id="27199">
      <l pos="Ger" type="OMON">кытшлалӧмӧн</l>
        <l_var type="molodtsov-cyr">кыщлалӧмӧн</l_var>
@@ -2055,7 +3051,7 @@
      </xg>
    </mg>
 </e>
-<e>
+  <e>
    <lg t1="К" t2="Ы" t3="Т" uri="27210-kytshl-dlyt-g" id="27210">
      <l pos="Ger" type="TOG">кытшлӧдлытӧг</l>
        <l_var type="molodtsov-cyr">кыщлӧԁлытӧг</l_var>
@@ -2070,7 +3066,7 @@
      </xg>
    </mg>
 </e>
-<e>
+  <e>
    <lg t1="К" t2="Ы" t3="Т" uri="27208-kytshl-dl-m-n" id="27208">
      <l pos="Ger" type="OMON">кытшлӧдлӧмӧн</l>
        <l_var type="molodtsov-cyr">кыщлӧԁлӧмӧн</l_var>
@@ -2094,7 +3090,7 @@
      </xg>
    </mg>
 </e>
-<e>
+  <e>
    <lg t1="К" t2="Ы" t3="Т" uri="27232-kytshovt-m-n" id="27232">
      <l pos="Ger" type="OMON">кытшовтӧмӧн</l>
        <l_var type="molodtsov-cyr">кыщовтӧмӧн</l_var>
@@ -2122,7 +3118,7 @@
      </xg>
    </mg>
 </e>
-<e>
+  <e>
    <lg t1="К" t2="Ӧ" t3="В" uri="23719-k-vknit-m-n" id="23719">
      <l pos="Ger" type="OMON">кӧвкнитӧмӧн</l>
        <l_var type="molodtsov-cyr">кӧвкԋітӧмӧн</l_var>
@@ -2137,7 +3133,7 @@
      </xg>
    </mg>
 </e>
-<e>
+  <e>
    <lg t1="Л" t2="А" t3="Д" uri="27448-ladt-g" id="27448">
      <l pos="Ger" type="TOG">ладтӧг</l>
        <l_var type="molodtsov-cyr">латтӧг</l_var>
@@ -2152,7 +3148,7 @@
      </xg>
    </mg>
 </e>
-<e>
+  <e>
    <lg t1="Л" t2="А" t3="Н" uri="27660-lan-t-m-n" id="27660">
      <l pos="Ger" type="OMON">ланьтӧмӧн</l>
        <l_var type="molodtsov-cyr">лаԋтӧмӧн</l_var>
@@ -2175,7 +3171,7 @@
      </xg>
    </mg>
 </e>
-<e>
+  <e>
    <lg t1="Л" t2="И" t3="Ч" uri="28473-lichledzlyt-g" id="28473">
      <l pos="Ger" type="TOG">личлэдзлытӧг</l>
        <l_var type="molodtsov-cyr">ԉічлеԇлытӧг</l_var>
@@ -2202,7 +3198,7 @@
      </xg>
    </mg>
 </e>
-<e>
+  <e>
    <lg t1="Л" t2="И" t3="Ч" uri="28484-lichledzchys-m-n" id="28484">
      <l pos="Ger" type="OMON">личлэдзчысьӧмӧн</l>
        <l_var type="molodtsov-cyr">ԉічлеччыԍӧмӧн</l_var>
@@ -2213,7 +3209,33 @@
      </tg>
    </mg>
 </e>
-<e>
+  <e>
+   <lg t1="Л" t2="И" t3="Ш" uri="28509-lishavm-n" id="28509">
+     <l pos="Ger" type="MON">лишавмӧн</l>
+       <l_var type="molodtsov-cyr">ԉішавмӧн</l_var>
+   </lg>
+   <mg relId="0">
+     <tg xml:lang="rus">
+       <t>в избытке, с избытком</t>
+     </tg>
+     <xg>
+       <x>нянь миян лишавмӧн</x>
+       <xt xml:lang="rus">хлеб у нас в избытке</xt>
+     </xg>
+   </mg>
+</e>
+  <e>
+   <lg t1="Л" t2="О" t3="М" uri="28723-lomtym-n" id="28723">
+     <l pos="Ger" type="MON">ломтымӧн</l>
+       <l_var type="molodtsov-cyr">ломтымӧн</l_var>
+   </lg>
+   <mg relId="0"> <sg><s s_type="see">ломтысьмӧн</s></sg>
+     <tg xml:lang="rus">
+       <t/>
+     </tg>
+   </mg>
+</e>
+  <e>
    <lg t1="Л" t2="О" t3="М" uri="28730-lomtys-m-n" id="28730">
      <l pos="Ger" type="OMON">ломтысьмӧн</l>
        <l_var type="molodtsov-cyr">ломтыԍмӧн</l_var>
@@ -2232,7 +3254,30 @@
      </xg>
    </mg>
 </e>
-<e>
+  <e>
+   <lg t1="Л" t2="Ы" t3="Й" uri="29509-lyijm-n" id="29509">
+     <l pos="Ger" type="MON">лыймӧн</l>
+       <l_var type="molodtsov-cyr">лыјмӧн</l_var>
+   </lg>
+   <mg relId="0">
+     <tg xml:lang="rus">
+       <t>достаточный для выстрела</t>
+     </tg>
+     <xg>
+       <x>дасысь лыймӧн дрӧб</x>
+       <xt xml:lang="rus">дробь на десять выстрелов</xt>
+     </xg>
+     <xg>
+       <x>лыймӧн сибӧдны</x>
+       <xt xml:lang="rus">подпустить на выстрел</xt>
+     </xg>
+     <xg>
+       <x>порокыс коли ӧтчыд лыймӧн</x>
+       <xt xml:lang="rus">пороху осталось на один выстрел</xt>
+     </xg>
+   </mg>
+</e>
+  <e>
    <lg t1="Л" t2="Э" t3="Д" uri="29765-ledzal-m-n" id="29765">
      <l pos="Ger" type="OMON">лэдзалӧмӧн</l>
        <l_var type="molodtsov-cyr">леԇалӧмӧн</l_var>
@@ -2247,7 +3292,7 @@
      </xg>
    </mg>
 </e>
-<e>
+  <e>
    <lg t1="Л" t2="Э" t3="Д" uri="29790-ledzchys-lyt-g" id="29790">
      <l pos="Ger" type="TOG">лэдзчысьлытӧг</l>
        <l_var type="molodtsov-cyr">леччыԍлытӧг</l_var>
@@ -2258,7 +3303,7 @@
      </tg>
    </mg>
 </e>
-<e>
+  <e>
    <lg t1="Л" t2="Э" t3="Д" uri="29781-ledz-m-n" id="29781">
      <l pos="Ger" type="OMON">лэдзӧмӧн</l>
        <l_var type="molodtsov-cyr">леԇӧмӧн</l_var>
@@ -2285,7 +3330,60 @@
      </xg>
    </mg>
 </e>
-<e>
+  <e>
+   <lg t1="Л" t2="Э" t3="Ч" uri="29905-lechch-dm-n" id="29905">
+     <l pos="Ger" type="MON">лэччӧдмӧн</l>
+       <l_var type="molodtsov-cyr">леччӧԁмӧн</l_var>
+   </lg>
+   <mg relId="0">
+     <tg xml:lang="rus">
+       <t>на одну ношу; на одну возку; на один рейс</t>
+     </tg>
+     <xg>
+       <x>кыкысь лэччӧдмӧн турун</x>
+       <xt xml:lang="rus">на две возки сена</xt>
+     </xg>
+     <xg>
+       <x>лэччӧдмӧн шедӧма сьӧла-тарыс</x>
+       <xt xml:lang="rus">промысловой дичи попалось <em>(в силки</em>, <em>ловушки)</em> на одну ношу</xt>
+     </xg>
+   </mg>
+</e>
+  <e>
+   <lg t1="Л" t2="Ё" t3="Т" uri="28231-lyotavt-dz" id="28231">
+     <l pos="Ger" type="TODZ">лётавтӧдз</l>
+       <l_var type="molodtsov-cyr">ԉотавтӧԇ</l_var>
+   </lg>
+   <mg relId="0">
+     <tg xml:lang="rus">
+       <t>до изнеможения</t>
+     </tg>
+     <xg>
+       <x>лётавтӧдз мудзны</x>
+       <xt xml:lang="rus">устать до изнеможения</xt>
+     </xg>
+   </mg>
+</e>
+  <e>
+   <lg t1="Л" t2="Ӧ" t3="З" uri="28947-l-z-dt-dz" id="28947">
+     <l pos="Ger" type="TODZ">лӧзӧдтӧдз</l>
+       <l_var type="molodtsov-cyr">лӧзӧттӧԇ</l_var>
+   </lg>
+   <mg relId="0">
+     <tg xml:lang="rus">
+       <t>до посинения</t>
+     </tg>
+     <xg>
+       <x>лӧзӧдтӧдз куритчыны</x>
+       <xt xml:lang="rus">курить до посинения</xt>
+     </xg>
+     <xg>
+       <x>лӧзӧдтӧдз скӧрмыны</x>
+       <xt xml:lang="rus">рассердиться до посинения</xt>
+     </xg>
+   </mg>
+</e>
+  <e>
    <lg t1="Л" t2="Ӧ" t3="С" uri="29114-l-s-dchyt-g" id="29114">
      <l pos="Ger" type="TOG">лӧсьӧдчытӧг</l>
        <l_var type="molodtsov-cyr">лӧԍӧччытӧг</l_var>
@@ -2296,7 +3394,7 @@
      </tg>
    </mg>
 </e>
-<e>
+  <e>
    <lg t1="Л" t2="Ӧ" t3="С" uri="29108-l-s-dch-m-n" id="29108">
      <l pos="Ger" type="OMON">лӧсьӧдчӧмӧн</l>
        <l_var type="molodtsov-cyr">лӧԍӧччӧмӧн</l_var>
@@ -2311,7 +3409,7 @@
      </xg>
    </mg>
 </e>
-<e>
+  <e>
    <lg t1="Л" t2="Ӧ" t3="С" uri="29150-l-syavt-g" id="29150">
      <l pos="Ger" type="TOG">лӧсявтӧг</l>
        <l_var type="molodtsov-cyr">лӧԍавтӧг</l_var>
@@ -2326,7 +3424,7 @@
      </xg>
    </mg>
 </e>
-<e>
+  <e>
    <lg t1="М" t2="А" t3="Й" uri="30491-maijt-g" id="30491">
      <l pos="Ger" type="TOG">майтӧг</l>
        <l_var type="molodtsov-cyr">мајтӧг</l_var>
@@ -2377,7 +3475,7 @@
      </xg>
    </mg>
 </e>
-<e>
+  <e>
    <lg t1="М" t2="Е" t3="Д" uri="31199-medt-g" id="31199">
      <l pos="Ger" type="TOG">медтӧг</l>
        <l_var type="molodtsov-cyr">меттӧг</l_var>
@@ -2392,18 +3490,18 @@
      </xg>
    </mg>
 </e>
-<e>
+  <e>
    <lg t1="М" t2="Е" t3="Н" uri="31372-menamt-g" id="31372">
      <l pos="Ger" type="TOG">менамтӧг</l>
        <l_var type="molodtsov-cyr">менамтӧг</l_var>
    </lg>
    <mg relId="0"> <sg><s s_type="see">метӧг</s></sg>
      <tg xml:lang="rus">
-       <t></t>
+       <t/>
      </tg>
    </mg>
 </e>
-<e>
+  <e>
    <lg t1="М" t2="Е" t3="Т" uri="31492-met-g" id="31492">
      <l pos="Ger" type="TOG">метӧг</l>
        <l_var type="molodtsov-cyr">метӧг</l_var>
@@ -2418,14 +3516,14 @@
      </xg>
    </mg>
 </e>
-<e>
+  <e>
    <lg t1="М" t2="И" t3="Т" uri="31710-mit-g" id="31710">
      <l pos="Ger" type="TOG">митӧг</l>
        <l_var type="molodtsov-cyr">мітӧг</l_var>
    </lg>
    <mg relId="0"> <sg><s s_type="see">миянтӧг</s></sg>
      <tg xml:lang="rus">
-       <t></t>
+       <t/>
      </tg>
      <xg>
        <x>митӧг тай тані эштӧдчӧны</x>
@@ -2433,7 +3531,7 @@
      </xg>
    </mg>
 </e>
-<e>
+  <e>
    <lg t1="М" t2="И" t3="Я" uri="31805-miyant-g" id="31805">
      <l pos="Ger" type="TOG">миянтӧг</l>
        <l_var type="molodtsov-cyr">міјантӧг</l_var>
@@ -2448,7 +3546,7 @@
      </xg>
    </mg>
 </e>
-<e>
+  <e>
    <lg t1="М" t2="У" t3="Д" uri="32409-mudzlyt-g" id="32409">
      <l pos="Ger" type="TOG">мудзлытӧг</l>
        <l_var type="molodtsov-cyr">муԇлытӧг</l_var>
@@ -2467,2706 +3565,7 @@
      </xg>
    </mg>
 </e>
-<e>
-   <lg t1="М" t2="Ы" t3="Ж" uri="32975-myzhmyt-g" id="32975">
-     <l pos="Ger" type="TOG">мыжмытӧг</l>
-       <l_var type="molodtsov-cyr">мыжмытӧг</l_var>
-   </lg>
-   <mg relId="0">
-     <tg xml:lang="rus">
-       <t>безнаказанно</t>
-     </tg>
-     <xg>
-       <x>мыжмытӧг пакӧститчыны</x>
-       <xt xml:lang="rus">безнаказанно вредить</xt>
-     </xg>
-   </mg>
-</e>
-<e>
-   <lg t1="М" t2="Ы" t3="Ж" uri="32981-myzht-g" id="32981">
-     <l pos="Ger" type="TOG">мыжтӧг</l>
-       <l_var type="molodtsov-cyr">мыжтӧг</l_var>
-   </lg>
-   <mg relId="0">
-     <tg xml:lang="rus">
-       <t>безвинно</t>
-     </tg>
-     <xg>
-       <x>мыжтӧг мыждыны</x>
-       <xt xml:lang="rus">безвинно наказать</xt>
-     </xg>
-   </mg>
-</e>
-<e>
-   <lg t1="М" t2="Ы" t3="Н" uri="33149-myntys-t-g" id="33149">
-     <l pos="Ger" type="TOG">мынтысьтӧг</l>
-       <l_var type="molodtsov-cyr">мынтыԍтӧг</l_var>
-   </lg>
-   <mg relId="0">
-     <tg xml:lang="rus">
-       <t>безвозмездно; бесплатно</t>
-     </tg>
-   </mg>
-</e>
-<e>
-   <lg t1="Н" t2="А" t3="Т" uri="33789-nat-g" id="33789">
-     <l pos="Ger" type="TOG">натӧг</l>
-       <l_var type="molodtsov-cyr">натӧг</l_var>
-   </lg>
-   <mg relId="0">
-     <tg xml:lang="rus">
-       <t><acronym title="лишительный падеж"><em>лиш.п.</em></acronym> <em>от</em> <xref link="найӧ"> найӧ</xref></t>
-     </tg>
-     <xg>
-       <x>натӧг кӧ он вермы овны, на дінӧ и мун, накӧд и ов</x>
-       <xt xml:lang="rus">если без них не можешь жить, иди к ним и живи с ними</xt>
-     </xg>
-   </mg>
-</e>
-<e>
-   <lg t1="Н" t2="Е" t3="Т" uri="34249-netshkys-m-n" id="34249">
-     <l pos="Ger" type="OMON">нетшкысьӧмӧн</l>
-       <l_var type="molodtsov-cyr">ԋещкыԍӧмӧн</l_var>
-   </lg>
-   <mg relId="0">
-     <tg xml:lang="rus">
-       <t>рывками</t>
-     </tg>
-     <xg>
-       <x>нетшкысьӧмӧн лэптыны</x>
-       <xt xml:lang="rus"> поднимать <em>что-либо</em> рывками</xt>
-     </xg>
-   </mg>
-</e>
-<e>
-   <lg t1="Н" t2="Е" t3="Т" uri="34256-netshysht-m-n" id="34256">
-     <l pos="Ger" type="OMON">нетшыштӧмӧн</l>
-       <l_var type="molodtsov-cyr">ԋещыштӧмӧн</l_var>
-   </lg>
-   <mg relId="0">
-     <tg xml:lang="rus">
-       <t>дёрнув, рванув; рывком</t>
-     </tg>
-     <xg>
-       <x>нетшыштӧмӧн гурйыв восьтны ӧдзӧс</x>
-       <xt xml:lang="rus">рывком распахнуть дверь настежь</xt>
-     </xg>
-   </mg>
-</e>
-<e>
-   <lg t1="Н" t2="О" t3="В" uri="34742-novl-dl-m-n" id="34742">
-     <l pos="Ger" type="OMON">новлӧдлӧмӧн</l>
-       <l_var type="molodtsov-cyr">новлӧԁлӧмӧн</l_var>
-   </lg>
-   <mg relId="0">
-     <tg xml:lang="rus">
-       <t>вразнос</t>
-     </tg>
-     <xg>
-       <x>вузасьны новлӧдлӧмӧн</x>
-       <xt xml:lang="rus">торговать вразнос</xt>
-     </xg>
-   </mg>
-</e>
-<e>
-   <lg t1="Н" t2="О" t3="Р" uri="34883-noras-t-g" id="34883">
-     <l pos="Ger" type="TOG">норасьтӧг</l>
-       <l_var type="molodtsov-cyr">нораԍтӧг</l_var>
-   </lg>
-   <mg relId="0">
-     <tg xml:lang="rus">
-       <t>безропотно; без жалоб, не жалуясь</t>
-     </tg>
-     <xg>
-       <x>норасьтӧг вуджӧдны ас вывті шог</x>
-       <xt xml:lang="rus">не жалуясь пережить горе</xt>
-     </xg>
-   </mg>
-</e>
-<e>
-   <lg t1="Н" t2="Ы" t3="Р" uri="35354-nyrchch-m-n" id="35354">
-     <l pos="Ger" type="OMON">нырччӧмӧн</l>
-       <l_var type="molodtsov-cyr">нырччӧмӧн</l_var>
-   </lg>
-   <mg relId="0">
-     <tg xml:lang="rus">
-       <t>целеустремлённо</t>
-     </tg>
-   </mg>
-</e>
-<e>
-   <lg t1="Н" t2="Ю" t3="Р" uri="35846-nyurkij-dl-m-n" id="35846">
-     <l pos="Ger" type="OMON">нюркйӧдлӧмӧн</l>
-       <l_var type="molodtsov-cyr">ԋуркјӧԁлӧмӧн</l_var>
-   </lg>
-   <mg relId="0">
-     <tg xml:lang="rus">
-       <t>нараспев</t>
-     </tg>
-     <xg>
-       <x>нюркйӧдлӧмӧн сёрнитны</x>
-       <xt xml:lang="rus">говорить нараспев</xt>
-     </xg>
-   </mg>
-</e>
-<e>
-   <lg t1="П" t2="А" t3="Д" uri="38524-pad-yavt-g" id="38524">
-     <l pos="Ger" type="TOG">падъявтӧг</l>
-       <l_var type="molodtsov-cyr">паԁјавтӧг</l_var>
-   </lg>
-   <mg relId="0">
-     <tg xml:lang="rus">
-       <t>уверенно</t>
-     </tg>
-     <xg>
-       <x>падъявтӧг вочавидзны</x>
-       <xt xml:lang="rus">уверенно ответить</xt>
-     </xg>
-   </mg>
-</e>
-<e>
-   <lg t1="П" t2="А" t3="С" uri="39166-pas-t-g" id="39166">
-     <l pos="Ger" type="TOG">пасьтӧг</l>
-       <l_var type="molodtsov-cyr">паԍтӧг</l_var>
-   </lg>
-   <mg relId="0">
-     <tg xml:lang="rus">
-       <t>голышом, нагишом</t>
-     </tg>
-     <xg>
-       <x>пасьтӧг пӧрччысьны</x>
-       <xt xml:lang="rus">оголиться, обнажиться, раздеться догола</xt>
-     </xg>
-     <xg>
-       <x>гожӧмын челядь пасьтӧг котралӧны</x>
-       <xt xml:lang="rus">летом ребята бегают нагишом</xt>
-     </xg>
-   </mg>
-   <mg relId="1">
-     <tg xml:lang="rus">
-       <t>без верхней одежды, раздетым</t>
-     </tg>
-     <xg>
-       <x>пасьтӧг петны</x>
-       <xt xml:lang="rus">выйти, не одевшись, раздетым</xt>
-     </xg><br />
-     <xg>
-       <x>пукавны пасьтӧг</x>
-       <xt xml:lang="rus"> сидеть раздетым</xt>
-     </xg> <sg><s s_type="seeAlso">ӧтпӧлӧсӧн</s></sg><br />
-     <xg>
-       <x>◊ пасьтӧг усьны</x>
-       <xt xml:lang="rus">обноситься</xt>
-     </xg>
-   </mg>
-</e>
-<e>
-   <lg t1="П" t2="Е" t3="Т" uri="39924-petk-dl-m-n" id="39924">
-     <l pos="Ger" type="OMON">петкӧдлӧмӧн</l>
-       <l_var type="molodtsov-cyr">петкӧԁлӧмӧн</l_var>
-   </lg>
-   <mg relId="0">
-     <tg xml:lang="rus">
-       <t>наглядно</t>
-     </tg>
-   </mg>
-</e>
-<e>
-   <lg t1="П" t2="О" t3="В" uri="40634-povt-g" id="40634">
-     <l pos="Ger" type="TOG">повтӧг</l>
-       <l_var type="molodtsov-cyr">повтӧг</l_var>
-   </lg>
-   <mg relId="0">
-     <tg xml:lang="rus">
-       <t>безбоязненно; без опаски; без стеснения, не смущаясь; смело, отважно; свободно</t>
-     </tg>
-     <xg>
-       <x>повтӧг кутны асьтӧ сцена вылын</x>
-       <xt xml:lang="rus">свободно держаться на сцене</xt>
-     </xg>
-     <xg>
-       <x>повтӧг тышкасьны йӧз шуд вӧсна</x>
-       <xt xml:lang="rus">отважно сражаться за счастье народа</xt>
-     </xg>
-     <xg>
-       <x>повтӧг уськӧдчыны враг вылӧ</x>
-       <xt xml:lang="rus">бесстрашно броситься на врага</xt>
-     </xg>
-   </mg>
-</e>
-<e>
-   <lg t1="П" t2="О" t3="Д" uri="40764-poduvt-g" id="40764">
-     <l pos="Ger" type="TOG">подувтӧг</l>
-       <l_var type="molodtsov-cyr">поԁувтӧг</l_var>
-   </lg>
-   <mg relId="0">
-     <tg xml:lang="rus">
-       <t>необоснованно; голословно; предвзято</t>
-     </tg>
-     <xg>
-       <x>кодӧскӧ подувтӧг вӧйпны</x>
-       <xt xml:lang="rus">кого-либо предвзято осуждать</xt>
-     </xg>
-     <xg>
-       <x>подувтӧг мыждыны</x>
-       <xt xml:lang="rus">необоснованно наказать</xt>
-     </xg>
-   </mg>
-</e>
-<e>
-   <lg t1="П" t2="О" t3="Л" uri="40983-pol-m-n" id="40983">
-     <l pos="Ger" type="OMON">полӧмӧн</l>
-       <l_var type="molodtsov-cyr">полӧмӧн</l_var>
-   </lg>
-   <mg relId="0">
-     <tg xml:lang="rus">
-       <t>нерешительно, несмело; боязливо, опасливо, с опаской; робко, застенчиво, смущённо</t>
-     </tg>
-     <xg>
-       <x>полӧмӧн юавны</x>
-       <xt xml:lang="rus">робко спросить</xt>
-     </xg>
-   </mg>
-</e>
-<e>
-   <lg t1="П" t2="О" t3="М" uri="41064-pomas-lyt-g" id="41064">
-     <l pos="Ger" type="TOG">помасьлытӧг</l>
-       <l_var type="molodtsov-cyr">помаԍлытӧг</l_var>
-   </lg>
-   <mg relId="0">
-     <tg xml:lang="rus">
-       <t>бесконечно</t>
-     </tg>
-     <xg>
-       <x>помасьлытӧг кыссьыны</x>
-       <xt xml:lang="rus">бесконечно длиться, тянуться</xt>
-     </xg>
-   </mg>
-</e>
-<e>
-   <lg t1="П" t2="Ӧ" t3="Ж" uri="41731-p-zhas-m-n" id="41731">
-     <l pos="Ger" type="OMON">пӧжасьмӧн</l>
-       <l_var type="molodtsov-cyr">пӧжаԍмӧн</l_var>
-   </lg>
-   <mg relId="0">
-     <tg xml:lang="rus">
-       <t>на одну выпечку</t>
-     </tg>
-     <xg>
-       <x>кыкысь пӧжасьмӧн пызь</x>
-       <xt xml:lang="rus">муки на две выпечки</xt>
-     </xg>
-     <xg>
-       <x>пызьыс абу и пӧжасьмӧн</x>
-       <xt xml:lang="rus">нет муки даже на одну выпечку</xt>
-     </xg>
-   </mg>
-</e>
-<e>
-   <lg t1="П" t2="Ӧ" t3="Р" uri="41978-p-rat-g-kadt-g" id="41978">
-     <l pos="Ger" type="TOG">пӧратӧг-кадтӧг</l>
-       <l_var type="molodtsov-cyr">пӧратӧг-каттӧг</l_var>
-   </lg>
-   <mg relId="0">
-     <tg xml:lang="rus">
-       <t>безвременно, несвоевременно</t>
-     </tg>
-     <xg>
-       <x>пӧратӧг-кадтӧг воны</x>
-       <xt xml:lang="rus">явиться несвоевременно</xt>
-     </xg>
-     <xg>
-       <x>пӧратӧг-кадтӧг кувсьыны</x>
-       <xt xml:lang="rus">безвременно скончаться</xt>
-     </xg>
-   </mg>
-</e>
-<e>
-   <lg t1="П" t2="Ӧ" t3="Щ" uri="42271-p-schadat-g" id="42271">
-     <l pos="Ger" type="TOG">пӧщадатӧг</l>
-       <l_var type="molodtsov-cyr">пӧшшаԁатӧг</l_var>
-   </lg>
-   <mg relId="0">
-     <tg xml:lang="rus">
-       <t>беспощадно</t>
-     </tg>
-     <xg>
-       <x>пӧщадатӧг косясьны врагкӧд</x>
-       <xt xml:lang="rus">беспощадно бороться с врагом</xt>
-     </xg>
-   </mg>
-</e>
-<e>
-   <lg t1="Р" t2="Ӧ" t3="Д" uri="45513-r-dt-m-n" id="45513">
-     <l pos="Ger" type="OMON">рӧдтӧмӧн</l>
-       <l_var type="molodtsov-cyr">рӧттӧмӧн</l_var>
-   </lg>
-   <mg relId="0"> <sg><s s_type="see">рӧдйӧн</s></sg>
-     <tg xml:lang="rus">
-       <t></t>
-     </tg>
-   </mg>
-</e>
-<e>
-   <lg t1="С" t2="А" t3="Д" uri="46202-sad-t-g" id="46202">
-     <l pos="Ger" type="TOG">садьтӧг</l>
-       <l_var type="molodtsov-cyr">саԃтӧг</l_var>
-   </lg>
-   <mg relId="0">
-     <tg xml:lang="rus">
-       <t>без памяти; безумно</t>
-     </tg>
-     <xg>
-       <x>садьтӧг радейтны</x>
-       <xt xml:lang="rus">безумно любить</xt>
-     </xg>
-   </mg>
-   <mg relId="1">
-     <tg xml:lang="rus">
-       <t>стремглав; опрометью</t>
-     </tg>
-     <xg>
-       <x>садьтӧг пышйыны</x>
-       <xt xml:lang="rus">бежать сломя голову, опрометью</xt>
-     </xg>
-     <xg>
-       <x>садьтӧг уськӧдчыны котӧртны</x>
-       <xt xml:lang="rus">стремглав пуститься бежать</xt>
-     </xg>
-   </mg>
-   <mg relId="2">
-     <tg xml:lang="rus">
-       <t>без памяти, без сознания</t>
-     </tg>
-   </mg>
-</e>
-<e>
-   <lg t1="С" t2="И" t3="Н" uri="47467-sint-g" id="47467">
-     <l pos="Ger" type="TOG">синтӧг</l>
-       <l_var type="molodtsov-cyr">ԍінтӧг</l_var>
-   </lg>
-   <mg relId="0">
-     <tg xml:lang="rus">
-       <t>сослепу</t>
-     </tg>
-     <xg>
-       <x>ме синтӧгыд эг и тӧд тэнӧ</x>
-       <xt xml:lang="rus">я сослепу и не узнал тебя</xt>
-     </xg>
-   </mg>
-</e>
-<e>
-   <lg t1="С" t2="У" t3="Д" uri="49465-sudzs-m-n" id="49465">
-     <l pos="Ger" type="OMON">судзсьӧмӧн</l>
-       <l_var type="molodtsov-cyr">сучԍӧмӧн</l_var>
-   </lg>
-   <mg relId="0">
-     <tg xml:lang="rus">
-       <t>в достатке, безбедно; зажиточно</t>
-     </tg>
-     <xg>
-       <x>судзсьӧмӧн овны</x>
-       <xt xml:lang="rus">жить в достатке</xt>
-     </xg>
-   </mg>
-</e>
-<e>
-   <lg t1="С" t2="У" t3="Д" uri="49525-sudt-g-radt-g" id="49525">
-     <l pos="Ger" type="TOG">судтӧг-радтӧг</l>
-       <l_var type="molodtsov-cyr">суттӧг-раттӧг</l_var>
-   </lg>
-   <mg relId="0"><span class="underline">употребляется лишь в составе выражений:</span><br />
-     <xg>
-       <x>судтӧг-радтӧг лӧсьӧдчыны</x>
-       <xt xml:lang="rus">договориться мирно, без судебного вмешательства</xt>
-     </xg>
-   </mg>
-</e>
-<e>
-   <lg t1="С" t2="Я" t3="М" uri="50773-syamt-g" id="50773">
-     <l pos="Ger" type="TOG">сямтӧг</l>
-       <l_var type="molodtsov-cyr">ԍамтӧг</l_var>
-   </lg>
-   <mg relId="0">
-     <tg xml:lang="rus">
-       <t>бестактно</t>
-     </tg>
-     <xg>
-       <x>сямтӧг овны</x>
-       <xt xml:lang="rus">вести себя бестактно</xt>
-     </xg>
-   </mg>
-</e>
-<e>
-   <lg t1="Т" t2="А" t3="П" uri="51136-tapikas-m-n" id="51136">
-     <l pos="Ger" type="OMON">тапикасьӧмӧн</l>
-       <l_var type="molodtsov-cyr">тапікаԍӧмӧн</l_var>
-   </lg>
-   <mg relId="0">
-     <tg xml:lang="rus">
-       <t pos="Ger">1. мягко, тихо шагая</t>
-     </tg>
-   </mg>
-   <mg relId="1">
-     <tg xml:lang="rus">
-       <t>топая, стуча ногами</t>
-     </tg>
-   </mg>
-</e>
-<e>
-   <lg t1="Т" t2="А" t3="Т" uri="51338-tatshk-d-m-n" id="51338">
-     <l pos="Ger" type="OMON">татшкӧдӧмӧн</l>
-       <l_var type="molodtsov-cyr">тащкӧԁӧмӧн</l_var>
-   </lg>
-   <mg relId="0">
-     <tg xml:lang="rus">
-       <t pos="Ger">1. стуча; со стуком</t>
-     </tg>
-   </mg>
-   <mg relId="1">
-     <tg xml:lang="rus">
-       <t><acronym title="в переносном значении"><em>перен.</em></acronym> бойко, без запинки</t>
-     </tg>
-     <xg>
-       <x>татшкӧдӧмӧн нин лыддьысьӧ</x>
-       <xt xml:lang="rus">читает уже без запинки</xt>
-     </xg>
-   </mg>
-</e>
-<e>
-   <lg t1="Т" t2="О" t3="Д" uri="51983-todmyshkal-m-n" id="51983">
-     <l pos="Ger" type="OMON">тодмышкалӧмӧн</l>
-       <l_var type="molodtsov-cyr">тоԁмышкалӧмӧн</l_var>
-   </lg>
-   <mg relId="0">
-     <tg xml:lang="rus">
-       <t>взашей, взашеи <acronym title="просторечное"><em>прост.</em></acronym></t>
-     </tg>
-     <xg>
-       <x>тодмышкалӧмӧн вӧтлыны</x>
-       <xt xml:lang="rus">взашеи прогнать</xt>
-     </xg>
-   </mg>
-</e>
-<e>
-   <lg t1="Т" t2="О" t3="М" uri="52114-tomlal-m-n" id="52114">
-     <l pos="Ger" type="OMON">томлалӧмӧн</l>
-       <l_var type="molodtsov-cyr">томлалӧмӧн</l_var>
-   </lg>
-   <mg relId="0">
-     <tg xml:lang="rus">
-       <t pos="Ger"> взаперти</t>
-     </tg>
-     <xg>
-       <x>томлалӧмӧн видзны</x>
-       <xt xml:lang="rus">держать взаперти</xt>
-     </xg>
-   </mg>
-</e>
-<e>
-   <lg t1="Т" t2="О" t3="М" uri="52119-tomlas-t-g" id="52119">
-     <l pos="Ger" type="TOG">томласьтӧг</l>
-       <l_var type="molodtsov-cyr">томлаԍтӧг</l_var>
-   </lg>
-   <mg relId="0">
-     <tg xml:lang="rus">
-       <t pos="Ger"> не запираясь</t>
-     </tg>
-     <xg>
-       <x>томласьтӧг узьны</x>
-       <xt xml:lang="rus">спать не запираясь</xt>
-     </xg>
-   </mg>
-</e>
-<e>
-   <lg t1="Т" t2="О" t3="М" uri="52117-tomlas-m-n" id="52117">
-     <l pos="Ger" type="OMON">томласьӧмӧн</l>
-       <l_var type="molodtsov-cyr">томлаԍӧмӧн</l_var>
-   </lg>
-   <mg relId="0">
-     <tg xml:lang="rus">
-       <t pos="Ger"> запершись</t>
-     </tg>
-     <xg>
-       <x>томласьӧмӧн пукавны</x>
-       <xt xml:lang="rus">сидеть запершись</xt>
-     </xg>
-   </mg>
-</e>
-<e>
-   <lg t1="Т" t2="О" t3="П" uri="52229-top-dch-m-n" id="52229">
-     <l pos="Ger" type="OMON">топӧдчӧмӧн</l>
-       <l_var type="molodtsov-cyr">топӧччӧмӧн</l_var>
-   </lg>
-   <mg relId="0">
-     <tg xml:lang="rus">
-       <t>обнявшись; в обнимку</t>
-     </tg>
-     <xg>
-       <x>топӧдчӧмӧн мунны</x>
-       <xt xml:lang="rus">идти обнявшись</xt>
-     </xg>
-   </mg>
-   <mg relId="1">
-     <tg xml:lang="rus">
-       <t>скупо</t>
-     </tg>
-     <xg>
-       <x>топӧдчӧмӧн овны</x>
-       <xt xml:lang="rus">скупо жить</xt>
-     </xg>
-   </mg>
-</e>
-<e>
-   <lg t1="Т" t2="О" t3="Р" uri="52282-torij-dlyt-g" id="52282">
-     <l pos="Ger" type="TOG">торйӧдлытӧг</l>
-       <l_var type="molodtsov-cyr">торјӧԁлытӧг</l_var>
-   </lg>
-   <mg relId="0">
-     <tg xml:lang="rus">
-       <t pos="Ger"> не дробя, не раздробив, целиком</t>
-     </tg>
-     <xg>
-       <x>торйӧдлытӧг сетны</x>
-       <xt xml:lang="rus">отдать целиком</xt>
-     </xg>
-   </mg>
-</e>
-<e>
-   <lg t1="Т" t2="О" t3="Р" uri="52300-torij-dch-m-n" id="52300">
-     <l pos="Ger" type="OMON">торйӧдчӧмӧн</l>
-       <l_var type="molodtsov-cyr">торјӧччӧмӧн</l_var>
-   </lg>
-   <mg relId="0">
-     <tg xml:lang="rus">
-       <t pos="Ger"> обособленно</t>
-     </tg>
-     <xg>
-       <x>йӧзысь торйӧдчӧмӧн</x>
-       <xt xml:lang="rus">обособленно от других</xt>
-     </xg>
-   </mg>
-</e>
-<e>
-   <lg t1="Т" t2="О" t3="Р" uri="52357-torks-yvt-g" id="52357">
-     <l pos="Ger" type="TOG">торксьывтӧг</l>
-       <l_var type="molodtsov-cyr">торкԍывтӧг</l_var>
-   </lg>
-   <mg relId="0">
-     <tg xml:lang="rus">
-       <t>бесперебойно, бегло; не сбиваясь</t>
-     </tg>
-     <xg>
-       <x>торксьывтӧг лыддьыны</x>
-       <xt xml:lang="rus">бегло читать</xt>
-     </xg>
-     <xg>
-       <x>торксьывтӧг уджавны</x>
-       <xt xml:lang="rus">бесперебойно работать</xt>
-     </xg>
-   </mg>
-</e>
-<e>
-   <lg t1="Т" t2="О" t3="Р" uri="52362-torksyavt-g" id="52362">
-     <l pos="Ger" type="TOG">торксявтӧг</l>
-       <l_var type="molodtsov-cyr">торкԍавтӧг</l_var>
-   </lg>
-   <mg relId="0">
-     <tg xml:lang="rus">
-       <t>без запинки</t>
-     </tg>
-     <xg>
-       <x>торксявтӧг лыддьысьны</x>
-       <xt xml:lang="rus">читать без запинки</xt>
-     </xg>
-   </mg>
-</e>
-<e>
-   <lg t1="Т" t2="О" t3="Р" uri="52366-torksyal-m-n" id="52366">
-     <l pos="Ger" type="OMON">торксялӧмӧн</l>
-       <l_var type="molodtsov-cyr">торкԍалӧмӧн</l_var>
-   </lg>
-   <mg relId="0">
-     <tg xml:lang="rus">
-       <t>сбивчиво; сбиваясь</t>
-     </tg>
-     <xg>
-       <x>торксялӧмӧн висьтавны</x>
-       <xt xml:lang="rus">рассказать сбивчиво</xt>
-     </xg>
-   </mg>
-</e>
-<e>
-   <lg t1="Т" t2="У" t3="Й" uri="53678-tuijt-g" id="53678">
-     <l pos="Ger" type="TOG">туйтӧг</l>
-       <l_var type="molodtsov-cyr">тујтӧг</l_var>
-   </lg>
-   <mg relId="0"> <sg><s s_type="see">туйтӧма</s></sg>
-     <tg xml:lang="rus">
-       <t></t>
-     </tg>
-     <xg>
-       <x>некытчӧ туйтӧг</x>
-       <xt xml:lang="rus">безобразно</xt>
-     </xg>
-     <xg>
-       <x>туйтӧг овны</x>
-       <xt xml:lang="rus">жить непутёво</xt>
-     </xg>
-   </mg>
-</e>
-<e>
-   <lg t1="Т" t2="У" t3="Р" uri="53931-turbyl-tch-m-n" id="53931">
-     <l pos="Ger" type="OMON">турбыльтчӧмӧн</l>
-       <l_var type="molodtsov-cyr">турбыԉччӧмӧн</l_var>
-   </lg>
-   <mg relId="0"> <sg><s s_type="see">турбыльӧн</s></sg>
-     <tg xml:lang="rus">
-       <t></t>
-     </tg>
-   </mg>
-</e>
-<e>
-   <lg t1="Т" t2="Ш" t3="А" uri="54278-tshapitchyt-g" id="54278">
-     <l pos="Ger" type="TOG">тшапитчытӧг</l>
-       <l_var type="molodtsov-cyr">щапіччытӧг</l_var>
-   </lg>
-   <mg relId="0">
-     <tg xml:lang="rus">
-       <t pos="Ger"> не жеманничая; без жеманства; без щегольства; скромно</t>
-     </tg>
-     <xg>
-       <x>тшапитчытӧг пасьтасьны</x>
-       <xt xml:lang="rus">скромно одеваться</xt>
-     </xg>
-   </mg>
-</e>
-<e>
-   <lg t1="Т" t2="Ш" t3="Ӧ" uri="54450-tsh-k-yal-m-n" id="54450">
-     <l pos="Ger" type="OMON">тшӧкъялӧмӧн</l>
-       <l_var type="molodtsov-cyr">щӧкјалӧмӧн</l_var>
-   </lg>
-   <mg relId="0">
-     <tg xml:lang="rus">
-       <t pos="Ger"> захлёбываясь, прерывисто; взахлёб</t>
-     </tg>
-     <xg>
-       <x>тшӧкъялӧмӧн лолавны</x>
-       <xt xml:lang="rus">дышать захлёбываясь</xt>
-     </xg>
-     <xg>
-       <x>тшӧкъялӧмӧн горзісны перкъяс</x>
-       <xt xml:lang="rus">захлёбываясь трещали кедровки</xt>
-     </xg>
-     <xg>
-       <x>тшӧкъялӧмӧн нёнясьны</x>
-       <xt xml:lang="rus">сосать захлёбываясь</xt>
-     </xg>
-   </mg>
-</e>
-<e>
-   <lg t1="Т" t2="Ы" t3="Р" uri="54971-tyrt-g" id="54971">
-     <l pos="Ger" type="TOG">тыртӧг</l>
-       <l_var type="molodtsov-cyr">тыртӧг</l_var>
-   </lg>
-   <mg relId="0">
-     <tg xml:lang="rus">
-       <t>без груза, без поклажи; порожняком; без ноши, налегке</t>
-     </tg>
-     <xg>
-       <x>дзик тыртӧг тӧвзис машинаыс</x>
-       <xt xml:lang="rus">машина умчалась без груза</xt>
-     </xg>
-     <xg>
-       <x>тыртӧг он пет туйӧ</x>
-       <xt xml:lang="rus">в дорогу не отправишься налегке</xt>
-     </xg>
-     <xg>
-       <x>ӧтарӧ тыртӧг мунім</x>
-       <xt xml:lang="rus">в одну сторону мы ехали порожняком</xt>
-     </xg>
-   </mg>
-   <mg relId="1">
-     <tg xml:lang="rus">
-       <t>вхолостую</t>
-     </tg>
-     <xg>
-       <x>мотор лэдзны тыртӧг</x>
-       <xt xml:lang="rus">пустить мотор вхолостую</xt>
-     </xg>
-     <xg>
-       <x>тыртӧг пилаыс ветлӧ киад</x>
-       <xt xml:lang="rus">пила в твоих руках ходит вхолостую</xt>
-     </xg>
-   </mg>
-</e>
-<e>
-   <lg t1="Т" t2="Э" t3="Р" uri="55105-termas-t-g" id="55105">
-     <l pos="Ger" type="TOG">тэрмасьтӧг</l>
-       <l_var type="molodtsov-cyr">термаԍтӧг</l_var>
-   </lg>
-   <mg relId="0">
-     <tg xml:lang="rus">
-       <t>не спеша, не торопясь; неторопливо</t>
-     </tg>
-     <xg>
-       <x>тэрмасьтӧг вӧчам став удж</x>
-       <xt xml:lang="rus">не спеша делаем всю работу</xt>
-     </xg>
-     <xg>
-       <x>тэрмасьтӧг сёрнитны</x>
-       <xt xml:lang="rus">говорить не спеша</xt>
-     </xg>
-     <xg>
-       <x>тэрмасьтӧг сынӧ дедыс</x>
-       <xt xml:lang="rus">дедушка гребёт неторопливо</xt>
-     </xg>
-   </mg>
-</e>
-<e>
-   <lg t1="Т" t2="Э" t3="Р" uri="55101-termas-m-n" id="55101">
-     <l pos="Ger" type="OMON">тэрмасьӧмӧн</l>
-       <l_var type="molodtsov-cyr">термаԍӧмӧн</l_var>
-   </lg>
-   <mg relId="0">
-     <tg xml:lang="rus">
-       <t>спеша; торопливо</t>
-     </tg>
-     <xg>
-       <x>тэрмасьӧмӧн мунны</x>
-       <xt xml:lang="rus">идти спеша</xt>
-     </xg>
-     <xg>
-       <x>тэрмасьӧмӧн сёйны</x>
-       <xt xml:lang="rus">торопливо есть</xt>
-     </xg>
-   </mg>
-   <mg relId="1">
-     <tg xml:lang="rus">
-       <t>в спешке, второпях</t>
-     </tg>
-     <xg>
-       <x>тэрмасьӧмӧн вунӧдны</x>
-       <xt xml:lang="rus"> забыть <em>что-либо</em> второпях</xt>
-     </xg>
-   </mg>
-   <mg relId="2">
-     <tg xml:lang="rus">
-       <t>поспешно; наскоро, наспех</t>
-     </tg>
-     <xg>
-       <x>тэрмасьӧмӧн гижӧм висьт</x>
-       <xt xml:lang="rus">наскоро написанный рассказ</xt>
-     </xg><br />
-     <xg>
-       <x>тэрмасьӧмӧн сӧмын пытш куталӧны </x>
-       <xt xml:lang="rus" src_type="saying:поговорка">торопятся только блох ловить</xt>
-     </xg>
-   </mg>
-</e>
-<e>
-   <lg t1="Т" t2="Э" t3="Р" uri="55123-term-dlyt-g" id="55123">
-     <l pos="Ger" type="TOG">тэрмӧдлытӧг</l>
-       <l_var type="molodtsov-cyr">термӧԁлытӧг</l_var>
-   </lg>
-   <mg relId="0">
-     <tg xml:lang="rus">
-       <t pos="Ger"> не торопя</t>
-     </tg>
-     <xg>
-       <x>тэрмӧдлытӧг колльӧдны</x>
-       <xt xml:lang="rus">сопровождать не торопя</xt>
-     </xg>
-   </mg>
-</e>
-<e>
-   <lg t1="Т" t2="І" t3="Л" uri="51792-til-sk-m-n" id="51792">
-     <l pos="Ger" type="OMON">тільскӧмӧн</l>
-       <l_var type="molodtsov-cyr">тіԉскӧмӧн</l_var>
-   </lg>
-   <mg relId="0">
-     <tg xml:lang="rus">
-       <t pos="Ger"> свалив, навалив; навалом</t>
-     </tg>
-   </mg>
-</e>
-<e>
-   <lg t1="Т" t2="Ӧ" t3="Д" uri="52681-t-dlyt-g" id="52681">
-     <l pos="Ger" type="TOG">тӧдлытӧг</l>
-       <l_var type="molodtsov-cyr">тӧԁлытӧг</l_var>
-   </lg>
-   <mg relId="0">
-     <tg xml:lang="rus">
-       <t>незаметно</t>
-     </tg>
-     <xg>
-       <x>тӧдлытӧг петны керкаысь</x>
-       <xt xml:lang="rus">незаметно выйти из дому</xt>
-     </xg>
-     <xg>
-       <x>тӧдлытӧг коли тулыс</x>
-       <xt xml:lang="rus">незаметно прошла весна</xt>
-     </xg>
-     <xg>
-       <x>тӧдлытӧг лэбыштіс вежон</x>
-       <xt xml:lang="rus">незаметно прошла неделя</xt>
-     </xg>
-   </mg>
-   <mg relId="1">
-     <tg xml:lang="rus">
-       <t>вдруг, неожиданно; внезапно</t>
-     </tg>
-     <xg>
-       <x>тӧдлытӧг кувны</x>
-       <xt xml:lang="rus">внезапно умереть</xt>
-     </xg>
-     <xg>
-       <x>тӧдлытӧг уськӧдчыны</x>
-       <xt xml:lang="rus">неожиданно напасть</xt>
-     </xg>
-   </mg>
-   <mg relId="2">
-     <tg xml:lang="rus">
-       <t>нечаянно; невзначай; непреднамеренно, случайно; <acronym title="в переносном значении"><em>перен.</em></acronym> механически</t>
-     </tg>
-     <xg>
-       <x>тӧдлытӧг дойдны</x>
-       <xt xml:lang="rus">нечаянно ушибить</xt>
-     </xg>
-     <xg>
-       <x>киӧс тӧдлытӧг нетшышті</x>
-       <xt xml:lang="rus">механически отдёрнул руку</xt>
-     </xg>
-     <xg>
-       <x>тӧдлытӧг шуны</x>
-       <xt xml:lang="rus">обмолвиться</xt>
-     </xg>
-   </mg>
-</e>
-<e>
-   <lg t1="Т" t2="Ӧ" t3="Д" uri="52742-t-dt-g" id="52742">
-     <l pos="Ger" type="TOG">тӧдтӧг</l>
-       <l_var type="molodtsov-cyr">тӧттӧг</l_var>
-   </lg>
-   <mg relId="0">
-     <tg xml:lang="rus">
-       <t pos="Ger"> не зная; наугад; вслепую</t>
-     </tg>
-     <xg>
-       <x>мудз тӧдтӧг</x>
-       <xt xml:lang="rus">не зная устали</xt>
-     </xg>
-     <xg>
-       <x>тӧдтӧг мунны</x>
-       <xt xml:lang="rus">идти наугад</xt>
-     </xg>
-     <xg>
-       <x>тӧдтӧг ог ов</x>
-       <xt xml:lang="rus">конечно же, знаю</xt>
-     </xg>
-   </mg>
-</e>
-<e>
-   <lg t1="Т" t2="Ӧ" t3="Ж" uri="52824-t-zhdys-t-g" id="52824">
-     <l pos="Ger" type="TOG">тӧждысьтӧг</l>
-       <l_var type="molodtsov-cyr">тӧжԁыԍтӧг</l_var>
-   </lg>
-   <mg relId="0">
-     <tg xml:lang="rus">
-       <t>беззаботно, беспечно</t>
-     </tg>
-     <xg>
-       <x>тӧждысьтӧг овны</x>
-       <xt xml:lang="rus">жить беспечно</xt>
-     </xg>
-   </mg>
-</e>
-<e>
-   <lg t1="Т" t2="Ӧ" t3="Ж" uri="52821-t-zhdys-m-n" id="52821">
-     <l pos="Ger" type="OMON">тӧждысьӧмӧн</l>
-       <l_var type="molodtsov-cyr">тӧжԁыԍӧмӧн</l_var>
-   </lg>
-   <mg relId="0">
-     <tg xml:lang="rus">
-       <t>заботливо, с заботой</t>
-     </tg>
-     <xg>
-       <x>урожай вӧсна тӧждысьӧмӧн</x>
-       <xt xml:lang="rus">с заботой об урожае</xt>
-     </xg>
-   </mg>
-   <mg relId="1">
-     <tg xml:lang="rus">
-       <t>с беспокойством, беспокойно; тревожно</t>
-     </tg>
-     <xg>
-       <x>тӧждысьӧмӧн видзӧдлывлыны</x>
-       <xt xml:lang="rus">с беспокойством посматривать</xt>
-     </xg>
-   </mg>
-   <mg relId="2">
-     <tg xml:lang="rus">
-       <t><em>редко</em> бережно</t>
-     </tg>
-   </mg>
-</e>
-<e>
-   <lg t1="Т" t2="Ӧ" t3="Л" uri="52884-t-lkt-g-ladt-g" id="52884">
-     <l pos="Ger" type="TOG">тӧлктӧг-ладтӧг</l>
-       <l_var type="molodtsov-cyr">тӧлктӧг-латтӧг</l_var>
-   </lg>
-   <mg relId="0">
-     <tg xml:lang="rus">
-       <t>бестолково; как попало</t>
-     </tg>
-     <xg>
-       <x>тӧлктӧг-ладтӧг вӧчны</x>
-       <xt xml:lang="rus">сделать как попало</xt>
-     </xg>
-   </mg>
-</e>
-<e>
-   <lg t1="У" t2="З" t3="Ь" uri="55841-uz-t-g" id="55841">
-     <l pos="Ger" type="TOG">узьтӧг</l>
-       <l_var type="molodtsov-cyr">уԅтӧг</l_var>
-   </lg>
-   <mg relId="0">
-     <tg xml:lang="rus">
-       <t>без сна</t>
-     </tg>
-     <xg>
-       <x>узьтӧг кольны войсӧ</x>
-       <xt xml:lang="rus">провести ночь без сна</xt>
-     </xg>
-   </mg>
-</e>
-<e>
-   <lg t1="У" t2="Й" t3="Ӧ" uri="55881-uij-m-n" id="55881">
-     <l pos="Ger" type="OMON">уйӧмӧн</l>
-       <l_var type="molodtsov-cyr">ујӧмӧн</l_var>
-   </lg>
-   <mg relId="0">
-     <tg xml:lang="rus">
-       <t>вплавь</t>
-     </tg>
-     <xg>
-       <x>вуджны уйӧмӧн</x>
-       <xt xml:lang="rus">переправиться вплавь</xt>
-     </xg>
-   </mg>
-</e>
-<e>
-   <lg t1="У" t2="С" t3="Ь" uri="56514-us-m-n" id="56514">
-     <l pos="Ger" type="OMON">усьмӧн</l>
-       <l_var type="molodtsov-cyr">уԍмӧн</l_var>
-   </lg>
-   <mg relId="0">
-     <tg xml:lang="rus">
-       <t>до упаду</t>
-     </tg>
-     <xg>
-       <x>кок йылысь усьмӧн, ныр вылӧ усьмӧн</x>
-       <xt xml:lang="rus">до упаду</xt>
-     </xg>
-     <xg>
-       <x>менӧ усьмӧн сконйыштіс</x>
-       <xt xml:lang="rus">дал подножку, и я упал</xt>
-     </xg>
-     <xg>
-       <x>усьмӧн мудзны</x>
-       <xt xml:lang="rus">устать до изнеможения</xt>
-     </xg>
-     <xg>
-       <x>усьмӧн юны</x>
-       <xt xml:lang="rus">пить до потери сознания</xt>
-     </xg>
-     <xg>
-       <x>◊ югыд усьмӧн пыктыны</x>
-       <xt xml:lang="rus">опухнуть до лоска</xt>
-     </xg>
-     <xg>
-       <x>◊ юр усьмӧн янӧдны</x>
-       <xt xml:lang="rus">сильно пристыдить</xt>
-     </xg>
-   </mg>
-</e>
-<e>
-   <lg t1="Ч" t2="Е" t3="Ч" uri="57709-chechchyvt-g" id="57709">
-     <l pos="Ger" type="TOG">чеччывтӧг</l>
-       <l_var type="molodtsov-cyr">чеччывтӧг</l_var>
-   </lg>
-   <mg relId="0">
-     <tg xml:lang="rus">
-       <t pos="Ger"> не вставая, усидчиво</t>
-     </tg>
-     <xg>
-       <x>чеччывтӧг куйлыны</x>
-       <xt xml:lang="rus">лежнем лежать</xt>
-     </xg>
-     <xg>
-       <x>чеччывтӧг уджавны</x>
-       <xt xml:lang="rus">усидчиво работать</xt>
-     </xg>
-   </mg>
-</e>
-<e>
-   <lg t1="Ч" t2="И" t3="К" uri="57866-chiklyas-m-n" id="57866">
-     <l pos="Ger" type="OMON">чиклясьӧмӧн</l>
-       <l_var type="molodtsov-cyr">чікԉаԍӧмӧн</l_var>
-   </lg>
-   <mg relId="0">
-     <tg xml:lang="rus">
-       <t pos="Ger">1. кривляясь, жеманничая; жеманно</t>
-     </tg>
-     <xg>
-       <x>чиклясьӧмӧн сёрнитны</x>
-       <xt xml:lang="rus">разговаривать жеманно</xt>
-     </xg>
-   </mg>
-   <mg relId="1">
-     <tg xml:lang="rus">
-       <t>с вывертами</t>
-     </tg>
-     <xg>
-       <x>чиклясьӧмӧн йӧктыны</x>
-       <xt xml:lang="rus">танцевать с вывертами</xt>
-     </xg>
-   </mg>
-</e>
-<e>
-   <lg t1="Ч" t2="И" t3="К" uri="57881-chiktyl-m-n" id="57881">
-     <l pos="Ger" type="OMON">чиктылӧмӧн</l>
-       <l_var type="molodtsov-cyr">чіктылӧмӧн</l_var>
-   </lg>
-   <mg relId="0">
-     <tg xml:lang="rus">
-       <t pos="Ger"> радуясь, выражая восторг, радость; радостно, восторженно</t>
-     </tg>
-   </mg>
-</e>
-<e>
-   <lg t1="Ч" t2="У" t3="Й" uri="58906-chuijm-m-n" id="58906">
-     <l pos="Ger" type="OMON">чуймӧмӧн</l>
-       <l_var type="molodtsov-cyr">чујмӧмӧн</l_var>
-   </lg>
-   <mg relId="0"> <sg><s s_type="see">чуймӧмпырысь</s></sg>
-     <tg xml:lang="rus">
-       <t></t>
-     </tg>
-     <xg>
-       <x>чуймӧмӧн бергӧдны юр</x>
-       <xt xml:lang="rus">изумлённо повернуть голову</xt>
-     </xg>
-   </mg>
-</e>
-<e>
-   <lg t1="Ч" t2="У" t3="К" uri="58931-chukl-dlyt-g" id="58931">
-     <l pos="Ger" type="TOG">чукльӧдлытӧг</l>
-       <l_var type="molodtsov-cyr">чукԉӧԁлытӧг</l_var>
-   </lg>
-   <mg relId="0">
-     <tg xml:lang="rus">
-       <t pos="Ger"> прямо, без обиняков; откровенно</t>
-     </tg>
-     <xg>
-       <x>чукльӧдлытӧг сёрнитны</x>
-       <xt xml:lang="rus">говорить прямо</xt>
-     </xg>
-   </mg>
-</e>
-<e>
-   <lg t1="Ш" t2="А" t3="Й" uri="59632-shaijpavt-g" id="59632">
-     <l pos="Ger" type="TOG">шайпавтӧг</l>
-       <l_var type="molodtsov-cyr">шајпавтӧг</l_var>
-   </lg>
-   <mg relId="0">
-     <tg xml:lang="rus">
-       <t>без оглядки, очень быстро</t>
-     </tg>
-   </mg>
-</e>
-<e>
-   <lg t1="Ш" t2="Е" t3="М" uri="60270-shem-smun-m-n" id="60270">
-     <l pos="Ger" type="OMON">шемӧсмунӧмӧн</l>
-       <l_var type="molodtsov-cyr">шемӧсмунӧмӧн</l_var>
-   </lg>
-   <mg relId="0">
-     <tg xml:lang="rus">
-       <t>с удивлением, удивлённо</t>
-     </tg>
-     <xg>
-       <x>шемӧсмунӧмӧн юавны</x>
-       <xt xml:lang="rus">с удивлением спросить</xt>
-     </xg>
-   </mg>
-</e>
-<e>
-   <lg t1="Ш" t2="Е" t3="М" uri="60265-shem-sm-m-n" id="60265">
-     <l pos="Ger" type="OMON">шемӧсмӧмӧн</l>
-       <l_var type="molodtsov-cyr">шемӧсмӧмӧн</l_var>
-   </lg>
-   <mg relId="0">
-     <tg xml:lang="rus">
-       <t>зачарованно</t>
-     </tg>
-     <xg>
-       <x>шемӧсмӧмӧн видзӧдны</x>
-       <xt xml:lang="rus">зачарованно смотреть</xt>
-     </xg>
-   </mg>
-</e>
-<e>
-   <lg t1="Ш" t2="Е" t3="Н" uri="60300-shenz-m-n" id="60300">
-     <l pos="Ger" type="OMON">шензьӧмӧн</l>
-       <l_var type="molodtsov-cyr">шенԅӧмӧн</l_var>
-   </lg>
-   <mg relId="0">
-     <tg xml:lang="rus">
-       <t>удивлённо, изумлённо; с удивлением, с изумлением</t>
-     </tg>
-     <xg>
-       <x>шензьӧмӧн видзӧдлыны</x>
-       <xt xml:lang="rus">посмотреть с удивлением</xt>
-     </xg>
-     <xg>
-       <x>шензьӧмӧн шензьыны</x>
-       <xt xml:lang="rus">диву даваться</xt>
-     </xg>
-   </mg>
-</e>
-<e>
-   <lg t1="Ш" t2="Е" t3="Н" uri="60323-shenyshtch-m-n" id="60323">
-     <l pos="Ger" type="OMON">шеныштчӧмӧн</l>
-       <l_var type="molodtsov-cyr">шенышчӧмӧн</l_var>
-   </lg>
-   <mg relId="0">
-     <tg xml:lang="rus">
-       <t pos="Ger"> с размаха, с размаху; со всего размаха</t>
-     </tg>
-     <xg>
-       <x>шеныштчӧмӧн кучкыны</x>
-       <xt xml:lang="rus">ударить со всего размаху</xt>
-     </xg>
-   </mg>
-</e>
-<e>
-   <lg t1="Ш" t2="Л" t3="А" uri="60505-shlavg-m-n" id="60505">
-     <l pos="Ger" type="OMON">шлавгӧмӧн</l>
-       <l_var type="molodtsov-cyr">шлавгӧмӧн</l_var>
-   </lg>
-   <mg relId="0">
-     <tg xml:lang="rus">
-       <t pos="Ger"> накинув; внакидку <acronym title="разговорное"><em>разг.</em></acronym></t>
-     </tg>
-     <xg>
-       <x>пальто новлыны шлавгӧмӧн</x>
-       <xt xml:lang="rus">носить пальто внакидку</xt>
-     </xg>
-   </mg>
-</e>
-<e>
-   <lg t1="Ш" t2="М" t3="О" uri="60986-shmonitt-g" id="60986">
-     <l pos="Ger" type="TOG">шмониттӧг</l>
-       <l_var type="molodtsov-cyr">шмоԋіттӧг</l_var>
-   </lg>
-   <mg relId="0">
-     <tg xml:lang="rus">
-       <t>без шутки</t>
-     </tg>
-     <xg>
-       <x>шмониттӧг оз нин вермы</x>
-       <xt xml:lang="rus">без шутки уже не может</xt>
-     </xg>
-   </mg>
-</e>
-<e>
-   <lg t1="Ш" t2="У" t3="А" uri="61927-shuas-t-g" id="61927">
-     <l pos="Ger" type="TOG">шуасьтӧг</l>
-       <l_var type="molodtsov-cyr">шуаԍтӧг</l_var>
-   </lg>
-   <mg relId="0">
-     <tg xml:lang="rus">
-       <t>безропотно</t>
-     </tg>
-     <xg>
-       <x>шуасьтӧг вӧчны</x>
-       <xt xml:lang="rus">исполнить безропотно</xt>
-     </xg>
-   </mg>
-</e>
-<e>
-   <lg t1="Ш" t2="У" t3="Т" uri="62270-shut-g" id="62270">
-     <l pos="Ger" type="TOG">шутӧг</l>
-       <l_var type="molodtsov-cyr">шутӧг</l_var>
-   </lg>
-   <mg relId="0">
-     <tg xml:lang="rus">
-       <t>молча; не сказав</t>
-     </tg>
-     <xg>
-       <x>кыв шутӧг</x>
-       <xt xml:lang="rus">не сказав слова</xt>
-     </xg>
-     <xg>
-       <x>пукавны нинӧм шутӧг</x>
-       <xt xml:lang="rus">сидеть молча</xt>
-     </xg><br />
-     <xg>
-       <x>◊ шутӧг шуӧма, кертӧг керӧма </x>
-       <xt xml:lang="rus" src_type="saying:поговорка">не скажешь, да скажут, что говорил, не сделаешь, да скажут, что сделал</xt>
-     </xg>
-   </mg>
-</e>
-<e>
-   <lg t1="Ш" t2="Ы" t3="А" uri="62352-shyavt-g" id="62352">
-     <l pos="Ger" type="TOG">шыавтӧг</l>
-       <l_var type="molodtsov-cyr">шыавтӧг</l_var>
-   </lg>
-   <mg relId="0"> <sg><s s_type="see">шыасьлытӧг</s></sg>
-     <tg xml:lang="rus">
-       <t></t>
-     </tg>
-   </mg>
-</e>
-<e>
-   <lg t1="Ш" t2="Ы" t3="А" uri="62359-shyas-lyt-g" id="62359">
-     <l pos="Ger" type="TOG">шыасьлытӧг</l>
-       <l_var type="molodtsov-cyr">шыаԍлытӧг</l_var>
-   </lg>
-   <mg relId="0">
-     <tg xml:lang="rus">
-       <t>молча</t>
-     </tg>
-     <xg>
-       <x>шыасьлытӧг пукавны</x>
-       <xt xml:lang="rus">сидеть молча</xt>
-     </xg>
-   </mg>
-</e>
-<e>
-   <lg t1="Ш" t2="Ы" t3="Т" uri="62736-shyt-g" id="62736">
-     <l pos="Ger" type="TOG">шытӧг</l>
-       <l_var type="molodtsov-cyr">шытӧг</l_var>
-   </lg>
-   <mg relId="0">
-     <tg xml:lang="rus">
-       <t>беззвучно || беззвучный</t>
-     </tg>
-     <xg>
-       <x>шытӧг бӧрдӧм</x>
-       <xt xml:lang="rus">беззвучный плачь</xt>
-     </xg>
-     <xg>
-       <x>шытӧг кыссьыны</x>
-       <xt xml:lang="rus">беззвучно ползти</xt>
-     </xg>
-     <xg>
-       <x>шытӧг серавны</x>
-       <xt xml:lang="rus">беззвучно смеяться</xt>
-     </xg>
-   </mg>
-</e>
-<e>
-   <lg t1="Ш" t2="Ӧ" t3="Й" uri="61507-sh-ij-vosh-m-n" id="61507">
-     <l pos="Ger" type="OMON">шӧйӧвошӧмӧн</l>
-       <l_var type="molodtsov-cyr">шӧјӧвошӧмӧн</l_var>
-   </lg>
-   <mg relId="0">
-     <tg xml:lang="rus">
-       <t>растерянно, смущённо</t>
-     </tg>
-     <xg>
-       <x>шӧйӧвошӧмӧн петны бӧр</x>
-       <xt xml:lang="rus">растерянно выйти обратно</xt>
-     </xg>
-     <xg>
-       <x>шӧйӧвошӧмӧн чӧв овны</x>
-       <xt xml:lang="rus">смущённо молчать</xt>
-     </xg>
-   </mg>
-</e>
-<e>
-   <lg t1="Ы" t2="К" t3="П" uri="63022-ykpashitt-g" id="63022">
-     <l pos="Ger" type="TOG">ыкпашиттӧг</l>
-       <l_var type="molodtsov-cyr">ыкпашіттӧг</l_var>
-   </lg>
-   <mg relId="0">
-     <tg xml:lang="rus">
-       <t>скромно</t>
-     </tg>
-     <xg>
-       <x>ыкпашиттӧг овны</x>
-       <xt xml:lang="rus">жить скромно</xt>
-     </xg>
-     <xg>
-       <x>ыкпашиттӧг пасйыны чужан лун</x>
-       <xt xml:lang="rus">скромно отметить день рождения</xt>
-     </xg>
-   </mg>
-</e>
-<e>
-   <lg t1="Ы" t2="К" t3="Ш" uri="63037-ykshaas-t-g" id="63037">
-     <l pos="Ger" type="TOG">ыкшаасьтӧг</l>
-       <l_var type="molodtsov-cyr">ыкшааԍтӧг</l_var>
-   </lg>
-   <mg relId="0"><strong>ыкшаасьтӧг, ыкшасьтӧг</strong><br />
-     <tg xml:lang="rus">
-       <t>скромно</t>
-     </tg>
-     <xg>
-       <x>коліс асьсӧ ыкшаасьтӧг кутны</x>
-       <xt xml:lang="rus">нужно было скромно вести себя</xt>
-     </xg>
-   </mg>
-</e>
-<e>
-   <lg t1="Ы" t2="К" t3="Ш" uri="63048-ykshas-t-g" id="63048">
-     <l pos="Ger" type="TOG">ыкшасьтӧг</l>
-       <l_var type="molodtsov-cyr">ыкшаԍтӧг</l_var>
-   </lg>
-   <mg relId="0"><strong>ыкшасьтӧг, ыкшаасьтӧг</strong><br />
-     <tg xml:lang="rus">
-       <t>скромно</t>
-     </tg>
-     <xg>
-       <x>коліс асьсӧ ыкшасьтӧг кутны</x>
-       <xt xml:lang="rus">нужно было скромно вести себя</xt>
-     </xg>
-   </mg>
-</e>
-<e>
-   <lg t1="Ы" t2="Л" t3="Ь" uri="63164-yl-g-m-n" id="63164">
-     <l pos="Ger" type="OMON">ыльгӧмӧн</l>
-       <l_var type="molodtsov-cyr">ыԉгӧмӧн</l_var>
-   </lg>
-   <mg relId="0"> <sg><s s_type="see">ыльӧбӧн</s></sg>
-     <tg xml:lang="rus">
-       <t></t>
-     </tg>
-   </mg>
-</e>
-<e>
-   <lg t1="Ы" t2="Л" t3="Ӧ" uri="63111-yl-dchyt-g" id="63111">
-     <l pos="Ger" type="TOG">ылӧдчытӧг</l>
-       <l_var type="molodtsov-cyr">ылӧччытӧг</l_var>
-   </lg>
-   <mg relId="0">
-     <tg xml:lang="rus">
-       <t pos="Ger"> честно, верно</t>
-     </tg>
-     <xg>
-       <x>ылӧдчытӧг шуа</x>
-       <xt xml:lang="rus">честно говорю</xt>
-     </xg>
-   </mg>
-</e>
-<e>
-   <lg t1="Ы" t2="П" t3="Ъ" uri="63250-yp-yavt-g" id="63250">
-     <l pos="Ger" type="TOG">ыпъявтӧг</l>
-       <l_var type="molodtsov-cyr">ыпјавтӧг</l_var>
-   </lg>
-   <mg relId="0">
-     <tg xml:lang="rus">
-       <t pos="Ger"> без пламени</t>
-     </tg>
-     <xg>
-       <x>сотчыны ыпъявтӧг</x>
-       <xt xml:lang="rus">гореть без пламени</xt>
-     </xg>
-   </mg>
-</e>
-<e>
-   <lg t1="Ы" t2="Р" t3="Г" uri="63267-yrg-m-n" id="63267">
-     <l pos="Ger" type="OMON">ыргӧмӧн</l>
-       <l_var type="molodtsov-cyr">ыргӧмӧн</l_var>
-   </lg>
-   <mg relId="0">
-     <tg xml:lang="rus">
-       <t>с шумом, с гудением</t>
-     </tg>
-     <xg>
-       <x>ыргӧмӧн ломтысьны</x>
-       <xt xml:lang="rus">гореть с шумом</xt>
-     </xg>
-     <xg>
-       <x>ыргӧмӧн матыстчис биыс</x>
-       <xt xml:lang="rus">огонь подступал с шумом</xt>
-     </xg>
-     <xg>
-       <x>ыргӧмӧн сотчыны</x>
-       <xt xml:lang="rus">гореть с шумом</xt>
-     </xg>
-   </mg>
-   <mg relId="1">
-     <tg xml:lang="rus">
-       <t>струёй</t>
-     </tg>
-     <xg>
-       <x>кӧдзыдыс ыргӧмӧн пырис ӧдзӧсӧд</x>
-       <xt xml:lang="rus">холод струёй врывался в дверь</xt>
-     </xg>
-   </mg>
-</e>
-<e>
-   <lg t1="Ы" t2="Р" t3="З" uri="63276-yrz-m-n" id="63276">
-     <l pos="Ger" type="OMON">ырзӧмӧн</l>
-       <l_var type="molodtsov-cyr">ырзӧмӧн</l_var>
-   </lg>
-   <mg relId="0">
-     <tg xml:lang="rus">
-       <t>с воплем; с рёвом</t>
-     </tg>
-     <xg>
-       <x>ырзӧмӧн бӧрдны</x>
-       <xt xml:lang="rus">рыдать</xt>
-     </xg>
-     <xg>
-       <x>ырзӧмӧн уськӧдчыны воча</x>
-       <xt xml:lang="rus">с воплем броситься навстречу</xt>
-     </xg>
-   </mg>
-</e>
-<e>
-   <lg t1="Ы" t2="Р" t3="Ы" uri="63429-yryshtch-m-n" id="63429">
-     <l pos="Ger" type="OMON">ырыштчӧмӧн</l>
-       <l_var type="molodtsov-cyr">ырышчӧмӧн</l_var>
-   </lg>
-   <mg relId="0"> <sg><s s_type="see">ырыштчана</s></sg>
-     <tg xml:lang="rus">
-       <t></t>
-     </tg>
-   </mg>
-</e>
-<e>
-   <lg t1="Ы" t2="Р" t3="Ӧ" uri="63362-yr-st-m-n" id="63362">
-     <l pos="Ger" type="OMON">ырӧстӧмӧн</l>
-       <l_var type="molodtsov-cyr">ырӧстӧмӧн</l_var>
-   </lg>
-   <mg relId="0">
-     <tg xml:lang="rus">
-       <t>навзрыд</t>
-     </tg>
-     <xg>
-       <x>ырӧстӧмӧн бӧрддзыны</x>
-       <xt xml:lang="rus">заплакать навзрыд</xt>
-     </xg>
-   </mg>
-</e>
-<e>
-   <lg t1="Э" t2="Л" t3="Я" uri="63831-elyas-t-g" id="63831">
-     <l pos="Ger" type="TOG">элясьтӧг</l>
-       <l_var type="molodtsov-cyr">еԉаԍтӧг</l_var>
-   </lg>
-   <mg relId="0">
-     <tg xml:lang="rus">
-       <t>безропотно; без жалоб</t>
-     </tg>
-     <xg>
-       <x>элясьтӧг венны сьӧкыдлунъяс</x>
-       <xt xml:lang="rus">безропотно преодолевать трудности</xt>
-     </xg>
-   </mg>
-</e>
-<e>
-   <lg t1="Ю" t2="А" t3="В" uri="64344-yuavt-g" id="64344">
-     <l pos="Ger" type="TOG">юавтӧг</l>
-       <l_var type="molodtsov-cyr">јуавтӧг</l_var>
-   </lg>
-   <mg relId="0">
-     <tg xml:lang="rus">
-       <t>без спроса; без разрешения</t>
-     </tg>
-     <xg>
-       <x>юавтӧг петны</x>
-       <xt xml:lang="rus">выйти без спроса</xt>
-     </xg>
-   </mg>
-</e>
-<e>
-   <lg t1="Ю" t2="А" t3="С" uri="64374-yuas-t-g" id="64374">
-     <l pos="Ger" type="TOG">юасьтӧг</l>
-       <l_var type="molodtsov-cyr">јуаԍтӧг</l_var>
-   </lg>
-   <mg relId="0"> <sg><s s_type="see">юавтӧг</s></sg>
-     <tg xml:lang="rus">
-       <t></t>
-     </tg>
-     <xg>
-       <x>юасьтӧг мунны</x>
-       <xt xml:lang="rus">уйти без спросу</xt>
-     </xg>
-   </mg>
-</e>
-<e>
-   <lg t1="Ю" t2="А" t3="С" uri="64376-yuas-t-g-vis-tas-t-g" id="64376">
-     <l pos="Ger" type="TOG">юасьтӧг-висьтасьтӧг</l>
-       <l_var type="molodtsov-cyr">јуаԍтӧг-віԍтаԍтӧг</l_var>
-   </lg>
-   <mg relId="0">
-     <tg xml:lang="rus">
-       <t>без ведома; без разрешения</t>
-     </tg>
-     <xg>
-       <x>менсьым юасьтӧг-висьтасьтӧг</x>
-       <xt xml:lang="rus">без моего ведома</xt>
-     </xg>
-     <xg>
-       <x>юасьтӧг-висьтасьтӧг пырны</x>
-       <xt xml:lang="rus">зайти без разрешения</xt>
-     </xg>
-   </mg>
-</e>
-<e>
-   <lg t1="Ю" t2="Р" t3="Т" uri="64925-yurt-g-sad-t-g" id="64925">
-     <l pos="Ger" type="TOG">юртӧг-садьтӧг</l>
-       <l_var type="molodtsov-cyr">јуртӧг-саԃтӧг</l_var>
-   </lg>
-   <mg relId="0">
-     <tg xml:lang="rus">
-       <t>без сознания, сломя голову</t>
-     </tg>
-     <xg>
-       <x>юртӧг-садьтӧг котӧртны</x>
-       <xt xml:lang="rus">бежать сломя голову</xt>
-     </xg>
-     <xg>
-       <x>юртӧг-садьтӧг лэбны</x>
-       <xt xml:lang="rus">полететь потеряв голову</xt>
-     </xg>
-   </mg>
-</e>
-<e>
-   <lg t1="Я" t2="Н" t3="Д" uri="65169-yandys-t-g" id="65169">
-     <l pos="Ger" type="TOG">яндысьтӧг</l>
-       <l_var type="molodtsov-cyr">јанԁыԍтӧг</l_var>
-   </lg>
-   <mg relId="0">
-     <tg xml:lang="rus">
-       <t pos="Ger"> не стыдясь; бесстыдно, бесцеремонно, цинично; нагло, без зазрения совести</t>
-     </tg>
-     <xg>
-       <x>яндысьтӧг видзӧдны</x>
-       <xt xml:lang="rus">цинично смотреть</xt>
-     </xg>
-     <xg>
-       <x>ньӧти яндысьтӧг пӧръявлыны</x>
-       <xt xml:lang="rus">нагло врать</xt>
-     </xg>
-   </mg>
-</e>
-<e>
-   <lg t1="Я" t2="Р" t3="С" uri="65292-yarsk-bt-m-n" id="65292">
-     <l pos="Ger" type="OMON">ярскӧбтӧмӧн</l>
-       <l_var type="molodtsov-cyr">јарскӧптӧмӧн</l_var>
-   </lg>
-   <mg relId="0">
-     <tg xml:lang="rus">
-       <t>резко</t>
-     </tg>
-     <xg>
-       <x>ярскӧбтӧмӧн чеччыны пызан сайысь</x>
-       <xt xml:lang="rus">резко встать из-за стола</xt>
-     </xg>
-   </mg>
-</e>
-<e>
-   <lg t1="Б" t2="У" t3="Р" uri="3811-burmyt-dz" id="3811">
-     <l pos="Ger" type="TODZ">бурмытӧдз</l>
-       <l_var type="molodtsov-cyr">бурмытӧԇ</l_var>
-   </lg>
-   <mg relId="0"> <sg><s s_type="see">бурмымӧн</s></sg>
-     <tg xml:lang="rus">
-       <t></t>
-     </tg>
-   </mg>
-</e>
-<e>
-   <lg t1="Б" t2="Ӧ" t3="Б" uri="2774-b-bmyt-dz" id="2774">
-     <l pos="Ger" type="TODZ">бӧбмытӧдз</l>
-       <l_var type="molodtsov-cyr">бӧбмытӧԇ</l_var>
-   </lg>
-   <mg relId="0">
-     <tg xml:lang="rus">
-       <t>до одурения</t>
-     </tg>
-     <xg>
-       <x>бӧбмытӧдз велӧдны тригонометрия</x>
-       <xt xml:lang="rus">до одурения учить тригонометрию</xt>
-     </xg>
-   </mg>
-</e>
-<e>
-   <lg t1="Б" t2="Ӧ" t3="Р" uri="2877-b-rdm-n" id="2877">
-     <l pos="Ger" type="MON">бӧрдмӧн</l>
-       <l_var type="molodtsov-cyr">бӧрԁмӧн</l_var>
-   </lg>
-   <mg relId="0">
-     <tg xml:lang="rus">
-       <t>до слёз</t>
-     </tg>
-     <xg>
-       <x>бӧрдмӧн жаль</x>
-       <xt xml:lang="rus">до слёз жалко</xt>
-     </xg>
-     <xg>
-       <x>бӧрдмӧн лои забеднӧ</x>
-       <xt xml:lang="rus">стало до слёз обидно</xt>
-     </xg>
-     <xg>
-       <x>бӧрдмӧн лои йӧзыслы таысь</x>
-       <xt xml:lang="rus">от этого люди заплакали</xt>
-     </xg>
-   </mg>
-</e>
-<e>
-   <lg t1="В" t2="А" t3="Й" uri="4560-vaijm-n" id="4560">
-     <l pos="Ger" type="MON">ваймӧн</l>
-       <l_var type="molodtsov-cyr">вајмӧн</l_var>
-   </lg>
-   <mg relId="0">
-     <tg xml:lang="rus">
-       <t>на один раз, на одну доставку <em>(о количестве чего-либо)</em></t>
-     </tg>
-     <xg>
-       <x>ас вылын ваймӧн</x>
-       <xt xml:lang="rus">столько, сколько можно снести за один раз</xt>
-     </xg>
-     <xg>
-       <x>пес коли вӧрӧ ӧтчыд ваймӧн</x>
-       <xt xml:lang="rus">дров осталось в лесу на одну доставку</xt>
-     </xg>
-   </mg>
-</e>
-<e>
-   <lg t1="В" t2="Е" t3="Ж" uri="5278-vezhm-n" id="5278">
-     <l pos="Ger" type="MON">вежмӧн</l>
-       <l_var type="molodtsov-cyr">вежмӧн</l_var>
-   </lg>
-   <mg relId="0">
-     <tg xml:lang="rus">
-       <t>перебивая, вперебой, наперебой</t>
-     </tg>
-     <xg>
-       <x>ӧта-мӧд вежмӧн висьтавлыны</x>
-       <xt xml:lang="rus">рассказывать, перебивая друг друга</xt>
-     </xg>
-     <xg>
-       <x>старукаяс вежмӧн ызгисны</x>
-       <xt xml:lang="rus">старухи наперебой болтали</xt>
-     </xg>
-   </mg>
-   <mg relId="1">
-     <tg xml:lang="rus">
-       <t>вперегонки, наперегонки</t>
-     </tg>
-     <xg>
-       <x>ӧта-мӧд вежмӧн уджавны</x>
-       <xt xml:lang="rus">работать наперегонки</xt>
-     </xg>
-   </mg>
-   <mg relId="2">
-     <tg xml:lang="rus">
-       <t>нарасхват</t>
-     </tg>
-     <xg>
-       <x>тӧвар ньӧбисны мӧда-мӧд вежмӧн</x>
-       <xt xml:lang="rus">товары брали нарасхват</xt>
-     </xg>
-   </mg>
-</e>
-<e>
-   <lg t1="В" t2="Е" t3="С" uri="6126-ves-p-rm-n" id="6126">
-     <l pos="Ger" type="MON">весьӧпӧрмӧн</l>
-       <l_var type="molodtsov-cyr">веԍӧпӧрмӧн</l_var>
-   </lg>
-   <mg relId="0">
-     <tg xml:lang="rus">
-       <t>до оцепенения</t>
-     </tg>
-     <xg>
-       <x>весьӧпӧрмӧн повзьыны</x>
-       <xt xml:lang="rus">испугаться до оцепенения</xt>
-     </xg>
-   </mg>
-</e>
-<e>
-   <lg t1="В" t2="Е" t3="Т" uri="6203-vetlym-n" id="6203">
-     <l pos="Ger" type="MON">ветлымӧн</l>
-       <l_var type="molodtsov-cyr">ветлымӧн</l_var>
-   </lg>
-   <mg relId="0">
-     <tg xml:lang="rus">
-       <t>на одну ношу, на одну возку, на одну ездку</t>
-     </tg>
-     <xg>
-       <x>зорӧдӧ туруныс коли кыкысь ветлымӧн</x>
-       <xt xml:lang="rus">в стогу сена осталось на две возки</xt>
-     </xg>
-   </mg>
-</e>
-<e>
-   <lg t1="В" t2="И" t3="Д" uri="6412-vidz-dm-n" id="6412">
-     <l pos="Ger" type="MON">видзӧдмӧн</l>
-       <l_var type="molodtsov-cyr">віԇӧԁмӧн</l_var>
-   </lg>
-   <mg relId="0">
-     <tg xml:lang="rus">
-       <t>на глазах, очень быстро</t>
-     </tg>
-     <xg>
-       <x>видзӧдмӧн быдмыны</x>
-       <xt xml:lang="rus">расти на глазах</xt>
-     </xg>
-     <xg>
-       <x>видзӧдмӧн вежсьыны чужӧм вылысь</x>
-       <xt xml:lang="rus">на глазах измениться в лице</xt>
-     </xg>
-   </mg>
-</e>
-<e>
-   <lg t1="В" t2="И" t3="З" uri="6581-vizuvtm-n" id="6581">
-     <l pos="Ger" type="MON">визувтмӧн</l>
-       <l_var type="molodtsov-cyr">візувтмӧн</l_var>
-   </lg>
-   <mg relId="0"><span class="underline">употребляется лишь в составе выражений:</span><br />
-     <xg>
-       <x>пӧсь визувтмӧн</x>
-       <xt xml:lang="rus">до седьмого пота; до изнеможения</xt>
-     </xg>
-     <xg>
-       <x>шор визувтмӧн зэрис</x>
-       <xt xml:lang="rus">прошёл ливень</xt>
-     </xg>
-   </mg>
-</e>
-<e>
-   <lg t1="В" t2="И" t3="М" uri="6733-vim-n" id="6733">
-     <l pos="Ger" type="MON">вимӧн</l>
-       <l_var type="molodtsov-cyr">вімӧн</l_var>
-   </lg>
-   <mg relId="0">
-     <tg xml:lang="rus">
-       <t>до смерти</t>
-     </tg>
-     <xg>
-       <x>лыйӧмыс абу лоӧма вимӧн</x>
-       <xt xml:lang="rus">выстрел оказался несмертельным</xt>
-     </xg>
-   </mg>
-</e>
-<e>
-   <lg t1="В" t2="И" t3="Р" uri="6842-virsermunt-dz" id="6842">
-     <l pos="Ger" type="TODZ">вирсермунтӧдз</l>
-       <l_var type="molodtsov-cyr">вірԍермунтӧԇ</l_var>
-   </lg>
-   <mg relId="0">
-     <tg xml:lang="rus">
-       <t>до полусмерти</t>
-     </tg>
-     <xg>
-       <x>вирсермунтӧдз нӧйтны</x>
-       <xt xml:lang="rus">избить до полусмерти</xt>
-     </xg>
-   </mg>
-</e>
-<e>
-   <lg t1="В" t2="И" t3="С" uri="6889-vis-mym-n" id="6889">
-     <l pos="Ger" type="MON">висьмымӧн</l>
-       <l_var type="molodtsov-cyr">віԍмымӧн</l_var>
-   </lg>
-   <mg relId="0">
-     <tg xml:lang="rus">
-       <t>до боли</t>
-     </tg>
-     <xg>
-       <x>видзӧдны син висьмымӧн</x>
-       <xt xml:lang="rus">смотреть до боли в глазах</xt>
-     </xg>
-   </mg>
-</e>
-<e>
-   <lg t1="В" t2="У" t3="Д" uri="8618-vudzhm-n" id="8618">
-     <l pos="Ger" type="MON">вуджмӧн</l>
-       <l_var type="molodtsov-cyr">вуҗмӧн</l_var>
-   </lg>
-   <mg relId="0"><span class="underline">употребляется лишь в составе выражений:</span><br />
-     <xg>
-       <x>во вуджмӧн</x>
-       <xt xml:lang="rus">столько, сколько нужно на год</xt>
-     </xg>
-     <xg>
-       <x>во вуджмӧн нянь босьтны</x>
-       <xt xml:lang="rus">получить хлеба на целый год</xt>
-     </xg>
-   </mg>
-</e>
-<e>
-   <lg t1="В" t2="У" t3="З" uri="8710-vuzavm-n" id="8710">
-     <l pos="Ger" type="MON">вузавмӧн</l>
-       <l_var type="molodtsov-cyr">вузавмӧн</l_var>
-   </lg>
-   <mg relId="0">
-     <tg xml:lang="rus">
-       <t>столько, что можно уделить для продажи</t>
-     </tg>
-     <xg>
-       <x>нянь воис вузавмӧн</x>
-       <xt xml:lang="rus">хлеба уродилось столько, что можно уделить для продажи</xt>
-     </xg>
-   </mg>
-</e>
-<e>
-   <lg t1="Г" t2="О" t3="Р" uri="10429-gorz-dlym-n" id="10429">
-     <l pos="Ger" type="MON">горзьӧдлымӧн</l>
-       <l_var type="molodtsov-cyr">горԅӧԁлымӧн</l_var>
-   </lg>
-   <mg relId="0">
-     <tg xml:lang="rus">
-       <t>досыта, до полного насыщения</t>
-     </tg>
-     <xg>
-       <x>горзьӧдлымӧн сёйны</x>
-       <xt xml:lang="rus">наесться досыта, вдоволь</xt>
-     </xg>
-   </mg>
-</e>
-<e>
-   <lg t1="Г" t2="У" t3="Д" uri="11451-gudyrtchym-n" id="11451">
-     <l pos="Ger" type="MON">гудыртчымӧн</l>
-       <l_var type="molodtsov-cyr">гуԁырччымӧн</l_var>
-   </lg>
-   <mg relId="0"><span class="underline">употребляется лишь в составе выражений:</span><br />
-     <xg>
-       <x>сьӧлӧм гудыртчымӧн оз ков</x>
-       <xt xml:lang="rus">совсем не надо, душа не принимает</xt>
-     </xg>
-   </mg>
-</e>
-<e>
-   <lg t1="Г" t2="Ӧ" t3="Р" uri="10952-g-rd-dm-n" id="10952">
-     <l pos="Ger" type="MON">гӧрдӧдмӧн</l>
-       <l_var type="molodtsov-cyr">гӧрԁӧԁмӧн</l_var>
-   </lg>
-   <mg relId="0">
-     <tg xml:lang="rus">
-       <t>до появления красноты</t>
-     </tg>
-     <xg>
-       <x>гӧрдӧдмӧн зыравны</x>
-       <xt xml:lang="rus">растереть до покраснения</xt>
-     </xg>
-   </mg>
-</e>
-<e>
-   <lg t1="Г" t2="Ӧ" t3="Р" uri="10958-g-rd-dt-dz" id="10958">
-     <l pos="Ger" type="TODZ">гӧрдӧдтӧдз</l>
-       <l_var type="molodtsov-cyr">гӧрԁӧттӧԇ</l_var>
-   </lg>
-   <mg relId="0"> <sg><s s_type="see">гӧрдӧдмӧн</s></sg>
-     <tg xml:lang="rus">
-       <t></t>
-     </tg>
-   </mg>
-</e>
-<e>
-   <lg t1="Д" t2="Ж" t3="А" uri="12474-dzhag-dchym-n" id="12474">
-     <l pos="Ger" type="MON">джагӧдчымӧн</l>
-       <l_var type="molodtsov-cyr">җагӧччымӧн</l_var>
-   </lg>
-   <mg relId="0">
-     <tg xml:lang="rus">
-       <t>до зарезу; до удавления</t>
-     </tg>
-     <xg>
-       <x>джагӧдчымӧн шог</x>
-       <xt xml:lang="rus">так грустно, хоть удавись</xt>
-     </xg>
-     <xg>
-       <x>джагӧдчымӧн колӧ</x>
-       <xt xml:lang="rus">нужно до зарезу;</xt>
-     </xg>
-   </mg>
-</e>
-<e>
-   <lg t1="Д" t2="З" t3="Е" uri="12832-dzenavt-dz" id="12832">
-     <l pos="Ger" type="TODZ">дзенавтӧдз</l>
-       <l_var type="molodtsov-cyr">ԇенавтӧԇ</l_var>
-   </lg>
-   <mg relId="0">
-     <tg xml:lang="rus">
-       <t>до боли</t>
-     </tg>
-   </mg>
-   <mg relId="1">
-     <tg xml:lang="rus">
-       <t><acronym title="в переносном значении"><em>перен.</em></acronym> до отвала; плотно</t>
-     </tg>
-     <xg>
-       <x>рушку дзенавтӧдз пажнайтны</x>
-       <xt xml:lang="rus">обедать до отвала</xt>
-     </xg>
-   </mg>
-</e>
-<e>
-   <lg t1="Д" t2="З" t3="И" uri="13033-dzirdavm-n" id="13033">
-     <l pos="Ger" type="MON">дзирдавмӧн</l>
-       <l_var type="molodtsov-cyr">ԇірԁавмӧн</l_var>
-   </lg>
-   <mg relId="0">
-     <tg xml:lang="rus">
-       <t>до блеска; до лоска</t>
-     </tg>
-     <xg>
-       <x>дзирдавмӧн вуштыны</x>
-       <xt xml:lang="rus">натереть до блеска</xt>
-     </xg>
-   </mg>
-</e>
-<e>
-   <lg t1="Д" t2="З" t3="О" uri="13108-dzobavm-n" id="13108">
-     <l pos="Ger" type="MON">дзобавмӧн</l>
-       <l_var type="molodtsov-cyr">ԇобавмӧн</l_var>
-   </lg>
-   <mg relId="0">
-     <tg xml:lang="rus">
-       <t>до онемения, до потери чувствительности</t>
-     </tg>
-     <xg>
-       <x>ки дзобавмӧн сынны</x>
-       <xt xml:lang="rus">грести до онемения рук</xt>
-     </xg>
-   </mg>
-</e>
-<e>
-   <lg t1="Д" t2="З" t3="О" uri="13257-dzormym-n" id="13257">
-     <l pos="Ger" type="MON">дзормымӧн</l>
-       <l_var type="molodtsov-cyr">ԇормымӧн</l_var>
-   </lg>
-   <mg relId="0">
-     <tg xml:lang="rus">
-       <t>до седин, до поседения</t>
-     </tg><br />
-     <xg>
-       <x>дзормымӧн шогсьыны</x>
-       <xt xml:lang="rus"> поседеть от горя </xt><com>(<acronym title="буквально"><em>букв.</em></acronym> горевать до поседения)</com>
-     </xg>
-     <xg>
-       <x>юрси дзормымӧн</x>
-       <xt xml:lang="rus">до поседения волос</xt>
-     </xg>
-   </mg>
-</e>
-<e>
-   <lg t1="Д" t2="З" t3="О" uri="13261-dzormyt-dz" id="13261">
-     <l pos="Ger" type="TODZ">дзормытӧдз</l>
-       <l_var type="molodtsov-cyr">ԇормытӧԇ</l_var>
-   </lg>
-   <mg relId="0">
-     <tg xml:lang="rus">
-       <t>до седин</t>
-     </tg>
-     <xg>
-       <x>дзормытӧдз овны</x>
-       <xt xml:lang="rus">дожить до седин</xt>
-     </xg>
-   </mg>
-</e>
-<e>
-   <lg t1="Д" t2="О" t3="Д" uri="13943-doddyas-t-dz" id="13943">
-     <l pos="Ger" type="TODZ">доддясьтӧдз</l>
-       <l_var type="molodtsov-cyr">ԁоԃԃаԍтӧԇ</l_var>
-   </lg>
-   <mg relId="0">
-     <tg xml:lang="rus">
-       <t pos="Ger"> до запряжки</t>
-     </tg>
-     <xg>
-       <x>доддясьтӧдз вӧвтӧ колӧ юктӧдны</x>
-       <xt xml:lang="rus">прежде чем запрягать, лошадь надо напоить</xt>
-     </xg>
-   </mg>
-</e>
-<e>
-   <lg t1="Д" t2="О" t3="Й" uri="13973-doijdm-n" id="13973">
-     <l pos="Ger" type="MON">дойдмӧн</l>
-       <l_var type="molodtsov-cyr">ԁојԁмӧн</l_var>
-   </lg>
-   <mg relId="0">
-     <tg xml:lang="rus">
-       <t>до боли</t>
-     </tg>
-     <xg>
-       <x>гӧгӧр вӧлі пельтӧ дойдмӧн лӧнь</x>
-       <xt xml:lang="rus">кругом было тихо до боли в ушах</xt>
-     </xg>
-     <xg>
-       <x>сьыланкывйыс сьӧлӧм дойдмӧн кажитчис тӧдсаӧн</x>
-       <xt xml:lang="rus">песня казалась до боли в сердце знакомой</xt>
-     </xg>
-   </mg>
-</e>
-<e>
-   <lg t1="Д" t2="О" t3="Й" uri="14002-doijmyt-dz" id="14002">
-     <l pos="Ger" type="TODZ">доймытӧдз</l>
-       <l_var type="molodtsov-cyr">ԁојмытӧԇ</l_var>
-   </lg>
-   <mg relId="0">
-     <tg xml:lang="rus">
-       <t>до боли</t>
-     </tg>
-     <xg>
-       <x>ачыс шогсьыліс сьӧлӧм доймытӧдз</x>
-       <xt xml:lang="rus">сам расстраивался до боли в сердце</xt>
-     </xg>
-     <xg>
-       <x>сьӧлӧм доймытӧдз вӧлі окота видзӧдлыны ещӧ ӧтчыд мамлы чужӧмас</x>
-       <xt xml:lang="rus">до боли в сердце хотелось ещё раз посмотреть на маму</xt>
-     </xg>
-     <xg>
-       <x>син доймытӧдз видзӧдны</x>
-       <xt xml:lang="rus">смотреть до боли в глазах</xt>
-     </xg>
-   </mg>
-</e>
-<e>
-   <lg t1="Д" t2="Р" t3="Ӧ" uri="14671-dr-zhzhitm-n" id="14671">
-     <l pos="Ger" type="MON">дрӧжжитмӧн</l>
-       <l_var type="molodtsov-cyr">ԁрӧжжітмӧн</l_var>
-   </lg>
-   <mg relId="0">
-     <tg xml:lang="rus">
-       <t>до дрожи</t>
-     </tg>
-     <xg>
-       <x>дрӧжжитмӧн повзьыны</x>
-       <xt xml:lang="rus">испугаться до дрожи</xt>
-     </xg>
-   </mg>
-</e>
-<e>
-   <lg t1="Д" t2="У" t3="Б" uri="14751-dubavt-dz" id="14751">
-     <l pos="Ger" type="TODZ">дубавтӧдз</l>
-       <l_var type="molodtsov-cyr">ԁубавтӧԇ</l_var>
-   </lg>
-   <mg relId="0">
-     <tg xml:lang="rus">
-       <t>до выдыхания; до потери крепости</t>
-     </tg>
-   </mg>
-   <mg relId="1">
-     <tg xml:lang="rus">
-       <t>до онемения; до омертвения; до задеревенения</t>
-     </tg>
-     <xg>
-       <x>сойяс дубавтӧдз ытшким</x>
-       <xt xml:lang="rus">косили до онемения рук</xt>
-     </xg>
-   </mg>
-</e>
-<e>
-   <lg t1="Д" t2="У" t3="Л" uri="14965-dul-smunt-dz" id="14965">
-     <l pos="Ger" type="TODZ">дульсмунтӧдз</l>
-       <l_var type="molodtsov-cyr">ԁуԉсмунтӧԇ</l_var>
-   </lg>
-   <mg relId="0">
-     <tg xml:lang="rus">
-       <t>до потемнения в глазах; до потери сил; выбиваясь из сил</t>
-     </tg>
-     <xg>
-       <x>нывбаба уджаліс вой шӧрӧдз, син дульсмунтӧдз</x>
-       <xt xml:lang="rus">женщина работала до ночи, до потери сил</xt>
-     </xg>
-   </mg>
-</e>
-<e>
-   <lg t1="Д" t2="У" t3="М" uri="14984-dum-n" id="14984">
-     <l pos="Ger" type="MON">думӧн</l>
-       <l_var type="molodtsov-cyr">ԁумӧн</l_var>
-   </lg>
-   <mg relId="0">
-     <tg xml:lang="rus">
-       <t>мысленно; молчаливо; в душе, внутренне</t>
-     </tg>
-     <xg>
-       <x>думӧн дорйыся</x>
-       <xt xml:lang="rus">в душе оправдываюсь</xt>
-     </xg>
-     <xg>
-       <x>думӧн каитчыны</x>
-       <xt xml:lang="rus">мысленно раскаиваться</xt>
-     </xg>
-     <xg>
-       <x>думӧн корны</x>
-       <xt xml:lang="rus">мысленно просить</xt>
-     </xg>
-     <xg>
-       <x>думӧн лӧсьӧдны</x>
-       <xt xml:lang="rus">вообразить</xt>
-     </xg>
-   </mg>
-</e>
-<e>
-   <lg t1="Д" t2="У" t3="Н" uri="15024-dundyt-dz" id="15024">
-     <l pos="Ger" type="TODZ">дундытӧдз</l>
-       <l_var type="molodtsov-cyr">ԁунԁытӧԇ</l_var>
-   </lg>
-   <mg relId="0">
-     <tg xml:lang="rus">
-       <t pos="Ger"> до вздутия; до отвала</t>
-     </tg>
-     <xg>
-       <x>сан сёйӧма, тыдалӧ, дундытӧдзыс</x>
-       <xt xml:lang="rus">росомаха наелась, видимо, до отвала</xt>
-     </xg>
-   </mg>
-</e>
-<e>
-   <lg t1="Д" t2="Ӧ" t3="З" uri="14516-d-zmym-n" id="14516">
-     <l pos="Ger" type="MON">дӧзмымӧн</l>
-       <l_var type="molodtsov-cyr">ԁӧзмымӧн</l_var>
-   </lg>
-   <mg relId="0">
-     <tg xml:lang="rus">
-       <t>до потери терпения</t>
-     </tg>
-   </mg>
-</e>
-<e>
-   <lg t1="Д" t2="Ӧ" t3="З" uri="14523-d-zmyt-dz" id="14523">
-     <l pos="Ger" type="TODZ">дӧзмытӧдз</l>
-       <l_var type="molodtsov-cyr">ԁӧзмытӧԇ</l_var>
-   </lg>
-   <mg relId="0">
-     <tg xml:lang="rus">
-       <t>до потери терпения; до изнеможения</t>
-     </tg>
-     <xg>
-       <x>дӧзмытӧдз лоӧ корсьны зэрӧм бӧрад косін</x>
-       <xt xml:lang="rus">до изнеможения приходится искать сухое место после дождя</xt>
-     </xg>
-   </mg>
-</e>
-<e>
-   <lg t1="Д" t2="Ӧ" t3="Н" uri="14589-d-nz-yt-dz" id="14589">
-     <l pos="Ger" type="TODZ">дӧнзьытӧдз</l>
-       <l_var type="molodtsov-cyr">ԁӧнԅытӧԇ</l_var>
-   </lg>
-   <mg relId="0">
-     <tg xml:lang="rus">
-       <t>до устали; до изнеможения</t>
-     </tg>
-     <xg>
-       <x>дӧнзьытӧдз лои виччысьны</x>
-       <xt xml:lang="rus">до устали пришлось ждать</xt>
-     </xg>
-   </mg>
-</e>
-<e>
-   <lg t1="З" t2="А" t3="В" uri="16524-zavaritm-n" id="16524">
-     <l pos="Ger" type="MON">заваритмӧн</l>
-       <l_var type="molodtsov-cyr">заварітмӧн</l_var>
-   </lg>
-   <mg relId="0">
-     <tg xml:lang="rus">
-       <t>на одну заварку</t>
-     </tg>
-     <xg>
-       <x>чай колис заваритмӧн</x>
-       <xt xml:lang="rus">чая осталось на одну заварку</xt>
-     </xg>
-   </mg>
-</e>
-<e>
-   <lg t1="Й" t2="Ӧ" t3="Й" uri="19127-ij-ijmym-n" id="19127">
-     <l pos="Ger" type="MON">йӧймымӧн</l>
-       <l_var type="molodtsov-cyr">јӧјмымӧн</l_var>
-   </lg>
-   <mg relId="0">
-     <tg xml:lang="rus">
-       <t>до сумасшествия</t>
-     </tg>
-     <xg>
-       <x>йӧймымӧн повзьыны</x>
-       <xt xml:lang="rus">испугаться до сумасшествия</xt>
-     </xg>
-   </mg>
-</e>
-<e>
-   <lg t1="К" t2="А" t3="З" uri="19527-kazyavm-n" id="19527">
-     <l pos="Ger" type="MON">казявмӧн</l>
-       <l_var type="molodtsov-cyr">каԅавмӧн</l_var>
-   </lg>
-   <mg relId="0">
-     <tg xml:lang="rus">
-       <t>заметно</t>
-     </tg>
-     <xg>
-       <x>казявмӧн вежсьыны</x>
-       <xt xml:lang="rus">заметно измениться</xt>
-     </xg>
-     <xg>
-       <x>казявмӧн вынаджык лои</x>
-       <xt xml:lang="rus">стал (он) заметно сильнее</xt>
-     </xg>
-     <xg>
-       <x>муртса казявмӧн довкнитны юрӧн</x>
-       <xt xml:lang="rus">еле заметно кивнуть головой</xt>
-     </xg>
-   </mg>
-</e>
-<e>
-   <lg t1="К" t2="Е" t3="Л" uri="20744-kel-d-dm-n" id="20744">
-     <l pos="Ger" type="MON">кельдӧдмӧн</l>
-       <l_var type="molodtsov-cyr">кеԉԁӧԁмӧн</l_var>
-   </lg>
-   <mg relId="0">
-     <tg xml:lang="rus">
-       <t>до побледнения; добела</t>
-     </tg>
-     <xg>
-       <x>кельдӧдмӧн чабыртны кулак</x>
-       <xt xml:lang="rus">сжать кулак до побледнения</xt>
-     </xg>
-   </mg>
-</e>
-<e>
-   <lg t1="К" t2="Е" t3="Л" uri="20752-kel-d-dt-dz" id="20752">
-     <l pos="Ger" type="TODZ">кельдӧдтӧдз</l>
-       <l_var type="molodtsov-cyr">кеԉԁӧттӧԇ</l_var>
-   </lg>
-   <mg relId="0">
-     <tg xml:lang="rus">
-       <t>добела; до побледнения; до посветления</t>
-     </tg>
-     <xg>
-       <x>кельдӧдтӧдз донӧдӧм шонді</x>
-       <xt xml:lang="rus">добела раскалённое солнце</xt>
-     </xg>
-   </mg>
-</e>
-<e>
-   <lg t1="К" t2="И" t3="Л" uri="21235-kil-kuvt-dz" id="21235">
-     <l pos="Ger" type="TODZ">килькувтӧдз</l>
-       <l_var type="molodtsov-cyr">кіԉкувтӧԇ</l_var>
-   </lg>
-   <mg relId="0">
-     <tg xml:lang="rus">
-       <t pos="Ger"> до отчаяния; отчаявшись</t>
-     </tg>
-   </mg>
-</e>
-<e>
-   <lg t1="К" t2="О" t3="Д" uri="21966-koddzym-n" id="21966">
-     <l pos="Ger" type="MON">коддзымӧн</l>
-       <l_var type="molodtsov-cyr">коԇԇымӧн</l_var>
-   </lg>
-   <mg relId="0">
-     <tg xml:lang="rus">
-       <t>допьяна</t>
-     </tg>
-     <xg>
-       <x>коддзымӧн оз ю</x>
-       <xt xml:lang="rus">допьяна не пьёт</xt>
-     </xg>
-   </mg>
-</e>
-<e>
-   <lg t1="К" t2="О" t3="Д" uri="21970-koddzyt-dz" id="21970">
-     <l pos="Ger" type="TODZ">коддзытӧдз</l>
-       <l_var type="molodtsov-cyr">коԇԇытӧԇ</l_var>
-   </lg>
-   <mg relId="0"> <sg><s s_type="see">коддзӧдмӧн</s></sg>
-     <tg xml:lang="rus">
-       <t>; <xref link="коддзымӧн"> коддзымӧн</xref></t>
-     </tg>
-     <xg>
-       <x>коддзытӧдз юны</x>
-       <xt xml:lang="rus">напиться допьяна</xt>
-     </xg>
-   </mg>
-</e>
-<e>
-   <lg t1="К" t2="О" t3="Д" uri="21955-koddz-dm-n" id="21955">
-     <l pos="Ger" type="MON">коддзӧдмӧн</l>
-       <l_var type="molodtsov-cyr">коԇԇӧԁмӧн</l_var>
-   </lg>
-   <mg relId="0">
-     <tg xml:lang="rus">
-       <t>допьяна</t>
-     </tg>
-     <xg>
-       <x>коддзӧдмӧн юктӧдны</x>
-       <xt xml:lang="rus">напоить допьяна</xt>
-     </xg>
-   </mg>
-</e>
-<e>
-   <lg t1="К" t2="О" t3="С" uri="23473-kosyavm-n" id="23473">
-     <l pos="Ger" type="MON">косявмӧн</l>
-       <l_var type="molodtsov-cyr">коԍавмӧн</l_var>
-   </lg>
-   <mg relId="0">
-     <tg xml:lang="rus">
-       <t>до рези; до звона <em>(в ушах)</em></t>
-     </tg>
-     <xg>
-       <x>пельяс косявмӧн чилзыны</x>
-       <xt xml:lang="rus">визжать до звона в ушах</xt>
-     </xg>
-   </mg>
-</e>
-<e>
-   <lg t1="К" t2="О" t3="Ч" uri="23653-kochkavm-n" id="23653">
-     <l pos="Ger" type="MON">кочкавмӧн</l>
-       <l_var type="molodtsov-cyr">кочкавмӧн</l_var>
-   </lg>
-   <mg relId="0">
-     <tg xml:lang="rus">
-       <t>до колик</t>
-     </tg>
-     <xg>
-       <x>кочкавмӧн серавны</x>
-       <xt xml:lang="rus">смеяться до колик</xt>
-     </xg>
-   </mg>
-</e>
-<e>
-   <lg t1="К" t2="О" t3="Ч" uri="23657-kochkavt-dz" id="23657">
-     <l pos="Ger" type="TODZ">кочкавтӧдз</l>
-       <l_var type="molodtsov-cyr">кочкавтӧԇ</l_var>
-   </lg>
-   <mg relId="0">
-     <tg xml:lang="rus">
-       <t>до колик</t>
-     </tg>
-     <xg>
-       <x>кочкавтӧдз копрасьны</x>
-       <xt xml:lang="rus">кланяться до колик</xt>
-     </xg>
-     <xg>
-       <x>кочкавтӧдз серавны</x>
-       <xt xml:lang="rus">смеяться до колик</xt>
-     </xg>
-   </mg>
-</e>
-<e>
-   <lg t1="К" t2="О" t3="Я" uri="23684-koyavm-n" id="23684">
-     <l pos="Ger" type="MON">коявмӧн</l>
-       <l_var type="molodtsov-cyr">којавмӧн</l_var>
-   </lg>
-   <mg relId="0">
-     <tg xml:lang="rus">
-       <t>достаточный, чтобы можно было отливать, разбрасывать</t>
-     </tg>
-   </mg>
-</e>
-<e>
-   <lg t1="К" t2="У" t3="В" uri="25050-kuvm-n" id="25050">
-     <l pos="Ger" type="MON">кувмӧн</l>
-       <l_var type="molodtsov-cyr">кувмӧн</l_var>
-   </lg>
-   <mg relId="0">
-     <tg xml:lang="rus">
-       <t>смертельно, насмерть, до́ смерти</t>
-     </tg>
-     <xg>
-       <x>кувмӧн доймыны</x>
-       <xt xml:lang="rus">расшибиться насмерть</xt>
-     </xg>
-     <xg>
-       <x>кувмӧн жугавны</x>
-       <xt xml:lang="rus">разбиться насмерть</xt>
-     </xg>
-     <xg>
-       <x>кувмӧн окота</x>
-       <xt xml:lang="rus">до смерти хочется; сильно хочется</xt>
-     </xg>
-     <xg>
-       <x>◊ кувмӧн колӧ тӧдны</x>
-       <xt xml:lang="rus">сгорать от любопытства</xt>
-     </xg>
-   </mg>
-</e>
-<e>
-   <lg t1="К" t2="У" t3="В" uri="25065-kuvt-dz" id="25065">
-     <l pos="Ger" type="TODZ">кувтӧдз</l>
-       <l_var type="molodtsov-cyr">кувтӧԇ</l_var>
-   </lg>
-   <mg relId="0"> <sg><s s_type="see">кувмӧн</s></sg>
-     <tg xml:lang="rus">
-       <t></t>
-     </tg>
-   </mg>
-   <mg relId="1">
-     <tg xml:lang="rus">
-       <t>до смерти; пока не умрёшь; до гробовой доски</t>
-     </tg>
-     <xg>
-       <x>шулӧны: дыр кӧ кутан узьны, кувтӧдзыд водзӧса лоан йӧзлы</x>
-       <xt xml:lang="rus">говорят: если долго будешь спать, до самой смерти будешь в долгу перед людьми</xt>
-     </xg>
-     <xg>
-       <x>◊ кувтӧдз колӧ</x>
-       <xt xml:lang="rus">позарез нужно; до́ смерти хочется</xt>
-     </xg>
-   </mg>
-</e>
-<e>
-   <lg t1="К" t2="У" t3="И" uri="25220-kuim-n" id="25220">
-     <l pos="Ger" type="MON">куимӧн</l>
-       <l_var type="molodtsov-cyr">куімӧн</l_var>
-   </lg>
-   <mg relId="0">
-     <tg xml:lang="rus">
-       <t>втроём</t>
-     </tg>
-     <xg>
-       <x>ми вӧлім куимӧн</x>
-       <xt xml:lang="rus">мы были втроём</xt>
-     </xg>
-   </mg>
-</e>
-<e>
-   <lg t1="К" t2="У" t3="Й" uri="25262-kuij-davt-dz" id="25262">
-     <l pos="Ger" type="TODZ">куйӧдавтӧдз</l>
-       <l_var type="molodtsov-cyr">кујӧԁавтӧԇ</l_var>
-   </lg>
-   <mg relId="0">
-     <tg xml:lang="rus">
-       <t pos="Ger"> до внесения навоза</t>
-     </tg>
-   </mg>
-</e>
-<e>
-   <lg t1="К" t2="У" t3="Л" uri="25410-kul-myt-dz" id="25410">
-     <l pos="Ger" type="TODZ">кульмытӧдз</l>
-       <l_var type="molodtsov-cyr">куԉмытӧԇ</l_var>
-   </lg>
-   <mg relId="0">
-     <tg xml:lang="rus">
-       <t pos="Ger"> до нереста</t>
-     </tg>
-     <xg>
-       <x>чери кульмытӧдз кыйсьыны оз ков</x>
-       <xt xml:lang="rus">нельзя ловить рыбу до нереста</xt>
-     </xg>
-   </mg>
-</e>
-<e>
-   <lg t1="К" t2="Ы" t3="В" uri="26262-kyvm-n" id="26262">
-     <l pos="Ger" type="MON">кывмӧн</l>
-       <l_var type="molodtsov-cyr">кывмӧн</l_var>
-   </lg>
-   <mg relId="0"><strong>кывмӧн, кывмӧнъя</strong><br />
-     <tg xml:lang="rus">
-       <t>1. вслух; громко; слышно; явно, не таясь</t>
-     </tg>
-     <xg>
-       <x>кывмӧн вашкӧдчыны</x>
-       <xt xml:lang="rus">шептаться не таясь</xt>
-     </xg>
-     <xg>
-       <x>йӧзлы кывмӧн</x>
-       <xt xml:lang="rus">вслух</xt>
-     </xg>
-     <xg>
-       <x>кывмӧн сьывны</x>
-       <xt xml:lang="rus">громко петь</xt>
-     </xg>
-     <xg>
-       <x>кывмӧн ышловзьыны</x>
-       <xt xml:lang="rus">громко вздохнуть</xt>
-     </xg>
-   </mg>
-   <mg relId="1">
-     <tg xml:lang="rus">
-       <t>отчётливо, разборчиво, внятно</t>
-     </tg>
-     <xg>
-       <x>муртса кывмӧн</x>
-       <xt xml:lang="rus">невнятно</xt>
-     </xg>
-     <xg>
-       <x>кывмӧн лыддьы</x>
-       <xt xml:lang="rus">разборчиво читай</xt>
-     </xg>
-   </mg>
-</e>
-<e>
-   <lg t1="К" t2="Ы" t3="Л" uri="26668-kyl-n-vom-n" id="26668">
-     <l pos="Ger" type="MON">кылӧн-вомӧн</l>
-       <l_var type="molodtsov-cyr">кылӧн-вомӧн</l_var>
-   </lg>
-   <mg relId="0">
-     <tg xml:lang="rus">
-       <t>толком, ясно</t>
-     </tg>
-     <xg>
-       <x>кылӧн-вомӧн велӧдны</x>
-       <xt xml:lang="rus">научить толком</xt>
-     </xg>
-     <xg>
-       <x>тэныд вӧлі кылӧн-вомӧн шуӧма</x>
-       <xt xml:lang="rus">тебе ясно было сказано</xt>
-     </xg>
-   </mg>
-</e>
-<e>
-   <lg t1="К" t2="Ы" t3="Н" uri="26774-kynmyt-dz" id="26774">
-     <l pos="Ger" type="TODZ">кынмытӧдз</l>
-       <l_var type="molodtsov-cyr">кынмытӧԇ</l_var>
-   </lg>
-   <mg relId="0">
-     <tg xml:lang="rus">
-       <t>до замерзания</t>
-     </tg>
-     <xg>
-       <x>кынмытӧдз сулавны да виччысьны</x>
-       <xt xml:lang="rus">стоять и ждать, пока не замёрз</xt>
-     </xg>
-   </mg>
-</e>
-<e>
-   <lg t1="К" t2="Ы" t3="С" uri="27071-kyskym-n" id="27071">
-     <l pos="Ger" type="MON">кыскымӧн</l>
-       <l_var type="molodtsov-cyr">кыскымӧн</l_var>
-   </lg>
-   <mg relId="0">
-     <tg xml:lang="rus">
-       <t>столько, чтобы нести, везти</t>
-     </tg>
-     <xg>
-       <x>бадьсӧ кыскымӧн кераліс</x>
-       <xt xml:lang="rus">нарубил ивы столько, чтобы нести на себе</xt>
-     </xg>
-     <xg>
-       <x>вӧвлы кыскымӧн</x>
-       <xt xml:lang="rus">столько, чтобы везти на лошади</xt>
-     </xg>
-     <xg>
-       <x>кыкӧн кыскымӧн вылӧ тырмас</x>
-       <xt xml:lang="rus">хватит, чтобы нести вдвоём</xt>
-     </xg>
-     <xg>
-       <x>ӧтчыд кыскымӧн</x>
-       <xt xml:lang="rus">на одну возку</xt>
-     </xg>
-   </mg>
-</e>
-<e>
-   <lg t1="К" t2="Ы" t3="С" uri="27089-kyskyshtm-n" id="27089">
-     <l pos="Ger" type="MON">кыскыштмӧн</l>
-       <l_var type="molodtsov-cyr">кыскыштмӧн</l_var>
-   </lg>
-   <mg relId="0">
-     <tg xml:lang="rus">
-       <t>на одну затяжку, на один глоток табачного дыма</t>
-     </tg>
-   </mg>
-</e>
-<e>
-   <lg t1="Л" t2="И" t3="Ш" uri="28509-lishavm-n" id="28509">
-     <l pos="Ger" type="MON">лишавмӧн</l>
-       <l_var type="molodtsov-cyr">ԉішавмӧн</l_var>
-   </lg>
-   <mg relId="0">
-     <tg xml:lang="rus">
-       <t>в избытке, с избытком</t>
-     </tg>
-     <xg>
-       <x>нянь миян лишавмӧн</x>
-       <xt xml:lang="rus">хлеб у нас в избытке</xt>
-     </xg>
-   </mg>
-</e>
-<e>
-   <lg t1="Л" t2="О" t3="М" uri="28723-lomtym-n" id="28723">
-     <l pos="Ger" type="MON">ломтымӧн</l>
-       <l_var type="molodtsov-cyr">ломтымӧн</l_var>
-   </lg>
-   <mg relId="0"> <sg><s s_type="see">ломтысьмӧн</s></sg>
-     <tg xml:lang="rus">
-       <t></t>
-     </tg>
-   </mg>
-</e>
-<e>
-   <lg t1="Л" t2="Ы" t3="Й" uri="29509-lyijm-n" id="29509">
-     <l pos="Ger" type="MON">лыймӧн</l>
-       <l_var type="molodtsov-cyr">лыјмӧн</l_var>
-   </lg>
-   <mg relId="0">
-     <tg xml:lang="rus">
-       <t>достаточный для выстрела</t>
-     </tg>
-     <xg>
-       <x>дасысь лыймӧн дрӧб</x>
-       <xt xml:lang="rus">дробь на десять выстрелов</xt>
-     </xg>
-     <xg>
-       <x>лыймӧн сибӧдны</x>
-       <xt xml:lang="rus">подпустить на выстрел</xt>
-     </xg>
-     <xg>
-       <x>порокыс коли ӧтчыд лыймӧн</x>
-       <xt xml:lang="rus">пороху осталось на один выстрел</xt>
-     </xg>
-   </mg>
-</e>
-<e>
-   <lg t1="Л" t2="Э" t3="Ч" uri="29905-lechch-dm-n" id="29905">
-     <l pos="Ger" type="MON">лэччӧдмӧн</l>
-       <l_var type="molodtsov-cyr">леччӧԁмӧн</l_var>
-   </lg>
-   <mg relId="0">
-     <tg xml:lang="rus">
-       <t>на одну ношу; на одну возку; на один рейс</t>
-     </tg>
-     <xg>
-       <x>кыкысь лэччӧдмӧн турун</x>
-       <xt xml:lang="rus">на две возки сена</xt>
-     </xg>
-     <xg>
-       <x>лэччӧдмӧн шедӧма сьӧла-тарыс</x>
-       <xt xml:lang="rus">промысловой дичи попалось <em>(в силки</em>, <em>ловушки)</em> на одну ношу</xt>
-     </xg>
-   </mg>
-</e>
-<e>
-   <lg t1="Л" t2="Ё" t3="Т" uri="28231-lyotavt-dz" id="28231">
-     <l pos="Ger" type="TODZ">лётавтӧдз</l>
-       <l_var type="molodtsov-cyr">ԉотавтӧԇ</l_var>
-   </lg>
-   <mg relId="0">
-     <tg xml:lang="rus">
-       <t>до изнеможения</t>
-     </tg>
-     <xg>
-       <x>лётавтӧдз мудзны</x>
-       <xt xml:lang="rus">устать до изнеможения</xt>
-     </xg>
-   </mg>
-</e>
-<e>
-   <lg t1="Л" t2="Ӧ" t3="З" uri="28947-l-z-dt-dz" id="28947">
-     <l pos="Ger" type="TODZ">лӧзӧдтӧдз</l>
-       <l_var type="molodtsov-cyr">лӧзӧттӧԇ</l_var>
-   </lg>
-   <mg relId="0">
-     <tg xml:lang="rus">
-       <t>до посинения</t>
-     </tg>
-     <xg>
-       <x>лӧзӧдтӧдз куритчыны</x>
-       <xt xml:lang="rus">курить до посинения</xt>
-     </xg>
-     <xg>
-       <x>лӧзӧдтӧдз скӧрмыны</x>
-       <xt xml:lang="rus">рассердиться до посинения</xt>
-     </xg>
-   </mg>
-</e>
-<e>
+  <e>
    <lg t1="М" t2="У" t3="Д" uri="32432-mudzt-dz" id="32432">
      <l pos="Ger" type="TODZ">мудзтӧдз</l>
        <l_var type="molodtsov-cyr">мучтӧԇ</l_var>
@@ -5181,7 +3580,48 @@
      </xg>
    </mg>
 </e>
-<e>
+  <e>
+   <lg t1="М" t2="Ы" t3="Ж" uri="32975-myzhmyt-g" id="32975">
+     <l pos="Ger" type="TOG">мыжмытӧг</l>
+       <l_var type="molodtsov-cyr">мыжмытӧг</l_var>
+   </lg>
+   <mg relId="0">
+     <tg xml:lang="rus">
+       <t>безнаказанно</t>
+     </tg>
+     <xg>
+       <x>мыжмытӧг пакӧститчыны</x>
+       <xt xml:lang="rus">безнаказанно вредить</xt>
+     </xg>
+   </mg>
+</e>
+  <e>
+   <lg t1="М" t2="Ы" t3="Ж" uri="32981-myzht-g" id="32981">
+     <l pos="Ger" type="TOG">мыжтӧг</l>
+       <l_var type="molodtsov-cyr">мыжтӧг</l_var>
+   </lg>
+   <mg relId="0">
+     <tg xml:lang="rus">
+       <t>безвинно</t>
+     </tg>
+     <xg>
+       <x>мыжтӧг мыждыны</x>
+       <xt xml:lang="rus">безвинно наказать</xt>
+     </xg>
+   </mg>
+</e>
+  <e>
+   <lg t1="М" t2="Ы" t3="Н" uri="33149-myntys-t-g" id="33149">
+     <l pos="Ger" type="TOG">мынтысьтӧг</l>
+       <l_var type="molodtsov-cyr">мынтыԍтӧг</l_var>
+   </lg>
+   <mg relId="0">
+     <tg xml:lang="rus">
+       <t>безвозмездно; бесплатно</t>
+     </tg>
+   </mg>
+</e>
+  <e>
    <lg t1="М" t2="Ы" t3="Т" uri="33292-mytsavm-n" id="33292">
      <l pos="Ger" type="MON">мытсавмӧн</l>
        <l_var type="molodtsov-cyr">мытсавмӧн</l_var>
@@ -5204,18 +3644,93 @@
      </xg>
    </mg>
 </e>
-<e>
+  <e>
    <lg t1="М" t2="Ы" t3="Т" uri="33295-mytsavt-dz" id="33295">
      <l pos="Ger" type="TODZ">мытсавтӧдз</l>
        <l_var type="molodtsov-cyr">мытсавтӧԇ</l_var>
    </lg>
    <mg relId="0"> <sg><s s_type="see">мытсавмӧн</s></sg>
      <tg xml:lang="rus">
-       <t></t>
+       <t/>
      </tg>
    </mg>
 </e>
-<e>
+  <e>
+   <lg t1="Н" t2="А" t3="Т" uri="33789-nat-g" id="33789">
+     <l pos="Ger" type="TOG">натӧг</l>
+       <l_var type="molodtsov-cyr">натӧг</l_var>
+   </lg>
+   <mg relId="0">
+     <tg xml:lang="rus">
+       <t><acronym title="лишительный падеж"><em>лиш.п.</em></acronym> <em>от</em> <xref link="найӧ"> найӧ</xref></t>
+     </tg>
+     <xg>
+       <x>натӧг кӧ он вермы овны, на дінӧ и мун, накӧд и ов</x>
+       <xt xml:lang="rus">если без них не можешь жить, иди к ним и живи с ними</xt>
+     </xg>
+   </mg>
+</e>
+  <e>
+   <lg t1="Н" t2="Е" t3="Т" uri="34249-netshkys-m-n" id="34249">
+     <l pos="Ger" type="OMON">нетшкысьӧмӧн</l>
+       <l_var type="molodtsov-cyr">ԋещкыԍӧмӧн</l_var>
+   </lg>
+   <mg relId="0">
+     <tg xml:lang="rus">
+       <t>рывками</t>
+     </tg>
+     <xg>
+       <x>нетшкысьӧмӧн лэптыны</x>
+       <xt xml:lang="rus"> поднимать <em>что-либо</em> рывками</xt>
+     </xg>
+   </mg>
+</e>
+  <e>
+   <lg t1="Н" t2="Е" t3="Т" uri="34256-netshysht-m-n" id="34256">
+     <l pos="Ger" type="OMON">нетшыштӧмӧн</l>
+       <l_var type="molodtsov-cyr">ԋещыштӧмӧн</l_var>
+   </lg>
+   <mg relId="0">
+     <tg xml:lang="rus">
+       <t>дёрнув, рванув; рывком</t>
+     </tg>
+     <xg>
+       <x>нетшыштӧмӧн гурйыв восьтны ӧдзӧс</x>
+       <xt xml:lang="rus">рывком распахнуть дверь настежь</xt>
+     </xg>
+   </mg>
+</e>
+  <e>
+   <lg t1="Н" t2="О" t3="В" uri="34742-novl-dl-m-n" id="34742">
+     <l pos="Ger" type="OMON">новлӧдлӧмӧн</l>
+       <l_var type="molodtsov-cyr">новлӧԁлӧмӧн</l_var>
+   </lg>
+   <mg relId="0">
+     <tg xml:lang="rus">
+       <t>вразнос</t>
+     </tg>
+     <xg>
+       <x>вузасьны новлӧдлӧмӧн</x>
+       <xt xml:lang="rus">торговать вразнос</xt>
+     </xg>
+   </mg>
+</e>
+  <e>
+   <lg t1="Н" t2="О" t3="Р" uri="34883-noras-t-g" id="34883">
+     <l pos="Ger" type="TOG">норасьтӧг</l>
+       <l_var type="molodtsov-cyr">нораԍтӧг</l_var>
+   </lg>
+   <mg relId="0">
+     <tg xml:lang="rus">
+       <t>безропотно; без жалоб, не жалуясь</t>
+     </tg>
+     <xg>
+       <x>норасьтӧг вуджӧдны ас вывті шог</x>
+       <xt xml:lang="rus">не жалуясь пережить горе</xt>
+     </xg>
+   </mg>
+</e>
+  <e>
    <lg t1="Н" t2="У" t3="М" uri="35081-num-n" id="35081">
      <l pos="Ger" type="MON">нумӧн</l>
        <l_var type="molodtsov-cyr">нумӧн</l_var>
@@ -5238,7 +3753,7 @@
      </xg>
    </mg>
 </e>
-<e>
+  <e>
    <lg t1="Н" t2="Ы" t3="М" uri="35232-nym-n" id="35232">
      <l pos="Ger" type="MON">нымӧн</l>
        <l_var type="molodtsov-cyr">нымӧн</l_var>
@@ -5284,7 +3799,18 @@
      </xg>
    </mg>
 </e>
-<e>
+  <e>
+   <lg t1="Н" t2="Ы" t3="Р" uri="35354-nyrchch-m-n" id="35354">
+     <l pos="Ger" type="OMON">нырччӧмӧн</l>
+       <l_var type="molodtsov-cyr">нырччӧмӧн</l_var>
+   </lg>
+   <mg relId="0">
+     <tg xml:lang="rus">
+       <t>целеустремлённо</t>
+     </tg>
+   </mg>
+</e>
+  <e>
    <lg t1="Н" t2="Э" t3="М" uri="35540-nem-n" id="35540">
      <l pos="Ger" type="MON">нэмӧн</l>
        <l_var type="molodtsov-cyr">немӧн</l_var>
@@ -5303,7 +3829,37 @@
      </xg>
    </mg>
 </e>
-<e>
+  <e>
+   <lg t1="Н" t2="Ю" t3="Р" uri="35846-nyurkij-dl-m-n" id="35846">
+     <l pos="Ger" type="OMON">нюркйӧдлӧмӧн</l>
+       <l_var type="molodtsov-cyr">ԋуркјӧԁлӧмӧн</l_var>
+   </lg>
+   <mg relId="0">
+     <tg xml:lang="rus">
+       <t>нараспев</t>
+     </tg>
+     <xg>
+       <x>нюркйӧдлӧмӧн сёрнитны</x>
+       <xt xml:lang="rus">говорить нараспев</xt>
+     </xg>
+   </mg>
+</e>
+  <e>
+   <lg t1="П" t2="А" t3="Д" uri="38524-pad-yavt-g" id="38524">
+     <l pos="Ger" type="TOG">падъявтӧг</l>
+       <l_var type="molodtsov-cyr">паԁјавтӧг</l_var>
+   </lg>
+   <mg relId="0">
+     <tg xml:lang="rus">
+       <t>уверенно</t>
+     </tg>
+     <xg>
+       <x>падъявтӧг вочавидзны</x>
+       <xt xml:lang="rus">уверенно ответить</xt>
+     </xg>
+   </mg>
+</e>
+  <e>
    <lg t1="П" t2="А" t3="Н" uri="38817-pan-yshtm-n" id="38817">
      <l pos="Ger" type="MON">паньыштмӧн</l>
        <l_var type="molodtsov-cyr">паԋыштмӧн</l_var>
@@ -5318,18 +3874,65 @@
      </xg>
    </mg>
 </e>
-<e>
+  <e>
+   <lg t1="П" t2="А" t3="С" uri="39166-pas-t-g" id="39166">
+     <l pos="Ger" type="TOG">пасьтӧг</l>
+       <l_var type="molodtsov-cyr">паԍтӧг</l_var>
+   </lg>
+   <mg relId="0">
+     <tg xml:lang="rus">
+       <t>голышом, нагишом</t>
+     </tg>
+     <xg>
+       <x>пасьтӧг пӧрччысьны</x>
+       <xt xml:lang="rus">оголиться, обнажиться, раздеться догола</xt>
+     </xg>
+     <xg>
+       <x>гожӧмын челядь пасьтӧг котралӧны</x>
+       <xt xml:lang="rus">летом ребята бегают нагишом</xt>
+     </xg>
+   </mg>
+   <mg relId="1">
+     <tg xml:lang="rus">
+       <t>без верхней одежды, раздетым</t>
+     </tg>
+     <xg>
+       <x>пасьтӧг петны</x>
+       <xt xml:lang="rus">выйти, не одевшись, раздетым</xt>
+     </xg><br/>
+     <xg>
+       <x>пукавны пасьтӧг</x>
+       <xt xml:lang="rus"> сидеть раздетым</xt>
+     </xg> <sg><s s_type="seeAlso">ӧтпӧлӧсӧн</s></sg><br/>
+     <xg>
+       <x>◊ пасьтӧг усьны</x>
+       <xt xml:lang="rus">обноситься</xt>
+     </xg>
+   </mg>
+</e>
+  <e>
    <lg t1="П" t2="Е" t3="М" uri="39556-pemdyt-dz" id="39556">
      <l pos="Ger" type="TODZ">пемдытӧдз</l>
        <l_var type="molodtsov-cyr">пемԁытӧԇ</l_var>
    </lg>
    <mg relId="0"> <sg><s s_type="see">пемыдӧдз</s></sg>
      <tg xml:lang="rus">
-       <t></t>
+       <t/>
      </tg>
    </mg>
 </e>
-<e>
+  <e>
+   <lg t1="П" t2="Е" t3="Т" uri="39924-petk-dl-m-n" id="39924">
+     <l pos="Ger" type="OMON">петкӧдлӧмӧн</l>
+       <l_var type="molodtsov-cyr">петкӧԁлӧмӧн</l_var>
+   </lg>
+   <mg relId="0">
+     <tg xml:lang="rus">
+       <t>наглядно</t>
+     </tg>
+   </mg>
+</e>
+  <e>
    <lg t1="П" t2="Е" t3="Т" uri="39947-petm-n" id="39947">
      <l pos="Ger" type="MON">петмӧн</l>
        <l_var type="molodtsov-cyr">петмӧн</l_var>
@@ -5393,7 +3996,7 @@
      </xg>
    </mg>
 </e>
-<e>
+  <e>
    <lg t1="П" t2="О" t3="В" uri="40598-povz-ym-n" id="40598">
      <l pos="Ger" type="MON">повзьымӧн</l>
        <l_var type="molodtsov-cyr">повԅымӧн</l_var>
@@ -5416,7 +4019,79 @@
      </xg>
    </mg>
 </e>
-<e>
+  <e>
+   <lg t1="П" t2="О" t3="В" uri="40634-povt-g" id="40634">
+     <l pos="Ger" type="TOG">повтӧг</l>
+       <l_var type="molodtsov-cyr">повтӧг</l_var>
+   </lg>
+   <mg relId="0">
+     <tg xml:lang="rus">
+       <t>безбоязненно; без опаски; без стеснения, не смущаясь; смело, отважно; свободно</t>
+     </tg>
+     <xg>
+       <x>повтӧг кутны асьтӧ сцена вылын</x>
+       <xt xml:lang="rus">свободно держаться на сцене</xt>
+     </xg>
+     <xg>
+       <x>повтӧг тышкасьны йӧз шуд вӧсна</x>
+       <xt xml:lang="rus">отважно сражаться за счастье народа</xt>
+     </xg>
+     <xg>
+       <x>повтӧг уськӧдчыны враг вылӧ</x>
+       <xt xml:lang="rus">бесстрашно броситься на врага</xt>
+     </xg>
+   </mg>
+</e>
+  <e>
+   <lg t1="П" t2="О" t3="Д" uri="40764-poduvt-g" id="40764">
+     <l pos="Ger" type="TOG">подувтӧг</l>
+       <l_var type="molodtsov-cyr">поԁувтӧг</l_var>
+   </lg>
+   <mg relId="0">
+     <tg xml:lang="rus">
+       <t>необоснованно; голословно; предвзято</t>
+     </tg>
+     <xg>
+       <x>кодӧскӧ подувтӧг вӧйпны</x>
+       <xt xml:lang="rus">кого-либо предвзято осуждать</xt>
+     </xg>
+     <xg>
+       <x>подувтӧг мыждыны</x>
+       <xt xml:lang="rus">необоснованно наказать</xt>
+     </xg>
+   </mg>
+</e>
+  <e>
+   <lg t1="П" t2="О" t3="Л" uri="40983-pol-m-n" id="40983">
+     <l pos="Ger" type="OMON">полӧмӧн</l>
+       <l_var type="molodtsov-cyr">полӧмӧн</l_var>
+   </lg>
+   <mg relId="0">
+     <tg xml:lang="rus">
+       <t>нерешительно, несмело; боязливо, опасливо, с опаской; робко, застенчиво, смущённо</t>
+     </tg>
+     <xg>
+       <x>полӧмӧн юавны</x>
+       <xt xml:lang="rus">робко спросить</xt>
+     </xg>
+   </mg>
+</e>
+  <e>
+   <lg t1="П" t2="О" t3="М" uri="41064-pomas-lyt-g" id="41064">
+     <l pos="Ger" type="TOG">помасьлытӧг</l>
+       <l_var type="molodtsov-cyr">помаԍлытӧг</l_var>
+   </lg>
+   <mg relId="0">
+     <tg xml:lang="rus">
+       <t>бесконечно</t>
+     </tg>
+     <xg>
+       <x>помасьлытӧг кыссьыны</x>
+       <xt xml:lang="rus">бесконечно длиться, тянуться</xt>
+     </xg>
+   </mg>
+</e>
+  <e>
    <lg t1="П" t2="У" t3="М" uri="43340-pum-n" id="43340">
      <l pos="Ger" type="MON">пумӧн</l>
        <l_var type="molodtsov-cyr">пумӧн</l_var>
@@ -5439,7 +4114,45 @@
      </xg>
    </mg>
 </e>
-<e>
+  <e>
+   <lg t1="П" t2="Ӧ" t3="Ж" uri="41731-p-zhas-m-n" id="41731">
+     <l pos="Ger" type="OMON">пӧжасьмӧн</l>
+       <l_var type="molodtsov-cyr">пӧжаԍмӧн</l_var>
+   </lg>
+   <mg relId="0">
+     <tg xml:lang="rus">
+       <t>на одну выпечку</t>
+     </tg>
+     <xg>
+       <x>кыкысь пӧжасьмӧн пызь</x>
+       <xt xml:lang="rus">муки на две выпечки</xt>
+     </xg>
+     <xg>
+       <x>пызьыс абу и пӧжасьмӧн</x>
+       <xt xml:lang="rus">нет муки даже на одну выпечку</xt>
+     </xg>
+   </mg>
+</e>
+  <e>
+   <lg t1="П" t2="Ӧ" t3="Р" uri="41978-p-rat-g-kadt-g" id="41978">
+     <l pos="Ger" type="TOG">пӧратӧг-кадтӧг</l>
+       <l_var type="molodtsov-cyr">пӧратӧг-каттӧг</l_var>
+   </lg>
+   <mg relId="0">
+     <tg xml:lang="rus">
+       <t>безвременно, несвоевременно</t>
+     </tg>
+     <xg>
+       <x>пӧратӧг-кадтӧг воны</x>
+       <xt xml:lang="rus">явиться несвоевременно</xt>
+     </xg>
+     <xg>
+       <x>пӧратӧг-кадтӧг кувсьыны</x>
+       <xt xml:lang="rus">безвременно скончаться</xt>
+     </xg>
+   </mg>
+</e>
+  <e>
    <lg t1="П" t2="Ӧ" t3="С" uri="42170-p-syavm-n" id="42170">
      <l pos="Ger" type="MON">пӧсявмӧн</l>
        <l_var type="molodtsov-cyr">пӧԍавмӧн</l_var>
@@ -5454,7 +4167,7 @@
      </xg>
    </mg>
 </e>
-<e>
+  <e>
    <lg t1="П" t2="Ӧ" t3="Т" uri="42213-p-tm-n" id="42213">
      <l pos="Ger" type="MON">пӧтмӧн</l>
        <l_var type="molodtsov-cyr">пӧтмӧн</l_var>
@@ -5481,18 +4194,77 @@
      </xg>
    </mg>
 </e>
-<e>
+  <e>
    <lg t1="П" t2="Ӧ" t3="Т" uri="42237-p-tt-dz" id="42237">
      <l pos="Ger" type="TODZ">пӧттӧдз</l>
        <l_var type="molodtsov-cyr">пӧттӧԇ</l_var>
    </lg>
    <mg relId="0"> <sg><s s_type="see">пӧтмӧн</s></sg>
      <tg xml:lang="rus">
-       <t></t>
+       <t/>
      </tg>
    </mg>
 </e>
-<e>
+  <e>
+   <lg t1="П" t2="Ӧ" t3="Щ" uri="42271-p-schadat-g" id="42271">
+     <l pos="Ger" type="TOG">пӧщадатӧг</l>
+       <l_var type="molodtsov-cyr">пӧшшаԁатӧг</l_var>
+   </lg>
+   <mg relId="0">
+     <tg xml:lang="rus">
+       <t>беспощадно</t>
+     </tg>
+     <xg>
+       <x>пӧщадатӧг косясьны врагкӧд</x>
+       <xt xml:lang="rus">беспощадно бороться с врагом</xt>
+     </xg>
+   </mg>
+</e>
+  <e>
+   <lg t1="Р" t2="Ӧ" t3="Д" uri="45513-r-dt-m-n" id="45513">
+     <l pos="Ger" type="OMON">рӧдтӧмӧн</l>
+       <l_var type="molodtsov-cyr">рӧттӧмӧн</l_var>
+   </lg>
+   <mg relId="0"> <sg><s s_type="see">рӧдйӧн</s></sg>
+     <tg xml:lang="rus">
+       <t/>
+     </tg>
+   </mg>
+</e>
+  <e>
+   <lg t1="С" t2="А" t3="Д" uri="46202-sad-t-g" id="46202">
+     <l pos="Ger" type="TOG">садьтӧг</l>
+       <l_var type="molodtsov-cyr">саԃтӧг</l_var>
+   </lg>
+   <mg relId="0">
+     <tg xml:lang="rus">
+       <t>без памяти; безумно</t>
+     </tg>
+     <xg>
+       <x>садьтӧг радейтны</x>
+       <xt xml:lang="rus">безумно любить</xt>
+     </xg>
+   </mg>
+   <mg relId="1">
+     <tg xml:lang="rus">
+       <t>стремглав; опрометью</t>
+     </tg>
+     <xg>
+       <x>садьтӧг пышйыны</x>
+       <xt xml:lang="rus">бежать сломя голову, опрометью</xt>
+     </xg>
+     <xg>
+       <x>садьтӧг уськӧдчыны котӧртны</x>
+       <xt xml:lang="rus">стремглав пуститься бежать</xt>
+     </xg>
+   </mg>
+   <mg relId="2">
+     <tg xml:lang="rus">
+       <t>без памяти, без сознания</t>
+     </tg>
+   </mg>
+</e>
+  <e>
    <lg t1="С" t2="Е" t3="Т" uri="46909-setm-n" id="46909">
      <l pos="Ger" type="MON">сетмӧн</l>
        <l_var type="molodtsov-cyr">ԍетмӧн</l_var>
@@ -5511,7 +4283,7 @@
      </xg>
    </mg>
 </e>
-<e>
+  <e>
    <lg t1="С" t2="И" t3="З" uri="47304-sizim-n" id="47304">
      <l pos="Ger" type="MON">сизимӧн</l>
        <l_var type="molodtsov-cyr">ԍіԅімӧн</l_var>
@@ -5547,7 +4319,22 @@
      </xg>
    </mg>
 </e>
-<e>
+  <e>
+   <lg t1="С" t2="И" t3="Н" uri="47467-sint-g" id="47467">
+     <l pos="Ger" type="TOG">синтӧг</l>
+       <l_var type="molodtsov-cyr">ԍінтӧг</l_var>
+   </lg>
+   <mg relId="0">
+     <tg xml:lang="rus">
+       <t>сослепу</t>
+     </tg>
+     <xg>
+       <x>ме синтӧгыд эг и тӧд тэнӧ</x>
+       <xt xml:lang="rus">я сослепу и не узнал тебя</xt>
+     </xg>
+   </mg>
+</e>
+  <e>
    <lg t1="С" t2="У" t3="В" uri="49383-suvtm-n" id="49383">
      <l pos="Ger" type="MON">сувтмӧн</l>
        <l_var type="molodtsov-cyr">сувтмӧн</l_var>
@@ -5562,7 +4349,7 @@
      </xg>
    </mg>
 </e>
-<e>
+  <e>
    <lg t1="С" t2="У" t3="Д" uri="49440-sudzm-n" id="49440">
      <l pos="Ger" type="MON">судзмӧн</l>
        <l_var type="molodtsov-cyr">суԇмӧн</l_var>
@@ -5594,7 +4381,7 @@
      </xg>
    </mg>
 </e>
-<e>
+  <e>
    <lg t1="С" t2="У" t3="Д" uri="49471-sudzs-ym-n" id="49471">
      <l pos="Ger" type="MON">судзсьымӧн</l>
        <l_var type="molodtsov-cyr">сучԍымӧн</l_var>
@@ -5609,7 +4396,49 @@
      </xg>
    </mg>
 </e>
-<e>
+  <e>
+   <lg t1="С" t2="У" t3="Д" uri="49465-sudzs-m-n" id="49465">
+     <l pos="Ger" type="OMON">судзсьӧмӧн</l>
+       <l_var type="molodtsov-cyr">сучԍӧмӧн</l_var>
+   </lg>
+   <mg relId="0">
+     <tg xml:lang="rus">
+       <t>в достатке, безбедно; зажиточно</t>
+     </tg>
+     <xg>
+       <x>судзсьӧмӧн овны</x>
+       <xt xml:lang="rus">жить в достатке</xt>
+     </xg>
+   </mg>
+</e>
+  <e>
+   <lg t1="С" t2="У" t3="Д" uri="49525-sudt-g-radt-g" id="49525">
+     <l pos="Ger" type="TOG">судтӧг-радтӧг</l>
+       <l_var type="molodtsov-cyr">суттӧг-раттӧг</l_var>
+   </lg>
+   <mg relId="0"><span class="underline">употребляется лишь в составе выражений:</span><br/>
+     <xg>
+       <x>судтӧг-радтӧг лӧсьӧдчыны</x>
+       <xt xml:lang="rus">договориться мирно, без судебного вмешательства</xt>
+     </xg>
+   </mg>
+</e>
+  <e>
+   <lg t1="С" t2="Я" t3="М" uri="50773-syamt-g" id="50773">
+     <l pos="Ger" type="TOG">сямтӧг</l>
+       <l_var type="molodtsov-cyr">ԍамтӧг</l_var>
+   </lg>
+   <mg relId="0">
+     <tg xml:lang="rus">
+       <t>бестактно</t>
+     </tg>
+     <xg>
+       <x>сямтӧг овны</x>
+       <xt xml:lang="rus">вести себя бестактно</xt>
+     </xg>
+   </mg>
+</e>
+  <e>
    <lg t1="С" t2="Я" t3="М" uri="50771-syam-n" id="50771">
      <l pos="Ger" type="MON">сямӧн</l>
        <l_var type="molodtsov-cyr">ԍамӧн</l_var>
@@ -5640,7 +4469,7 @@
      </xg> <sg><s s_type="seeAlso">моз Ⅰ в 1 значении</s><s s_type="seeAlso">ногӧн во 2 значении</s></sg>
    </mg>
 </e>
-<e>
+  <e>
    <lg t1="С" t2="Ё" t3="Й" uri="46951-syoijm-n" id="46951">
      <l pos="Ger" type="MON">сёймӧн</l>
        <l_var type="molodtsov-cyr">ԍојмӧн</l_var>
@@ -5655,23 +4484,59 @@
      </xg>
    </mg>
 </e>
-<e>
+  <e>
    <lg t1="С" t2="Ё" t3="Ӧ" uri="47018-syo-dm-n" id="47018">
      <l pos="Ger" type="MON">сёӧдмӧн</l>
        <l_var type="molodtsov-cyr">ԍоӧԁмӧн</l_var>
    </lg>
    <mg relId="0"> <sg><s s_type="see">сетмӧн</s></sg>
      <tg xml:lang="rus">
-       <t></t>
+       <t/>
      </tg>
    </mg>
 </e>
-<e>
+  <e>
+   <lg t1="Т" t2="А" t3="П" uri="51136-tapikas-m-n" id="51136">
+     <l pos="Ger" type="OMON">тапикасьӧмӧн</l>
+       <l_var type="molodtsov-cyr">тапікаԍӧмӧн</l_var>
+   </lg>
+   <mg relId="0">
+     <tg xml:lang="rus">
+       <t pos="Ger">1. мягко, тихо шагая</t>
+     </tg>
+   </mg>
+   <mg relId="1">
+     <tg xml:lang="rus">
+       <t>топая, стуча ногами</t>
+     </tg>
+   </mg>
+</e>
+  <e>
+   <lg t1="Т" t2="А" t3="Т" uri="51338-tatshk-d-m-n" id="51338">
+     <l pos="Ger" type="OMON">татшкӧдӧмӧн</l>
+       <l_var type="molodtsov-cyr">тащкӧԁӧмӧн</l_var>
+   </lg>
+   <mg relId="0">
+     <tg xml:lang="rus">
+       <t pos="Ger">1. стуча; со стуком</t>
+     </tg>
+   </mg>
+   <mg relId="1">
+     <tg xml:lang="rus">
+       <t><acronym title="в переносном значении"><em>перен.</em></acronym> бойко, без запинки</t>
+     </tg>
+     <xg>
+       <x>татшкӧдӧмӧн нин лыддьысьӧ</x>
+       <xt xml:lang="rus">читает уже без запинки</xt>
+     </xg>
+   </mg>
+</e>
+  <e>
    <lg t1="Т" t2="И" t3="Н" uri="51697-tin-gym-n" id="51697">
      <l pos="Ger" type="MON">тиньгымӧн</l>
        <l_var type="molodtsov-cyr">ԏіԋгымӧн</l_var>
    </lg>
-   <mg relId="0"><strong>тиньгымӧн, тиньгытӧдз</strong><br />
+   <mg relId="0"><strong>тиньгымӧн, тиньгытӧдз</strong><br/>
      <tg xml:lang="rus">
        <t>до звона</t>
      </tg>
@@ -5681,12 +4546,12 @@
      </xg>
    </mg>
 </e>
-<e>
+  <e>
    <lg t1="Т" t2="И" t3="Н" uri="51702-tin-gyt-dz" id="51702">
      <l pos="Ger" type="TODZ">тиньгытӧдз</l>
        <l_var type="molodtsov-cyr">ԏіԋгытӧԇ</l_var>
    </lg>
-   <mg relId="0"><strong>тиньгытӧдз, тиньгымӧн</strong><br />
+   <mg relId="0"><strong>тиньгытӧдз, тиньгымӧн</strong><br/>
      <tg xml:lang="rus">
        <t>до звона</t>
      </tg>
@@ -5696,12 +4561,27 @@
      </xg>
    </mg>
 </e>
-<e>
+  <e>
+   <lg t1="Т" t2="О" t3="Д" uri="51983-todmyshkal-m-n" id="51983">
+     <l pos="Ger" type="OMON">тодмышкалӧмӧн</l>
+       <l_var type="molodtsov-cyr">тоԁмышкалӧмӧн</l_var>
+   </lg>
+   <mg relId="0">
+     <tg xml:lang="rus">
+       <t>взашей, взашеи <acronym title="просторечное"><em>прост.</em></acronym></t>
+     </tg>
+     <xg>
+       <x>тодмышкалӧмӧн вӧтлыны</x>
+       <xt xml:lang="rus">взашеи прогнать</xt>
+     </xg>
+   </mg>
+</e>
+  <e>
    <lg t1="Т" t2="О" t3="Й" uri="52029-toijtmym-n" id="52029">
      <l pos="Ger" type="MON">тойтмымӧн</l>
        <l_var type="molodtsov-cyr">тојтмымӧн</l_var>
    </lg>
-   <mg relId="0"><strong>тойтмымӧн, тойтмытӧдз</strong><br />
+   <mg relId="0"><strong>тойтмымӧн, тойтмытӧдз</strong><br/>
      <tg xml:lang="rus">
        <t>до изнурения; до потери сил</t>
      </tg>
@@ -5711,12 +4591,12 @@
      </xg>
    </mg>
 </e>
-<e>
+  <e>
    <lg t1="Т" t2="О" t3="Й" uri="52034-toijtmyt-dz" id="52034">
      <l pos="Ger" type="TODZ">тойтмытӧдз</l>
        <l_var type="molodtsov-cyr">тојтмытӧԇ</l_var>
    </lg>
-   <mg relId="0"><strong>тойтмытӧдз, тойтмымӧн</strong><br />
+   <mg relId="0"><strong>тойтмытӧдз, тойтмымӧн</strong><br/>
      <tg xml:lang="rus">
        <t>до изнурения; до потери сил</t>
      </tg>
@@ -5726,12 +4606,228 @@
      </xg>
    </mg>
 </e>
-<e>
+  <e>
+   <lg t1="Т" t2="О" t3="М" uri="52114-tomlal-m-n" id="52114">
+     <l pos="Ger" type="OMON">томлалӧмӧн</l>
+       <l_var type="molodtsov-cyr">томлалӧмӧн</l_var>
+   </lg>
+   <mg relId="0">
+     <tg xml:lang="rus">
+       <t pos="Ger"> взаперти</t>
+     </tg>
+     <xg>
+       <x>томлалӧмӧн видзны</x>
+       <xt xml:lang="rus">держать взаперти</xt>
+     </xg>
+   </mg>
+</e>
+  <e>
+   <lg t1="Т" t2="О" t3="М" uri="52119-tomlas-t-g" id="52119">
+     <l pos="Ger" type="TOG">томласьтӧг</l>
+       <l_var type="molodtsov-cyr">томлаԍтӧг</l_var>
+   </lg>
+   <mg relId="0">
+     <tg xml:lang="rus">
+       <t pos="Ger"> не запираясь</t>
+     </tg>
+     <xg>
+       <x>томласьтӧг узьны</x>
+       <xt xml:lang="rus">спать не запираясь</xt>
+     </xg>
+   </mg>
+</e>
+  <e>
+   <lg t1="Т" t2="О" t3="М" uri="52117-tomlas-m-n" id="52117">
+     <l pos="Ger" type="OMON">томласьӧмӧн</l>
+       <l_var type="molodtsov-cyr">томлаԍӧмӧн</l_var>
+   </lg>
+   <mg relId="0">
+     <tg xml:lang="rus">
+       <t pos="Ger"> запершись</t>
+     </tg>
+     <xg>
+       <x>томласьӧмӧн пукавны</x>
+       <xt xml:lang="rus">сидеть запершись</xt>
+     </xg>
+   </mg>
+</e>
+  <e>
+   <lg t1="Т" t2="О" t3="П" uri="52229-top-dch-m-n" id="52229">
+     <l pos="Ger" type="OMON">топӧдчӧмӧн</l>
+       <l_var type="molodtsov-cyr">топӧччӧмӧн</l_var>
+   </lg>
+   <mg relId="0">
+     <tg xml:lang="rus">
+       <t>обнявшись; в обнимку</t>
+     </tg>
+     <xg>
+       <x>топӧдчӧмӧн мунны</x>
+       <xt xml:lang="rus">идти обнявшись</xt>
+     </xg>
+   </mg>
+   <mg relId="1">
+     <tg xml:lang="rus">
+       <t>скупо</t>
+     </tg>
+     <xg>
+       <x>топӧдчӧмӧн овны</x>
+       <xt xml:lang="rus">скупо жить</xt>
+     </xg>
+   </mg>
+</e>
+  <e>
+   <lg t1="Т" t2="О" t3="Р" uri="52282-torij-dlyt-g" id="52282">
+     <l pos="Ger" type="TOG">торйӧдлытӧг</l>
+       <l_var type="molodtsov-cyr">торјӧԁлытӧг</l_var>
+   </lg>
+   <mg relId="0">
+     <tg xml:lang="rus">
+       <t pos="Ger"> не дробя, не раздробив, целиком</t>
+     </tg>
+     <xg>
+       <x>торйӧдлытӧг сетны</x>
+       <xt xml:lang="rus">отдать целиком</xt>
+     </xg>
+   </mg>
+</e>
+  <e>
+   <lg t1="Т" t2="О" t3="Р" uri="52300-torij-dch-m-n" id="52300">
+     <l pos="Ger" type="OMON">торйӧдчӧмӧн</l>
+       <l_var type="molodtsov-cyr">торјӧччӧмӧн</l_var>
+   </lg>
+   <mg relId="0">
+     <tg xml:lang="rus">
+       <t pos="Ger"> обособленно</t>
+     </tg>
+     <xg>
+       <x>йӧзысь торйӧдчӧмӧн</x>
+       <xt xml:lang="rus">обособленно от других</xt>
+     </xg>
+   </mg>
+</e>
+  <e>
+   <lg t1="Т" t2="О" t3="Р" uri="52357-torks-yvt-g" id="52357">
+     <l pos="Ger" type="TOG">торксьывтӧг</l>
+       <l_var type="molodtsov-cyr">торкԍывтӧг</l_var>
+   </lg>
+   <mg relId="0">
+     <tg xml:lang="rus">
+       <t>бесперебойно, бегло; не сбиваясь</t>
+     </tg>
+     <xg>
+       <x>торксьывтӧг лыддьыны</x>
+       <xt xml:lang="rus">бегло читать</xt>
+     </xg>
+     <xg>
+       <x>торксьывтӧг уджавны</x>
+       <xt xml:lang="rus">бесперебойно работать</xt>
+     </xg>
+   </mg>
+</e>
+  <e>
+   <lg t1="Т" t2="О" t3="Р" uri="52362-torksyavt-g" id="52362">
+     <l pos="Ger" type="TOG">торксявтӧг</l>
+       <l_var type="molodtsov-cyr">торкԍавтӧг</l_var>
+   </lg>
+   <mg relId="0">
+     <tg xml:lang="rus">
+       <t>без запинки</t>
+     </tg>
+     <xg>
+       <x>торксявтӧг лыддьысьны</x>
+       <xt xml:lang="rus">читать без запинки</xt>
+     </xg>
+   </mg>
+</e>
+  <e>
+   <lg t1="Т" t2="О" t3="Р" uri="52366-torksyal-m-n" id="52366">
+     <l pos="Ger" type="OMON">торксялӧмӧн</l>
+       <l_var type="molodtsov-cyr">торкԍалӧмӧн</l_var>
+   </lg>
+   <mg relId="0">
+     <tg xml:lang="rus">
+       <t>сбивчиво; сбиваясь</t>
+     </tg>
+     <xg>
+       <x>торксялӧмӧн висьтавны</x>
+       <xt xml:lang="rus">рассказать сбивчиво</xt>
+     </xg>
+   </mg>
+</e>
+  <e>
+   <lg t1="Т" t2="У" t3="Й" uri="53678-tuijt-g" id="53678">
+     <l pos="Ger" type="TOG">туйтӧг</l>
+       <l_var type="molodtsov-cyr">тујтӧг</l_var>
+   </lg>
+   <mg relId="0"> <sg><s s_type="see">туйтӧма</s></sg>
+     <tg xml:lang="rus">
+       <t/>
+     </tg>
+     <xg>
+       <x>некытчӧ туйтӧг</x>
+       <xt xml:lang="rus">безобразно</xt>
+     </xg>
+     <xg>
+       <x>туйтӧг овны</x>
+       <xt xml:lang="rus">жить непутёво</xt>
+     </xg>
+   </mg>
+</e>
+  <e>
+   <lg t1="Т" t2="У" t3="Р" uri="53931-turbyl-tch-m-n" id="53931">
+     <l pos="Ger" type="OMON">турбыльтчӧмӧн</l>
+       <l_var type="molodtsov-cyr">турбыԉччӧмӧн</l_var>
+   </lg>
+   <mg relId="0"> <sg><s s_type="see">турбыльӧн</s></sg>
+     <tg xml:lang="rus">
+       <t/>
+     </tg>
+   </mg>
+</e>
+  <e>
+   <lg t1="Т" t2="Ш" t3="А" uri="54278-tshapitchyt-g" id="54278">
+     <l pos="Ger" type="TOG">тшапитчытӧг</l>
+       <l_var type="molodtsov-cyr">щапіччытӧг</l_var>
+   </lg>
+   <mg relId="0">
+     <tg xml:lang="rus">
+       <t pos="Ger"> не жеманничая; без жеманства; без щегольства; скромно</t>
+     </tg>
+     <xg>
+       <x>тшапитчытӧг пасьтасьны</x>
+       <xt xml:lang="rus">скромно одеваться</xt>
+     </xg>
+   </mg>
+</e>
+  <e>
+   <lg t1="Т" t2="Ш" t3="Ӧ" uri="54450-tsh-k-yal-m-n" id="54450">
+     <l pos="Ger" type="OMON">тшӧкъялӧмӧн</l>
+       <l_var type="molodtsov-cyr">щӧкјалӧмӧн</l_var>
+   </lg>
+   <mg relId="0">
+     <tg xml:lang="rus">
+       <t pos="Ger"> захлёбываясь, прерывисто; взахлёб</t>
+     </tg>
+     <xg>
+       <x>тшӧкъялӧмӧн лолавны</x>
+       <xt xml:lang="rus">дышать захлёбываясь</xt>
+     </xg>
+     <xg>
+       <x>тшӧкъялӧмӧн горзісны перкъяс</x>
+       <xt xml:lang="rus">захлёбываясь трещали кедровки</xt>
+     </xg>
+     <xg>
+       <x>тшӧкъялӧмӧн нёнясьны</x>
+       <xt xml:lang="rus">сосать захлёбываясь</xt>
+     </xg>
+   </mg>
+</e>
+  <e>
    <lg t1="Т" t2="Ы" t3="Д" uri="54754-tydavm-n" id="54754">
      <l pos="Ger" type="MON">тыдавмӧн</l>
        <l_var type="molodtsov-cyr">тыԁавмӧн</l_var>
    </lg>
-   <mg relId="0"><strong>тыдавмӧн, тыдавмӧнъя</strong><br />
+   <mg relId="0"><strong>тыдавмӧн, тыдавмӧнъя</strong><br/>
      <tg xml:lang="rus">
        <t>заметно; ощутимо</t>
      </tg>
@@ -5745,12 +4841,12 @@
      </xg>
    </mg>
 </e>
-<e>
+  <e>
    <lg t1="Т" t2="Ы" t3="Р" uri="54929-tyrmym-n" id="54929">
      <l pos="Ger" type="MON">тырмымӧн</l>
        <l_var type="molodtsov-cyr">тырмымӧн</l_var>
    </lg>
-   <mg relId="0"><strong>тырмымӧн, тырмымӧнъя</strong><br />
+   <mg relId="0"><strong>тырмымӧн, тырмымӧнъя</strong><br/>
      <tg xml:lang="rus">
        <t>1. в достаточном количестве</t>
      </tg>
@@ -5789,29 +4885,155 @@
      </xg>
    </mg>
 </e>
-<e>
+  <e>
    <lg t1="Т" t2="Ы" t3="Р" uri="54914-tyrm-dchym-n" id="54914">
      <l pos="Ger" type="MON">тырмӧдчымӧн</l>
        <l_var type="molodtsov-cyr">тырмӧччымӧн</l_var>
    </lg>
    <mg relId="0"> <sg><s s_type="see">тырмымӧн</s></sg>
      <tg xml:lang="rus">
-       <t></t>
+       <t/>
      </tg>
    </mg>
 </e>
-<e>
+  <e>
+   <lg t1="Т" t2="Ы" t3="Р" uri="54971-tyrt-g" id="54971">
+     <l pos="Ger" type="TOG">тыртӧг</l>
+       <l_var type="molodtsov-cyr">тыртӧг</l_var>
+   </lg>
+   <mg relId="0">
+     <tg xml:lang="rus">
+       <t>без груза, без поклажи; порожняком; без ноши, налегке</t>
+     </tg>
+     <xg>
+       <x>дзик тыртӧг тӧвзис машинаыс</x>
+       <xt xml:lang="rus">машина умчалась без груза</xt>
+     </xg>
+     <xg>
+       <x>тыртӧг он пет туйӧ</x>
+       <xt xml:lang="rus">в дорогу не отправишься налегке</xt>
+     </xg>
+     <xg>
+       <x>ӧтарӧ тыртӧг мунім</x>
+       <xt xml:lang="rus">в одну сторону мы ехали порожняком</xt>
+     </xg>
+   </mg>
+   <mg relId="1">
+     <tg xml:lang="rus">
+       <t>вхолостую</t>
+     </tg>
+     <xg>
+       <x>мотор лэдзны тыртӧг</x>
+       <xt xml:lang="rus">пустить мотор вхолостую</xt>
+     </xg>
+     <xg>
+       <x>тыртӧг пилаыс ветлӧ киад</x>
+       <xt xml:lang="rus">пила в твоих руках ходит вхолостую</xt>
+     </xg>
+   </mg>
+</e>
+  <e>
+   <lg t1="Т" t2="Э" t3="Р" uri="55105-termas-t-g" id="55105">
+     <l pos="Ger" type="TOG">тэрмасьтӧг</l>
+       <l_var type="molodtsov-cyr">термаԍтӧг</l_var>
+   </lg>
+   <mg relId="0">
+     <tg xml:lang="rus">
+       <t>не спеша, не торопясь; неторопливо</t>
+     </tg>
+     <xg>
+       <x>тэрмасьтӧг вӧчам став удж</x>
+       <xt xml:lang="rus">не спеша делаем всю работу</xt>
+     </xg>
+     <xg>
+       <x>тэрмасьтӧг сёрнитны</x>
+       <xt xml:lang="rus">говорить не спеша</xt>
+     </xg>
+     <xg>
+       <x>тэрмасьтӧг сынӧ дедыс</x>
+       <xt xml:lang="rus">дедушка гребёт неторопливо</xt>
+     </xg>
+   </mg>
+</e>
+  <e>
+   <lg t1="Т" t2="Э" t3="Р" uri="55101-termas-m-n" id="55101">
+     <l pos="Ger" type="OMON">тэрмасьӧмӧн</l>
+       <l_var type="molodtsov-cyr">термаԍӧмӧн</l_var>
+   </lg>
+   <mg relId="0">
+     <tg xml:lang="rus">
+       <t>спеша; торопливо</t>
+     </tg>
+     <xg>
+       <x>тэрмасьӧмӧн мунны</x>
+       <xt xml:lang="rus">идти спеша</xt>
+     </xg>
+     <xg>
+       <x>тэрмасьӧмӧн сёйны</x>
+       <xt xml:lang="rus">торопливо есть</xt>
+     </xg>
+   </mg>
+   <mg relId="1">
+     <tg xml:lang="rus">
+       <t>в спешке, второпях</t>
+     </tg>
+     <xg>
+       <x>тэрмасьӧмӧн вунӧдны</x>
+       <xt xml:lang="rus"> забыть <em>что-либо</em> второпях</xt>
+     </xg>
+   </mg>
+   <mg relId="2">
+     <tg xml:lang="rus">
+       <t>поспешно; наскоро, наспех</t>
+     </tg>
+     <xg>
+       <x>тэрмасьӧмӧн гижӧм висьт</x>
+       <xt xml:lang="rus">наскоро написанный рассказ</xt>
+     </xg><br/>
+     <xg>
+       <x>тэрмасьӧмӧн сӧмын пытш куталӧны </x>
+       <xt xml:lang="rus" src_type="saying:поговорка">торопятся только блох ловить</xt>
+     </xg>
+   </mg>
+</e>
+  <e>
+   <lg t1="Т" t2="Э" t3="Р" uri="55123-term-dlyt-g" id="55123">
+     <l pos="Ger" type="TOG">тэрмӧдлытӧг</l>
+       <l_var type="molodtsov-cyr">термӧԁлытӧг</l_var>
+   </lg>
+   <mg relId="0">
+     <tg xml:lang="rus">
+       <t pos="Ger"> не торопя</t>
+     </tg>
+     <xg>
+       <x>тэрмӧдлытӧг колльӧдны</x>
+       <xt xml:lang="rus">сопровождать не торопя</xt>
+     </xg>
+   </mg>
+</e>
+  <e>
+   <lg t1="Т" t2="І" t3="Л" uri="51792-til-sk-m-n" id="51792">
+     <l pos="Ger" type="OMON">тільскӧмӧн</l>
+       <l_var type="molodtsov-cyr">тіԉскӧмӧн</l_var>
+   </lg>
+   <mg relId="0">
+     <tg xml:lang="rus">
+       <t pos="Ger"> свалив, навалив; навалом</t>
+     </tg>
+   </mg>
+</e>
+  <e>
    <lg t1="Т" t2="І" t3="Н" uri="51840-tin-gym-n" id="51840">
      <l pos="Ger" type="MON">тіньгымӧн</l>
        <l_var type="molodtsov-cyr">тіԋгымӧн</l_var>
    </lg>
    <mg relId="0"> <sg><s s_type="see">тиньгымӧн</s></sg>
      <tg xml:lang="rus">
-       <t></t>
+       <t/>
      </tg>
    </mg>
 </e>
-<e>
+  <e>
    <lg t1="Т" t2="І" t3="Р" uri="51864-tiravm-n" id="51864">
      <l pos="Ger" type="MON">тіравмӧн</l>
        <l_var type="molodtsov-cyr">тіравмӧн</l_var>
@@ -5826,7 +5048,7 @@
      </xg>
    </mg>
 </e>
-<e>
+  <e>
    <lg t1="Т" t2="Ӧ" t3="В" uri="52619-t-vijym-n" id="52619">
      <l pos="Ger" type="MON">тӧвйымӧн</l>
        <l_var type="molodtsov-cyr">тӧвјымӧн</l_var>
@@ -5845,7 +5067,60 @@
      </xg>
    </mg>
 </e>
-<e>
+  <e>
+   <lg t1="Т" t2="Ӧ" t3="Д" uri="52681-t-dlyt-g" id="52681">
+     <l pos="Ger" type="TOG">тӧдлытӧг</l>
+       <l_var type="molodtsov-cyr">тӧԁлытӧг</l_var>
+   </lg>
+   <mg relId="0">
+     <tg xml:lang="rus">
+       <t>незаметно</t>
+     </tg>
+     <xg>
+       <x>тӧдлытӧг петны керкаысь</x>
+       <xt xml:lang="rus">незаметно выйти из дому</xt>
+     </xg>
+     <xg>
+       <x>тӧдлытӧг коли тулыс</x>
+       <xt xml:lang="rus">незаметно прошла весна</xt>
+     </xg>
+     <xg>
+       <x>тӧдлытӧг лэбыштіс вежон</x>
+       <xt xml:lang="rus">незаметно прошла неделя</xt>
+     </xg>
+   </mg>
+   <mg relId="1">
+     <tg xml:lang="rus">
+       <t>вдруг, неожиданно; внезапно</t>
+     </tg>
+     <xg>
+       <x>тӧдлытӧг кувны</x>
+       <xt xml:lang="rus">внезапно умереть</xt>
+     </xg>
+     <xg>
+       <x>тӧдлытӧг уськӧдчыны</x>
+       <xt xml:lang="rus">неожиданно напасть</xt>
+     </xg>
+   </mg>
+   <mg relId="2">
+     <tg xml:lang="rus">
+       <t>нечаянно; невзначай; непреднамеренно, случайно; <acronym title="в переносном значении"><em>перен.</em></acronym> механически</t>
+     </tg>
+     <xg>
+       <x>тӧдлытӧг дойдны</x>
+       <xt xml:lang="rus">нечаянно ушибить</xt>
+     </xg>
+     <xg>
+       <x>киӧс тӧдлытӧг нетшышті</x>
+       <xt xml:lang="rus">механически отдёрнул руку</xt>
+     </xg>
+     <xg>
+       <x>тӧдлытӧг шуны</x>
+       <xt xml:lang="rus">обмолвиться</xt>
+     </xg>
+   </mg>
+</e>
+  <e>
    <lg t1="Т" t2="Ӧ" t3="Д" uri="52710-t-dmas-t-dz" id="52710">
      <l pos="Ger" type="TODZ">тӧдмасьтӧдз</l>
        <l_var type="molodtsov-cyr">тӧԁмаԍтӧԇ</l_var>
@@ -5864,7 +5139,7 @@
      </xg>
    </mg>
 </e>
-<e>
+  <e>
    <lg t1="Т" t2="Ӧ" t3="Д" uri="52722-t-dm-n" id="52722">
      <l pos="Ger" type="MON">тӧдмӧн</l>
        <l_var type="molodtsov-cyr">тӧԁмӧн</l_var>
@@ -5883,14 +5158,96 @@
      </xg>
    </mg>
 </e>
-<e>
+  <e>
+   <lg t1="Т" t2="Ӧ" t3="Д" uri="52742-t-dt-g" id="52742">
+     <l pos="Ger" type="TOG">тӧдтӧг</l>
+       <l_var type="molodtsov-cyr">тӧттӧг</l_var>
+   </lg>
+   <mg relId="0">
+     <tg xml:lang="rus">
+       <t pos="Ger"> не зная; наугад; вслепую</t>
+     </tg>
+     <xg>
+       <x>мудз тӧдтӧг</x>
+       <xt xml:lang="rus">не зная устали</xt>
+     </xg>
+     <xg>
+       <x>тӧдтӧг мунны</x>
+       <xt xml:lang="rus">идти наугад</xt>
+     </xg>
+     <xg>
+       <x>тӧдтӧг ог ов</x>
+       <xt xml:lang="rus">конечно же, знаю</xt>
+     </xg>
+   </mg>
+</e>
+  <e>
+   <lg t1="Т" t2="Ӧ" t3="Ж" uri="52824-t-zhdys-t-g" id="52824">
+     <l pos="Ger" type="TOG">тӧждысьтӧг</l>
+       <l_var type="molodtsov-cyr">тӧжԁыԍтӧг</l_var>
+   </lg>
+   <mg relId="0">
+     <tg xml:lang="rus">
+       <t>беззаботно, беспечно</t>
+     </tg>
+     <xg>
+       <x>тӧждысьтӧг овны</x>
+       <xt xml:lang="rus">жить беспечно</xt>
+     </xg>
+   </mg>
+</e>
+  <e>
+   <lg t1="Т" t2="Ӧ" t3="Ж" uri="52821-t-zhdys-m-n" id="52821">
+     <l pos="Ger" type="OMON">тӧждысьӧмӧн</l>
+       <l_var type="molodtsov-cyr">тӧжԁыԍӧмӧн</l_var>
+   </lg>
+   <mg relId="0">
+     <tg xml:lang="rus">
+       <t>заботливо, с заботой</t>
+     </tg>
+     <xg>
+       <x>урожай вӧсна тӧждысьӧмӧн</x>
+       <xt xml:lang="rus">с заботой об урожае</xt>
+     </xg>
+   </mg>
+   <mg relId="1">
+     <tg xml:lang="rus">
+       <t>с беспокойством, беспокойно; тревожно</t>
+     </tg>
+     <xg>
+       <x>тӧждысьӧмӧн видзӧдлывлыны</x>
+       <xt xml:lang="rus">с беспокойством посматривать</xt>
+     </xg>
+   </mg>
+   <mg relId="2">
+     <tg xml:lang="rus">
+       <t><em>редко</em> бережно</t>
+     </tg>
+   </mg>
+</e>
+  <e>
+   <lg t1="Т" t2="Ӧ" t3="Л" uri="52884-t-lkt-g-ladt-g" id="52884">
+     <l pos="Ger" type="TOG">тӧлктӧг-ладтӧг</l>
+       <l_var type="molodtsov-cyr">тӧлктӧг-латтӧг</l_var>
+   </lg>
+   <mg relId="0">
+     <tg xml:lang="rus">
+       <t>бестолково; как попало</t>
+     </tg>
+     <xg>
+       <x>тӧлктӧг-ладтӧг вӧчны</x>
+       <xt xml:lang="rus">сделать как попало</xt>
+     </xg>
+   </mg>
+</e>
+  <e>
    <lg t1="Т" t2="Ӧ" t3="Л" uri="52878-t-lk-n-syam-n" id="52878">
      <l pos="Ger" type="MON">тӧлкӧн-сямӧн</l>
        <l_var type="molodtsov-cyr">тӧлкӧн-ԍамӧн</l_var>
    </lg>
    <mg relId="0"> <sg><s s_type="see">тӧлкӧн-бурӧн</s></sg>
      <tg xml:lang="rus">
-       <t></t>
+       <t/>
      </tg>
      <xg>
        <x>тӧлкӧн-сямӧн висьтавны</x>
@@ -5898,14 +5255,14 @@
      </xg>
    </mg>
 </e>
-<e>
+  <e>
    <lg t1="Т" t2="Ӧ" t3="Р" uri="52997-t-rm-n" id="52997">
      <l pos="Ger" type="MON">тӧрмӧн</l>
        <l_var type="molodtsov-cyr">тӧрмӧн</l_var>
    </lg>
-   <mg relId="0"><strong>тӧрмӧн, тӧрмӧна</strong><br /> <sg><s s_type="see">тӧран</s><s s_type="see">тӧрана</s></sg>
+   <mg relId="0"><strong>тӧрмӧн, тӧрмӧна</strong><br/> <sg><s s_type="see">тӧран</s><s s_type="see">тӧрана</s></sg>
      <tg xml:lang="rus">
-       <t></t>
+       <t/>
      </tg>
      <xg>
        <x>кык ведра тӧрмӧн пестер</x>
@@ -5917,7 +5274,37 @@
      </xg>
    </mg>
 </e>
-<e>
+  <e>
+   <lg t1="У" t2="З" t3="Ь" uri="55841-uz-t-g" id="55841">
+     <l pos="Ger" type="TOG">узьтӧг</l>
+       <l_var type="molodtsov-cyr">уԅтӧг</l_var>
+   </lg>
+   <mg relId="0">
+     <tg xml:lang="rus">
+       <t>без сна</t>
+     </tg>
+     <xg>
+       <x>узьтӧг кольны войсӧ</x>
+       <xt xml:lang="rus">провести ночь без сна</xt>
+     </xg>
+   </mg>
+</e>
+  <e>
+   <lg t1="У" t2="Й" t3="Ӧ" uri="55881-uij-m-n" id="55881">
+     <l pos="Ger" type="OMON">уйӧмӧн</l>
+       <l_var type="molodtsov-cyr">ујӧмӧн</l_var>
+   </lg>
+   <mg relId="0">
+     <tg xml:lang="rus">
+       <t>вплавь</t>
+     </tg>
+     <xg>
+       <x>вуджны уйӧмӧн</x>
+       <xt xml:lang="rus">переправиться вплавь</xt>
+     </xg>
+   </mg>
+</e>
+  <e>
    <lg t1="У" t2="С" t3="У" uri="56481-usurmunm-n" id="56481">
      <l pos="Ger" type="MON">усурмунмӧн</l>
        <l_var type="molodtsov-cyr">усурмунмӧн</l_var>
@@ -5932,7 +5319,42 @@
      </xg>
    </mg>
 </e>
-<e>
+  <e>
+   <lg t1="У" t2="С" t3="Ь" uri="56514-us-m-n" id="56514">
+     <l pos="Ger" type="OMON">усьмӧн</l>
+       <l_var type="molodtsov-cyr">уԍмӧн</l_var>
+   </lg>
+   <mg relId="0">
+     <tg xml:lang="rus">
+       <t>до упаду</t>
+     </tg>
+     <xg>
+       <x>кок йылысь усьмӧн, ныр вылӧ усьмӧн</x>
+       <xt xml:lang="rus">до упаду</xt>
+     </xg>
+     <xg>
+       <x>менӧ усьмӧн сконйыштіс</x>
+       <xt xml:lang="rus">дал подножку, и я упал</xt>
+     </xg>
+     <xg>
+       <x>усьмӧн мудзны</x>
+       <xt xml:lang="rus">устать до изнеможения</xt>
+     </xg>
+     <xg>
+       <x>усьмӧн юны</x>
+       <xt xml:lang="rus">пить до потери сознания</xt>
+     </xg>
+     <xg>
+       <x>◊ югыд усьмӧн пыктыны</x>
+       <xt xml:lang="rus">опухнуть до лоска</xt>
+     </xg>
+     <xg>
+       <x>◊ юр усьмӧн янӧдны</x>
+       <xt xml:lang="rus">сильно пристыдить</xt>
+     </xg>
+   </mg>
+</e>
+  <e>
    <lg t1="У" t2="С" t3="Ь" uri="56531-us-t-dz" id="56531">
      <l pos="Ger" type="TODZ">усьтӧдз</l>
        <l_var type="molodtsov-cyr">уԍтӧԇ</l_var>
@@ -5968,7 +5390,7 @@
      </xg>
    </mg>
 </e>
-<e>
+  <e>
    <lg t1="Ч" t2="Е" t3="Г" uri="57346-chegm-n" id="57346">
      <l pos="Ger" type="MON">чегмӧн</l>
        <l_var type="molodtsov-cyr">чегмӧн</l_var>
@@ -5996,7 +5418,7 @@
      </xg>
    </mg>
 </e>
-<e>
+  <e>
    <lg t1="Ч" t2="Е" t3="Р" uri="57527-chervidzt-dz" id="57527">
      <l pos="Ger" type="TODZ">червидзтӧдз</l>
        <l_var type="molodtsov-cyr">червічтӧԇ</l_var>
@@ -6020,7 +5442,91 @@
      </xg>
    </mg>
 </e>
-<e>
+  <e>
+   <lg t1="Ч" t2="Е" t3="Ч" uri="57709-chechchyvt-g" id="57709">
+     <l pos="Ger" type="TOG">чеччывтӧг</l>
+       <l_var type="molodtsov-cyr">чеччывтӧг</l_var>
+   </lg>
+   <mg relId="0">
+     <tg xml:lang="rus">
+       <t pos="Ger"> не вставая, усидчиво</t>
+     </tg>
+     <xg>
+       <x>чеччывтӧг куйлыны</x>
+       <xt xml:lang="rus">лежнем лежать</xt>
+     </xg>
+     <xg>
+       <x>чеччывтӧг уджавны</x>
+       <xt xml:lang="rus">усидчиво работать</xt>
+     </xg>
+   </mg>
+</e>
+  <e>
+   <lg t1="Ч" t2="И" t3="К" uri="57866-chiklyas-m-n" id="57866">
+     <l pos="Ger" type="OMON">чиклясьӧмӧн</l>
+       <l_var type="molodtsov-cyr">чікԉаԍӧмӧн</l_var>
+   </lg>
+   <mg relId="0">
+     <tg xml:lang="rus">
+       <t pos="Ger">1. кривляясь, жеманничая; жеманно</t>
+     </tg>
+     <xg>
+       <x>чиклясьӧмӧн сёрнитны</x>
+       <xt xml:lang="rus">разговаривать жеманно</xt>
+     </xg>
+   </mg>
+   <mg relId="1">
+     <tg xml:lang="rus">
+       <t>с вывертами</t>
+     </tg>
+     <xg>
+       <x>чиклясьӧмӧн йӧктыны</x>
+       <xt xml:lang="rus">танцевать с вывертами</xt>
+     </xg>
+   </mg>
+</e>
+  <e>
+   <lg t1="Ч" t2="И" t3="К" uri="57881-chiktyl-m-n" id="57881">
+     <l pos="Ger" type="OMON">чиктылӧмӧн</l>
+       <l_var type="molodtsov-cyr">чіктылӧмӧн</l_var>
+   </lg>
+   <mg relId="0">
+     <tg xml:lang="rus">
+       <t pos="Ger"> радуясь, выражая восторг, радость; радостно, восторженно</t>
+     </tg>
+   </mg>
+</e>
+  <e>
+   <lg t1="Ч" t2="У" t3="Й" uri="58906-chuijm-m-n" id="58906">
+     <l pos="Ger" type="OMON">чуймӧмӧн</l>
+       <l_var type="molodtsov-cyr">чујмӧмӧн</l_var>
+   </lg>
+   <mg relId="0"> <sg><s s_type="see">чуймӧмпырысь</s></sg>
+     <tg xml:lang="rus">
+       <t/>
+     </tg>
+     <xg>
+       <x>чуймӧмӧн бергӧдны юр</x>
+       <xt xml:lang="rus">изумлённо повернуть голову</xt>
+     </xg>
+   </mg>
+</e>
+  <e>
+   <lg t1="Ч" t2="У" t3="К" uri="58931-chukl-dlyt-g" id="58931">
+     <l pos="Ger" type="TOG">чукльӧдлытӧг</l>
+       <l_var type="molodtsov-cyr">чукԉӧԁлытӧг</l_var>
+   </lg>
+   <mg relId="0">
+     <tg xml:lang="rus">
+       <t pos="Ger"> прямо, без обиняков; откровенно</t>
+     </tg>
+     <xg>
+       <x>чукльӧдлытӧг сёрнитны</x>
+       <xt xml:lang="rus">говорить прямо</xt>
+     </xg>
+   </mg>
+</e>
+  <e>
    <lg t1="Ч" t2="У" t3="Н" uri="59209-chunavm-n" id="59209">
      <l pos="Ger" type="MON">чунавмӧн</l>
        <l_var type="molodtsov-cyr">чунавмӧн</l_var>
@@ -6035,7 +5541,112 @@
      </xg>
    </mg>
 </e>
-<e>
+  <e>
+   <lg t1="Ш" t2="А" t3="Й" uri="59632-shaijpavt-g" id="59632">
+     <l pos="Ger" type="TOG">шайпавтӧг</l>
+       <l_var type="molodtsov-cyr">шајпавтӧг</l_var>
+   </lg>
+   <mg relId="0">
+     <tg xml:lang="rus">
+       <t>без оглядки, очень быстро</t>
+     </tg>
+   </mg>
+</e>
+  <e>
+   <lg t1="Ш" t2="Е" t3="М" uri="60270-shem-smun-m-n" id="60270">
+     <l pos="Ger" type="OMON">шемӧсмунӧмӧн</l>
+       <l_var type="molodtsov-cyr">шемӧсмунӧмӧн</l_var>
+   </lg>
+   <mg relId="0">
+     <tg xml:lang="rus">
+       <t>с удивлением, удивлённо</t>
+     </tg>
+     <xg>
+       <x>шемӧсмунӧмӧн юавны</x>
+       <xt xml:lang="rus">с удивлением спросить</xt>
+     </xg>
+   </mg>
+</e>
+  <e>
+   <lg t1="Ш" t2="Е" t3="М" uri="60265-shem-sm-m-n" id="60265">
+     <l pos="Ger" type="OMON">шемӧсмӧмӧн</l>
+       <l_var type="molodtsov-cyr">шемӧсмӧмӧн</l_var>
+   </lg>
+   <mg relId="0">
+     <tg xml:lang="rus">
+       <t>зачарованно</t>
+     </tg>
+     <xg>
+       <x>шемӧсмӧмӧн видзӧдны</x>
+       <xt xml:lang="rus">зачарованно смотреть</xt>
+     </xg>
+   </mg>
+</e>
+  <e>
+   <lg t1="Ш" t2="Е" t3="Н" uri="60300-shenz-m-n" id="60300">
+     <l pos="Ger" type="OMON">шензьӧмӧн</l>
+       <l_var type="molodtsov-cyr">шенԅӧмӧн</l_var>
+   </lg>
+   <mg relId="0">
+     <tg xml:lang="rus">
+       <t>удивлённо, изумлённо; с удивлением, с изумлением</t>
+     </tg>
+     <xg>
+       <x>шензьӧмӧн видзӧдлыны</x>
+       <xt xml:lang="rus">посмотреть с удивлением</xt>
+     </xg>
+     <xg>
+       <x>шензьӧмӧн шензьыны</x>
+       <xt xml:lang="rus">диву даваться</xt>
+     </xg>
+   </mg>
+</e>
+  <e>
+   <lg t1="Ш" t2="Е" t3="Н" uri="60323-shenyshtch-m-n" id="60323">
+     <l pos="Ger" type="OMON">шеныштчӧмӧн</l>
+       <l_var type="molodtsov-cyr">шенышчӧмӧн</l_var>
+   </lg>
+   <mg relId="0">
+     <tg xml:lang="rus">
+       <t pos="Ger"> с размаха, с размаху; со всего размаха</t>
+     </tg>
+     <xg>
+       <x>шеныштчӧмӧн кучкыны</x>
+       <xt xml:lang="rus">ударить со всего размаху</xt>
+     </xg>
+   </mg>
+</e>
+  <e>
+   <lg t1="Ш" t2="Л" t3="А" uri="60505-shlavg-m-n" id="60505">
+     <l pos="Ger" type="OMON">шлавгӧмӧн</l>
+       <l_var type="molodtsov-cyr">шлавгӧмӧн</l_var>
+   </lg>
+   <mg relId="0">
+     <tg xml:lang="rus">
+       <t pos="Ger"> накинув; внакидку <acronym title="разговорное"><em>разг.</em></acronym></t>
+     </tg>
+     <xg>
+       <x>пальто новлыны шлавгӧмӧн</x>
+       <xt xml:lang="rus">носить пальто внакидку</xt>
+     </xg>
+   </mg>
+</e>
+  <e>
+   <lg t1="Ш" t2="М" t3="О" uri="60986-shmonitt-g" id="60986">
+     <l pos="Ger" type="TOG">шмониттӧг</l>
+       <l_var type="molodtsov-cyr">шмоԋіттӧг</l_var>
+   </lg>
+   <mg relId="0">
+     <tg xml:lang="rus">
+       <t>без шутки</t>
+     </tg>
+     <xg>
+       <x>шмониттӧг оз нин вермы</x>
+       <xt xml:lang="rus">без шутки уже не может</xt>
+     </xg>
+   </mg>
+</e>
+  <e>
    <lg t1="Ш" t2="О" t3="Г" uri="61203-shog-dm-n" id="61203">
      <l pos="Ger" type="MON">шогӧдмӧн</l>
        <l_var type="molodtsov-cyr">шогӧԁмӧн</l_var>
@@ -6050,7 +5661,7 @@
      </xg>
    </mg>
 </e>
-<e>
+  <e>
    <lg t1="Ш" t2="О" t3="Н" uri="61374-shonavm-n" id="61374">
      <l pos="Ger" type="MON">шонавмӧн</l>
        <l_var type="molodtsov-cyr">шонавмӧн</l_var>
@@ -6069,7 +5680,22 @@
      </xg>
    </mg>
 </e>
-<e>
+  <e>
+   <lg t1="Ш" t2="У" t3="А" uri="61927-shuas-t-g" id="61927">
+     <l pos="Ger" type="TOG">шуасьтӧг</l>
+       <l_var type="molodtsov-cyr">шуаԍтӧг</l_var>
+   </lg>
+   <mg relId="0">
+     <tg xml:lang="rus">
+       <t>безропотно</t>
+     </tg>
+     <xg>
+       <x>шуасьтӧг вӧчны</x>
+       <xt xml:lang="rus">исполнить безропотно</xt>
+     </xg>
+   </mg>
+</e>
+  <e>
    <lg t1="Ш" t2="У" t3="Й" uri="62034-shuijpett-dz" id="62034">
      <l pos="Ger" type="TODZ">шуйпеттӧдз</l>
        <l_var type="molodtsov-cyr">шујпеттӧԇ</l_var> <rg><r range_space="dialect"/></rg>
@@ -6080,18 +5706,340 @@
      </tg>
    </mg>
 </e>
-<e>
+  <e>
    <lg t1="Ш" t2="У" t3="Л" uri="62054-shul-kpett-dz" id="62054">
      <l pos="Ger" type="TODZ">шулькпеттӧдз</l>
        <l_var type="molodtsov-cyr">шуԉкпеттӧԇ</l_var> <rg><r range_space="dialect"/></rg>
    </lg>
    <mg relId="0"> <sg><s s_type="see">шуйпеттӧдз</s></sg>
      <tg xml:lang="rus">
-       <t></t>
+       <t/>
      </tg>
    </mg>
 </e>
-<e>
+  <e>
+   <lg t1="Ш" t2="У" t3="Т" uri="62270-shut-g" id="62270">
+     <l pos="Ger" type="TOG">шутӧг</l>
+       <l_var type="molodtsov-cyr">шутӧг</l_var>
+   </lg>
+   <mg relId="0">
+     <tg xml:lang="rus">
+       <t>молча; не сказав</t>
+     </tg>
+     <xg>
+       <x>кыв шутӧг</x>
+       <xt xml:lang="rus">не сказав слова</xt>
+     </xg>
+     <xg>
+       <x>пукавны нинӧм шутӧг</x>
+       <xt xml:lang="rus">сидеть молча</xt>
+     </xg><br/>
+     <xg>
+       <x>◊ шутӧг шуӧма, кертӧг керӧма </x>
+       <xt xml:lang="rus" src_type="saying:поговорка">не скажешь, да скажут, что говорил, не сделаешь, да скажут, что сделал</xt>
+     </xg>
+   </mg>
+</e>
+  <e>
+   <lg t1="Ш" t2="Ы" t3="А" uri="62352-shyavt-g" id="62352">
+     <l pos="Ger" type="TOG">шыавтӧг</l>
+       <l_var type="molodtsov-cyr">шыавтӧг</l_var>
+   </lg>
+   <mg relId="0"> <sg><s s_type="see">шыасьлытӧг</s></sg>
+     <tg xml:lang="rus">
+       <t/>
+     </tg>
+   </mg>
+</e>
+  <e>
+   <lg t1="Ш" t2="Ы" t3="А" uri="62359-shyas-lyt-g" id="62359">
+     <l pos="Ger" type="TOG">шыасьлытӧг</l>
+       <l_var type="molodtsov-cyr">шыаԍлытӧг</l_var>
+   </lg>
+   <mg relId="0">
+     <tg xml:lang="rus">
+       <t>молча</t>
+     </tg>
+     <xg>
+       <x>шыасьлытӧг пукавны</x>
+       <xt xml:lang="rus">сидеть молча</xt>
+     </xg>
+   </mg>
+</e>
+  <e>
+   <lg t1="Ш" t2="Ы" t3="Т" uri="62736-shyt-g" id="62736">
+     <l pos="Ger" type="TOG">шытӧг</l>
+       <l_var type="molodtsov-cyr">шытӧг</l_var>
+   </lg>
+   <mg relId="0">
+     <tg xml:lang="rus">
+       <t>беззвучно || беззвучный</t>
+     </tg>
+     <xg>
+       <x>шытӧг бӧрдӧм</x>
+       <xt xml:lang="rus">беззвучный плачь</xt>
+     </xg>
+     <xg>
+       <x>шытӧг кыссьыны</x>
+       <xt xml:lang="rus">беззвучно ползти</xt>
+     </xg>
+     <xg>
+       <x>шытӧг серавны</x>
+       <xt xml:lang="rus">беззвучно смеяться</xt>
+     </xg>
+   </mg>
+</e>
+  <e>
+   <lg t1="Ш" t2="Ӧ" t3="Й" uri="61507-sh-ij-vosh-m-n" id="61507">
+     <l pos="Ger" type="OMON">шӧйӧвошӧмӧн</l>
+       <l_var type="molodtsov-cyr">шӧјӧвошӧмӧн</l_var>
+   </lg>
+   <mg relId="0">
+     <tg xml:lang="rus">
+       <t>растерянно, смущённо</t>
+     </tg>
+     <xg>
+       <x>шӧйӧвошӧмӧн петны бӧр</x>
+       <xt xml:lang="rus">растерянно выйти обратно</xt>
+     </xg>
+     <xg>
+       <x>шӧйӧвошӧмӧн чӧв овны</x>
+       <xt xml:lang="rus">смущённо молчать</xt>
+     </xg>
+   </mg>
+</e>
+  <e>
+   <lg t1="Ы" t2="К" t3="П" uri="63022-ykpashitt-g" id="63022">
+     <l pos="Ger" type="TOG">ыкпашиттӧг</l>
+       <l_var type="molodtsov-cyr">ыкпашіттӧг</l_var>
+   </lg>
+   <mg relId="0">
+     <tg xml:lang="rus">
+       <t>скромно</t>
+     </tg>
+     <xg>
+       <x>ыкпашиттӧг овны</x>
+       <xt xml:lang="rus">жить скромно</xt>
+     </xg>
+     <xg>
+       <x>ыкпашиттӧг пасйыны чужан лун</x>
+       <xt xml:lang="rus">скромно отметить день рождения</xt>
+     </xg>
+   </mg>
+</e>
+  <e>
+   <lg t1="Ы" t2="К" t3="Ш" uri="63037-ykshaas-t-g" id="63037">
+     <l pos="Ger" type="TOG">ыкшаасьтӧг</l>
+       <l_var type="molodtsov-cyr">ыкшааԍтӧг</l_var>
+   </lg>
+   <mg relId="0"><strong>ыкшаасьтӧг, ыкшасьтӧг</strong><br/>
+     <tg xml:lang="rus">
+       <t>скромно</t>
+     </tg>
+     <xg>
+       <x>коліс асьсӧ ыкшаасьтӧг кутны</x>
+       <xt xml:lang="rus">нужно было скромно вести себя</xt>
+     </xg>
+   </mg>
+</e>
+  <e>
+   <lg t1="Ы" t2="К" t3="Ш" uri="63048-ykshas-t-g" id="63048">
+     <l pos="Ger" type="TOG">ыкшасьтӧг</l>
+       <l_var type="molodtsov-cyr">ыкшаԍтӧг</l_var>
+   </lg>
+   <mg relId="0"><strong>ыкшасьтӧг, ыкшаасьтӧг</strong><br/>
+     <tg xml:lang="rus">
+       <t>скромно</t>
+     </tg>
+     <xg>
+       <x>коліс асьсӧ ыкшасьтӧг кутны</x>
+       <xt xml:lang="rus">нужно было скромно вести себя</xt>
+     </xg>
+   </mg>
+</e>
+  <e>
+   <lg t1="Ы" t2="Л" t3="Ь" uri="63164-yl-g-m-n" id="63164">
+     <l pos="Ger" type="OMON">ыльгӧмӧн</l>
+       <l_var type="molodtsov-cyr">ыԉгӧмӧн</l_var>
+   </lg>
+   <mg relId="0"> <sg><s s_type="see">ыльӧбӧн</s></sg>
+     <tg xml:lang="rus">
+       <t/>
+     </tg>
+   </mg>
+</e>
+  <e>
+   <lg t1="Ы" t2="Л" t3="Ӧ" uri="63111-yl-dchyt-g" id="63111">
+     <l pos="Ger" type="TOG">ылӧдчытӧг</l>
+       <l_var type="molodtsov-cyr">ылӧччытӧг</l_var>
+   </lg>
+   <mg relId="0">
+     <tg xml:lang="rus">
+       <t pos="Ger"> честно, верно</t>
+     </tg>
+     <xg>
+       <x>ылӧдчытӧг шуа</x>
+       <xt xml:lang="rus">честно говорю</xt>
+     </xg>
+   </mg>
+</e>
+  <e>
+   <lg t1="Ы" t2="П" t3="Ъ" uri="63250-yp-yavt-g" id="63250">
+     <l pos="Ger" type="TOG">ыпъявтӧг</l>
+       <l_var type="molodtsov-cyr">ыпјавтӧг</l_var>
+   </lg>
+   <mg relId="0">
+     <tg xml:lang="rus">
+       <t pos="Ger"> без пламени</t>
+     </tg>
+     <xg>
+       <x>сотчыны ыпъявтӧг</x>
+       <xt xml:lang="rus">гореть без пламени</xt>
+     </xg>
+   </mg>
+</e>
+  <e>
+   <lg t1="Ы" t2="Р" t3="Г" uri="63267-yrg-m-n" id="63267">
+     <l pos="Ger" type="OMON">ыргӧмӧн</l>
+       <l_var type="molodtsov-cyr">ыргӧмӧн</l_var>
+   </lg>
+   <mg relId="0">
+     <tg xml:lang="rus">
+       <t>с шумом, с гудением</t>
+     </tg>
+     <xg>
+       <x>ыргӧмӧн ломтысьны</x>
+       <xt xml:lang="rus">гореть с шумом</xt>
+     </xg>
+     <xg>
+       <x>ыргӧмӧн матыстчис биыс</x>
+       <xt xml:lang="rus">огонь подступал с шумом</xt>
+     </xg>
+     <xg>
+       <x>ыргӧмӧн сотчыны</x>
+       <xt xml:lang="rus">гореть с шумом</xt>
+     </xg>
+   </mg>
+   <mg relId="1">
+     <tg xml:lang="rus">
+       <t>струёй</t>
+     </tg>
+     <xg>
+       <x>кӧдзыдыс ыргӧмӧн пырис ӧдзӧсӧд</x>
+       <xt xml:lang="rus">холод струёй врывался в дверь</xt>
+     </xg>
+   </mg>
+</e>
+  <e>
+   <lg t1="Ы" t2="Р" t3="З" uri="63276-yrz-m-n" id="63276">
+     <l pos="Ger" type="OMON">ырзӧмӧн</l>
+       <l_var type="molodtsov-cyr">ырзӧмӧн</l_var>
+   </lg>
+   <mg relId="0">
+     <tg xml:lang="rus">
+       <t>с воплем; с рёвом</t>
+     </tg>
+     <xg>
+       <x>ырзӧмӧн бӧрдны</x>
+       <xt xml:lang="rus">рыдать</xt>
+     </xg>
+     <xg>
+       <x>ырзӧмӧн уськӧдчыны воча</x>
+       <xt xml:lang="rus">с воплем броситься навстречу</xt>
+     </xg>
+   </mg>
+</e>
+  <e>
+   <lg t1="Ы" t2="Р" t3="Ы" uri="63429-yryshtch-m-n" id="63429">
+     <l pos="Ger" type="OMON">ырыштчӧмӧн</l>
+       <l_var type="molodtsov-cyr">ырышчӧмӧн</l_var>
+   </lg>
+   <mg relId="0"> <sg><s s_type="see">ырыштчана</s></sg>
+     <tg xml:lang="rus">
+       <t/>
+     </tg>
+   </mg>
+</e>
+  <e>
+   <lg t1="Ы" t2="Р" t3="Ӧ" uri="63362-yr-st-m-n" id="63362">
+     <l pos="Ger" type="OMON">ырӧстӧмӧн</l>
+       <l_var type="molodtsov-cyr">ырӧстӧмӧн</l_var>
+   </lg>
+   <mg relId="0">
+     <tg xml:lang="rus">
+       <t>навзрыд</t>
+     </tg>
+     <xg>
+       <x>ырӧстӧмӧн бӧрддзыны</x>
+       <xt xml:lang="rus">заплакать навзрыд</xt>
+     </xg>
+   </mg>
+</e>
+  <e>
+   <lg t1="Э" t2="Л" t3="Я" uri="63831-elyas-t-g" id="63831">
+     <l pos="Ger" type="TOG">элясьтӧг</l>
+       <l_var type="molodtsov-cyr">еԉаԍтӧг</l_var>
+   </lg>
+   <mg relId="0">
+     <tg xml:lang="rus">
+       <t>безропотно; без жалоб</t>
+     </tg>
+     <xg>
+       <x>элясьтӧг венны сьӧкыдлунъяс</x>
+       <xt xml:lang="rus">безропотно преодолевать трудности</xt>
+     </xg>
+   </mg>
+</e>
+  <e>
+   <lg t1="Ю" t2="А" t3="В" uri="64344-yuavt-g" id="64344">
+     <l pos="Ger" type="TOG">юавтӧг</l>
+       <l_var type="molodtsov-cyr">јуавтӧг</l_var>
+   </lg>
+   <mg relId="0">
+     <tg xml:lang="rus">
+       <t>без спроса; без разрешения</t>
+     </tg>
+     <xg>
+       <x>юавтӧг петны</x>
+       <xt xml:lang="rus">выйти без спроса</xt>
+     </xg>
+   </mg>
+</e>
+  <e>
+   <lg t1="Ю" t2="А" t3="С" uri="64374-yuas-t-g" id="64374">
+     <l pos="Ger" type="TOG">юасьтӧг</l>
+       <l_var type="molodtsov-cyr">јуаԍтӧг</l_var>
+   </lg>
+   <mg relId="0"> <sg><s s_type="see">юавтӧг</s></sg>
+     <tg xml:lang="rus">
+       <t/>
+     </tg>
+     <xg>
+       <x>юасьтӧг мунны</x>
+       <xt xml:lang="rus">уйти без спросу</xt>
+     </xg>
+   </mg>
+</e>
+  <e>
+   <lg t1="Ю" t2="А" t3="С" uri="64376-yuas-t-g-vis-tas-t-g" id="64376">
+     <l pos="Ger" type="TOG">юасьтӧг-висьтасьтӧг</l>
+       <l_var type="molodtsov-cyr">јуаԍтӧг-віԍтаԍтӧг</l_var>
+   </lg>
+   <mg relId="0">
+     <tg xml:lang="rus">
+       <t>без ведома; без разрешения</t>
+     </tg>
+     <xg>
+       <x>менсьым юасьтӧг-висьтасьтӧг</x>
+       <xt xml:lang="rus">без моего ведома</xt>
+     </xg>
+     <xg>
+       <x>юасьтӧг-висьтасьтӧг пырны</x>
+       <xt xml:lang="rus">зайти без разрешения</xt>
+     </xg>
+   </mg>
+</e>
+  <e>
    <lg t1="Ю" t2="Г" t3="Д" uri="64425-yugdyt-dz" id="64425">
      <l pos="Ger" type="TODZ">югдытӧдз</l>
        <l_var type="molodtsov-cyr">југԁытӧԇ</l_var>
@@ -6110,7 +6058,7 @@
      </xg>
    </mg>
 </e>
-<e>
+  <e>
    <lg t1="Ю" t2="Г" t3="Ъ" uri="64464-yug-yavm-n" id="64464">
      <l pos="Ger" type="MON">югъявмӧн</l>
        <l_var type="molodtsov-cyr">југјавмӧн</l_var>
@@ -6130,5 +6078,57 @@
      </xg>
    </mg>
 </e>
-
-</r> 
+  <e>
+   <lg t1="Ю" t2="Р" t3="Т" uri="64925-yurt-g-sad-t-g" id="64925">
+     <l pos="Ger" type="TOG">юртӧг-садьтӧг</l>
+       <l_var type="molodtsov-cyr">јуртӧг-саԃтӧг</l_var>
+   </lg>
+   <mg relId="0">
+     <tg xml:lang="rus">
+       <t>без сознания, сломя голову</t>
+     </tg>
+     <xg>
+       <x>юртӧг-садьтӧг котӧртны</x>
+       <xt xml:lang="rus">бежать сломя голову</xt>
+     </xg>
+     <xg>
+       <x>юртӧг-садьтӧг лэбны</x>
+       <xt xml:lang="rus">полететь потеряв голову</xt>
+     </xg>
+   </mg>
+</e>
+  <e>
+   <lg t1="Я" t2="Н" t3="Д" uri="65169-yandys-t-g" id="65169">
+     <l pos="Ger" type="TOG">яндысьтӧг</l>
+       <l_var type="molodtsov-cyr">јанԁыԍтӧг</l_var>
+   </lg>
+   <mg relId="0">
+     <tg xml:lang="rus">
+       <t pos="Ger"> не стыдясь; бесстыдно, бесцеремонно, цинично; нагло, без зазрения совести</t>
+     </tg>
+     <xg>
+       <x>яндысьтӧг видзӧдны</x>
+       <xt xml:lang="rus">цинично смотреть</xt>
+     </xg>
+     <xg>
+       <x>ньӧти яндысьтӧг пӧръявлыны</x>
+       <xt xml:lang="rus">нагло врать</xt>
+     </xg>
+   </mg>
+</e>
+  <e>
+   <lg t1="Я" t2="Р" t3="С" uri="65292-yarsk-bt-m-n" id="65292">
+     <l pos="Ger" type="OMON">ярскӧбтӧмӧн</l>
+       <l_var type="molodtsov-cyr">јарскӧптӧмӧн</l_var>
+   </lg>
+   <mg relId="0">
+     <tg xml:lang="rus">
+       <t>резко</t>
+     </tg>
+     <xg>
+       <x>ярскӧбтӧмӧн чеччыны пызан сайысь</x>
+       <xt xml:lang="rus">резко встать из-за стола</xt>
+     </xg>
+   </mg>
+</e>
+</r>

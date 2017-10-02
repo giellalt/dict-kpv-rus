@@ -1,12 +1,13 @@
-<?xml version="1.0" encoding="utf-8"?> <r id="kpvrus" xml:lang="kpv">
-<e>
+<?xml version="1.0" encoding="UTF-8"?>
+<r xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:hfp="http://www.w3.org/2001/XMLSchema-hasFacetAndProperty" xmlns:fn="http://www.w3.org/2005/02/xpath-functions" xsi:noNamespaceSchemaLocation="../../../../../gtcore/schemas/fiu-dict-schema.xsd" xml:lang="kpv">
+  <e>
    <lg t1="А" t2="Р" t3="Т" uri="833-artmana" id="833">
      <l pos="Prc" type="ANA">артмана</l>
        <l_var type="molodtsov-cyr">aртмана</l_var>
    </lg>
-   <mg relId="0"><strong>артмана, артман</strong><br />
+   <mg relId="0"><strong>артмана, артман</strong><br/>
      <tg xml:lang="rus">
-       <t pos="Prc" type="ANA"> налаженный, устроенный</t>
+       <t pos="Prc" type="ANA">налаженный, устроенный</t>
      </tg>
      <xg>
        <x>артмана олӧм</x>
@@ -14,14 +15,14 @@
      </xg>
    </mg>
 </e>
-<e>
+  <e>
    <lg t1="Б" t2="А" t3="Й" uri="1501-baijij-dlan" id="1501">
      <l pos="Prc" type="AN">баййӧдлан</l>
        <l_var type="molodtsov-cyr">бајјӧԁлан</l_var>
    </lg>
-   <mg relId="0"><strong>баййӧдлан, байкӧдан</strong><br />
+   <mg relId="0"><strong>баййӧдлан, байкӧдан</strong><br/>
      <tg xml:lang="rus">
-       <t pos="Prc" type="ANA"> убаюкивающий; колыбельный</t>
+       <t pos="Prc" type="ANA">убаюкивающий; колыбельный</t>
      </tg>
      <xg>
        <x>баййӧдлан сьыланкыв</x>
@@ -29,14 +30,14 @@
      </xg>
    </mg>
 </e>
-<e>
+  <e>
    <lg t1="Б" t2="А" t3="Й" uri="1510-baijk-dan" id="1510">
      <l pos="Prc" type="AN">байкӧдан</l>
        <l_var type="molodtsov-cyr">бајкӧԁан</l_var>
    </lg>
-   <mg relId="0"><strong>байкӧдан, баййӧдлан</strong><br />
+   <mg relId="0"><strong>байкӧдан, баййӧдлан</strong><br/>
      <tg xml:lang="rus">
-       <t pos="Prc" type="ANA"> убаюкивающий; колыбельный</t>
+       <t pos="Prc" type="ANA">убаюкивающий; колыбельный</t>
      </tg>
      <xg>
        <x>байкӧдан сьыланкыв</x>
@@ -44,18 +45,18 @@
      </xg>
    </mg>
 </e>
-<e>
+  <e>
    <lg t1="Б" t2="А" t3="Л" uri="1645-balyapiyan" id="1645">
      <l pos="Prc" type="AN">баляпиян</l>
        <l_var type="molodtsov-cyr">баԉапіјан</l_var>
    </lg>
-   <mg relId="0"><strong>баляпиян, бальӧпиян</strong><br />
+   <mg relId="0"><strong>баляпиян, бальӧпиян</strong><br/>
      <tg xml:lang="rus">
        <t>ягнята</t>
      </tg>
    </mg>
 </e>
-<e>
+  <e>
    <lg t1="Б" t2="Е" t3="С" uri="2186-bespiyan" id="2186">
      <l pos="Prc" type="AN">беспиян</l>
        <l_var type="molodtsov-cyr">беспіјан</l_var>
@@ -70,33 +71,33 @@
      </xg>
    </mg>
 </e>
-<e>
+  <e>
    <lg t1="Б" t2="Ы" t3="Г" uri="3996-byglyasyan" id="3996">
      <l pos="Prc" type="AN">быглясян</l>
        <l_var type="molodtsov-cyr">быгԉаԍан</l_var>
    </lg>
    <mg relId="0"> <sg><s s_type="see">быгыльтан</s></sg>
      <tg xml:lang="rus">
-       <t></t>
+       <t/>
      </tg>
    </mg>
 </e>
-<e>
+  <e>
    <lg t1="Б" t2="Ы" t3="Т" uri="4304-bytshkalana" id="4304">
      <l pos="Prc" type="ANA">бытшкалана</l>
        <l_var type="molodtsov-cyr">быщкалана</l_var>
    </lg>
    <mg relId="0">
      <tg xml:lang="rus">
-       <t pos="Prc" type="ANA"> колкий</t>
-     </tg><br />
+       <t pos="Prc" type="ANA">колкий</t>
+     </tg><br/>
      <xg>
        <x>топӧдны бытшкалана юасьӧмъясӧн </x>
        <xt xml:lang="rus"><acronym title="в переносном значении"><em>перен.</em></acronym> прижать язвительными вопросами</xt>
      </xg>
    </mg>
 </e>
-<e>
+  <e>
    <lg t1="Б" t2="Ӧ" t3="Р" uri="2852-b-rdana" id="2852">
      <l pos="Prc" type="ANA">бӧрдана</l>
        <l_var type="molodtsov-cyr">бӧрԁана</l_var>
@@ -119,7 +120,7 @@
      </xg>
    </mg>
 </e>
-<e>
+  <e>
    <lg t1="Б" t2="Ӧ" t3="Р" uri="2929-b-rijysyan" id="2929">
      <l pos="Prc" type="AN">бӧрйысян</l>
        <l_var type="molodtsov-cyr">бӧрјыԍан</l_var>
@@ -163,14 +164,14 @@
      </xg>
    </mg>
 </e>
-<e>
+  <e>
    <lg t1="Б" t2="Ӧ" t3="Р" uri="3028-b-r-yana" id="3028">
      <l pos="Prc" type="ANA">бӧръяна</l>
        <l_var type="molodtsov-cyr">бӧрјана</l_var>
    </lg>
    <mg relId="0">
      <tg xml:lang="rus">
-       <t pos="Prc" type="ANA"> выбранный</t>
+       <t pos="Prc" type="ANA">выбранный</t>
      </tg>
      <xg>
        <x>водзвыв бӧръяна</x>
@@ -178,7 +179,7 @@
      </xg>
    </mg>
 </e>
-<e>
+  <e>
    <lg t1="В" t2="А" t3=" " uri="4618-va-kushman" id="4618">
      <l pos="Prc" type="AN">ва кушман</l>
        <l_var type="molodtsov-cyr">ва кушман</l_var>
@@ -189,7 +190,7 @@
      </tg>
    </mg>
 </e>
-<e>
+  <e>
    <lg t1="В" t2="А" t3="Р" uri="4918-varyshpiyan" id="4918">
      <l pos="Prc" type="AN">варышпиян</l>
        <l_var type="molodtsov-cyr">варышпіјан</l_var>
@@ -205,7 +206,7 @@
      </tg>
    </mg>
 </e>
-<e>
+  <e>
    <lg t1="В" t2="А" t3="Т" uri="4953-vatlan" id="4953">
      <l pos="Prc" type="AN">ватлан</l>
        <l_var type="molodtsov-cyr">ватлан</l_var> <rg><r range_space="dialect"/></rg>
@@ -220,7 +221,7 @@
      </xg>
    </mg>
 </e>
-<e>
+  <e>
    <lg t1="В" t2="Е" t3="В" uri="5121-vevtt-ysyan" id="5121">
      <l pos="Prc" type="AN">вевттьысян</l>
        <l_var type="molodtsov-cyr">вевтԏыԍан</l_var>
@@ -239,7 +240,7 @@
      </xg>
    </mg>
 </e>
-<e>
+  <e>
    <lg t1="В" t2="Е" t3="Ж" uri="5224-vezhgana" id="5224">
      <l pos="Prc" type="ANA">вежгана</l>
        <l_var type="molodtsov-cyr">вежгана</l_var>
@@ -254,18 +255,18 @@
      </xg>
    </mg>
 </e>
-<e>
+  <e>
    <lg t1="В" t2="Е" t3="Ж" uri="5260-vezhlasyan" id="5260">
      <l pos="Prc" type="AN">вежласян</l>
        <l_var type="molodtsov-cyr">вежлаԍан</l_var>
    </lg>
    <mg relId="0"> <sg><s s_type="see">вежласяна</s></sg>
      <tg xml:lang="rus">
-       <t></t>
+       <t/>
      </tg>
    </mg>
 </e>
-<e>
+  <e>
    <lg t1="В" t2="Е" t3="Ж" uri="5261-vezhlasyana" id="5261">
      <l pos="Prc" type="ANA">вежласяна</l>
        <l_var type="molodtsov-cyr">вежлаԍана</l_var>
@@ -293,14 +294,14 @@
      </xg>
    </mg>
 </e>
-<e>
+  <e>
    <lg t1="В" t2="Е" t3="Р" uri="5809-veritana" id="5809">
      <l pos="Prc" type="ANA">веритана</l>
        <l_var type="molodtsov-cyr">верітана</l_var>
    </lg>
    <mg relId="0">
      <tg xml:lang="rus">
-       <t pos="Prc" type="ANA"> убедительный, не вызывающий сомнения</t>
+       <t pos="Prc" type="ANA">убедительный, не вызывающий сомнения</t>
      </tg>
      <xg>
        <x>абу веритана</x>
@@ -308,18 +309,18 @@
      </xg>
    </mg>
 </e>
-<e>
+  <e>
    <lg t1="В" t2="Е" t3="Р" uri="5841-verklyan" id="5841">
      <l pos="Prc" type="AN">верклян</l>
        <l_var type="molodtsov-cyr">веркԉан</l_var>
    </lg>
    <mg relId="0"> <sg><s s_type="see">вертлян</s></sg>
      <tg xml:lang="rus">
-       <t></t>
+       <t/>
      </tg>
    </mg>
 </e>
-<e>
+  <e>
    <lg t1="В" t2="Е" t3="Р" uri="5942-vertlyan" id="5942">
      <l pos="Prc" type="AN">вертлян</l>
        <l_var type="molodtsov-cyr">вертԉан</l_var>
@@ -338,40 +339,40 @@
      </xg>
    </mg>
 </e>
-<e>
+  <e>
    <lg t1="В" t2="Е" t3="Т" uri="6192-vetl-dlan" id="6192">
      <l pos="Prc" type="AN">ветлӧдлан</l>
        <l_var type="molodtsov-cyr">ветлӧԁлан</l_var>
    </lg>
    <mg relId="0"> <sg><s s_type="see">ветлан</s></sg>
      <tg xml:lang="rus">
-       <t></t>
+       <t/>
      </tg>
    </mg>
 </e>
-<e>
+  <e>
    <lg t1="В" t2="Е" t3="Ш" uri="6272-veshlasyana" id="6272">
      <l pos="Prc" type="ANA">вешласяна</l>
        <l_var type="molodtsov-cyr">вешлаԍана</l_var>
    </lg>
    <mg relId="0"> <sg><s s_type="see">вешъялан</s></sg>
      <tg xml:lang="rus">
-       <t></t>
+       <t/>
      </tg>
    </mg>
 </e>
-<e>
+  <e>
    <lg t1="В" t2="Е" t3="Ш" uri="6304-vesh-yan" id="6304">
      <l pos="Prc" type="AN">вешъян</l>
        <l_var type="molodtsov-cyr">вешјан</l_var>
    </lg>
    <mg relId="0"> <sg><s s_type="see">вешъялан</s></sg>
      <tg xml:lang="rus">
-       <t></t>
+       <t/>
      </tg>
    </mg>
 </e>
-<e>
+  <e>
    <lg t1="В" t2="И" t3="Д" uri="6345-vidana" id="6345">
      <l pos="Prc" type="ANA">видана</l>
        <l_var type="molodtsov-cyr">віԁана</l_var>
@@ -390,7 +391,7 @@
      </xg>
    </mg>
 </e>
-<e>
+  <e>
    <lg t1="В" t2="И" t3="Д" uri="6374-vidzan" id="6374">
      <l pos="Prc" type="AN">видзан</l>
        <l_var type="molodtsov-cyr">віԇан</l_var>
@@ -422,7 +423,7 @@
    </mg>
    <mg relId="1">
      <tg xml:lang="rus">
-       <t pos="Prc" type="ANA"> <em>от</em> <xref link="видзны"> видзны в 6 значении</xref></t>
+       <t pos="Prc" type="ANA"><em>от</em> <xref link="видзны"> видзны в 6 значении</xref></t>
      </tg>
      <xg>
        <x>ас видзан скӧт</x>
@@ -438,14 +439,14 @@
      </xg>
    </mg>
 </e>
-<e>
+  <e>
    <lg t1="В" t2="И" t3="С" uri="6937-vis-tasyana" id="6937">
      <l pos="Prc" type="ANA">висьтасяна</l>
        <l_var type="molodtsov-cyr">віԍтаԍана</l_var>
    </lg>
    <mg relId="0">
      <tg xml:lang="rus">
-       <t pos="Prc" type="ANA"> исповедный</t>
+       <t pos="Prc" type="ANA">исповедный</t>
      </tg>
      <xg>
        <x>висьтасяна гижӧд</x>
@@ -453,7 +454,7 @@
      </xg>
    </mg>
 </e>
-<e>
+  <e>
    <lg t1="В" t2="И" t3="С" uri="6951-visyan" id="6951">
      <l pos="Prc" type="AN">висян</l>
        <l_var type="molodtsov-cyr">віԍан</l_var>
@@ -480,14 +481,14 @@
      </xg>
    </mg>
 </e>
-<e>
+  <e>
    <lg t1="В" t2="О" t3="Л" uri="7478-volnuijtana" id="7478">
      <l pos="Prc" type="ANA">волнуйтана</l>
        <l_var type="molodtsov-cyr">волнујтана</l_var>
    </lg>
    <mg relId="0">
      <tg xml:lang="rus">
-       <t pos="Prc" type="ANA"> волнующий</t>
+       <t pos="Prc" type="ANA">волнующий</t>
      </tg>
      <xg>
        <x>волнуйтана гижӧд</x>
@@ -495,7 +496,7 @@
      </xg>
    </mg>
 </e>
-<e>
+  <e>
    <lg t1="В" t2="У" t3="Г" uri="8581-vugrasyan" id="8581">
      <l pos="Prc" type="AN">вуграсян</l>
        <l_var type="molodtsov-cyr">вуграԍан</l_var>
@@ -510,7 +511,7 @@
      </xg>
    </mg>
 </e>
-<e>
+  <e>
    <lg t1="В" t2="У" t3="З" uri="8732-vuzasyan" id="8732">
      <l pos="Prc" type="AN">вузасян</l>
        <l_var type="molodtsov-cyr">вузаԍан</l_var>
@@ -525,7 +526,7 @@
      </xg>
    </mg>
 </e>
-<e>
+  <e>
    <lg t1="В" t2="У" t3="Р" uri="8896-vursyan" id="8896">
      <l pos="Prc" type="AN">вурсян</l>
        <l_var type="molodtsov-cyr">вурԍан</l_var>
@@ -548,7 +549,7 @@
      </xg>
    </mg>
 </e>
-<e>
+  <e>
    <lg t1="В" t2="У" t3="Ш" uri="8972-vushtysyan" id="8972">
      <l pos="Prc" type="AN">вуштысян</l>
        <l_var type="molodtsov-cyr">вуштыԍан</l_var>
@@ -559,27 +560,27 @@
      </tg>
    </mg>
 </e>
-<e>
+  <e>
    <lg t1="В" t2="У" t3="Ш" uri="8975-vush-yan" id="8975">
      <l pos="Prc" type="AN">вушъян</l>
        <l_var type="molodtsov-cyr">вушјан</l_var>
    </lg>
    <mg relId="0"> <sg><s s_type="see">вушйысь</s></sg>
      <tg xml:lang="rus">
-       <t></t>
+       <t/>
      </tg>
    </mg>
 </e>
-<e>
+  <e>
    <lg t1="В" t2="Ӧ" t3="Р" uri="8263-v-rz-dana" id="8263">
      <l pos="Prc" type="ANA">вӧрзьӧдана</l>
        <l_var type="molodtsov-cyr">вӧрԅӧԁана</l_var>
    </lg>
-   <mg relId="0"><span class="underline">употребляется лишь в составе выражений:</span><br />
+   <mg relId="0"><span class="underline">употребляется лишь в составе выражений:</span><br/>
      <xg>
        <x>сьӧлӧм вӧрзьӧдана</x>
-       <xt xml:lang="rus"></xt>
-     </xg><br />&#160;&#160;&#160;&#160;&#160;&#160;а) душевный, задушевный || душевно<br />
+       <xt xml:lang="rus"/>
+     </xg><br/>      а) душевный, задушевный || душевно<br/>
      <xg>
        <x>вӧрзьӧдана сёрни</x>
        <xt xml:lang="rus">душевный разговор</xt>
@@ -587,18 +588,18 @@
      <xg>
        <x>вӧрзьӧдана сьыланкыв</x>
        <xt xml:lang="rus">задушевная песня</xt>
-     </xg><br />&#160;&#160;&#160;&#160;&#160;&#160;б) трогательный<br />
+     </xg><br/>      б) трогательный<br/>
      <xg>
        <x>вӧрзьӧдана висьт</x>
        <xt xml:lang="rus">трогательный рассказ</xt>
-     </xg><br />&#160;&#160;&#160;&#160;&#160;&#160;в) волнующий<br />
+     </xg><br/>      в) волнующий<br/>
      <xg>
        <x>вӧрзьӧдана событтьӧяс</x>
        <xt xml:lang="rus">волнующие события</xt>
      </xg>
    </mg>
 </e>
-<e>
+  <e>
    <lg t1="В" t2="Ӧ" t3="С" uri="8426-v-sn-dchan" id="8426">
      <l pos="Prc" type="AN">вӧсньӧдчан</l>
        <l_var type="molodtsov-cyr">вӧсԋӧччан</l_var>
@@ -613,12 +614,12 @@
      </xg>
    </mg>
 </e>
-<e>
+  <e>
    <lg t1="В" t2="Ӧ" t3="Т" uri="8466-v-tlan" id="8466">
      <l pos="Prc" type="AN">вӧтлан</l>
        <l_var type="molodtsov-cyr">вӧтлан</l_var>
    </lg>
-   <mg relId="0"><span class="underline">употребляется лишь в составе выражений:</span><br />
+   <mg relId="0"><span class="underline">употребляется лишь в составе выражений:</span><br/>
      <xg>
        <x>ном вӧтлан</x>
        <xt xml:lang="rus">антикомарин</xt>
@@ -629,7 +630,7 @@
      </xg>
    </mg>
 </e>
-<e>
+  <e>
    <lg t1="Г" t2="А" t3="Ж" uri="9408-gazh-dchan" id="9408">
      <l pos="Prc" type="AN">гажӧдчан</l>
        <l_var type="molodtsov-cyr">гажӧччан</l_var>
@@ -645,14 +646,14 @@
      <xg>
        <x>гажӧдчан рыт</x>
        <xt xml:lang="rus">вечер отдыха</xt>
-     </xg><br />
+     </xg><br/>
      <xg>
        <x>гажӧдчан ёртыд джын ёрт на: воан кӧ шогӧ, югзьӧдас бокӧ </x>
        <xt xml:lang="rus" src_type="saying:поговорка">друзья познаются в беде </xt><com>(<acronym title="буквально"><em>букв.</em></acronym> друг по веселью – полдруга: попадёшь в беду – отойдёт в сторону)</com>
      </xg>
    </mg>
 </e>
-<e>
+  <e>
    <lg t1="Г" t2="И" t3="Ж" uri="9903-gizhan" id="9903">
      <l pos="Prc" type="AN">гижан</l>
        <l_var type="molodtsov-cyr">гіжан</l_var>
@@ -660,11 +661,11 @@
    <mg relId="0">
      <tg xml:lang="rus">
        <t>письменный; писчий</t>
-     </tg><br />
+     </tg><br/>
      <xg>
        <x>гижан борд </x>
        <xt xml:lang="rus"><acronym title="устаревшее слово"><em>уст.</em></acronym> перо для письма</xt>
-     </xg><br />
+     </xg><br/>
      <xg>
        <x>гижан бумага</x>
        <xt xml:lang="rus">писчая бумага</xt>
@@ -688,18 +689,18 @@
      </xg>
    </mg>
 </e>
-<e>
+  <e>
    <lg t1="Г" t2="И" t3="Ж" uri="9965-gizhtan" id="9965">
      <l pos="Prc" type="AN">гижтан</l>
        <l_var type="molodtsov-cyr">гіжтан</l_var>
    </lg>
    <mg relId="0"> <sg><s s_type="see">гижта во 2 значении</s></sg>
      <tg xml:lang="rus">
-       <t></t>
+       <t/>
      </tg>
    </mg>
 </e>
-<e>
+  <e>
    <lg t1="Г" t2="О" t3="Ж" uri="10230-gozh-yan" id="10230">
      <l pos="Prc" type="AN">гожъян</l>
        <l_var type="molodtsov-cyr">гожјан</l_var>
@@ -714,7 +715,7 @@
      </xg>
    </mg>
 </e>
-<e>
+  <e>
    <lg t1="Г" t2="О" t3="Р" uri="10438-gorlopan" id="10438">
      <l pos="Prc" type="AN">горлопан</l>
        <l_var type="molodtsov-cyr">горлопан</l_var>
@@ -725,7 +726,7 @@
      </tg>
    </mg>
 </e>
-<e>
+  <e>
    <lg t1="Г" t2="О" t3="Р" uri="10458-gor-dan" id="10458">
      <l pos="Prc" type="AN">горӧдан</l>
        <l_var type="molodtsov-cyr">горӧԁан</l_var>
@@ -740,35 +741,35 @@
      </xg>
    </mg>
 </e>
-<e>
+  <e>
    <lg t1="Г" t2="Р" t3="Ӧ" uri="11225-gr-zitchana" id="11225">
      <l pos="Prc" type="ANA">грӧзитчана</l>
        <l_var type="molodtsov-cyr">грӧԅіччана</l_var>
    </lg>
    <mg relId="0"> <sg><s s_type="see">грӧзитана</s></sg>
      <tg xml:lang="rus">
-       <t></t>
+       <t/>
      </tg>
    </mg>
 </e>
-<e>
+  <e>
    <lg t1="Г" t2="У" t3="Д" uri="11402-gudralan" id="11402">
      <l pos="Prc" type="AN">гудралан</l>
        <l_var type="molodtsov-cyr">гуԁралан</l_var>
    </lg>
-   <mg relId="0"><span class="underline">употребляется лишь в составе выражений:</span><br />
+   <mg relId="0"><span class="underline">употребляется лишь в составе выражений:</span><br/>
      <xg>
        <x>вый гудралан</x>
        <xt xml:lang="rus">маслобойка</xt>
      </xg>
    </mg>
 </e>
-<e>
+  <e>
    <lg t1="Г" t2="У" t3="Д" uri="11417-gud-yan" id="11417">
      <l pos="Prc" type="AN">гудъян</l>
        <l_var type="molodtsov-cyr">гуԁјан</l_var>
    </lg>
-   <mg relId="0"><span class="underline">употребляется лишь в составе выражений:</span><br />
+   <mg relId="0"><span class="underline">употребляется лишь в составе выражений:</span><br/>
      <xg>
        <x>пинь гудъян</x>
        <xt xml:lang="rus">зубочистка</xt>
@@ -779,7 +780,7 @@
      </xg>
    </mg>
 </e>
-<e>
+  <e>
    <lg t1="Г" t2="У" t3="Л" uri="11525-gulyupiyan" id="11525">
      <l pos="Prc" type="AN">гулюпиян</l>
        <l_var type="molodtsov-cyr">гуԉупіјан</l_var>
@@ -794,7 +795,7 @@
      </xg>
    </mg>
 </e>
-<e>
+  <e>
    <lg t1="Г" t2="У" t3="С" uri="11769-gusyasyan" id="11769">
      <l pos="Prc" type="AN">гусясян</l>
        <l_var type="molodtsov-cyr">гуԍаԍан</l_var>
@@ -813,7 +814,7 @@
      </xg>
    </mg>
 </e>
-<e>
+  <e>
    <lg t1="Г" t2="Ы" t3="Ж" uri="11860-gyzh-yasyan" id="11860">
      <l pos="Prc" type="AN">гыжъясян</l>
        <l_var type="molodtsov-cyr">гыжјаԍан</l_var>
@@ -824,7 +825,7 @@
      </tg>
    </mg>
 </e>
-<e>
+  <e>
    <lg t1="Г" t2="Ы" t3="К" uri="11882-gykutan" id="11882">
      <l pos="Prc" type="AN">гыкутан</l>
        <l_var type="molodtsov-cyr">гыкутан</l_var>
@@ -839,7 +840,7 @@
      </xg>
    </mg>
 </e>
-<e>
+  <e>
    <lg t1="Г" t2="Ы" t3="М" uri="11918-gymalan" id="11918">
      <l pos="Prc" type="AN">гымалан</l>
        <l_var type="molodtsov-cyr">гымалан</l_var>
@@ -854,7 +855,7 @@
      </xg>
    </mg>
 </e>
-<e>
+  <e>
    <lg t1="Г" t2="Ы" t3="Н" uri="11986-gyndysyan" id="11986">
      <l pos="Prc" type="AN">гындысян</l>
        <l_var type="molodtsov-cyr">гынԁыԍан</l_var>
@@ -873,7 +874,7 @@
      </xg>
    </mg>
 </e>
-<e>
+  <e>
    <lg t1="Г" t2="Ӧ" t3="Г" uri="10622-g-g-rvo-dan" id="10622">
      <l pos="Prc" type="AN">гӧгӧрвоӧдан</l>
        <l_var type="molodtsov-cyr">гӧгӧрвоӧԁан</l_var>
@@ -888,7 +889,7 @@
      </xg>
    </mg>
 </e>
-<e>
+  <e>
    <lg t1="Г" t2="Ӧ" t3="Й" uri="10707-g-ijtan" id="10707">
      <l pos="Prc" type="AN">гӧйтан</l>
        <l_var type="molodtsov-cyr">гӧјтан</l_var>
@@ -899,7 +900,7 @@
      </tg>
    </mg>
 </e>
-<e>
+  <e>
    <lg t1="Г" t2="Ӧ" t3="Р" uri="10857-g-ran" id="10857">
      <l pos="Prc" type="AN">гӧран</l>
        <l_var type="molodtsov-cyr">гӧран</l_var>
@@ -934,7 +935,7 @@
      </xg>
    </mg>
 </e>
-<e>
+  <e>
    <lg t1="Г" t2="Ӧ" t3="Р" uri="10860-g-ran-k-dzan" id="10860">
      <l pos="Prc" type="AN">гӧран-кӧдзан</l>
        <l_var type="molodtsov-cyr">гӧран-кӧԇан</l_var>
@@ -954,12 +955,12 @@
      </xg>
    </mg>
 </e>
-<e>
+  <e>
    <lg t1="Д" t2="А" t3="С" uri="12241-das-tysyan" id="12241">
      <l pos="Prc" type="AN">дасьтысян</l>
        <l_var type="molodtsov-cyr">ԁаԍтыԍан</l_var>
    </lg>
-   <mg relId="0"><strong>дасьтысян, дасьтысяна</strong><br />
+   <mg relId="0"><strong>дасьтысян, дасьтысяна</strong><br/>
      <tg xml:lang="rus">
        <t>подготовительный; приготовленный</t>
      </tg>
@@ -969,7 +970,7 @@
      </xg>
    </mg>
 </e>
-<e>
+  <e>
    <lg t1="Д" t2="Е" t3="Й" uri="12333-deijstvuijtan" id="12333">
      <l pos="Prc" type="AN">действуйтан</l>
        <l_var type="molodtsov-cyr">ԃејствујтан</l_var>
@@ -984,12 +985,12 @@
      </xg>
    </mg>
 </e>
-<e>
+  <e>
    <lg t1="Д" t2="Ж" t3="И" uri="12562-dzhiyan" id="12562">
      <l pos="Prc" type="AN">джиян</l>
        <l_var type="molodtsov-cyr">җіјан</l_var>
    </lg>
-   <mg relId="0"><strong>джиян, джиан</strong><br /> <rg><r range_space="dialect"/></rg>
+   <mg relId="0"><strong>джиян, джиан</strong><br/> <rg><r range_space="dialect"/></rg>
      <tg xml:lang="rus">
        <t>синица</t>
      </tg>
@@ -1003,25 +1004,25 @@
      </xg>
    </mg>
 </e>
-<e>
+  <e>
    <lg t1="Д" t2="З" t3="А" uri="12721-dzav-yan" id="12721">
      <l pos="Prc" type="AN">дзавъян</l>
        <l_var type="molodtsov-cyr">ԇавјан</l_var>
    </lg>
-   <mg relId="0"><strong><em>или</em> дзавъян доз</strong><br />
+   <mg relId="0"><strong><em>или</em> дзавъян доз</strong><br/>
      <tg xml:lang="rus">
        <t>прибор для наматывания пряжи на цевку; скалка <acronym title="областное слово, выражение"><em>обл.</em></acronym>; </t>
      </tg> <sg><s s_type="seeAlso">скалина</s></sg>
    </mg>
 </e>
-<e>
+  <e>
    <lg t1="Д" t2="З" t3="Е" uri="12841-dzengana" id="12841">
      <l pos="Prc" type="ANA">дзенгана</l>
        <l_var type="molodtsov-cyr">ԇенгана</l_var>
    </lg>
    <mg relId="0">
      <tg xml:lang="rus">
-       <t pos="Prc" type="ANA"> вонзающийся; впивающийся</t>
+       <t pos="Prc" type="ANA">вонзающийся; впивающийся</t>
      </tg>
      <xg>
        <x>дзенгана пома ньӧв</x>
@@ -1029,7 +1030,7 @@
      </xg>
    </mg>
 </e>
-<e>
+  <e>
    <lg t1="Д" t2="З" t3="Е" uri="12884-dzesk-dan" id="12884">
      <l pos="Prc" type="AN">дзескӧдан</l>
        <l_var type="molodtsov-cyr">ԇескӧԁан</l_var>
@@ -1048,12 +1049,12 @@
      </xg>
    </mg>
 </e>
-<e>
+  <e>
    <lg t1="Д" t2="З" t3="И" uri="13037-dzirdalan" id="13037">
      <l pos="Prc" type="AN">дзирдалан</l>
        <l_var type="molodtsov-cyr">ԇірԁалан</l_var>
    </lg>
-   <mg relId="0"><strong>дзирдалан, дзирдалана</strong><br />
+   <mg relId="0"><strong>дзирдалан, дзирдалана</strong><br/>
      <tg xml:lang="rus">
        <t pos="Prc" type="ANA">1. блестящий; сияющий; сверкающий; искристый</t>
      </tg>
@@ -1085,12 +1086,12 @@
      </xg>
    </mg>
 </e>
-<e>
+  <e>
    <lg t1="Д" t2="З" t3="И" uri="13039-dzirdalana" id="13039">
      <l pos="Prc" type="ANA">дзирдалана</l>
        <l_var type="molodtsov-cyr">ԇірԁалана</l_var>
    </lg>
-   <mg relId="0"><strong>дзирдалана, дзирдалан</strong><br />
+   <mg relId="0"><strong>дзирдалана, дзирдалан</strong><br/>
      <tg xml:lang="rus">
        <t pos="Prc" type="ANA">1. блестящий; сияющий; сверкающий; искристый</t>
      </tg>
@@ -1122,18 +1123,18 @@
      </xg>
    </mg>
 </e>
-<e>
+  <e>
    <lg t1="Д" t2="З" t3="У" uri="13523-dzurtana" id="13523">
      <l pos="Prc" type="ANA">дзуртана</l>
        <l_var type="molodtsov-cyr">ԇуртана</l_var>
    </lg>
    <mg relId="0"> <sg><s s_type="see">дзуртан</s></sg>
      <tg xml:lang="rus">
-       <t></t>
+       <t/>
      </tg>
    </mg>
 </e>
-<e>
+  <e>
    <lg t1="Д" t2="З" t3="Ӧ" uri="13287-dz-ran" id="13287">
      <l pos="Prc" type="AN">дзӧран</l>
        <l_var type="molodtsov-cyr">ԇӧран</l_var>
@@ -1174,7 +1175,7 @@
      </xg>
    </mg>
 </e>
-<e>
+  <e>
    <lg t1="Д" t2="И" t3="В" uri="13569-divitan" id="13569">
      <l pos="Prc" type="AN">дивитан</l>
        <l_var type="molodtsov-cyr">ԃівітан</l_var>
@@ -1189,14 +1190,14 @@
      </xg>
    </mg>
 </e>
-<e>
+  <e>
    <lg t1="Д" t2="О" t3="В" uri="13917-dov-yalana" id="13917">
      <l pos="Prc" type="ANA">довъялана</l>
        <l_var type="molodtsov-cyr">ԁовјалана</l_var>
    </lg>
    <mg relId="0">
      <tg xml:lang="rus">
-       <t pos="Prc" type="ANA"> качающийся, колыхающийся, колебающийся</t>
+       <t pos="Prc" type="ANA">качающийся, колыхающийся, колебающийся</t>
      </tg>
      <xg>
        <x>востымыс петкӧдчис муртса довъялана занавес кодьӧн</x>
@@ -1204,7 +1205,7 @@
      </xg>
    </mg>
 </e>
-<e>
+  <e>
    <lg t1="Д" t2="О" t3="Д" uri="13936-doddyalan" id="13936">
      <l pos="Prc" type="AN">доддялан</l>
        <l_var type="molodtsov-cyr">ԁоԃԃалан</l_var>
@@ -1219,7 +1220,7 @@
      </xg>
    </mg>
 </e>
-<e>
+  <e>
    <lg t1="Д" t2="О" t3="Д" uri="13946-doddyasyan" id="13946">
      <l pos="Prc" type="AN">доддясян</l>
        <l_var type="molodtsov-cyr">ԁоԃԃаԍан</l_var>
@@ -1238,7 +1239,7 @@
      </xg>
    </mg>
 </e>
-<e>
+  <e>
    <lg t1="Д" t2="О" t3="Й" uri="13968-doijdan" id="13968">
      <l pos="Prc" type="AN">дойдан</l>
        <l_var type="molodtsov-cyr">ԁојԁан</l_var>
@@ -1270,7 +1271,7 @@
      </xg>
    </mg>
 </e>
-<e>
+  <e>
    <lg t1="Д" t2="О" t3="Й" uri="13983-doijman" id="13983">
      <l pos="Prc" type="AN">дойман</l>
        <l_var type="molodtsov-cyr">ԁојман</l_var>
@@ -1289,7 +1290,7 @@
      </xg>
    </mg>
 </e>
-<e>
+  <e>
    <lg t1="Д" t2="О" t3="М" uri="14068-domalan" id="14068">
      <l pos="Prc" type="AN">домалан</l>
        <l_var type="molodtsov-cyr">ԁомалан</l_var>
@@ -1312,14 +1313,14 @@
      </xg>
    </mg>
 </e>
-<e>
+  <e>
    <lg t1="Д" t2="О" t3="Н" uri="14110-donijyshtana" id="14110">
      <l pos="Prc" type="ANA">донйыштана</l>
        <l_var type="molodtsov-cyr">ԁонјыштана</l_var>
    </lg>
    <mg relId="0">
      <tg xml:lang="rus">
-       <t pos="Prc" type="ANA"> оценивающий</t>
+       <t pos="Prc" type="ANA">оценивающий</t>
      </tg>
      <xg>
        <x>донйыштана синмӧн видзӧдлыны (кодкӧ вылӧ)</x>
@@ -1327,7 +1328,7 @@
      </xg>
    </mg>
 </e>
-<e>
+  <e>
    <lg t1="Д" t2="О" t3="Н" uri="14181-don-yalana" id="14181">
      <l pos="Prc" type="ANA">донъялана</l>
        <l_var type="molodtsov-cyr">ԁонјалана</l_var>
@@ -1358,7 +1359,7 @@
      </xg>
    </mg>
 </e>
-<e>
+  <e>
    <lg t1="Д" t2="О" t3="Н" uri="14121-don-dan" id="14121">
      <l pos="Prc" type="AN">донӧдан</l>
        <l_var type="molodtsov-cyr">ԁонӧԁан</l_var>
@@ -1369,12 +1370,12 @@
      </tg>
    </mg>
 </e>
-<e>
+  <e>
    <lg t1="Д" t2="О" t3="Р" uri="14257-dorijysyan" id="14257">
      <l pos="Prc" type="AN">дорйысян</l>
        <l_var type="molodtsov-cyr">ԁорјыԍан</l_var>
    </lg>
-   <mg relId="0"><strong>дорйысян, дорйысяна</strong><br />
+   <mg relId="0"><strong>дорйысян, дорйысяна</strong><br/>
      <tg xml:lang="rus">
        <t>1. защитительный; оправдательный</t>
      </tg>
@@ -1401,12 +1402,12 @@
      </xg>
    </mg>
 </e>
-<e>
+  <e>
    <lg t1="Д" t2="О" t3="Р" uri="14258-dorijysyana" id="14258">
      <l pos="Prc" type="ANA">дорйысяна</l>
        <l_var type="molodtsov-cyr">ԁорјыԍана</l_var>
    </lg>
-   <mg relId="0"><strong>дорйысяна, дорйысян</strong><br />
+   <mg relId="0"><strong>дорйысяна, дорйысян</strong><br/>
      <tg xml:lang="rus">
        <t>1. защитительный; оправдательный</t>
      </tg>
@@ -1433,7 +1434,7 @@
      </xg>
    </mg>
 </e>
-<e>
+  <e>
    <lg t1="Д" t2="О" t3="Р" uri="14362-dor-yan" id="14362">
      <l pos="Prc" type="AN">доръян</l>
        <l_var type="molodtsov-cyr">ԁорјан</l_var>
@@ -1457,14 +1458,14 @@
      </xg>
    </mg>
 </e>
-<e>
+  <e>
    <lg t1="Д" t2="Р" t3="Ӧ" uri="14670-dr-zhzhitana" id="14670">
      <l pos="Prc" type="ANA">дрӧжжитана</l>
        <l_var type="molodtsov-cyr">ԁрӧжжітана</l_var>
    </lg>
    <mg relId="0">
      <tg xml:lang="rus">
-       <t pos="Prc" type="ANA"> дрожащий</t>
+       <t pos="Prc" type="ANA">дрожащий</t>
      </tg>
      <xg>
        <x>дрӧжжитана гӧлӧсӧн юавны</x>
@@ -1476,7 +1477,7 @@
      </xg>
    </mg>
 </e>
-<e>
+  <e>
    <lg t1="Д" t2="У" t3="Г" uri="14841-dug-dan" id="14841">
      <l pos="Prc" type="AN">дугӧдан</l>
        <l_var type="molodtsov-cyr">ԁугӧԁан</l_var>
@@ -1491,22 +1492,22 @@
      </xg>
    </mg>
 </e>
-<e>
+  <e>
    <lg t1="Д" t2="У" t3="Л" uri="14932-dulana" id="14932">
      <l pos="Prc" type="ANA">дулана</l>
        <l_var type="molodtsov-cyr">ԁулана</l_var>
    </lg>
    <mg relId="0"> <sg><s s_type="see">дуан</s></sg>
      <tg xml:lang="rus">
-       <t></t>
-     </tg><br />
+       <t/>
+     </tg><br/>
      <xg>
        <x>дулана пожӧмсӧ дыр ковмис пилитны </x>
        <xt xml:lang="rus"><acronym title="в переносном значении"><em>перен.</em></acronym> упрямую сосну долго пришлось пилить</xt>
      </xg>
    </mg>
 </e>
-<e>
+  <e>
    <lg t1="Д" t2="У" t3="Р" uri="15048-durzyan" id="15048">
      <l pos="Prc" type="AN">дурзян</l>
        <l_var type="molodtsov-cyr">ԁурԅан</l_var> <rg><r range_space="dialect"/></rg>
@@ -1517,7 +1518,7 @@
      </tg>
    </mg>
 </e>
-<e>
+  <e>
    <lg t1="Д" t2="Ы" t3="Д" uri="15145-dydgan" id="15145">
      <l pos="Prc" type="AN">дыдган</l>
        <l_var type="molodtsov-cyr">ԁыԁган</l_var>
@@ -1532,7 +1533,7 @@
      </xg>
    </mg>
 </e>
-<e>
+  <e>
    <lg t1="Д" t2="Э" t3="Л" uri="15256-del-dchan" id="15256">
      <l pos="Prc" type="AN">дэльӧдчан</l>
        <l_var type="molodtsov-cyr">ԁеԉӧччан</l_var>
@@ -1547,7 +1548,7 @@
      </xg>
    </mg>
 </e>
-<e>
+  <e>
    <lg t1="Д" t2="Э" t3="Л" uri="15258-del-dchana" id="15258">
      <l pos="Prc" type="ANA">дэльӧдчана</l>
        <l_var type="molodtsov-cyr">ԁеԉӧччана</l_var>
@@ -1566,7 +1567,7 @@
      </xg>
    </mg>
 </e>
-<e>
+  <e>
    <lg t1="Д" t2="Ӧ" t3="З" uri="14489-d-zm-dan" id="14489">
      <l pos="Prc" type="AN">дӧзмӧдан</l>
        <l_var type="molodtsov-cyr">ԁӧзмӧԁан</l_var>
@@ -1581,25 +1582,25 @@
      </xg>
    </mg>
 </e>
-<e>
+  <e>
    <lg t1="Д" t2="Ӧ" t3="З" uri="14490-d-zm-dana" id="14490">
      <l pos="Prc" type="ANA">дӧзмӧдана</l>
        <l_var type="molodtsov-cyr">ԁӧзмӧԁана</l_var>
    </lg>
    <mg relId="0"> <sg><s s_type="see">дӧзмӧдан</s></sg>
      <tg xml:lang="rus">
-       <t></t>
+       <t/>
      </tg>
    </mg>
 </e>
-<e>
+  <e>
    <lg t1="Д" t2="Ӧ" t3="З" uri="14496-d-zm-dchan" id="14496">
      <l pos="Prc" type="AN">дӧзмӧдчан</l>
        <l_var type="molodtsov-cyr">ԁӧзмӧччан</l_var>
    </lg>
    <mg relId="0"> <sg><s s_type="see">дӧзмӧдчысь</s></sg>
      <tg xml:lang="rus">
-       <t></t>
+       <t/>
      </tg>
      <xg>
        <x>дӧзмӧдчан зэр</x>
@@ -1626,7 +1627,7 @@
      </xg>
    </mg>
 </e>
-<e>
+  <e>
    <lg t1="Д" t2="Ӧ" t3="М" uri="14549-d-man" id="14549">
      <l pos="Prc" type="AN">дӧман</l>
        <l_var type="molodtsov-cyr">ԁӧман</l_var>
@@ -1641,12 +1642,12 @@
      </xg>
    </mg>
 </e>
-<e>
+  <e>
    <lg t1="Ж" t2="А" t3="Л" uri="15746-zhalitan" id="15746">
      <l pos="Prc" type="AN">жалитан</l>
        <l_var type="molodtsov-cyr">жаԉітан</l_var>
    </lg>
-   <mg relId="0"><strong>жалитан, жалитана</strong><br />
+   <mg relId="0"><strong>жалитан, жалитана</strong><br/>
      <tg xml:lang="rus">
        <t>1. жалостный <acronym title="разговорное"><em>разг.</em></acronym>, сострадательный</t>
      </tg>
@@ -1665,12 +1666,12 @@
      </xg>
    </mg>
 </e>
-<e>
+  <e>
    <lg t1="Ж" t2="А" t3="Л" uri="15747-zhalitana" id="15747">
      <l pos="Prc" type="ANA">жалитана</l>
        <l_var type="molodtsov-cyr">жаԉітана</l_var>
    </lg>
-   <mg relId="0"><strong>жалитана, жалитан</strong><br />
+   <mg relId="0"><strong>жалитана, жалитан</strong><br/>
      <tg xml:lang="rus">
        <t>1. жалостный <acronym title="разговорное"><em>разг.</em></acronym>, сострадательный</t>
      </tg>
@@ -1689,7 +1690,7 @@
      </xg>
    </mg>
 </e>
-<e>
+  <e>
    <lg t1="Ж" t2="Б" t3="Ы" uri="15879-zhbyrgan" id="15879">
      <l pos="Prc" type="AN">жбырган</l>
        <l_var type="molodtsov-cyr">жбырган</l_var>
@@ -1704,12 +1705,12 @@
      </xg>
    </mg>
 </e>
-<e>
+  <e>
    <lg t1="Ж" t2="Е" t3="Л" uri="15974-zhellyasyan" id="15974">
      <l pos="Prc" type="AN">желлясян</l>
        <l_var type="molodtsov-cyr">жеԉԉаԍан</l_var>
    </lg>
-   <mg relId="0"><strong>желлясян, желлясяна</strong><br />
+   <mg relId="0"><strong>желлясян, желлясяна</strong><br/>
      <tg xml:lang="rus">
        <t pos="Prc" type="ANA">1. занозистый</t>
      </tg>
@@ -1724,12 +1725,12 @@
      </tg>
    </mg>
 </e>
-<e>
+  <e>
    <lg t1="Ж" t2="Е" t3="Л" uri="15975-zhellyasyana" id="15975">
      <l pos="Prc" type="ANA">желлясяна</l>
        <l_var type="molodtsov-cyr">жеԉԉаԍана</l_var>
    </lg>
-   <mg relId="0"><strong>желлясяна, желлясян</strong><br />
+   <mg relId="0"><strong>желлясяна, желлясян</strong><br/>
      <tg xml:lang="rus">
        <t pos="Prc" type="ANA">1. занозистый</t>
      </tg>
@@ -1744,7 +1745,7 @@
      </tg>
    </mg>
 </e>
-<e>
+  <e>
    <lg t1="Ж" t2="У" t3="Г" uri="16240-zhuglasyan" id="16240">
      <l pos="Prc" type="AN">жугласян</l>
        <l_var type="molodtsov-cyr">жуглаԍан</l_var>
@@ -1767,18 +1768,18 @@
      </xg>
    </mg>
 </e>
-<e>
+  <e>
    <lg t1="З" t2="А" t3="Р" uri="16971-zarchipsan" id="16971">
      <l pos="Prc" type="AN">зарчипсан</l>
        <l_var type="molodtsov-cyr">зарчіпсан</l_var>
    </lg>
    <mg relId="0"> <sg><s s_type="see">заргум</s></sg>
      <tg xml:lang="rus">
-       <t></t>
+       <t/>
      </tg>
    </mg>
 </e>
-<e>
+  <e>
    <lg t1="З" t2="В" t3="Е" uri="17121-zverpiyan" id="17121">
      <l pos="Prc" type="AN">зверпиян</l>
        <l_var type="molodtsov-cyr">ԅверпіјан</l_var>
@@ -1797,23 +1798,23 @@
      </xg>
    </mg>
 </e>
-<e>
+  <e>
    <lg t1="З" t2="И" t3="Л" uri="17289-zil-gan" id="17289">
      <l pos="Prc" type="AN">зильган</l>
        <l_var type="molodtsov-cyr">ԅіԉган</l_var>
    </lg>
-   <mg relId="0"><span class="underline">употребляется лишь в составе выражений:</span><br />
+   <mg relId="0"><span class="underline">употребляется лишь в составе выражений:</span><br/>
      <xg>
        <x>зильган турун </x>
        <xt xml:lang="rus"><acronym title="ботаника"><em>бот.</em></acronym> погремок большой, погремок малый</xt>
-     </xg><br />
+     </xg><br/>
      <xg>
        <x>зильган турун бурдӧдӧ мылӧд висьӧм</x>
        <xt xml:lang="rus">погремок лечит болезни желудка</xt>
      </xg>
    </mg>
 </e>
-<e>
+  <e>
    <lg t1="З" t2="О" t3="Н" uri="17429-zonmalan" id="17429">
      <l pos="Prc" type="AN">зонмалан</l>
        <l_var type="molodtsov-cyr">зонмалан</l_var>
@@ -1828,7 +1829,7 @@
      </xg>
    </mg>
 </e>
-<e>
+  <e>
    <lg t1="З" t2="Ы" t3="Р" uri="17841-zyrasyan" id="17841">
      <l pos="Prc" type="AN">зырасян</l>
        <l_var type="molodtsov-cyr">зыраԍан</l_var>
@@ -1843,12 +1844,12 @@
      </xg>
    </mg>
 </e>
-<e>
+  <e>
    <lg t1="З" t2="Ы" t3="Р" uri="17874-zyrtan" id="17874">
      <l pos="Prc" type="AN">зыртан</l>
        <l_var type="molodtsov-cyr">зыртан</l_var>
    </lg>
-   <mg relId="0"><span class="underline">употребляется лишь в составе выражений:</span><br />
+   <mg relId="0"><span class="underline">употребляется лишь в составе выражений:</span><br/>
      <xg>
        <x>куйӧд зыртан</x>
        <xt xml:lang="rus">орудие для очистки хлева от навоза</xt>
@@ -1859,7 +1860,7 @@
      </xg>
    </mg>
 </e>
-<e>
+  <e>
    <lg t1="З" t2="Ы" t3="Р" uri="17889-zyrtchan" id="17889">
      <l pos="Prc" type="AN">зыртчан</l>
        <l_var type="molodtsov-cyr">зырччан</l_var>
@@ -1874,7 +1875,7 @@
      </xg>
    </mg>
 </e>
-<e>
+  <e>
    <lg t1="И" t2="З" t3="Д" uri="18231-izdevaijtchana" id="18231">
      <l pos="Prc" type="ANA">издевайтчана</l>
        <l_var type="molodtsov-cyr">іԅԃевајччана</l_var>
@@ -1886,14 +1887,14 @@
      <xg>
        <x>издевайтчана гӧлӧс</x>
        <xt xml:lang="rus">издевательский тон (голос)</xt>
-     </xg><br />
+     </xg><br/>
      <xg>
        <x>издевайтчана шуны</x>
        <xt xml:lang="rus"> издевательски сказать</xt>
      </xg> <sg><s s_type="seeAlso">смекайтчана</s></sg>
    </mg>
 </e>
-<e>
+  <e>
    <lg t1="И" t2="З" t3="Ъ" uri="18326-iz-yana" id="18326">
      <l pos="Prc" type="ANA">изъяна</l>
        <l_var type="molodtsov-cyr">ізјана</l_var>
@@ -1901,36 +1902,36 @@
    <mg relId="0">
      <tg xml:lang="rus">
        <t>с изъянами</t>
-     </tg><br />
+     </tg><br/>
      <xg>
        <x>изъяна сапӧг</x>
        <xt xml:lang="rus"> сапоги с изъяном</xt>
      </xg> <sg><s s_type="seeAlso">пальшаа</s></sg>
    </mg>
 </e>
-<e>
+  <e>
    <lg t1="И" t2="З" t3="Ӧ" uri="18287-iz-dchan" id="18287">
      <l pos="Prc" type="AN">изӧдчан</l>
        <l_var type="molodtsov-cyr">ізӧччан</l_var>
    </lg>
    <mg relId="0"> <sg><s s_type="see">изан</s></sg>
      <tg xml:lang="rus">
-       <t></t>
+       <t/>
      </tg>
    </mg>
 </e>
-<e>
+  <e>
    <lg t1="И" t2="Н" t3="А" uri="18434-inasyan" id="18434">
      <l pos="Prc" type="AN">инасян</l>
        <l_var type="molodtsov-cyr">інаԍан</l_var>
    </lg>
    <mg relId="0"> <sg><s s_type="see">инан</s></sg>
      <tg xml:lang="rus">
-       <t></t>
+       <t/>
      </tg>
    </mg>
 </e>
-<e>
+  <e>
    <lg t1="И" t2="Ч" t3="Ӧ" uri="18732-ich-tm-dan" id="18732">
      <l pos="Prc" type="AN">ичӧтмӧдан</l>
        <l_var type="molodtsov-cyr">ічӧтмӧԁан</l_var>
@@ -1945,7 +1946,7 @@
      </xg>
    </mg>
 </e>
-<e>
+  <e>
    <lg t1="Й" t2="И" t3="Д" uri="18790-ijidzhan" id="18790">
      <l pos="Prc" type="AN">йиджан</l>
        <l_var type="molodtsov-cyr">јіҗан</l_var>
@@ -1969,7 +1970,7 @@
      </xg>
    </mg>
 </e>
-<e>
+  <e>
    <lg t1="Й" t2="И" t3="Д" uri="18791-ijidzhana" id="18791">
      <l pos="Prc" type="ANA">йиджана</l>
        <l_var type="molodtsov-cyr">јіҗана</l_var>
@@ -2001,18 +2002,18 @@
      </xg>
    </mg>
 </e>
-<e>
+  <e>
    <lg t1="Й" t2="И" t3="Д" uri="18815-ijidzhtysyana" id="18815">
      <l pos="Prc" type="ANA">йиджтысяна</l>
        <l_var type="molodtsov-cyr">јіҗтыԍана</l_var>
    </lg>
    <mg relId="0"> <sg><s s_type="see">йиджана</s></sg>
      <tg xml:lang="rus">
-       <t></t>
+       <t/>
      </tg>
    </mg>
 </e>
-<e>
+  <e>
    <lg t1="Й" t2="И" t3="Т" uri="18946-ijitan" id="18946">
      <l pos="Prc" type="AN">йитан</l>
        <l_var type="molodtsov-cyr">јітан</l_var>
@@ -2027,7 +2028,7 @@
      </xg>
    </mg>
 </e>
-<e>
+  <e>
    <lg t1="Й" t2="Ӧ" t3="К" uri="19147-ij-ktan" id="19147">
      <l pos="Prc" type="AN">йӧктан</l>
        <l_var type="molodtsov-cyr">јӧктан</l_var>
@@ -2042,7 +2043,7 @@
      </xg>
    </mg>
 </e>
-<e>
+  <e>
    <lg t1="Й" t2="Ӧ" t3="К" uri="19152-ij-kt-dan" id="19152">
      <l pos="Prc" type="AN">йӧктӧдан</l>
        <l_var type="molodtsov-cyr">јӧктӧԁан</l_var>
@@ -2061,7 +2062,7 @@
      </xg>
    </mg>
 </e>
-<e>
+  <e>
    <lg t1="К" t2="А" t3="З" uri="19506-kaz-tylan" id="19506">
      <l pos="Prc" type="AN">казьтылан</l>
        <l_var type="molodtsov-cyr">каԅтылан</l_var>
@@ -2080,7 +2081,7 @@
      </xg>
    </mg>
 </e>
-<e>
+  <e>
    <lg t1="К" t2="А" t3="З" uri="19537-kazyalan" id="19537">
      <l pos="Prc" type="AN">казялан</l>
        <l_var type="molodtsov-cyr">каԅалан</l_var>
@@ -2095,7 +2096,7 @@
      </xg>
    </mg>
 </e>
-<e>
+  <e>
    <lg t1="К" t2="А" t3="Л" uri="19624-kalitchan" id="19624">
      <l pos="Prc" type="AN">калитчан</l>
        <l_var type="molodtsov-cyr">каԉіччан</l_var>
@@ -2123,7 +2124,7 @@
      </xg>
    </mg>
 </e>
-<e>
+  <e>
    <lg t1="К" t2="А" t3="Н" uri="19819-kanalan" id="19819">
      <l pos="Prc" type="AN">каналан</l>
        <l_var type="molodtsov-cyr">каналан</l_var>
@@ -2142,7 +2143,7 @@
      </xg>
    </mg>
 </e>
-<e>
+  <e>
    <lg t1="К" t2="А" t3="С" uri="20195-kastitchana" id="20195">
      <l pos="Prc" type="ANA">каститчана</l>
        <l_var type="molodtsov-cyr">каԍԏіччана</l_var>
@@ -2157,12 +2158,12 @@
      </xg>
    </mg>
 </e>
-<e>
+  <e>
    <lg t1="К" t2="А" t3="Т" uri="20253-katlasyan" id="20253">
      <l pos="Prc" type="AN">катласян</l>
        <l_var type="molodtsov-cyr">катлаԍан</l_var>
    </lg>
-   <mg relId="0"><strong>катласян, катласяна</strong><br />
+   <mg relId="0"><strong>катласян, катласяна</strong><br/>
      <tg xml:lang="rus">
        <t>шаткий; неустойчивый</t>
      </tg>
@@ -2176,12 +2177,12 @@
      </xg>
    </mg>
 </e>
-<e>
+  <e>
    <lg t1="К" t2="А" t3="Т" uri="20255-katlasyana" id="20255">
      <l pos="Prc" type="ANA">катласяна</l>
        <l_var type="molodtsov-cyr">катлаԍана</l_var>
    </lg>
-   <mg relId="0"><strong>катласяна, катласян</strong><br />
+   <mg relId="0"><strong>катласяна, катласян</strong><br/>
      <tg xml:lang="rus">
        <t>шаткий; неустойчивый</t>
      </tg>
@@ -2195,14 +2196,14 @@
      </xg>
    </mg>
 </e>
-<e>
+  <e>
    <lg t1="К" t2="А" t3="Т" uri="20312-katt-ysyana" id="20312">
      <l pos="Prc" type="ANA">каттьысяна</l>
        <l_var type="molodtsov-cyr">каԏԏыԍана</l_var>
    </lg>
    <mg relId="0">
      <tg xml:lang="rus">
-       <t pos="Prc" type="ANA"> льющийся</t>
+       <t pos="Prc" type="ANA">льющийся</t>
      </tg>
      <xg>
        <x>каттьысяна сёрни</x>
@@ -2210,7 +2211,7 @@
      </xg>
    </mg>
 </e>
-<e>
+  <e>
    <lg t1="К" t2="А" t3="Ч" uri="20411-kach-dchan" id="20411">
      <l pos="Prc" type="AN">качӧдчан</l>
        <l_var type="molodtsov-cyr">качӧччан</l_var>
@@ -2225,7 +2226,7 @@
      </xg>
    </mg>
 </e>
-<e>
+  <e>
    <lg t1="К" t2="А" t3="Я" uri="20447-kayan" id="20447">
      <l pos="Prc" type="AN">каян</l>
        <l_var type="molodtsov-cyr">кајан</l_var>
@@ -2244,7 +2245,7 @@
      </xg>
    </mg>
 </e>
-<e>
+  <e>
    <lg t1="К" t2="В" t3="А" uri="20459-kvaijtnan" id="20459">
      <l pos="Prc" type="AN">квайтнан</l>
        <l_var type="molodtsov-cyr">квајтнан</l_var>
@@ -2263,7 +2264,7 @@
      </xg>
    </mg>
 </e>
-<e>
+  <e>
    <lg t1="К" t2="Е" t3="В" uri="20553-kevman" id="20553">
      <l pos="Prc" type="AN">кевман</l>
        <l_var type="molodtsov-cyr">кевман</l_var>
@@ -2283,7 +2284,7 @@
      </xg>
    </mg>
 </e>
-<e>
+  <e>
    <lg t1="К" t2="Е" t3="В" uri="20555-kevmana" id="20555">
      <l pos="Prc" type="ANA">кевмана</l>
        <l_var type="molodtsov-cyr">кевмана</l_var>
@@ -2298,7 +2299,7 @@
      </xg>
    </mg>
 </e>
-<e>
+  <e>
    <lg t1="К" t2="Е" t3="В" uri="20572-kevmysyana" id="20572">
      <l pos="Prc" type="ANA">кевмысяна</l>
        <l_var type="molodtsov-cyr">кевмыԍана</l_var>
@@ -2314,11 +2315,11 @@
    </mg>
    <mg relId="1"> <sg><s s_type="see">кевмысян</s></sg>
      <tg xml:lang="rus">
-       <t></t>
+       <t/>
      </tg>
    </mg>
 </e>
-<e>
+  <e>
    <lg t1="К" t2="Е" t3="Д" uri="20580-kedzovtan" id="20580">
      <l pos="Prc" type="AN">кедзовтан</l>
        <l_var type="molodtsov-cyr">кеԇовтан</l_var>
@@ -2337,14 +2338,14 @@
      </xg>
    </mg>
 </e>
-<e>
+  <e>
    <lg t1="К" t2="Е" t3="Д" uri="20583-kedzovtana" id="20583">
      <l pos="Prc" type="ANA">кедзовтана</l>
        <l_var type="molodtsov-cyr">кеԇовтана</l_var>
    </lg>
    <mg relId="0"> <sg><s s_type="see">кедзовтан</s></sg>
      <tg xml:lang="rus">
-       <t></t>
+       <t/>
      </tg>
    </mg>
    <mg relId="1">
@@ -2366,7 +2367,7 @@
      </xg>
    </mg>
 </e>
-<e>
+  <e>
    <lg t1="К" t2="Е" t3="Ж" uri="20603-kezhan" id="20603">
      <l pos="Prc" type="AN">кежан</l>
        <l_var type="molodtsov-cyr">кежан</l_var>
@@ -2382,7 +2383,7 @@
      </xg>
    </mg>
 </e>
-<e>
+  <e>
    <lg t1="К" t2="Е" t3="Ж" uri="20605-kezhana" id="20605">
      <l pos="Prc" type="ANA">кежана</l>
        <l_var type="molodtsov-cyr">кежана</l_var>
@@ -2397,7 +2398,7 @@
      </xg>
    </mg>
 </e>
-<e>
+  <e>
    <lg t1="К" t2="Е" t3="Р" uri="20875-keran-v-chan" id="20875">
      <l pos="Prc" type="AN">керан-вӧчан</l>
        <l_var type="molodtsov-cyr">керан-вӧчан</l_var>
@@ -2408,7 +2409,7 @@
      </tg>
    </mg>
 </e>
-<e>
+  <e>
    <lg t1="К" t2="И" t3="З" uri="21104-kizyalan" id="21104">
      <l pos="Prc" type="AN">кизялан</l>
        <l_var type="molodtsov-cyr">кіԅалан</l_var>
@@ -2423,7 +2424,7 @@
      </xg>
    </mg>
 </e>
-<e>
+  <e>
    <lg t1="К" t2="И" t3="К" uri="21124-kikimeritchan" id="21124">
      <l pos="Prc" type="AN">кикимеритчан</l>
        <l_var type="molodtsov-cyr">кікімеріччан</l_var>
@@ -2438,7 +2439,7 @@
      </xg>
    </mg>
 </e>
-<e>
+  <e>
    <lg t1="К" t2="И" t3="М" uri="21276-kim-stitchan" id="21276">
      <l pos="Prc" type="AN">кимӧститчан</l>
        <l_var type="molodtsov-cyr">кімӧԍԏіччан</l_var>
@@ -2462,23 +2463,23 @@
      </xg>
    </mg>
 </e>
-<e>
+  <e>
    <lg t1="К" t2="И" t3="М" uri="21278-kim-stitchana" id="21278">
      <l pos="Prc" type="ANA">кимӧститчана</l>
        <l_var type="molodtsov-cyr">кімӧԍԏіччана</l_var>
    </lg>
    <mg relId="0"> <sg><s s_type="see">кимӧститчан</s></sg>
      <tg xml:lang="rus">
-       <t></t>
+       <t/>
      </tg>
    </mg>
 </e>
-<e>
+  <e>
    <lg t1="К" t2="И" t3="Р" uri="21355-kirgan" id="21355">
      <l pos="Prc" type="AN">кирган</l>
        <l_var type="molodtsov-cyr">кірган</l_var>
    </lg>
-   <mg relId="0"><strong>кирган, киргана</strong><br />
+   <mg relId="0"><strong>кирган, киргана</strong><br/>
      <tg xml:lang="rus">
        <t>хриплый || хрипло</t>
      </tg>
@@ -2492,12 +2493,12 @@
      </xg>
    </mg>
 </e>
-<e>
+  <e>
    <lg t1="К" t2="И" t3="Р" uri="21356-kirgana" id="21356">
      <l pos="Prc" type="ANA">киргана</l>
        <l_var type="molodtsov-cyr">кіргана</l_var>
    </lg>
-   <mg relId="0"><strong>киргана, кирган</strong><br />
+   <mg relId="0"><strong>киргана, кирган</strong><br/>
      <tg xml:lang="rus">
        <t>хриплый || хрипло</t>
      </tg>
@@ -2515,7 +2516,7 @@
      </xg>
    </mg>
 </e>
-<e>
+  <e>
    <lg t1="К" t2="И" t3="Р" uri="21383-kiritchan" id="21383">
      <l pos="Prc" type="AN">киритчан</l>
        <l_var type="molodtsov-cyr">кіріччан</l_var> <rg><r range_space="dialect"/></rg>
@@ -2526,12 +2527,12 @@
      </tg>
    </mg>
 </e>
-<e>
+  <e>
    <lg t1="К" t2="И" t3="С" uri="21472-kis-tan" id="21472">
      <l pos="Prc" type="AN">кисьтан</l>
        <l_var type="molodtsov-cyr">кіԍтан</l_var>
    </lg>
-   <mg relId="0"><strong>кисьтан, кисьтана</strong><br /><span class="underline">употребляется лишь в составе выражений:</span><br />
+   <mg relId="0"><strong>кисьтан, кисьтана</strong><br/><span class="underline">употребляется лишь в составе выражений:</span><br/>
      <xg>
        <x>вир кисьтан</x>
        <xt xml:lang="rus">кровопролитный</xt>
@@ -2542,12 +2543,12 @@
      </xg>
    </mg>
 </e>
-<e>
+  <e>
    <lg t1="К" t2="И" t3="С" uri="21474-kis-tana" id="21474">
      <l pos="Prc" type="ANA">кисьтана</l>
        <l_var type="molodtsov-cyr">кіԍтана</l_var>
    </lg>
-   <mg relId="0"><strong>кисьтана, кисьтан</strong><br /><span class="underline">употребляется лишь в составе выражений:</span><br />
+   <mg relId="0"><strong>кисьтана, кисьтан</strong><br/><span class="underline">употребляется лишь в составе выражений:</span><br/>
      <xg>
        <x>вир кисьтана</x>
        <xt xml:lang="rus">кровопролитный</xt>
@@ -2558,7 +2559,7 @@
      </xg>
    </mg>
 </e>
-<e>
+  <e>
    <lg t1="К" t2="Л" t3="Е" uri="21607-klepaijtchan" id="21607">
      <l pos="Prc" type="AN">клепайтчан</l>
        <l_var type="molodtsov-cyr">кԉепајччан</l_var>
@@ -2569,12 +2570,12 @@
      </tg>
    </mg>
 </e>
-<e>
+  <e>
    <lg t1="К" t2="О" t3="Д" uri="21985-kodzlalan" id="21985">
      <l pos="Prc" type="AN">кодзлалан</l>
        <l_var type="molodtsov-cyr">коԇлалан</l_var>
    </lg>
-   <mg relId="0"><strong>кодзлалан, кодзлалана</strong><br />
+   <mg relId="0"><strong>кодзлалан, кодзлалана</strong><br/>
      <tg xml:lang="rus">
        <t>блестящий, сверкающий</t>
      </tg>
@@ -2584,7 +2585,7 @@
      </xg>
    </mg>
 </e>
-<e>
+  <e>
    <lg t1="К" t2="О" t3="Й" uri="22150-koijtan" id="22150">
      <l pos="Prc" type="AN">койтан</l>
        <l_var type="molodtsov-cyr">којтан</l_var>
@@ -2599,7 +2600,7 @@
      </xg>
    </mg>
 </e>
-<e>
+  <e>
    <lg t1="К" t2="О" t3="Л" uri="22435-koll-dan" id="22435">
      <l pos="Prc" type="AN">колльӧдан</l>
        <l_var type="molodtsov-cyr">коԉԉӧԁан</l_var>
@@ -2614,18 +2615,18 @@
      </xg>
    </mg>
 </e>
-<e>
+  <e>
    <lg t1="К" t2="О" t3="Л" uri="22562-kol-man" id="22562">
      <l pos="Prc" type="AN">кольман</l>
        <l_var type="molodtsov-cyr">коԉман</l_var>
    </lg>
    <mg relId="0"> <sg><s s_type="see">кольмӧдан</s></sg>
      <tg xml:lang="rus">
-       <t></t>
+       <t/>
      </tg>
    </mg>
 </e>
-<e>
+  <e>
    <lg t1="К" t2="О" t3="Л" uri="22613-kol-tan" id="22613">
      <l pos="Prc" type="AN">кольтан</l>
        <l_var type="molodtsov-cyr">коԉтан</l_var>
@@ -2637,29 +2638,29 @@
      <xg>
        <x>нӧк кольтан</x>
        <xt xml:lang="rus">мутовка для сбивания масла</xt>
-     </xg><br />
+     </xg><br/>
      <xg>
        <x>нянь кольтан</x>
        <xt xml:lang="rus"> мутовка для квашни</xt>
-     </xg> <sg><s s_type="seeAlso">мутӧй</s></sg><br />
+     </xg> <sg><s s_type="seeAlso">мутӧй</s></sg><br/>
      <xg>
        <x>◊ кольтан сувтӧдны позьӧ</x>
        <xt xml:lang="rus"> хоть топор вешай </xt><com>(<acronym title="буквально"><em>букв.</em></acronym> хоть мутовку ставь)</com>
      </xg>
    </mg>
 </e>
-<e>
+  <e>
    <lg t1="К" t2="О" t3="Л" uri="22659-kolyana" id="22659">
      <l pos="Prc" type="ANA">коляна</l>
        <l_var type="molodtsov-cyr">коԉана</l_var>
    </lg>
    <mg relId="0"> <sg><s s_type="see">кольысь во 2 значении</s></sg>
      <tg xml:lang="rus">
-       <t></t>
+       <t/>
      </tg>
    </mg>
 </e>
-<e>
+  <e>
    <lg t1="К" t2="О" t3="М" uri="22706-kombisyoyan" id="22706">
      <l pos="Prc" type="AN">комбисёян</l>
        <l_var type="molodtsov-cyr">комбіԍојан</l_var>
@@ -2674,7 +2675,7 @@
      </xg>
    </mg>
 </e>
-<e>
+  <e>
    <lg t1="К" t2="О" t3="Р" uri="23064-koran" id="23064">
      <l pos="Prc" type="AN">коран</l>
        <l_var type="molodtsov-cyr">коран</l_var>
@@ -2713,14 +2714,14 @@
    <mg relId="3">
      <tg xml:lang="rus">
        <t>званый</t>
-     </tg><br />
+     </tg><br/>
      <xg>
        <x>◊ коран гӧсьтлы чӧдъя рок, кортӧм гӧсьтлы кыдъя рок </x>
        <xt xml:lang="rus" src_type="saying:поговорка">званому гостю каша с черникой, непрошеному гостю каша с высевками</xt>
      </xg>
    </mg>
 </e>
-<e>
+  <e>
    <lg t1="К" t2="О" t3="Р" uri="23066-korana" id="23066">
      <l pos="Prc" type="ANA">корана</l>
        <l_var type="molodtsov-cyr">корана</l_var>
@@ -2728,11 +2729,11 @@
    <mg relId="0">
      <tg xml:lang="rus">
        <t>пригласительный</t>
-     </tg><br />
+     </tg><br/>
      <xg>
        <x>корана гижӧд </x>
        <xt xml:lang="rus"><acronym title="неологизм"><em>неол.</em></acronym> приглашение, пригласительный билет</xt>
-     </xg><br />
+     </xg><br/>
      <xg>
        <x>корана киӧн индыны</x>
        <xt xml:lang="rus">показать пригласительным жестом</xt>
@@ -2766,7 +2767,7 @@
      </xg>
    </mg>
 </e>
-<e>
+  <e>
    <lg t1="К" t2="О" t3="Р" uri="23233-korsyan-tuyalan" id="23233">
      <l pos="Prc" type="AN">корсян-туялан</l>
        <l_var type="molodtsov-cyr">корԍан-тујалан</l_var>
@@ -2781,7 +2782,7 @@
      </xg>
    </mg>
 </e>
-<e>
+  <e>
    <lg t1="К" t2="О" t3="С" uri="23354-kostavlan" id="23354">
      <l pos="Prc" type="AN">коставлан</l>
        <l_var type="molodtsov-cyr">коставлан</l_var>
@@ -2796,7 +2797,7 @@
      </xg>
    </mg>
 </e>
-<e>
+  <e>
    <lg t1="К" t2="О" t3="С" uri="23444-kos-tan" id="23444">
      <l pos="Prc" type="AN">косьтан</l>
        <l_var type="molodtsov-cyr">коԍтан</l_var>
@@ -2811,7 +2812,7 @@
      </xg>
    </mg>
 </e>
-<e>
+  <e>
    <lg t1="К" t2="О" t3="С" uri="23460-kos-tysyan" id="23460">
      <l pos="Prc" type="AN">косьтысян</l>
        <l_var type="molodtsov-cyr">коԍтыԍан</l_var>
@@ -2847,7 +2848,7 @@
      </xg>
    </mg>
 </e>
-<e>
+  <e>
    <lg t1="К" t2="О" t3="Т" uri="23550-kotralan" id="23550">
      <l pos="Prc" type="AN">котралан</l>
        <l_var type="molodtsov-cyr">котралан</l_var>
@@ -2866,7 +2867,7 @@
      </xg>
    </mg>
 </e>
-<e>
+  <e>
    <lg t1="К" t2="О" t3="Т" uri="23623-kotyrtan" id="23623">
      <l pos="Prc" type="AN">котыртан</l>
        <l_var type="molodtsov-cyr">котыртан</l_var>
@@ -2885,7 +2886,7 @@
      </xg>
    </mg>
 </e>
-<e>
+  <e>
    <lg t1="К" t2="О" t3="Ч" uri="23671-kochuijtan" id="23671">
      <l pos="Prc" type="AN">кочуйтан</l>
        <l_var type="molodtsov-cyr">кочујтан</l_var>
@@ -2900,19 +2901,19 @@
      </xg>
    </mg>
 </e>
-<e>
+  <e>
    <lg t1="К" t2="О" t3="Я" uri="23689-koyan" id="23689">
      <l pos="Prc" type="AN">коян</l>
        <l_var type="molodtsov-cyr">којан</l_var>
    </lg>
-   <mg relId="0"><span class="underline">употребляется лишь в составе выражений:</span><br />
+   <mg relId="0"><span class="underline">употребляется лишь в составе выражений:</span><br/>
      <xg>
        <x>ва коян</x>
        <xt xml:lang="rus">водоотливный черпак</xt>
      </xg>
    </mg>
 </e>
-<e>
+  <e>
    <lg t1="К" t2="Р" t3="А" uri="24661-krasitchan" id="24661">
      <l pos="Prc" type="AN">краситчан</l>
        <l_var type="molodtsov-cyr">краԍіччан</l_var>
@@ -2944,14 +2945,14 @@
      </xg>
    </mg>
 </e>
-<e>
+  <e>
    <lg t1="К" t2="Р" t3="Е" uri="24793-krestasyan" id="24793">
      <l pos="Prc" type="AN">крестасян</l>
        <l_var type="molodtsov-cyr">крестаԍан</l_var>
    </lg>
    <mg relId="0"> <sg><s s_type="see">крестасьысь</s></sg>
      <tg xml:lang="rus">
-       <t></t>
+       <t/>
      </tg>
      <xg>
        <x>крестасян чут</x>
@@ -2960,7 +2961,7 @@
      </xg>
    </mg>
 </e>
-<e>
+  <e>
    <lg t1="К" t2="Р" t3="О" uri="24864-krolikpiyan" id="24864">
      <l pos="Prc" type="AN">кроликпиян</l>
        <l_var type="molodtsov-cyr">кроԉікпіјан</l_var>
@@ -2971,7 +2972,7 @@
      </tg>
    </mg>
 </e>
-<e>
+  <e>
    <lg t1="К" t2="У" t3="В" uri="25030-kuvarkan" id="25030">
      <l pos="Prc" type="AN">куваркан</l>
        <l_var type="molodtsov-cyr">куваркан</l_var> <rg><r range_space="dialect"/></rg>
@@ -2982,7 +2983,7 @@
      </tg>
    </mg>
 </e>
-<e>
+  <e>
    <lg t1="К" t2="У" t3="Д" uri="25094-kudz-dan" id="25094">
      <l pos="Prc" type="AN">кудзӧдан</l>
        <l_var type="molodtsov-cyr">куԇӧԁан</l_var>
@@ -2997,7 +2998,7 @@
      </xg>
    </mg>
 </e>
-<e>
+  <e>
    <lg t1="К" t2="У" t3="З" uri="25191-kuz-chysh-yan" id="25191">
      <l pos="Prc" type="AN">кузьчышъян</l>
        <l_var type="molodtsov-cyr">куԅчышјан</l_var>
@@ -3016,7 +3017,7 @@
      </xg>
    </mg>
 </e>
-<e>
+  <e>
    <lg t1="К" t2="У" t3="И" uri="25218-kuimnan" id="25218">
      <l pos="Prc" type="AN">куимнан</l>
        <l_var type="molodtsov-cyr">куімнан</l_var>
@@ -3051,12 +3052,12 @@
      </xg>
    </mg>
 </e>
-<e>
+  <e>
    <lg t1="К" t2="У" t3="Й" uri="25232-kuijlan" id="25232">
      <l pos="Prc" type="AN">куйлан</l>
        <l_var type="molodtsov-cyr">кујлан</l_var>
    </lg>
-   <mg relId="0"><strong>куйлан, куйлана</strong><br />
+   <mg relId="0"><strong>куйлан, куйлана</strong><br/>
      <tg xml:lang="rus">
        <t pos="Prc" type="ANA">1. лежащий; лежачий; лежалый</t>
      </tg>
@@ -3087,12 +3088,12 @@
      </xg>
    </mg>
 </e>
-<e>
+  <e>
    <lg t1="К" t2="У" t3="Й" uri="25234-kuijlana" id="25234">
      <l pos="Prc" type="ANA">куйлана</l>
        <l_var type="molodtsov-cyr">кујлана</l_var>
    </lg>
-   <mg relId="0"><strong>куйлана, куйлан</strong><br />
+   <mg relId="0"><strong>куйлана, куйлан</strong><br/>
      <tg xml:lang="rus">
        <t pos="Prc" type="ANA">1. лежащий; лежачий; лежалый</t>
      </tg>
@@ -3123,7 +3124,7 @@
      </xg>
    </mg>
 </e>
-<e>
+  <e>
    <lg t1="К" t2="У" t3="Л" uri="25342-kulan" id="25342">
      <l pos="Prc" type="AN">кулан</l>
        <l_var type="molodtsov-cyr">кулан</l_var>
@@ -3158,14 +3159,14 @@
      </xg>
    </mg>
 </e>
-<e>
+  <e>
    <lg t1="К" t2="У" t3="Л" uri="25364-kulitan" id="25364">
      <l pos="Prc" type="AN">кулитан</l>
        <l_var type="molodtsov-cyr">куԉітан</l_var>
    </lg>
-   <mg relId="0"><strong>кулитан, кулитана</strong><br />
+   <mg relId="0"><strong>кулитан, кулитана</strong><br/>
      <tg xml:lang="rus">
-       <t pos="Prc" type="ANA"> нелестный; неодобрительный</t>
+       <t pos="Prc" type="ANA">нелестный; неодобрительный</t>
      </tg>
      <xg>
        <x>кулитан кывъяс</x>
@@ -3173,14 +3174,14 @@
      </xg>
    </mg>
 </e>
-<e>
+  <e>
    <lg t1="К" t2="У" t3="Л" uri="25365-kulitana" id="25365">
      <l pos="Prc" type="ANA">кулитана</l>
        <l_var type="molodtsov-cyr">куԉітана</l_var>
    </lg>
-   <mg relId="0"><strong>кулитана, кулитан</strong><br />
+   <mg relId="0"><strong>кулитана, кулитан</strong><br/>
      <tg xml:lang="rus">
-       <t pos="Prc" type="ANA"> нелестный; неодобрительный</t>
+       <t pos="Prc" type="ANA">нелестный; неодобрительный</t>
      </tg>
      <xg>
        <x>кулитана кывъяс</x>
@@ -3188,7 +3189,7 @@
      </xg>
    </mg>
 </e>
-<e>
+  <e>
    <lg t1="К" t2="У" t3="Р" uri="25577-kurasyan" id="25577">
      <l pos="Prc" type="AN">курасян</l>
        <l_var type="molodtsov-cyr">кураԍан</l_var>
@@ -3203,12 +3204,12 @@
      </xg>
    </mg>
 </e>
-<e>
+  <e>
    <lg t1="К" t2="У" t3="Р" uri="25588-kurd-dan" id="25588">
      <l pos="Prc" type="AN">курдӧдан</l>
        <l_var type="molodtsov-cyr">курԁӧԁан</l_var>
    </lg>
-   <mg relId="0"><strong>курдӧдан, курдӧдана</strong><br />
+   <mg relId="0"><strong>курдӧдан, курдӧдана</strong><br/>
      <tg xml:lang="rus">
        <t pos="Prc" type="ANA">1. разъедающий, щиплющий</t>
      </tg>
@@ -3227,12 +3228,12 @@
      </xg>
    </mg>
 </e>
-<e>
+  <e>
    <lg t1="К" t2="У" t3="Р" uri="25589-kurd-dana" id="25589">
      <l pos="Prc" type="ANA">курдӧдана</l>
        <l_var type="molodtsov-cyr">курԁӧԁана</l_var>
    </lg>
-   <mg relId="0"><strong>курдӧдана, курдӧдан</strong><br />
+   <mg relId="0"><strong>курдӧдана, курдӧдан</strong><br/>
      <tg xml:lang="rus">
        <t pos="Prc" type="ANA">1. разъедающий, щиплющий</t>
      </tg>
@@ -3251,29 +3252,29 @@
      </xg>
    </mg>
 </e>
-<e>
+  <e>
    <lg t1="К" t2="У" t3="Р" uri="25607-kurz-dan" id="25607">
      <l pos="Prc" type="AN">курзьӧдан</l>
        <l_var type="molodtsov-cyr">курԅӧԁан</l_var>
    </lg>
-   <mg relId="0"><strong>курзьӧдан, курзьӧдана</strong><br />
+   <mg relId="0"><strong>курзьӧдан, курзьӧдана</strong><br/>
      <tg xml:lang="rus">
-       <t pos="Prc" type="ANA"> </t>
+       <t pos="Prc" type="ANA"></t>
      </tg> <sg><s s_type="see">курдӧдан</s></sg>
    </mg>
 </e>
-<e>
+  <e>
    <lg t1="К" t2="У" t3="Р" uri="25610-kurz-dana" id="25610">
      <l pos="Prc" type="ANA">курзьӧдана</l>
        <l_var type="molodtsov-cyr">курԅӧԁана</l_var>
    </lg>
-   <mg relId="0"><strong>курзьӧдана, курзьӧдан</strong><br />
+   <mg relId="0"><strong>курзьӧдана, курзьӧдан</strong><br/>
      <tg xml:lang="rus">
-       <t pos="Prc" type="ANA"> </t>
+       <t pos="Prc" type="ANA"></t>
      </tg> <sg><s s_type="see">курдӧдан</s></sg>
    </mg>
 </e>
-<e>
+  <e>
    <lg t1="К" t2="У" t3="Р" uri="25617-kuritan" id="25617">
      <l pos="Prc" type="AN">куритан</l>
        <l_var type="molodtsov-cyr">курітан</l_var>
@@ -3284,7 +3285,7 @@
      </tg>
    </mg>
 </e>
-<e>
+  <e>
    <lg t1="К" t2="У" t3="Р" uri="25721-kurchchalan" id="25721">
      <l pos="Prc" type="AN">курччалан</l>
        <l_var type="molodtsov-cyr">курччалан</l_var>
@@ -3299,7 +3300,7 @@
      </xg>
    </mg>
 </e>
-<e>
+  <e>
    <lg t1="К" t2="У" t3="Р" uri="25731-kurchchasyan" id="25731">
      <l pos="Prc" type="AN">курччасян</l>
        <l_var type="molodtsov-cyr">курччаԍан</l_var>
@@ -3323,29 +3324,29 @@
      </xg>
    </mg>
 </e>
-<e>
+  <e>
    <lg t1="К" t2="У" t3="Р" uri="25671-kur-dan" id="25671">
      <l pos="Prc" type="AN">курӧдан</l>
        <l_var type="molodtsov-cyr">курӧԁан</l_var>
    </lg>
-   <mg relId="0"><strong>курӧдан, курӧдана</strong><br /> <sg><s s_type="see">курдӧдан</s></sg>
+   <mg relId="0"><strong>курӧдан, курӧдана</strong><br/> <sg><s s_type="see">курдӧдан</s></sg>
      <tg xml:lang="rus">
-       <t></t>
+       <t/>
      </tg>
    </mg>
 </e>
-<e>
+  <e>
    <lg t1="К" t2="У" t3="Р" uri="25672-kur-dana" id="25672">
      <l pos="Prc" type="ANA">курӧдана</l>
        <l_var type="molodtsov-cyr">курӧԁана</l_var>
    </lg>
-   <mg relId="0"><strong>курӧдана, курӧдан</strong><br /> <sg><s s_type="see">курдӧдан</s></sg>
+   <mg relId="0"><strong>курӧдана, курӧдан</strong><br/> <sg><s s_type="see">курдӧдан</s></sg>
      <tg xml:lang="rus">
-       <t></t>
+       <t/>
      </tg>
    </mg>
 </e>
-<e>
+  <e>
    <lg t1="К" t2="У" t3="С" uri="25811-kusnyasyan" id="25811">
      <l pos="Prc" type="AN">куснясян</l>
        <l_var type="molodtsov-cyr">кусԋаԍан</l_var>
@@ -3377,7 +3378,7 @@
      </xg>
    </mg>
 </e>
-<e>
+  <e>
    <lg t1="К" t2="У" t3="Т" uri="25882-kutan" id="25882">
      <l pos="Prc" type="AN">кутан</l>
        <l_var type="molodtsov-cyr">кутан</l_var>
@@ -3403,14 +3404,14 @@
    <mg relId="2">
      <tg xml:lang="rus">
        <t>скрепление || скреплённый</t>
-     </tg><br />
+     </tg><br/>
      <xg>
        <x>◊ кутан ни сетан абу</x>
        <xt xml:lang="rus"> очень худой </xt><com>(<acronym title="буквально"><em>букв.</em></acronym> ни дать, ни взять)</com>
      </xg>
    </mg>
 </e>
-<e>
+  <e>
    <lg t1="К" t2="У" t3="Т" uri="25884-kutana" id="25884">
      <l pos="Prc" type="ANA">кутана</l>
        <l_var type="molodtsov-cyr">кутана</l_var>
@@ -3429,12 +3430,12 @@
      </xg>
    </mg>
 </e>
-<e>
+  <e>
    <lg t1="К" t2="У" t3="Т" uri="25957-kutchysyan" id="25957">
      <l pos="Prc" type="AN">кутчысян</l>
        <l_var type="molodtsov-cyr">куччыԍан</l_var>
    </lg>
-   <mg relId="0"><strong>куччысян, кутчысяна</strong><br />
+   <mg relId="0"><strong>куччысян, кутчысяна</strong><br/>
      <tg xml:lang="rus">
        <t pos="Prc" type="ANA">1. </t>
      </tg> <sg><s s_type="see">кутчысьысь</s></sg>
@@ -3450,12 +3451,12 @@
      </xg>
    </mg>
 </e>
-<e>
+  <e>
    <lg t1="К" t2="У" t3="Т" uri="25959-kutchysyana" id="25959">
      <l pos="Prc" type="ANA">кутчысяна</l>
        <l_var type="molodtsov-cyr">куччыԍана</l_var>
    </lg>
-   <mg relId="0"><strong>кутчысяна, кутчысян</strong><br />
+   <mg relId="0"><strong>кутчысяна, кутчысян</strong><br/>
      <tg xml:lang="rus">
        <t pos="Prc" type="ANA">1. </t>
      </tg> <sg><s s_type="see">кутчысьысь</s></sg>
@@ -3471,7 +3472,7 @@
      </xg>
    </mg>
 </e>
-<e>
+  <e>
    <lg t1="К" t2="У" t3="Ш" uri="26102-kushtana" id="26102">
      <l pos="Prc" type="ANA">куштана</l>
        <l_var type="molodtsov-cyr">куштана</l_var>
@@ -3486,19 +3487,19 @@
      </xg>
    </mg>
 </e>
-<e>
+  <e>
    <lg t1="К" t2="Ы" t3="В" uri="26203-kyvzysyana" id="26203">
      <l pos="Prc" type="ANA">кывзысяна</l>
        <l_var type="molodtsov-cyr">кывзыԍана</l_var>
    </lg>
    <mg relId="0"> <sg><s s_type="see">кывзысьӧмӧн</s></sg>
      <tg xml:lang="rus">
-       <t></t>
+       <t/>
      </tg>
    </mg>
    <mg relId="1"> <sg><s s_type="see">кывзысьысь в 1 значении</s></sg>
      <tg xml:lang="rus">
-       <t></t>
+       <t/>
      </tg>
      <xg>
        <x>кывзысяна сьӧлӧм</x>
@@ -3506,7 +3507,7 @@
      </xg>
    </mg>
 </e>
-<e>
+  <e>
    <lg t1="К" t2="Ы" t3="В" uri="26221-kyvkutana" id="26221">
      <l pos="Prc" type="ANA">кывкутана</l>
        <l_var type="molodtsov-cyr">кывкутана</l_var>
@@ -3521,7 +3522,7 @@
      </xg>
    </mg>
 </e>
-<e>
+  <e>
    <lg t1="К" t2="Ы" t3="В" uri="26214-kyvk-rtalana" id="26214">
      <l pos="Prc" type="ANA">кывкӧрталана</l>
        <l_var type="molodtsov-cyr">кывкӧрталана</l_var>
@@ -3540,40 +3541,40 @@
      </xg>
    </mg>
 </e>
-<e>
+  <e>
    <lg t1="К" t2="Ы" t3="В" uri="26274-kyvpesan" id="26274">
      <l pos="Prc" type="AN">кывпесан</l>
        <l_var type="molodtsov-cyr">кывпесан</l_var>
    </lg>
    <mg relId="0"> <sg><s s_type="see">кывберт</s></sg>
      <tg xml:lang="rus">
-       <t></t>
+       <t/>
      </tg>
    </mg>
 </e>
-<e>
+  <e>
    <lg t1="К" t2="Ы" t3="В" uri="26286-kyvsyan" id="26286">
      <l pos="Prc" type="AN">кывсян</l>
        <l_var type="molodtsov-cyr">кывԍан</l_var>
    </lg>
    <mg relId="0"> <sg><s s_type="see">кывсьысь</s></sg>
      <tg xml:lang="rus">
-       <t></t>
+       <t/>
      </tg>
    </mg>
 </e>
-<e>
+  <e>
    <lg t1="К" t2="Ы" t3="Д" uri="26358-kydzi-olan-vylan" id="26358">
      <l pos="Prc" type="AN">кыдзи олан-вылан</l>
        <l_var type="molodtsov-cyr">кыԇі олан-вылан</l_var>
    </lg>
-   <mg relId="0"><strong>кыдзи олан-вылан?</strong><br />
+   <mg relId="0"><strong>кыдзи олан-вылан?</strong><br/>
      <tg xml:lang="rus">
        <t>как поживаешь?</t>
      </tg>
    </mg>
 </e>
-<e>
+  <e>
    <lg t1="К" t2="Ы" t3="Й" uri="26500-kyij-dchan" id="26500">
      <l pos="Prc" type="AN">кыйӧдчан</l>
        <l_var type="molodtsov-cyr">кыјӧччан</l_var>
@@ -3597,7 +3598,7 @@
      </xg>
    </mg>
 </e>
-<e>
+  <e>
    <lg t1="К" t2="Ы" t3="К" uri="26554-kykalana" id="26554">
      <l pos="Prc" type="ANA">кыкалана</l>
        <l_var type="molodtsov-cyr">кыкалана</l_var>
@@ -3612,7 +3613,7 @@
      </xg>
    </mg>
 </e>
-<e>
+  <e>
    <lg t1="К" t2="Ы" t3="К" uri="26580-kyknan" id="26580">
      <l pos="Prc" type="AN">кыкнан</l>
        <l_var type="molodtsov-cyr">кыкнан</l_var>
@@ -3636,18 +3637,18 @@
      <xg>
        <x>кыкнан моньыс бурӧсь</x>
        <xt xml:lang="rus">обе невестки хорошие</xt>
-     </xg><br />
+     </xg><br/>
      <xg>
        <x>◊ кыкнан киӧн кырымасьны</x>
        <xt xml:lang="rus"> соглашаться </xt><com>(<acronym title="буквально"><em>букв.</em></acronym> подписаться обеими руками)</com>
-     </xg><br />
+     </xg><br/>
      <xg>
        <x>◊ кыкнан киӧн пасъясьны</x>
        <xt xml:lang="rus">молиться обеими руками (от радости)</xt>
      </xg>
    </mg>
 </e>
-<e>
+  <e>
    <lg t1="К" t2="Ы" t3="Л" uri="26635-kylana" id="26635">
      <l pos="Prc" type="ANA">кылана</l>
        <l_var type="molodtsov-cyr">кылана</l_var>
@@ -3684,7 +3685,7 @@
      </xg>
    </mg>
 </e>
-<e>
+  <e>
    <lg t1="К" t2="Ы" t3="Л" uri="26645-kyl-dan" id="26645">
      <l pos="Prc" type="AN">кылӧдан</l>
        <l_var type="molodtsov-cyr">кылӧԁан</l_var>
@@ -3699,7 +3700,7 @@
      </xg>
    </mg>
 </e>
-<e>
+  <e>
    <lg t1="К" t2="Ы" t3="П" uri="26863-kyp-dan" id="26863">
      <l pos="Prc" type="AN">кыпӧдан</l>
        <l_var type="molodtsov-cyr">кыпӧԁан</l_var>
@@ -3714,7 +3715,7 @@
      </xg>
    </mg>
 </e>
-<e>
+  <e>
    <lg t1="К" t2="Ы" t3="Р" uri="26978-kyrss-ysyan" id="26978">
      <l pos="Prc" type="AN">кырссьысян</l>
        <l_var type="molodtsov-cyr">кырԍԍыԍан</l_var>
@@ -3725,14 +3726,14 @@
      </tg>
    </mg>
 </e>
-<e>
+  <e>
    <lg t1="К" t2="Ы" t3="С" uri="27049-kyskan" id="27049">
      <l pos="Prc" type="AN">кыскан</l>
        <l_var type="molodtsov-cyr">кыскан</l_var>
    </lg>
    <mg relId="0"> <sg><s s_type="see">кыскалан</s></sg>
      <tg xml:lang="rus">
-       <t></t>
+       <t/>
      </tg>
      <xg>
        <x>ва кыскан трубаяс</x>
@@ -3753,7 +3754,7 @@
      </xg>
    </mg>
 </e>
-<e>
+  <e>
    <lg t1="К" t2="Ы" t3="С" uri="27061-kyskasyan" id="27061">
      <l pos="Prc" type="AN">кыскасян</l>
        <l_var type="molodtsov-cyr">кыскаԍан</l_var>
@@ -3769,7 +3770,7 @@
    </mg>
    <mg relId="1"> <sg><s s_type="see">кыскысян</s></sg>
      <tg xml:lang="rus">
-       <t></t>
+       <t/>
      </tg>
      <xg>
        <x>кык кыскысяна йӧра пызан</x>
@@ -3778,7 +3779,7 @@
    </mg>
    <mg relId="2"> <sg><s s_type="see">кыскалан</s></sg>
      <tg xml:lang="rus">
-       <t></t>
+       <t/>
      </tg>
      <xg>
        <x>кыскасян туйяс</x>
@@ -3786,7 +3787,7 @@
      </xg>
    </mg>
 </e>
-<e>
+  <e>
    <lg t1="К" t2="Ы" t3="С" uri="27125-kysyan" id="27125">
      <l pos="Prc" type="AN">кысян</l>
        <l_var type="molodtsov-cyr">кыԍан</l_var>
@@ -3809,7 +3810,7 @@
      </xg>
    </mg>
 </e>
-<e>
+  <e>
    <lg t1="К" t2="Ы" t3="С" uri="27126-kysyana" id="27126">
      <l pos="Prc" type="ANA">кысяна</l>
        <l_var type="molodtsov-cyr">кыԍана</l_var>
@@ -3824,7 +3825,7 @@
      </xg>
    </mg>
 </e>
-<e>
+  <e>
    <lg t1="К" t2="Ы" t3="Т" uri="27203-kytshl-dlan" id="27203">
      <l pos="Prc" type="AN">кытшлӧдлан</l>
        <l_var type="molodtsov-cyr">кыщлӧԁлан</l_var>
@@ -3839,29 +3840,29 @@
      </xg>
    </mg>
 </e>
-<e>
+  <e>
    <lg t1="К" t2="Ы" t3="Т" uri="27204-kytshl-dlana" id="27204">
      <l pos="Prc" type="ANA">кытшлӧдлана</l>
        <l_var type="molodtsov-cyr">кыщлӧԁлана</l_var>
    </lg>
-   <mg relId="0"><strong>кытшлӧдлана, кытшлӧдланаа</strong><br /> <sg><s s_type="see">кытшлӧдлӧмӧн во 2 значении</s></sg>
+   <mg relId="0"><strong>кытшлӧдлана, кытшлӧдланаа</strong><br/> <sg><s s_type="see">кытшлӧдлӧмӧн во 2 значении</s></sg>
      <tg xml:lang="rus">
-       <t></t>
+       <t/>
      </tg>
    </mg>
 </e>
-<e>
+  <e>
    <lg t1="К" t2="Ы" t3="Ш" uri="27279-kyshan" id="27279">
      <l pos="Prc" type="AN">кышан</l>
        <l_var type="molodtsov-cyr">кышан</l_var> <rg><r range_space="dialect"/></rg>
    </lg>
    <mg relId="0"> <sg><s s_type="see">кышӧд</s></sg>
      <tg xml:lang="rus">
-       <t></t>
+       <t/>
      </tg>
    </mg>
 </e>
-<e>
+  <e>
    <lg t1="К" t2="Ы" t3="Я" uri="27345-kyyan-vian" id="27345">
      <l pos="Prc" type="AN">кыян-виан</l>
        <l_var type="molodtsov-cyr">кыјан-віан</l_var>
@@ -3876,7 +3877,7 @@
      </xg>
    </mg>
 </e>
-<e>
+  <e>
    <lg t1="К" t2="Ӧ" t3="Д" uri="23778-k-dzan" id="23778">
      <l pos="Prc" type="AN">кӧдзан</l>
        <l_var type="molodtsov-cyr">кӧԇан</l_var>
@@ -3907,7 +3908,7 @@
      </xg>
    </mg>
 </e>
-<e>
+  <e>
    <lg t1="К" t2="Ӧ" t3="Д" uri="23801-k-dz-dchan" id="23801">
      <l pos="Prc" type="AN">кӧдзӧдчан</l>
        <l_var type="molodtsov-cyr">кӧԇӧччан</l_var>
@@ -3926,7 +3927,7 @@
      </xg>
    </mg>
 </e>
-<e>
+  <e>
    <lg t1="К" t2="Ӧ" t3="З" uri="23868-k-zapiyan" id="23868">
      <l pos="Prc" type="AN">кӧзапиян</l>
        <l_var type="molodtsov-cyr">кӧзапіјан</l_var>
@@ -3937,7 +3938,7 @@
      </tg>
    </mg>
 </e>
-<e>
+  <e>
    <lg t1="К" t2="Ӧ" t3="Й" uri="23958-k-ijyalan" id="23958">
      <l pos="Prc" type="AN">кӧйялан</l>
        <l_var type="molodtsov-cyr">кӧјјалан</l_var>
@@ -3952,7 +3953,7 @@
      </xg>
    </mg>
 </e>
-<e>
+  <e>
    <lg t1="К" t2="Ӧ" t3="Р" uri="24274-k-rpitana" id="24274">
      <l pos="Prc" type="ANA">кӧрпитана</l>
        <l_var type="molodtsov-cyr">кӧрпітана</l_var>
@@ -3967,7 +3968,7 @@
      </xg>
    </mg>
 </e>
-<e>
+  <e>
    <lg t1="К" t2="Ӧ" t3="Р" uri="24303-k-rtasyan" id="24303">
      <l pos="Prc" type="AN">кӧртасян</l>
        <l_var type="molodtsov-cyr">кӧртаԍан</l_var>
@@ -3991,7 +3992,7 @@
      </xg>
    </mg>
 </e>
-<e>
+  <e>
    <lg t1="К" t2="Ӧ" t3="С" uri="24421-k-sijysyana" id="24421">
      <l pos="Prc" type="ANA">кӧсйысяна</l>
        <l_var type="molodtsov-cyr">кӧсјыԍана</l_var>
@@ -4014,7 +4015,7 @@
      </xg>
    </mg>
 </e>
-<e>
+  <e>
    <lg t1="К" t2="Ӧ" t3="С" uri="24459-k-s-yana" id="24459">
      <l pos="Prc" type="ANA">кӧсъяна</l>
        <l_var type="molodtsov-cyr">кӧсјана</l_var>
@@ -4029,7 +4030,7 @@
      </xg>
    </mg>
 </e>
-<e>
+  <e>
    <lg t1="К" t2="Ӧ" t3="Т" uri="24483-k-tan" id="24483">
      <l pos="Prc" type="AN">кӧтан</l>
        <l_var type="molodtsov-cyr">кӧтан</l_var>
@@ -4048,7 +4049,7 @@
      </xg>
    </mg>
 </e>
-<e>
+  <e>
    <lg t1="К" t2="Ӧ" t3="Т" uri="24514-k-t-dchan" id="24514">
      <l pos="Prc" type="AN">кӧтӧдчан</l>
        <l_var type="molodtsov-cyr">кӧтӧччан</l_var>
@@ -4067,7 +4068,7 @@
      </xg>
    </mg>
 </e>
-<e>
+  <e>
    <lg t1="К" t2="Ӧ" t3="Ч" uri="24541-k-chana" id="24541">
      <l pos="Prc" type="ANA">кӧчана</l>
        <l_var type="molodtsov-cyr">кӧчана</l_var>
@@ -4090,7 +4091,7 @@
      </xg>
    </mg>
 </e>
-<e>
+  <e>
    <lg t1="К" t2="Ӧ" t3="Ч" uri="24554-k-chpiyan" id="24554">
      <l pos="Prc" type="AN">кӧчпиян</l>
        <l_var type="molodtsov-cyr">кӧчпіјан</l_var>
@@ -4101,7 +4102,7 @@
      </tg>
    </mg>
 </e>
-<e>
+  <e>
    <lg t1="К" t2="Ӧ" t3="Ш" uri="24578-k-shtan" id="24578">
      <l pos="Prc" type="AN">кӧштан</l>
        <l_var type="molodtsov-cyr">кӧштан</l_var> <rg><r range_space="dialect"/></rg>
@@ -4112,7 +4113,7 @@
      </tg>
    </mg>
 </e>
-<e>
+  <e>
    <lg t1="Л" t2="Е" t3="С" uri="27981-lestitchana" id="27981">
      <l pos="Prc" type="ANA">леститчана</l>
        <l_var type="molodtsov-cyr">ԉеԍԏіччана</l_var>
@@ -4135,18 +4136,18 @@
      </xg>
    </mg>
 </e>
-<e>
+  <e>
    <lg t1="Л" t2="О" t3="А" uri="28530-loan" id="28530">
      <l pos="Prc" type="AN">лоан</l>
        <l_var type="molodtsov-cyr">лоан</l_var>
    </lg>
    <mg relId="0"> <sg><s s_type="see">лоана</s></sg>
      <tg xml:lang="rus">
-       <t></t>
+       <t/>
      </tg>
    </mg>
 </e>
-<e>
+  <e>
    <lg t1="Л" t2="О" t3="В" uri="28558-lovz-dan" id="28558">
      <l pos="Prc" type="AN">ловзьӧдан</l>
        <l_var type="molodtsov-cyr">ловԅӧԁан</l_var>
@@ -4165,7 +4166,7 @@
      </xg>
    </mg>
 </e>
-<e>
+  <e>
    <lg t1="Л" t2="О" t3="М" uri="28707-lomzyan" id="28707">
      <l pos="Prc" type="AN">ломзян</l>
        <l_var type="molodtsov-cyr">ломԅан</l_var>
@@ -4184,12 +4185,12 @@
      </xg>
    </mg>
 </e>
-<e>
+  <e>
    <lg t1="Л" t2="О" t3="М" uri="28736-lomtysyan" id="28736">
      <l pos="Prc" type="AN">ломтысян</l>
        <l_var type="molodtsov-cyr">ломтыԍан</l_var>
    </lg>
-   <mg relId="0"><span class="underline">употребляется лишь в составе выражений:</span><br />
+   <mg relId="0"><span class="underline">употребляется лишь в составе выражений:</span><br/>
      <xg>
        <x>ломтысян пес</x>
        <xt xml:lang="rus">хорошо горящие дрова</xt>
@@ -4200,7 +4201,7 @@
      </xg>
    </mg>
 </e>
-<e>
+  <e>
    <lg t1="Л" t2="Ы" t3="В" uri="29405-lyvkij-dlan" id="29405">
      <l pos="Prc" type="AN">лывкйӧдлан</l>
        <l_var type="molodtsov-cyr">лывкјӧԁлан</l_var>
@@ -4215,7 +4216,7 @@
      </xg>
    </mg>
 </e>
-<e>
+  <e>
    <lg t1="Л" t2="Ы" t3="Й" uri="29524-lyijsyan" id="29524">
      <l pos="Prc" type="AN">лыйсян</l>
        <l_var type="molodtsov-cyr">лыјԍан</l_var>
@@ -4248,7 +4249,7 @@
      </xg>
    </mg>
 </e>
-<e>
+  <e>
    <lg t1="Л" t2="Э" t3="Б" uri="29735-lebachpiyan" id="29735">
      <l pos="Prc" type="AN">лэбачпиян</l>
        <l_var type="molodtsov-cyr">лебачпіјан</l_var>
@@ -4259,7 +4260,7 @@
      </tg>
    </mg>
 </e>
-<e>
+  <e>
    <lg t1="Л" t2="Э" t3="Б" uri="29744-lebzyan" id="29744">
      <l pos="Prc" type="AN">лэбзян</l>
        <l_var type="molodtsov-cyr">лебԅан</l_var>
@@ -4274,7 +4275,7 @@
      </xg>
    </mg>
 </e>
-<e>
+  <e>
    <lg t1="Л" t2="Ӧ" t3="Д" uri="28864-l-dan" id="28864">
      <l pos="Prc" type="AN">лӧдан</l>
        <l_var type="molodtsov-cyr">лӧԁан</l_var>
@@ -4298,7 +4299,7 @@
      </xg>
    </mg>
 </e>
-<e>
+  <e>
    <lg t1="Л" t2="Ӧ" t3="Н" uri="28985-l-n-dana" id="28985">
      <l pos="Prc" type="ANA">лӧньӧдана</l>
        <l_var type="molodtsov-cyr">лӧԋӧԁана</l_var>
@@ -4317,7 +4318,7 @@
      </xg>
    </mg>
 </e>
-<e>
+  <e>
    <lg t1="Л" t2="Ӧ" t3="С" uri="29069-l-stalan" id="29069">
      <l pos="Prc" type="AN">лӧсталан</l>
        <l_var type="molodtsov-cyr">лӧсталан</l_var>
@@ -4354,19 +4355,19 @@
      </xg>
    </mg>
 </e>
-<e>
+  <e>
    <lg t1="Л" t2="Ӧ" t3="С" uri="29070-l-stalana" id="29070">
      <l pos="Prc" type="ANA">лӧсталана</l>
        <l_var type="molodtsov-cyr">лӧсталана</l_var>
    </lg>
-   <mg relId="0"><span class="underline">употребляется лишь в составе выражений:</span><br />
+   <mg relId="0"><span class="underline">употребляется лишь в составе выражений:</span><br/>
      <xg>
        <x>лӧсталана выйӧдз</x>
        <xt xml:lang="rus">до блеска</xt>
      </xg>
    </mg>
 </e>
-<e>
+  <e>
    <lg t1="Л" t2="Ӧ" t3="С" uri="29159-l-syalan" id="29159">
      <l pos="Prc" type="AN">лӧсялан</l>
        <l_var type="molodtsov-cyr">лӧԍалан</l_var>
@@ -4403,7 +4404,7 @@
      </xg>
    </mg>
 </e>
-<e>
+  <e>
    <lg t1="Л" t2="Ӧ" t3="С" uri="29160-l-syalana" id="29160">
      <l pos="Prc" type="ANA">лӧсялана</l>
        <l_var type="molodtsov-cyr">лӧԍалана</l_var>
@@ -4418,7 +4419,7 @@
      </xg>
    </mg>
 </e>
-<e>
+  <e>
    <lg t1="М" t2="А" t3="В" uri="30379-mavtan" id="30379">
      <l pos="Prc" type="AN">мавтан</l>
        <l_var type="molodtsov-cyr">мавтан</l_var>
@@ -4429,7 +4430,7 @@
      </tg>
    </mg>
 </e>
-<e>
+  <e>
    <lg t1="М" t2="А" t3="В" uri="30399-mavtchan" id="30399">
      <l pos="Prc" type="AN">мавтчан</l>
        <l_var type="molodtsov-cyr">мавччан</l_var>
@@ -4452,7 +4453,7 @@
      </xg>
    </mg>
 </e>
-<e>
+  <e>
    <lg t1="М" t2="А" t3="И" uri="30447-maitchan" id="30447">
      <l pos="Prc" type="AN">маитчан</l>
        <l_var type="molodtsov-cyr">маіччан</l_var>
@@ -4467,7 +4468,7 @@
      </xg>
    </mg>
 </e>
-<e>
+  <e>
    <lg t1="М" t2="А" t3="Й" uri="30464-maijkan" id="30464">
      <l pos="Prc" type="AN">майкан</l>
        <l_var type="molodtsov-cyr">мајкан</l_var> <rg><r range_space="dialect"/></rg>
@@ -4482,7 +4483,7 @@
      </xg>
    </mg>
 </e>
-<e>
+  <e>
    <lg t1="М" t2="А" t3="Й" uri="30508-maijshasyana" id="30508">
      <l pos="Prc" type="ANA">майшасяна</l>
        <l_var type="molodtsov-cyr">мајшаԍана</l_var>
@@ -4510,7 +4511,7 @@
      </tg>
    </mg>
 </e>
-<e>
+  <e>
    <lg t1="М" t2="А" t3="Й" uri="30511-maijsh-dlan" id="30511">
      <l pos="Prc" type="AN">майшӧдлан</l>
        <l_var type="molodtsov-cyr">мајшӧԁлан</l_var>
@@ -4529,7 +4530,7 @@
      </xg>
    </mg>
 </e>
-<e>
+  <e>
    <lg t1="М" t2="А" t3="Й" uri="30515-maijyshtan" id="30515">
      <l pos="Prc" type="AN">майыштан</l>
        <l_var type="molodtsov-cyr">мајыштан</l_var>
@@ -4544,7 +4545,7 @@
      </xg>
    </mg>
 </e>
-<e>
+  <e>
    <lg t1="М" t2="А" t3="Н" uri="30654-manitchan" id="30654">
      <l pos="Prc" type="AN">манитчан</l>
        <l_var type="molodtsov-cyr">маԋіччан</l_var>
@@ -4555,22 +4556,22 @@
      </tg>
    </mg>
 </e>
-<e>
+  <e>
    <lg t1="М" t2="А" t3="Т" uri="30902-matystchan" id="30902">
      <l pos="Prc" type="AN">матыстчан</l>
        <l_var type="molodtsov-cyr">матысчан</l_var>
    </lg>
    <mg relId="0" domain="grammar">
      <tg xml:lang="rus">
-       <t></t>
-     </tg><br /><span class="underline">употребляется лишь в составе выражений:</span><br />
+       <t/>
+     </tg><br/><span class="underline">употребляется лишь в составе выражений:</span><br/>
      <xg>
        <x>матыстчан падеж</x>
        <xt xml:lang="rus">приблизительный падеж</xt>
      </xg>
    </mg>
 </e>
-<e>
+  <e>
    <lg t1="М" t2="А" t3="Т" uri="30911-mat-kan" id="30911">
      <l pos="Prc" type="AN">матькан</l>
        <l_var type="molodtsov-cyr">маԏкан</l_var>
@@ -4585,23 +4586,23 @@
      </xg>
    </mg>
 </e>
-<e>
+  <e>
    <lg t1="М" t2="А" t3="Т" uri="30919-mat-kysyan" id="30919">
      <l pos="Prc" type="AN">матькысян</l>
        <l_var type="molodtsov-cyr">маԏкыԍан</l_var>
    </lg>
    <mg relId="0"> <sg><s s_type="see">матькан</s></sg>
      <tg xml:lang="rus">
-       <t></t>
+       <t/>
      </tg>
    </mg>
 </e>
-<e>
+  <e>
    <lg t1="М" t2="Е" t3="Д" uri="31113-medkolana" id="31113">
      <l pos="Prc" type="ANA">медколана</l>
        <l_var type="molodtsov-cyr">метколана</l_var>
    </lg>
-   <mg relId="0"><strong>медколана, медколан</strong><br />
+   <mg relId="0"><strong>медколана, медколан</strong><br/>
      <tg xml:lang="rus">
        <t>самый нужный</t>
      </tg>
@@ -4615,7 +4616,7 @@
      </xg>
    </mg>
 </e>
-<e>
+  <e>
    <lg t1="М" t2="Е" t3="З" uri="31296-mezdysyan" id="31296">
      <l pos="Prc" type="AN">мездысян</l>
        <l_var type="molodtsov-cyr">мезԁыԍан</l_var>
@@ -4639,7 +4640,7 @@
      </xg>
    </mg>
 </e>
-<e>
+  <e>
    <lg t1="М" t2="Е" t3="Р" uri="31404-meraijtchan" id="31404">
      <l pos="Prc" type="AN">мерайтчан</l>
        <l_var type="molodtsov-cyr">мерајччан</l_var>
@@ -4658,14 +4659,14 @@
      </xg>
    </mg>
 </e>
-<e>
+  <e>
    <lg t1="М" t2="И" t3="Ч" uri="31750-michm-dchan" id="31750">
      <l pos="Prc" type="AN">мичмӧдчан</l>
        <l_var type="molodtsov-cyr">мічмӧччан</l_var>
    </lg>
    <mg relId="0"> <sg><s s_type="see">мичмӧдчантор</s></sg>
      <tg xml:lang="rus">
-       <t></t>
+       <t/>
      </tg>
      <xg>
        <x>мичмӧдчан вӧчӧм</x>
@@ -4673,7 +4674,7 @@
      </xg>
    </mg>
 </e>
-<e>
+  <e>
    <lg t1="М" t2="И" t3="Ч" uri="31762-mich-dchan" id="31762">
      <l pos="Prc" type="AN">мичӧдчан</l>
        <l_var type="molodtsov-cyr">мічӧччан</l_var>
@@ -4693,7 +4694,7 @@
    </mg>
    <mg relId="1"> <sg><s s_type="see">мичмӧдчантор</s></sg>
      <tg xml:lang="rus">
-       <t></t>
+       <t/>
      </tg>
      <xg>
        <x>мыйыс сӧмын абу: аньяслы быд пӧлӧс мичӧдчанъяс – чужӧм рӧммӧданъяс, сикӧтшъяс, исергаяс, чунькытшъяс</x>
@@ -4701,7 +4702,7 @@
      </xg>
    </mg>
 </e>
-<e>
+  <e>
    <lg t1="М" t2="И" t3="Я" uri="31773-miyan" id="31773">
      <l pos="Prc" type="AN">миян</l>
        <l_var type="molodtsov-cyr">міјан</l_var>
@@ -4733,7 +4734,7 @@
      <xg>
        <x>миян ставыс на лючки-ладнӧ</x>
        <xt xml:lang="rus">у нас пока всё благополучно</xt>
-     </xg><br />
+     </xg><br/>
      <xg>
        <x>миян пӧ няньыс тэкӧд шӧрыштӧма, шыд-рокыс пусьӧма, межаыс юкӧма</x>
        <xt xml:lang="rus"> нам спорить не о чем </xt><com>(<acronym title="буквально"><em>букв.</em></acronym> у нас с тобой коврига нарезана, суп-каша сварены, земля отмежевана)</com>
@@ -4761,7 +4762,7 @@
      </xg>
    </mg>
 </e>
-<e>
+  <e>
    <lg t1="М" t2="О" t3="Й" uri="31895-moijviana" id="31895">
      <l pos="Prc" type="ANA">мойвиана</l>
        <l_var type="molodtsov-cyr">мојвіана</l_var>
@@ -4780,7 +4781,7 @@
      </xg>
    </mg>
 </e>
-<e>
+  <e>
    <lg t1="М" t2="У" t3="А" uri="32338-muasyan" id="32338">
      <l pos="Prc" type="AN">муасян</l>
        <l_var type="molodtsov-cyr">муаԍан</l_var>
@@ -4795,7 +4796,7 @@
      </xg>
    </mg>
 </e>
-<e>
+  <e>
    <lg t1="М" t2="У" t3="Н" uri="32511-munan" id="32511">
      <l pos="Prc" type="AN">мунан</l>
        <l_var type="molodtsov-cyr">мунан</l_var>
@@ -4817,7 +4818,7 @@
        <x>мунан во</x>
        <xt xml:lang="rus">а) год отъезда, год ухода</xt>
        <xt xml:lang="rus">б) год выхода замуж</xt>
-     </xg><br />
+     </xg><br/>
      <xg>
        <x>мунан дум</x>
        <xt xml:lang="rus"> мысль об уходе <em>(о том, что надо уходить)</em></xt>
@@ -4834,14 +4835,14 @@
        <x>мунан туй</x>
        <xt xml:lang="rus">а) дорога, по которой кто-либо ушёл, уехал</xt>
        <xt xml:lang="rus">б) маршрут</xt>
-     </xg><br />
+     </xg><br/>
      <xg>
        <x>урчитны мунан туй</x>
        <xt xml:lang="rus">определить маршрут</xt>
-     </xg><br />&#160;&#160;&#160;&#160;&#160;&#160;в) след
+     </xg><br/>      в) след
    </mg>
 </e>
-<e>
+  <e>
    <lg t1="М" t2="У" t3="Н" uri="32512-munana" id="32512">
      <l pos="Prc" type="ANA">мунана</l>
        <l_var type="molodtsov-cyr">мунана</l_var>
@@ -4860,7 +4861,7 @@
      </xg>
    </mg>
 </e>
-<e>
+  <e>
    <lg t1="М" t2="У" t3="С" uri="32760-must-mtan" id="32760">
      <l pos="Prc" type="AN">мустӧмтан</l>
        <l_var type="molodtsov-cyr">мустӧмтан</l_var>
@@ -4871,7 +4872,7 @@
      </tg>
    </mg>
 </e>
-<e>
+  <e>
    <lg t1="М" t2="У" t3="Т" uri="32810-mutkyrtan-vizuvtan" id="32810">
      <l pos="Prc" type="AN">муткыртан-визувтан</l>
        <l_var type="molodtsov-cyr">муткыртан-візувтан</l_var>
@@ -4886,7 +4887,7 @@
      </xg>
    </mg>
 </e>
-<e>
+  <e>
    <lg t1="М" t2="Ы" t3="В" uri="32884-myvkyds-dan" id="32884">
      <l pos="Prc" type="AN">мывкыдсьӧдан</l>
        <l_var type="molodtsov-cyr">мывкытԍӧԁан</l_var>
@@ -4901,7 +4902,7 @@
      </xg>
    </mg>
 </e>
-<e>
+  <e>
    <lg t1="М" t2="Ы" t3="Ж" uri="32946-myzhalan" id="32946">
      <l pos="Prc" type="AN">мыжалан</l>
        <l_var type="molodtsov-cyr">мыжалан</l_var>
@@ -4920,7 +4921,7 @@
      </xg>
    </mg>
 </e>
-<e>
+  <e>
    <lg t1="М" t2="Ы" t3="Ж" uri="32949-myzhalana" id="32949">
      <l pos="Prc" type="ANA">мыжалана</l>
        <l_var type="molodtsov-cyr">мыжалана</l_var>
@@ -4939,7 +4940,7 @@
      </xg>
    </mg>
 </e>
-<e>
+  <e>
    <lg t1="М" t2="Ы" t3="Ж" uri="32957-myzhdan" id="32957">
      <l pos="Prc" type="AN">мыждан</l>
        <l_var type="molodtsov-cyr">мыжԁан</l_var>
@@ -4963,7 +4964,7 @@
      </xg>
    </mg>
 </e>
-<e>
+  <e>
    <lg t1="М" t2="Ы" t3="К" uri="33033-mykpiyan" id="33033">
      <l pos="Prc" type="AN">мыкпиян</l>
        <l_var type="molodtsov-cyr">мыкпіјан</l_var>
@@ -4974,7 +4975,7 @@
      </tg>
    </mg>
 </e>
-<e>
+  <e>
    <lg t1="М" t2="Ы" t3="Н" uri="33156-myntysyana" id="33156">
      <l pos="Prc" type="ANA">мынтысяна</l>
        <l_var type="molodtsov-cyr">мынтыԍана</l_var>
@@ -4989,7 +4990,7 @@
      </xg>
    </mg>
 </e>
-<e>
+  <e>
    <lg t1="М" t2="Ы" t3="Р" uri="33190-myrd-nalan" id="33190">
      <l pos="Prc" type="AN">мырдӧналан</l>
        <l_var type="molodtsov-cyr">мырԁӧналан</l_var>
@@ -5000,7 +5001,7 @@
      </tg>
    </mg>
 </e>
-<e>
+  <e>
    <lg t1="М" t2="Ы" t3="С" uri="33254-mys-kan" id="33254">
      <l pos="Prc" type="AN">мыськан</l>
        <l_var type="molodtsov-cyr">мыԍкан</l_var>
@@ -5027,7 +5028,7 @@
      </xg>
    </mg>
 </e>
-<e>
+  <e>
    <lg t1="М" t2="Ы" t3="С" uri="33265-mys-kasyan" id="33265">
      <l pos="Prc" type="AN">мыськасян</l>
        <l_var type="molodtsov-cyr">мыԍкаԍан</l_var>
@@ -5042,7 +5043,7 @@
      </xg>
    </mg>
 </e>
-<e>
+  <e>
    <lg t1="М" t2="Ӧ" t3="В" uri="32116-m-vpalan" id="32116">
      <l pos="Prc" type="AN">мӧвпалан</l>
        <l_var type="molodtsov-cyr">мӧвпалан</l_var>
@@ -5053,7 +5054,7 @@
      </tg>
    </mg>
 </e>
-<e>
+  <e>
    <lg t1="Н" t2="А" t3="З" uri="33559-nazgan" id="33559">
      <l pos="Prc" type="AN">назган</l>
        <l_var type="molodtsov-cyr">назган</l_var>
@@ -5072,7 +5073,7 @@
      </xg>
    </mg>
 </e>
-<e>
+  <e>
    <lg t1="Н" t2="А" t3="Ч" uri="33829-nachkan" id="33829">
      <l pos="Prc" type="AN">начкан</l>
        <l_var type="molodtsov-cyr">начкан</l_var>
@@ -5087,7 +5088,7 @@
      </xg>
    </mg>
 </e>
-<e>
+  <e>
    <lg t1="Н" t2="Е" t3="К" uri="34059-nekodnan" id="34059">
      <l pos="Prc" type="AN">некоднан</l>
        <l_var type="molodtsov-cyr">ԋекоԁнан</l_var>
@@ -5127,7 +5128,7 @@
      </xg>
    </mg>
 </e>
-<e>
+  <e>
    <lg t1="Н" t2="И" t3="М" uri="34604-nim-dan" id="34604">
      <l pos="Prc" type="AN">нимӧдан</l>
        <l_var type="molodtsov-cyr">ԋімӧԁан</l_var>
@@ -5142,7 +5143,7 @@
      </xg>
    </mg>
 </e>
-<e>
+  <e>
    <lg t1="Н" t2="И" t3="Р" uri="34660-niran" id="34660">
      <l pos="Prc" type="AN">ниран</l>
        <l_var type="molodtsov-cyr">ԋіран</l_var>
@@ -5153,7 +5154,7 @@
      </tg>
    </mg>
 </e>
-<e>
+  <e>
    <lg t1="Н" t2="И" t3="С" uri="34691-nistan" id="34691">
      <l pos="Prc" type="AN">нистан</l>
        <l_var type="molodtsov-cyr">ԋістан</l_var>
@@ -5164,14 +5165,14 @@
      </tg>
    </mg>
 </e>
-<e>
+  <e>
    <lg t1="Н" t2="И" t3="С" uri="34700-nistysyan" id="34700">
      <l pos="Prc" type="AN">нистысян</l>
        <l_var type="molodtsov-cyr">ԋістыԍан</l_var>
    </lg>
    <mg relId="0"> <sg><s s_type="see">нистан</s></sg>
      <tg xml:lang="rus">
-       <t></t>
+       <t/>
      </tg>
    </mg>
    <mg relId="1">
@@ -5180,7 +5181,7 @@
      </tg>
    </mg>
 </e>
-<e>
+  <e>
    <lg t1="Н" t2="О" t3="В" uri="34737-novl-dlan" id="34737">
      <l pos="Prc" type="AN">новлӧдлан</l>
        <l_var type="molodtsov-cyr">новлӧԁлан</l_var>
@@ -5212,7 +5213,7 @@
      </xg>
    </mg>
 </e>
-<e>
+  <e>
    <lg t1="Н" t2="О" t3="Р" uri="34890-norasyan" id="34890">
      <l pos="Prc" type="AN">норасян</l>
        <l_var type="molodtsov-cyr">нораԍан</l_var>
@@ -5227,7 +5228,7 @@
      </xg>
    </mg>
 </e>
-<e>
+  <e>
    <lg t1="Н" t2="У" t3="С" uri="35138-nuskan" id="35138">
      <l pos="Prc" type="AN">нускан</l>
        <l_var type="molodtsov-cyr">нускан</l_var> <rg><r range_space="dialect"/></rg>
@@ -5242,7 +5243,7 @@
      </xg>
    </mg>
 </e>
-<e>
+  <e>
    <lg t1="Н" t2="Ы" t3="Л" uri="35220-nylalan" id="35220">
      <l pos="Prc" type="AN">нылалан</l>
        <l_var type="molodtsov-cyr">нылалан</l_var>
@@ -5261,7 +5262,7 @@
      </xg>
    </mg>
 </e>
-<e>
+  <e>
    <lg t1="Н" t2="Ю" t3="Ж" uri="35610-nyuzhij-dlan" id="35610">
      <l pos="Prc" type="AN">нюжйӧдлан</l>
        <l_var type="molodtsov-cyr">ԋужјӧԁлан</l_var>
@@ -5280,7 +5281,7 @@
      </xg>
    </mg>
 </e>
-<e>
+  <e>
    <lg t1="Н" t2="Ю" t3="Ж" uri="35631-nyuzhmasyana" id="35631">
      <l pos="Prc" type="ANA">нюжмасяна</l>
        <l_var type="molodtsov-cyr">ԋужмаԍана</l_var>
@@ -5308,7 +5309,7 @@
      </xg>
    </mg>
 </e>
-<e>
+  <e>
    <lg t1="Н" t2="Ю" t3="М" uri="35745-nyumdana" id="35745">
      <l pos="Prc" type="ANA">нюмдана</l>
        <l_var type="molodtsov-cyr">ԋумԁана</l_var>
@@ -5319,7 +5320,7 @@
      </tg>
    </mg>
 </e>
-<e>
+  <e>
    <lg t1="Н" t2="Ю" t3="Р" uri="35843-nyurkij-dlan" id="35843">
      <l pos="Prc" type="AN">нюркйӧдлан</l>
        <l_var type="molodtsov-cyr">ԋуркјӧԁлан</l_var>
@@ -5339,7 +5340,7 @@
      </xg>
    </mg>
 </e>
-<e>
+  <e>
    <lg t1="Н" t2="Ю" t3="Ш" uri="35887-nyushkan" id="35887">
      <l pos="Prc" type="AN">нюшкан</l>
        <l_var type="molodtsov-cyr">ԋушкан</l_var>
@@ -5354,7 +5355,7 @@
      </xg>
    </mg>
 </e>
-<e>
+  <e>
    <lg t1="Н" t2="Я" t3="К" uri="35980-nyaklyalan" id="35980">
      <l pos="Prc" type="AN">няклялан</l>
        <l_var type="molodtsov-cyr">ԋакԉалан</l_var>
@@ -5365,7 +5366,7 @@
      </tg>
    </mg>
 </e>
-<e>
+  <e>
    <lg t1="Н" t2="Я" t3="Н" uri="36085-nyan-piyan" id="36085">
      <l pos="Prc" type="AN">няньпиян</l>
        <l_var type="molodtsov-cyr">ԋаԋпіјан</l_var>
@@ -5380,12 +5381,12 @@
      </xg>
    </mg>
 </e>
-<e>
+  <e>
    <lg t1="Н" t2="Я" t3="Р" uri="36119-nyargan" id="36119">
      <l pos="Prc" type="AN">нярган</l>
        <l_var type="molodtsov-cyr">ԋарган</l_var>
    </lg>
-   <mg relId="0"><strong>нярган, няргана</strong><br />
+   <mg relId="0"><strong>нярган, няргана</strong><br/>
      <tg xml:lang="rus">
        <t>содержащий жалобу, сетование</t>
      </tg>
@@ -5395,12 +5396,12 @@
      </xg>
    </mg>
 </e>
-<e>
+  <e>
    <lg t1="Н" t2="Я" t3="Р" uri="36122-nyargana" id="36122">
      <l pos="Prc" type="ANA">няргана</l>
        <l_var type="molodtsov-cyr">ԋаргана</l_var>
    </lg>
-   <mg relId="0"><strong>няргана, нярган</strong><br />
+   <mg relId="0"><strong>няргана, нярган</strong><br/>
      <tg xml:lang="rus">
        <t>содержащий жалобу, сетование</t>
      </tg>
@@ -5410,7 +5411,7 @@
      </xg>
    </mg>
 </e>
-<e>
+  <e>
    <lg t1="Н" t2="Я" t3="Р" uri="36177-nyar-yan" id="36177">
      <l pos="Prc" type="AN">няръян</l>
        <l_var type="molodtsov-cyr">ԋарјан</l_var>
@@ -5421,14 +5422,14 @@
      </tg>
    </mg>
 </e>
-<e>
+  <e>
    <lg t1="Н" t2="Я" t3="Р" uri="36187-nyar-yasyan" id="36187">
      <l pos="Prc" type="AN">няръясян</l>
        <l_var type="molodtsov-cyr">ԋарјаԍан</l_var>
    </lg>
    <mg relId="0">
      <tg xml:lang="rus">
-       <t pos="Prc" type="ANA"> <em>от</em> <xref link="няръясьны"> няръясьны</xref></t>
+       <t pos="Prc" type="ANA"><em>от</em> <xref link="няръясьны"> няръясьны</xref></t>
      </tg>
      <xg>
        <x>няръясян машина</x>
@@ -5449,7 +5450,7 @@
      </xg>
    </mg>
 </e>
-<e>
+  <e>
    <lg t1="Н" t2="Ё" t3="Л" uri="34359-nyol-nan" id="34359">
      <l pos="Prc" type="AN">нёльнан</l>
        <l_var type="molodtsov-cyr">ԋоԉнан</l_var>
@@ -5460,8 +5461,8 @@
      </tg>
      <xg>
        <x>нёльнан кокӧн пыксьыны</x>
-       <xt xml:lang="rus"></xt>
-     </xg><br />&#160;&#160;&#160;&#160;&#160;&#160;а) упираться всеми четырьмя ногами <em>(о животном)</em><br />&#160;&#160;&#160;&#160;&#160;&#160;б) <acronym title="в переносном значении"><em>перен.</em></acronym> упрямиться, противиться, артачиться<br />
+       <xt xml:lang="rus"/>
+     </xg><br/>      а) упираться всеми четырьмя ногами <em>(о животном)</em><br/>      б) <acronym title="в переносном значении"><em>перен.</em></acronym> упрямиться, противиться, артачиться<br/>
      <xg>
        <x>нёльнан пиӧй ветлісны война вылӧ</x>
        <xt xml:lang="rus">у меня все четыре сына были на войне</xt>
@@ -5497,7 +5498,7 @@
      </xg>
    </mg>
 </e>
-<e>
+  <e>
    <lg t1="Н" t2="Ё" t3="Н" uri="34415-nyonyasyan" id="34415">
      <l pos="Prc" type="AN">нёнясян</l>
        <l_var type="molodtsov-cyr">ԋоԋаԍан</l_var>
@@ -5517,14 +5518,14 @@
      </tg>
    </mg>
 </e>
-<e>
+  <e>
    <lg t1="О" t2="В" t3="Л" uri="36290-ovlana" id="36290">
      <l pos="Prc" type="ANA">овлана</l>
        <l_var type="molodtsov-cyr">овлана</l_var>
    </lg>
    <mg relId="0">
      <tg xml:lang="rus">
-       <t pos="Prc" type="ANA"> имеющий место, случающийся</t>
+       <t pos="Prc" type="ANA">имеющий место, случающийся</t>
      </tg>
      <xg>
        <x>не пыр овлана</x>
@@ -5536,7 +5537,7 @@
      </xg>
    </mg>
 </e>
-<e>
+  <e>
    <lg t1="О" t2="К" t3="Л" uri="36494-oklan" id="36494">
      <l pos="Prc" type="AN">оклан</l>
        <l_var type="molodtsov-cyr">оклан</l_var> <rg><r range_space="dialect"/></rg>
@@ -5547,7 +5548,7 @@
      </tg> <sg><s s_type="seeAlso">качай</s></sg>
    </mg>
 </e>
-<e>
+  <e>
    <lg t1="О" t2="Л" t3="А" uri="36581-olan-vylan" id="36581">
      <l pos="Prc" type="AN">олан-вылан</l>
        <l_var type="molodtsov-cyr">олан-вылан</l_var>
@@ -5562,7 +5563,7 @@
      </xg>
    </mg>
 </e>
-<e>
+  <e>
    <lg t1="О" t2="Л" t3="А" uri="36578-olana" id="36578">
      <l pos="Prc" type="ANA">олана</l>
        <l_var type="molodtsov-cyr">олана</l_var>
@@ -5578,7 +5579,7 @@
    </mg>
    <mg relId="1"> <sg><s s_type="see">олан в 3 значении</s></sg>
      <tg xml:lang="rus">
-       <t></t>
+       <t/>
      </tg>
      <xg>
        <x>сійӧ вӧлі олана морт на, но сьӧкыда олӧмыс водз пӧрысьмӧдіс</x>
@@ -5586,23 +5587,23 @@
      </xg>
    </mg>
 </e>
-<e>
+  <e>
    <lg t1="О" t2="Р" t3="А" uri="36769-oran" id="36769">
      <l pos="Prc" type="AN">оран</l>
        <l_var type="molodtsov-cyr">оран</l_var>
    </lg>
-   <mg relId="0"><strong>оран, орана</strong><br />
+   <mg relId="0"><strong>оран, орана</strong><br/>
      <tg xml:lang="rus">
-       <t pos="Prc" type="ANA"> <em>от</em> <xref link="орны"> орны</xref></t>
+       <t pos="Prc" type="ANA"><em>от</em> <xref link="орны"> орны</xref></t>
      </tg>
      <xg>
        <x>оран выйын</x>
-       <xt xml:lang="rus"></xt>
-     </xg><br />&#160;&#160;&#160;&#160;&#160;&#160;а) на исходе<br />
+       <xt xml:lang="rus"/>
+     </xg><br/>      а) на исходе<br/>
      <xg>
        <x>деньгаӧй оран выйын</x>
        <xt xml:lang="rus">деньги на исходе</xt>
-     </xg><br />&#160;&#160;&#160;&#160;&#160;&#160;б) на грани срыва<br />
+     </xg><br/>      б) на грани срыва<br/>
      <xg>
        <x>посъяс стрӧитан план оран выйын</x>
        <xt xml:lang="rus">план строительства мостов на грани срыва</xt>
@@ -5613,23 +5614,23 @@
      </xg>
    </mg>
 </e>
-<e>
+  <e>
    <lg t1="О" t2="Р" t3="А" uri="36771-orana" id="36771">
      <l pos="Prc" type="ANA">орана</l>
        <l_var type="molodtsov-cyr">орана</l_var>
    </lg>
-   <mg relId="0"><strong>орана, оран</strong><br />
+   <mg relId="0"><strong>орана, оран</strong><br/>
      <tg xml:lang="rus">
-       <t pos="Prc" type="ANA"> <em>от</em> <xref link="орны"> орны</xref></t>
+       <t pos="Prc" type="ANA"><em>от</em> <xref link="орны"> орны</xref></t>
      </tg>
      <xg>
        <x>орана выйын</x>
-       <xt xml:lang="rus"></xt>
-     </xg><br />&#160;&#160;&#160;&#160;&#160;&#160;а) на исходе<br />
+       <xt xml:lang="rus"/>
+     </xg><br/>      а) на исходе<br/>
      <xg>
        <x>деньгаӧй орана выйын</x>
        <xt xml:lang="rus">деньги на исходе</xt>
-     </xg><br />&#160;&#160;&#160;&#160;&#160;&#160;б) на грани срыва<br />
+     </xg><br/>      б) на грани срыва<br/>
      <xg>
        <x>посъяс стрӧитан план орана выйын</x>
        <xt xml:lang="rus">план строительства мостов на грани срыва</xt>
@@ -5640,7 +5641,7 @@
      </xg>
    </mg>
 </e>
-<e>
+  <e>
    <lg t1="О" t2="Р" t3="Т" uri="36913-ortsyasyan" id="36913">
      <l pos="Prc" type="AN">ортсыасян</l>
        <l_var type="molodtsov-cyr">ортсыаԍан</l_var>
@@ -5655,27 +5656,27 @@
      </xg>
    </mg>
 </e>
-<e>
+  <e>
    <lg t1="О" t2="Р" t3="Ч" uri="36952-orchch-dana" id="36952">
      <l pos="Prc" type="ANA">орччӧдана</l>
        <l_var type="molodtsov-cyr">орччӧԁана</l_var>
    </lg>
    <mg relId="0">
      <tg xml:lang="rus">
-       <t pos="Prc" type="ANA"> <em>от</em> <xref link="орччӧдны"> орччӧдны</xref></t>
-     </tg><br />
+       <t pos="Prc" type="ANA"><em>от</em> <xref link="орччӧдны"> орччӧдны</xref></t>
+     </tg><br/>
      <xg>
        <x>орччӧдана тшупӧдъяс </x>
        <xt xml:lang="rus"><acronym title="грамматическое"><em>грам.</em></acronym> степени сравнения</xt>
      </xg>
    </mg>
 </e>
-<e>
+  <e>
    <lg t1="О" t2="Р" t3="Ъ" uri="36984-or-yasyan" id="36984">
      <l pos="Prc" type="AN">оръясян</l>
        <l_var type="molodtsov-cyr">орјаԍан</l_var>
    </lg>
-   <mg relId="0"><strong>оръясян, оръясяна</strong><br />
+   <mg relId="0"><strong>оръясян, оръясяна</strong><br/>
      <tg xml:lang="rus">
        <t pos="Prc" type="ANA">1. отрывистый</t>
      </tg>
@@ -5712,12 +5713,12 @@
      </xg>
    </mg>
 </e>
-<e>
+  <e>
    <lg t1="О" t2="Р" t3="Ъ" uri="36987-or-yasyana" id="36987">
      <l pos="Prc" type="ANA">оръясяна</l>
        <l_var type="molodtsov-cyr">орјаԍана</l_var>
    </lg>
-   <mg relId="0"><strong>оръясяна, оръясян</strong><br />
+   <mg relId="0"><strong>оръясяна, оръясян</strong><br/>
      <tg xml:lang="rus">
        <t pos="Prc" type="ANA">1. отрывистый</t>
      </tg>
@@ -5754,7 +5755,7 @@
      </xg>
    </mg>
 </e>
-<e>
+  <e>
    <lg t1="О" t2="Т" t3="П" uri="37029-otpuskalan" id="37029">
      <l pos="Prc" type="AN">отпускалан</l>
        <l_var type="molodtsov-cyr">отпускалан</l_var>
@@ -5769,7 +5770,7 @@
      </xg>
    </mg>
 </e>
-<e>
+  <e>
    <lg t1="О" t2="Ш" t3="Й" uri="37127-oshijysyana" id="37127">
      <l pos="Prc" type="ANA">ошйысяна</l>
        <l_var type="molodtsov-cyr">ошјыԍана</l_var>
@@ -5797,7 +5798,7 @@
      </xg>
    </mg>
 </e>
-<e>
+  <e>
    <lg t1="П" t2="А" t3="Д" uri="38528-pad-yalana" id="38528">
      <l pos="Prc" type="ANA">падъялана</l>
        <l_var type="molodtsov-cyr">паԁјалана</l_var>
@@ -5829,7 +5830,7 @@
      </xg>
    </mg>
 </e>
-<e>
+  <e>
    <lg t1="П" t2="А" t3="З" uri="38575-paz-dchan" id="38575">
      <l pos="Prc" type="AN">пазӧдчан</l>
        <l_var type="molodtsov-cyr">пазӧччан</l_var>
@@ -5840,7 +5841,7 @@
      </tg>
    </mg>
 </e>
-<e>
+  <e>
    <lg t1="П" t2="А" t3="Н" uri="38774-pansyan" id="38774">
      <l pos="Prc" type="AN">пансян</l>
        <l_var type="molodtsov-cyr">панԍан</l_var>
@@ -5852,7 +5853,7 @@
      <xg>
        <x>пансянӧн пансьыны</x>
        <xt xml:lang="rus">сновать пряжу на сновалке</xt>
-     </xg><br />
+     </xg><br/>
      <xg>
        <x>◊ тыртӧм пансян моз бергавны </x>
        <xt xml:lang="rus" src_type="saying:поговорка">вертеться как белка в колесе </xt><com>(<acronym title="буквально"><em>букв.</em></acronym> крутиться как сновалка без пряжи)</com>
@@ -5872,24 +5873,24 @@
      </xg>
    </mg>
 </e>
-<e>
+  <e>
    <lg t1="П" t2="А" t3="С" uri="39069-pas-yan" id="39069">
      <l pos="Prc" type="AN">пасъян</l>
        <l_var type="molodtsov-cyr">пасјан</l_var>
    </lg>
-   <mg relId="0"><span class="underline">употребляется лишь в составе выражений:</span><br />
+   <mg relId="0"><span class="underline">употребляется лишь в составе выражений:</span><br/>
      <xg>
        <x>пас пасъян</x>
        <xt xml:lang="rus">тавро</xt>
      </xg>
    </mg>
 </e>
-<e>
+  <e>
    <lg t1="П" t2="Е" t3="З" uri="39409-pez-d-dan" id="39409">
      <l pos="Prc" type="AN">пезьдӧдан</l>
        <l_var type="molodtsov-cyr">пеԅԁӧԁан</l_var>
    </lg>
-   <mg relId="0"><span class="underline">употребляется лишь в составе выражений:</span><br />
+   <mg relId="0"><span class="underline">употребляется лишь в составе выражений:</span><br/>
      <xg>
        <x>курӧк пезьдӧдан</x>
        <xt xml:lang="rus">спуск</xt>
@@ -5900,19 +5901,19 @@
      </xg>
    </mg>
 </e>
-<e>
+  <e>
    <lg t1="П" t2="Е" t3="С" uri="39794-pesan" id="39794">
      <l pos="Prc" type="AN">песан</l>
        <l_var type="molodtsov-cyr">песан</l_var>
    </lg>
-   <mg relId="0"><span class="underline">употребляется лишь в составе выражений:</span><br />
+   <mg relId="0"><span class="underline">употребляется лишь в составе выражений:</span><br/>
      <xg>
        <x>ньӧр песан</x>
        <xt xml:lang="rus"> вицемялка <em>(приспособление, которым мнут лозу)</em></xt>
      </xg>
    </mg>
 </e>
-<e>
+  <e>
    <lg t1="П" t2="Е" t3="С" uri="39820-peslasyan" id="39820">
      <l pos="Prc" type="AN">песласян</l>
        <l_var type="molodtsov-cyr">песлаԍан</l_var>
@@ -5932,7 +5933,7 @@
    </mg>
    <mg relId="1">
      <tg xml:lang="rus">
-       <t pos="Prc" type="ANA"> стиральный</t>
+       <t pos="Prc" type="ANA">стиральный</t>
      </tg>
      <xg>
        <x>песласян пӧв</x>
@@ -5940,31 +5941,31 @@
      </xg>
    </mg>
 </e>
-<e>
+  <e>
    <lg t1="П" t2="Е" t3="Т" uri="39888-petan" id="39888">
      <l pos="Prc" type="AN">петан</l>
        <l_var type="molodtsov-cyr">петан</l_var>
    </lg>
-   <mg relId="0"><span class="underline">употребляется лишь в составе выражений:</span><br />
+   <mg relId="0"><span class="underline">употребляется лишь в составе выражений:</span><br/>
      <xg>
        <x>петан туй</x>
        <xt xml:lang="rus">выход</xt>
      </xg>
    </mg>
 </e>
-<e>
+  <e>
    <lg t1="П" t2="Е" t3="Ш" uri="40057-peshan" id="40057">
      <l pos="Prc" type="AN">пешан</l>
        <l_var type="molodtsov-cyr">пешан</l_var>
    </lg>
-   <mg relId="0"><span class="underline">употребляется лишь в составе выражений:</span><br />
+   <mg relId="0"><span class="underline">употребляется лишь в составе выражений:</span><br/>
      <xg>
        <x>сись пешан</x>
        <xt xml:lang="rus">подсвечник</xt>
      </xg>
    </mg>
 </e>
-<e>
+  <e>
    <lg t1="П" t2="И" t3="Я" uri="40369-piyan" id="40369">
      <l pos="Prc" type="AN">пиян</l>
        <l_var type="molodtsov-cyr">піјан</l_var>
@@ -5989,11 +5990,11 @@
    <mg relId="1">
      <tg xml:lang="rus">
        <t>детёныши животных; птенцы</t>
-     </tg><br />
+     </tg><br/>
      <xg>
        <x>пияна <acronym title="имя прилагательное"><em>прил.</em></acronym> звер</x>
        <xt xml:lang="rus"> зверь с детёнышами</xt>
-     </xg><br />
+     </xg><br/>
      <xg>
        <x>пияна чипан</x>
        <xt xml:lang="rus">наседка</xt>
@@ -6008,7 +6009,7 @@
      </xg>
    </mg>
 </e>
-<e>
+  <e>
    <lg t1="П" t2="О" t3="В" uri="40562-povz-dlana" id="40562">
      <l pos="Prc" type="ANA">повзьӧдлана</l>
        <l_var type="molodtsov-cyr">повԅӧԁлана</l_var>
@@ -6031,12 +6032,12 @@
      </xg>
    </mg>
 </e>
-<e>
+  <e>
    <lg t1="П" t2="О" t3="Л" uri="40927-polan" id="40927">
      <l pos="Prc" type="AN">полан</l>
        <l_var type="molodtsov-cyr">полан</l_var>
    </lg>
-   <mg relId="0"><strong>полан, полана</strong><br />
+   <mg relId="0"><strong>полан, полана</strong><br/>
      <tg xml:lang="rus">
        <t>1. боязливый || боязливо; боязно</t>
      </tg>
@@ -6059,12 +6060,12 @@
      </xg>
    </mg>
 </e>
-<e>
+  <e>
    <lg t1="П" t2="О" t3="Л" uri="40928-polana" id="40928">
      <l pos="Prc" type="ANA">полана</l>
        <l_var type="molodtsov-cyr">полана</l_var>
    </lg>
-   <mg relId="0"><strong>полана, полан</strong><br />
+   <mg relId="0"><strong>полана, полан</strong><br/>
      <tg xml:lang="rus">
        <t>1. боязливый || боязливо; боязно</t>
      </tg>
@@ -6087,7 +6088,7 @@
      </xg>
    </mg>
 </e>
-<e>
+  <e>
    <lg t1="П" t2="О" t3="Н" uri="41204-pon-yasyan" id="41204">
      <l pos="Prc" type="AN">понъясян</l>
        <l_var type="molodtsov-cyr">понјаԍан</l_var>
@@ -6106,7 +6107,7 @@
      </xg>
    </mg>
 </e>
-<e>
+  <e>
    <lg t1="П" t2="О" t3="Р" uri="41287-pors-piyan" id="41287">
      <l pos="Prc" type="AN">порсьпиян</l>
        <l_var type="molodtsov-cyr">порԍпіјан</l_var>
@@ -6125,7 +6126,7 @@
      </xg>
    </mg>
 </e>
-<e>
+  <e>
    <lg t1="П" t2="У" t3="З" uri="43202-puz-dchan" id="43202">
      <l pos="Prc" type="AN">пузьӧдчан</l>
        <l_var type="molodtsov-cyr">пуԅӧччан</l_var>
@@ -6136,7 +6137,7 @@
      </tg>
    </mg>
 </e>
-<e>
+  <e>
    <lg t1="П" t2="У" t3="С" uri="43547-pusyan" id="43547">
      <l pos="Prc" type="AN">пусян</l>
        <l_var type="molodtsov-cyr">пуԍан</l_var>
@@ -6156,7 +6157,7 @@
    </mg>
    <mg relId="1">
      <tg xml:lang="rus">
-       <t pos="Prc" type="ANA"> варкий</t>
+       <t pos="Prc" type="ANA">варкий</t>
      </tg>
      <xg>
        <x>пусян яй</x>
@@ -6164,7 +6165,7 @@
      </xg>
    </mg>
 </e>
-<e>
+  <e>
    <lg t1="П" t2="У" t3="Т" uri="43589-putorgan" id="43589">
      <l pos="Prc" type="AN">путорган</l>
        <l_var type="molodtsov-cyr">путорган</l_var> <rg><r range_space="dialect"/></rg>
@@ -6175,7 +6176,7 @@
      </tg> <sg><s s_type="seeAlso">торач</s></sg>
    </mg>
 </e>
-<e>
+  <e>
    <lg t1="П" t2="Ы" t3="Д" uri="43703-pyddi-puktana" id="43703">
      <l pos="Prc" type="ANA">пыдди пуктана</l>
        <l_var type="molodtsov-cyr">пыԁԃі пуктана</l_var>
@@ -6186,7 +6187,7 @@
      </tg>
    </mg>
 </e>
-<e>
+  <e>
    <lg t1="П" t2="Ы" t3="З" uri="43796-pyzijysyan" id="43796">
      <l pos="Prc" type="AN">пызйысян</l>
        <l_var type="molodtsov-cyr">пызјыԍан</l_var>
@@ -6197,7 +6198,7 @@
      </tg>
    </mg>
 </e>
-<e>
+  <e>
    <lg t1="П" t2="Ы" t3="К" uri="43857-pyksyana" id="43857">
      <l pos="Prc" type="ANA">пыксяна</l>
        <l_var type="molodtsov-cyr">пыкԍана</l_var>
@@ -6212,18 +6213,18 @@
      </xg>
    </mg>
 </e>
-<e>
+  <e>
    <lg t1="П" t2="Ӧ" t3="В" uri="41531-p-vgan" id="41531">
      <l pos="Prc" type="AN">пӧвган</l>
        <l_var type="molodtsov-cyr">пӧвган</l_var> <rg><r range_space="dialect"/></rg>
    </lg>
    <mg relId="0"> <sg><s s_type="see">павтан во 2 значении</s></sg>
      <tg xml:lang="rus">
-       <t></t>
+       <t/>
      </tg>
    </mg>
 </e>
-<e>
+  <e>
    <lg t1="П" t2="Ӧ" t3="Ж" uri="41741-p-zhasyan" id="41741">
      <l pos="Prc" type="AN">пӧжасян</l>
        <l_var type="molodtsov-cyr">пӧжаԍан</l_var>
@@ -6238,7 +6239,7 @@
      </xg>
    </mg>
 </e>
-<e>
+  <e>
    <lg t1="П" t2="Ӧ" t3="Т" uri="42197-p-tkapiyan" id="42197">
      <l pos="Prc" type="AN">пӧткапиян</l>
        <l_var type="molodtsov-cyr">пӧткапіјан</l_var>
@@ -6249,7 +6250,7 @@
      </tg>
    </mg>
 </e>
-<e>
+  <e>
    <lg t1="Р" t2="А" t3="Д" uri="44309-radlana" id="44309">
      <l pos="Prc" type="ANA">радлана</l>
        <l_var type="molodtsov-cyr">раԁлана</l_var>
@@ -6276,7 +6277,7 @@
      </xg>
    </mg>
 </e>
-<e>
+  <e>
    <lg t1="Р" t2="А" t3="К" uri="44496-rakapiyan" id="44496">
      <l pos="Prc" type="AN">ракапиян</l>
        <l_var type="molodtsov-cyr">ракапіјан</l_var>
@@ -6287,7 +6288,7 @@
      </tg>
    </mg>
 </e>
-<e>
+  <e>
    <lg t1="Р" t2="А" t3="Н" uri="44539-rana" id="44539">
      <l pos="Prc" type="ANA">рана</l>
        <l_var type="molodtsov-cyr">рана</l_var>
@@ -6322,7 +6323,7 @@
      </xg>
    </mg>
 </e>
-<e>
+  <e>
    <lg t1="Р" t2="Е" t3="К" uri="44895-rekomenduijtana" id="44895">
      <l pos="Prc" type="ANA">рекомендуйтана</l>
        <l_var type="molodtsov-cyr">рекоменԁујтана</l_var>
@@ -6337,7 +6338,7 @@
      </xg>
    </mg>
 </e>
-<e>
+  <e>
    <lg t1="Р" t2="Е" t3="К" uri="44920-rektan" id="44920">
      <l pos="Prc" type="AN">ректан</l>
        <l_var type="molodtsov-cyr">ректан</l_var>
@@ -6353,25 +6354,25 @@
      <xg>
        <x>◊ кос ректан кодь</x>
        <xt xml:lang="rus">сухощавый, худой</xt>
-     </xg><br />
+     </xg><br/>
      <xg>
        <x>◊ ректана <acronym title="имя прилагательное"><em>прил.</em></acronym> пельпом</x>
        <xt xml:lang="rus"> широкие плечи</xt>
      </xg>
    </mg>
 </e>
-<e>
+  <e>
    <lg t1="Р" t2="О" t3="Ж" uri="45193-rozhaban" id="45193">
      <l pos="Prc" type="AN">рожабан</l>
        <l_var type="molodtsov-cyr">рожабан</l_var>
    </lg>
    <mg relId="0"> <sg><s s_type="see">рожа в 1 значении</s></sg>
      <tg xml:lang="rus">
-       <t></t>
+       <t/>
      </tg>
    </mg>
 </e>
-<e>
+  <e>
    <lg t1="Р" t2="О" t3="З" uri="45236-roz-dchan" id="45236">
      <l pos="Prc" type="AN">розьӧдчан</l>
        <l_var type="molodtsov-cyr">роԅӧччан</l_var>
@@ -6382,7 +6383,7 @@
      </tg> <sg><s s_type="seeAlso">писькӧдчан</s></sg>
    </mg>
 </e>
-<e>
+  <e>
    <lg t1="Р" t2="У" t3="Ч" uri="45957-ruchpiyan" id="45957">
      <l pos="Prc" type="AN">ручпиян</l>
        <l_var type="molodtsov-cyr">ручпіјан</l_var>
@@ -6393,7 +6394,7 @@
      </tg>
    </mg>
 </e>
-<e>
+  <e>
    <lg t1="Р" t2="Ы" t3="С" uri="46061-rys-piyan" id="46061">
      <l pos="Prc" type="AN">рысьпиян</l>
        <l_var type="molodtsov-cyr">рыԍпіјан</l_var>
@@ -6408,7 +6409,7 @@
      </xg>
    </mg>
 </e>
-<e>
+  <e>
    <lg t1="С" t2="Е" t3="Р" uri="46783-seralana" id="46783">
      <l pos="Prc" type="ANA">сералана</l>
        <l_var type="molodtsov-cyr">ԍералана</l_var>
@@ -6431,7 +6432,7 @@
      </xg>
    </mg>
 </e>
-<e>
+  <e>
    <lg t1="С" t2="Е" t3="Р" uri="46791-serambana" id="46791">
      <l pos="Prc" type="ANA">серамбана</l>
        <l_var type="molodtsov-cyr">ԍерамбана</l_var>
@@ -6459,19 +6460,19 @@
      </xg>
    </mg>
 </e>
-<e>
+  <e>
    <lg t1="С" t2="Е" t3="Т" uri="46891-setan" id="46891">
      <l pos="Prc" type="AN">сетан</l>
        <l_var type="molodtsov-cyr">ԍетан</l_var>
    </lg>
-   <mg relId="0"><span class="underline">употребляется лишь в составе выражений:</span><br />
+   <mg relId="0"><span class="underline">употребляется лишь в составе выражений:</span><br/>
      <xg>
        <x>сетан падеж </x>
        <xt xml:lang="rus"><acronym title="грамматическое"><em>грам.</em></acronym> дательный падеж</xt>
      </xg>
    </mg>
 </e>
-<e>
+  <e>
    <lg t1="С" t2="Е" t3="Т" uri="46918-setchana" id="46918">
      <l pos="Prc" type="ANA">сетчана</l>
        <l_var type="molodtsov-cyr">ԍеччана</l_var>
@@ -6490,7 +6491,7 @@
      </xg>
    </mg>
 </e>
-<e>
+  <e>
    <lg t1="С" t2="И" t3="З" uri="47295-sizimnan" id="47295">
      <l pos="Prc" type="AN">сизимнан</l>
        <l_var type="molodtsov-cyr">ԍіԅімнан</l_var>
@@ -6505,7 +6506,7 @@
      </xg>
    </mg>
 </e>
-<e>
+  <e>
    <lg t1="С" t2="И" t3="З" uri="47319-siz-dysyan" id="47319">
      <l pos="Prc" type="AN">сизьдысян</l>
        <l_var type="molodtsov-cyr">ԍіԅԁыԍан</l_var>
@@ -6516,7 +6517,7 @@
      </tg>
    </mg>
 </e>
-<e>
+  <e>
    <lg t1="С" t2="И" t3="Л" uri="47388-sil-piyan" id="47388">
      <l pos="Prc" type="AN">сильӧпиян</l>
        <l_var type="molodtsov-cyr">ԍіԉӧпіјан</l_var>
@@ -6527,7 +6528,7 @@
      </tg>
    </mg>
 </e>
-<e>
+  <e>
    <lg t1="С" t2="И" t3="Р" uri="47558-sirpiyan" id="47558">
      <l pos="Prc" type="AN">сирпиян</l>
        <l_var type="molodtsov-cyr">ԍірпіјан</l_var>
@@ -6538,7 +6539,7 @@
      </tg>
    </mg>
 </e>
-<e>
+  <e>
    <lg t1="С" t2="К" t3="В" uri="47701-skvorechpiyan" id="47701">
      <l pos="Prc" type="AN">скворечпиян</l>
        <l_var type="molodtsov-cyr">скворечпіјан</l_var>
@@ -6549,7 +6550,7 @@
      </tg>
    </mg>
 </e>
-<e>
+  <e>
    <lg t1="С" t2="К" t3="Л" uri="47734-sklyan" id="47734">
      <l pos="Prc" type="AN">склян</l>
        <l_var type="molodtsov-cyr">скԉан</l_var>
@@ -6568,7 +6569,7 @@
      </xg>
    </mg>
 </e>
-<e>
+  <e>
    <lg t1="С" t2="М" t3="Е" uri="48025-smekaijtchana" id="48025">
      <l pos="Prc" type="ANA">смекайтчана</l>
        <l_var type="molodtsov-cyr">ԍмекајччана</l_var>
@@ -6591,7 +6592,7 @@
      </xg>
    </mg>
 </e>
-<e>
+  <e>
    <lg t1="С" t2="О" t3="Т" uri="48404-sotan" id="48404">
      <l pos="Prc" type="AN">сотан</l>
        <l_var type="molodtsov-cyr">сотан</l_var>
@@ -6606,7 +6607,7 @@
      </xg>
    </mg>
 </e>
-<e>
+  <e>
    <lg t1="С" t2="У" t3="Д" uri="49492-sudzsyana" id="49492">
      <l pos="Prc" type="ANA">судзсяна</l>
        <l_var type="molodtsov-cyr">сучԍана</l_var>
@@ -6629,7 +6630,7 @@
      </xg>
    </mg>
 </e>
-<e>
+  <e>
    <lg t1="С" t2="У" t3="Л" uri="49610-sulan" id="49610">
      <l pos="Prc" type="AN">сулан</l>
        <l_var type="molodtsov-cyr">сулан</l_var>
@@ -6640,7 +6641,7 @@
      </tg>
    </mg>
 </e>
-<e>
+  <e>
    <lg t1="С" t2="У" t3="С" uri="49784-suslan" id="49784">
      <l pos="Prc" type="AN">суслан</l>
        <l_var type="molodtsov-cyr">суслан</l_var>
@@ -6664,14 +6665,14 @@
      <xg>
        <x>сизима суслан</x>
        <xt xml:lang="rus">суслон-семерик</xt>
-     </xg><br />
+     </xg><br/>
      <xg>
        <x>кудула му вылысь медбур суслан</x>
        <xt xml:lang="rus"> самый хороший суслон с небольшого участка <em>(о завидном, хорошем человеке)</em></xt>
      </xg> <sg><s s_type="seeAlso">чумали</s></sg>
    </mg>
 </e>
-<e>
+  <e>
    <lg t1="С" t2="Ы" t3="С" uri="50080-sys-yasyan" id="50080">
      <l pos="Prc" type="AN">сысъясян</l>
        <l_var type="molodtsov-cyr">сысјаԍан</l_var>
@@ -6682,7 +6683,7 @@
      </tg>
    </mg>
 </e>
-<e>
+  <e>
    <lg t1="С" t2="Ь" t3="Ӧ" uri="50240-s-lapiyan" id="50240">
      <l pos="Prc" type="AN">сьӧлапиян</l>
        <l_var type="molodtsov-cyr">ԍӧлапіјан</l_var>
@@ -6697,18 +6698,18 @@
      </xg>
    </mg>
 </e>
-<e>
+  <e>
    <lg t1="С" t2="Я" t3="Р" uri="50811-syark-dchan" id="50811">
      <l pos="Prc" type="AN">сяркӧдчан</l>
        <l_var type="molodtsov-cyr">ԍаркӧччан</l_var>
    </lg>
    <mg relId="0"> <sg><s s_type="see">сярган в 1 значении</s></sg>
      <tg xml:lang="rus">
-       <t></t>
+       <t/>
      </tg>
    </mg>
 </e>
-<e>
+  <e>
    <lg t1="С" t2="Ё" t3="Н" uri="47016-syonan" id="47016">
      <l pos="Prc" type="AN">сёнан</l>
        <l_var type="molodtsov-cyr">ԍонан</l_var>
@@ -6723,18 +6724,18 @@
      </xg>
    </mg>
 </e>
-<e>
+  <e>
    <lg t1="С" t2="Ё" t3="Р" uri="47047-syorkni-galan" id="47047">
      <l pos="Prc" type="AN">сёркни-галан</l>
        <l_var type="molodtsov-cyr">ԍоркԋі-галан</l_var>
    </lg>
    <mg relId="0"> <sg><s s_type="see">сёркниулов</s></sg>
      <tg xml:lang="rus">
-       <t></t>
+       <t/>
      </tg>
    </mg>
 </e>
-<e>
+  <e>
    <lg t1="С" t2="Ё" t3="Я" uri="47158-syoyan-yuan" id="47158">
      <l pos="Prc" type="AN">сёян-юан</l>
        <l_var type="molodtsov-cyr">ԍојан-јуан</l_var>
@@ -6773,7 +6774,7 @@
      </xg>
    </mg>
 </e>
-<e>
+  <e>
    <lg t1="Т" t2="А" t3="Б" uri="50878-tab-yan" id="50878">
      <l pos="Prc" type="AN">табъян</l>
        <l_var type="molodtsov-cyr">табјан</l_var>
@@ -6784,7 +6785,7 @@
      </tg>
    </mg>
 </e>
-<e>
+  <e>
    <lg t1="Т" t2="А" t3="И" uri="50952-taitana" id="50952">
      <l pos="Prc" type="ANA">таитана</l>
        <l_var type="molodtsov-cyr">таітана</l_var>
@@ -6795,14 +6796,14 @@
      </tg>
    </mg>
 </e>
-<e>
+  <e>
    <lg t1="Т" t2="А" t3="К" uri="50977-tak-dan" id="50977">
      <l pos="Prc" type="AN">такӧдан</l>
        <l_var type="molodtsov-cyr">такӧԁан</l_var>
    </lg>
-   <mg relId="0"><strong>такӧдан, такӧдана</strong><br />
+   <mg relId="0"><strong>такӧдан, такӧдана</strong><br/>
      <tg xml:lang="rus">
-       <t pos="Prc" type="ANA"> успокоительный, утешительный</t>
+       <t pos="Prc" type="ANA">успокоительный, утешительный</t>
      </tg>
      <xg>
        <x>такӧдан кывъяс</x>
@@ -6810,14 +6811,14 @@
      </xg>
    </mg>
 </e>
-<e>
+  <e>
    <lg t1="Т" t2="А" t3="К" uri="50979-tak-dana" id="50979">
      <l pos="Prc" type="ANA">такӧдана</l>
        <l_var type="molodtsov-cyr">такӧԁана</l_var>
    </lg>
-   <mg relId="0"><strong>такӧдана, такӧдан</strong><br />
+   <mg relId="0"><strong>такӧдана, такӧдан</strong><br/>
      <tg xml:lang="rus">
-       <t pos="Prc" type="ANA"> успокоительный, утешительный</t>
+       <t pos="Prc" type="ANA">успокоительный, утешительный</t>
      </tg>
      <xg>
        <x>такӧдана кывъяс</x>
@@ -6825,7 +6826,7 @@
      </xg>
    </mg>
 </e>
-<e>
+  <e>
    <lg t1="Т" t2="А" t3="Н" uri="51127-tantsuijtan" id="51127">
      <l pos="Prc" type="AN">танцуйтан</l>
        <l_var type="molodtsov-cyr">танцујтан</l_var>
@@ -6833,14 +6834,14 @@
    <mg relId="0">
      <tg xml:lang="rus">
        <t>танцевальный</t>
-     </tg><br />
+     </tg><br/>
      <xg>
        <x>танцуйтан жыр</x>
        <xt xml:lang="rus"> танцевальная комната</xt>
      </xg> <sg><s s_type="seeAlso">йӧктан</s></sg>
    </mg>
 </e>
-<e>
+  <e>
    <lg t1="Т" t2="А" t3="П" uri="51142-tapiktana" id="51142">
      <l pos="Prc" type="ANA">тапиктана</l>
        <l_var type="molodtsov-cyr">тапіктана</l_var>
@@ -6860,7 +6861,7 @@
      </xg>
    </mg>
 </e>
-<e>
+  <e>
    <lg t1="Т" t2="А" t3="Р" uri="51197-tarzyan" id="51197">
      <l pos="Prc" type="AN">тарзян</l>
        <l_var type="molodtsov-cyr">тарԅан</l_var>
@@ -6879,7 +6880,7 @@
      </xg>
    </mg>
 </e>
-<e>
+  <e>
    <lg t1="Т" t2="А" t3="Р" uri="51226-tark-dan" id="51226">
      <l pos="Prc" type="AN">таркӧдан</l>
        <l_var type="molodtsov-cyr">таркӧԁан</l_var>
@@ -6894,7 +6895,7 @@
      </xg>
    </mg>
 </e>
-<e>
+  <e>
    <lg t1="Т" t2="А" t3="С" uri="51276-tasasyan" id="51276">
      <l pos="Prc" type="AN">тасасян</l>
        <l_var type="molodtsov-cyr">тасаԍан</l_var>
@@ -6909,7 +6910,7 @@
      </xg>
    </mg>
 </e>
-<e>
+  <e>
    <lg t1="Т" t2="Е" t3="Л" uri="51441-teleekran" id="51441">
      <l pos="Prc" type="AN">телеэкран</l>
        <l_var type="molodtsov-cyr">ԏеԉеекран</l_var>
@@ -6920,7 +6921,7 @@
      </tg>
    </mg>
 </e>
-<e>
+  <e>
    <lg t1="Т" t2="Е" t3="Р" uri="51497-terpitan" id="51497">
      <l pos="Prc" type="AN">терпитан</l>
        <l_var type="molodtsov-cyr">ԏерпітан</l_var>
@@ -6935,7 +6936,7 @@
      </xg>
    </mg>
 </e>
-<e>
+  <e>
    <lg t1="Т" t2="Е" t3="Р" uri="51499-terpitana" id="51499">
      <l pos="Prc" type="ANA">терпитана</l>
        <l_var type="molodtsov-cyr">ԏерпітана</l_var>
@@ -6950,7 +6951,7 @@
      </xg>
    </mg>
 </e>
-<e>
+  <e>
    <lg t1="Т" t2="Е" t3="Ш" uri="51571-teshitchana" id="51571">
      <l pos="Prc" type="ANA">тешитчана</l>
        <l_var type="molodtsov-cyr">ԏешіччана</l_var>
@@ -6969,14 +6970,14 @@
      </xg>
    </mg>
 </e>
-<e>
+  <e>
    <lg t1="Т" t2="И" t3="Н" uri="51694-tin-gana" id="51694">
      <l pos="Prc" type="ANA">тиньгана</l>
        <l_var type="molodtsov-cyr">ԏіԋгана</l_var>
    </lg>
    <mg relId="0">
      <tg xml:lang="rus">
-       <t pos="Prc" type="ANA"> звенящий</t>
+       <t pos="Prc" type="ANA">звенящий</t>
      </tg>
      <xg>
        <x>тиньгана чӧв</x>
@@ -6984,7 +6985,7 @@
      </xg>
    </mg>
 </e>
-<e>
+  <e>
    <lg t1="Т" t2="О" t3="М" uri="52098-toman-igan" id="52098">
      <l pos="Prc" type="AN">томан-иган</l>
        <l_var type="molodtsov-cyr">томан-іган</l_var>
@@ -6995,7 +6996,7 @@
      </tg>
    </mg>
 </e>
-<e>
+  <e>
    <lg t1="Т" t2="О" t3="М" uri="52092-tomana" id="52092">
      <l pos="Prc" type="ANA">томана</l>
        <l_var type="molodtsov-cyr">томана</l_var>
@@ -7014,7 +7015,7 @@
      </xg>
    </mg>
 </e>
-<e>
+  <e>
    <lg t1="Т" t2="О" t3="М" uri="52138-tomm-dchan" id="52138">
      <l pos="Prc" type="AN">томмӧдчан</l>
        <l_var type="molodtsov-cyr">томмӧччан</l_var>
@@ -7029,7 +7030,7 @@
      </xg>
    </mg>
 </e>
-<e>
+  <e>
    <lg t1="Т" t2="О" t3="П" uri="52216-top-dan" id="52216">
      <l pos="Prc" type="AN">топӧдан</l>
        <l_var type="molodtsov-cyr">топӧԁан</l_var>
@@ -7054,7 +7055,7 @@
      </xg>
    </mg>
 </e>
-<e>
+  <e>
    <lg t1="Т" t2="О" t3="Р" uri="52294-torij-dchan" id="52294">
      <l pos="Prc" type="AN">торйӧдчан</l>
        <l_var type="molodtsov-cyr">торјӧччан</l_var>
@@ -7069,7 +7070,7 @@
      </xg>
    </mg>
 </e>
-<e>
+  <e>
    <lg t1="Т" t2="О" t3="Р" uri="52332-torklasyan" id="52332">
      <l pos="Prc" type="AN">торкласян</l>
        <l_var type="molodtsov-cyr">торклаԍан</l_var>
@@ -7084,7 +7085,7 @@
      </xg>
    </mg>
 </e>
-<e>
+  <e>
    <lg t1="Т" t2="О" t3="Р" uri="52409-torsh-dlana" id="52409">
      <l pos="Prc" type="ANA">торшӧдлана</l>
        <l_var type="molodtsov-cyr">торшӧԁлана</l_var>
@@ -7112,12 +7113,12 @@
      </xg>
    </mg>
 </e>
-<e>
+  <e>
    <lg t1="Т" t2="О" t3="Р" uri="52425-tor-yalan" id="52425">
      <l pos="Prc" type="AN">торъялан</l>
        <l_var type="molodtsov-cyr">торјалан</l_var>
    </lg>
-   <mg relId="0"><strong>торъялан, торъялана</strong><br />
+   <mg relId="0"><strong>торъялан, торъялана</strong><br/>
      <tg xml:lang="rus">
        <t pos="Prc" type="ANA">1. отличающийся <em>от кого-чего-либо</em>; своеобразный; выделяющийся</t>
      </tg>
@@ -7157,7 +7158,7 @@
      </xg>
    </mg>
 </e>
-<e>
+  <e>
    <lg t1="Т" t2="О" t3="Т" uri="52452-totkan" id="52452">
      <l pos="Prc" type="AN">тоткан</l>
        <l_var type="molodtsov-cyr">тоткан</l_var>
@@ -7172,7 +7173,7 @@
      </xg>
    </mg>
 </e>
-<e>
+  <e>
    <lg t1="Т" t2="О" t3="Т" uri="52480-totshkan" id="52480">
      <l pos="Prc" type="AN">тотшкан</l>
        <l_var type="molodtsov-cyr">тощкан</l_var>
@@ -7184,7 +7185,7 @@
      </xg>
    </mg>
 </e>
-<e>
+  <e>
    <lg t1="Т" t2="О" t3="Т" uri="52486-totshk-dchan" id="52486">
      <l pos="Prc" type="AN">тотшкӧдчан</l>
        <l_var type="molodtsov-cyr">тощкӧччан</l_var>
@@ -7199,7 +7200,7 @@
      </xg>
    </mg>
 </e>
-<e>
+  <e>
    <lg t1="Т" t2="О" t3="Ч" uri="52527-tochkan" id="52527">
      <l pos="Prc" type="AN">точкан</l>
        <l_var type="molodtsov-cyr">точкан</l_var>
@@ -7223,7 +7224,7 @@
      </xg>
    </mg>
 </e>
-<e>
+  <e>
    <lg t1="Т" t2="О" t3="Ш" uri="52560-tosh-yan" id="52560">
      <l pos="Prc" type="AN">тошъян</l>
        <l_var type="molodtsov-cyr">тошјан</l_var>
@@ -7238,7 +7239,7 @@
      </xg>
    </mg>
 </e>
-<e>
+  <e>
    <lg t1="Т" t2="Р" t3="А" uri="53184-trachk-dchan" id="53184">
      <l pos="Prc" type="AN">трачкӧдчан</l>
        <l_var type="molodtsov-cyr">трачкӧччан</l_var>
@@ -7246,18 +7247,18 @@
    <mg relId="0">
      <tg xml:lang="rus">
        <t>трескучий</t>
-     </tg><br />
+     </tg><br/>
      <xg>
        <x>трачкӧдчан гӧлӧс </x>
        <xt xml:lang="rus"><acronym title="в переносном значении"><em>перен.</em></acronym> трескучий голос</xt>
-     </xg><br />
+     </xg><br/>
      <xg>
        <x>трачкӧдчан пес</x>
        <xt xml:lang="rus">трескучие дрова</xt>
      </xg>
    </mg>
 </e>
-<e>
+  <e>
    <lg t1="Т" t2="Р" t3="Е" uri="53239-treniruijtchan" id="53239">
      <l pos="Prc" type="AN">тренируйтчан</l>
        <l_var type="molodtsov-cyr">треԋірујччан</l_var>
@@ -7272,7 +7273,7 @@
      </xg>
    </mg>
 </e>
-<e>
+  <e>
    <lg t1="Т" t2="Р" t3="И" uri="53307-trin-gan" id="53307">
      <l pos="Prc" type="AN">триньган</l>
        <l_var type="molodtsov-cyr">тріԋган</l_var>
@@ -7288,7 +7289,7 @@
      </tg>
    </mg>
 </e>
-<e>
+  <e>
    <lg t1="Т" t2="У" t3="В" uri="53512-tuvk-dan" id="53512">
      <l pos="Prc" type="AN">тувкӧдан</l>
        <l_var type="molodtsov-cyr">тувкӧԁан</l_var>
@@ -7303,14 +7304,14 @@
      </xg>
    </mg>
 </e>
-<e>
+  <e>
    <lg t1="Т" t2="У" t3="З" uri="53589-tuztukman" id="53589">
      <l pos="Prc" type="AN">тузтукман</l>
        <l_var type="molodtsov-cyr">тузтукман</l_var>
    </lg>
    <mg relId="0"> <sg><s s_type="see">тузкӧкатш</s></sg>
      <tg xml:lang="rus">
-       <t></t>
+       <t/>
      </tg>
      <xg>
        <x>тузтукман пуктыны</x>
@@ -7318,7 +7319,7 @@
      </xg>
    </mg>
 </e>
-<e>
+  <e>
    <lg t1="Т" t2="У" t3="Й" uri="53620-tuijd-dan" id="53620">
      <l pos="Prc" type="AN">туйдӧдан</l>
        <l_var type="molodtsov-cyr">тујԁӧԁан</l_var>
@@ -7333,7 +7334,7 @@
      </xg>
    </mg>
 </e>
-<e>
+  <e>
    <lg t1="Т" t2="У" t3="Й" uri="53623-tuijd-dana" id="53623">
      <l pos="Prc" type="ANA">туйдӧдана</l>
        <l_var type="molodtsov-cyr">тујԁӧԁана</l_var>
@@ -7352,7 +7353,7 @@
      </xg>
    </mg>
 </e>
-<e>
+  <e>
    <lg t1="Т" t2="У" t3="Л" uri="53704-tulgan" id="53704">
      <l pos="Prc" type="AN">тулган</l>
        <l_var type="molodtsov-cyr">тулган</l_var> <rg><r range_space="dialect"/></rg>
@@ -7363,7 +7364,7 @@
      </tg>
    </mg>
 </e>
-<e>
+  <e>
    <lg t1="Т" t2="У" t3="С" uri="54086-tus-pukan" id="54086">
      <l pos="Prc" type="AN">тусьпукан</l>
        <l_var type="molodtsov-cyr">туԍпукан</l_var> <rg><r range_space="dialect"/></rg>
@@ -7378,7 +7379,7 @@
      </xg>
    </mg>
 </e>
-<e>
+  <e>
    <lg t1="Т" t2="У" t3="Т" uri="54118-tutsan" id="54118">
      <l pos="Prc" type="AN">тутсан</l>
        <l_var type="molodtsov-cyr">тутсан</l_var>
@@ -7389,7 +7390,7 @@
      </tg>
    </mg>
 </e>
-<e>
+  <e>
    <lg t1="Т" t2="У" t3="Я" uri="54178-tuyalan" id="54178">
      <l pos="Prc" type="AN">туялан</l>
        <l_var type="molodtsov-cyr">тујалан</l_var>
@@ -7404,7 +7405,7 @@
      </xg>
    </mg>
 </e>
-<e>
+  <e>
    <lg t1="Т" t2="Ш" t3="У" uri="54570-tshupsyan" id="54570">
      <l pos="Prc" type="AN">тшупсян</l>
        <l_var type="molodtsov-cyr">щупԍан</l_var>
@@ -7419,12 +7420,12 @@
      </xg>
    </mg>
 </e>
-<e>
+  <e>
    <lg t1="Т" t2="Ш" t3="Ы" uri="54606-tshyg-yalan" id="54606">
      <l pos="Prc" type="AN">тшыгъялан</l>
        <l_var type="molodtsov-cyr">щыгјалан</l_var>
    </lg>
-   <mg relId="0"><strong>тшыгъялан, тшыгъялана</strong><br />
+   <mg relId="0"><strong>тшыгъялан, тшыгъялана</strong><br/>
      <tg xml:lang="rus">
        <t>голодный</t>
      </tg>
@@ -7434,12 +7435,12 @@
      </xg>
    </mg>
 </e>
-<e>
+  <e>
    <lg t1="Т" t2="Ш" t3="Ы" uri="54608-tshyg-yalana" id="54608">
      <l pos="Prc" type="ANA">тшыгъялана</l>
        <l_var type="molodtsov-cyr">щыгјалана</l_var>
    </lg>
-   <mg relId="0"><strong>тшыгъялана, тшыгъялан</strong><br />
+   <mg relId="0"><strong>тшыгъялана, тшыгъялан</strong><br/>
      <tg xml:lang="rus">
        <t>голодный</t>
      </tg>
@@ -7449,7 +7450,7 @@
      </xg>
    </mg>
 </e>
-<e>
+  <e>
    <lg t1="Т" t2="Ш" t3="Ы" uri="54647-tshyksyan" id="54647">
      <l pos="Prc" type="AN">тшыксян</l>
        <l_var type="molodtsov-cyr">щыкԍан</l_var>
@@ -7464,7 +7465,7 @@
      </xg>
    </mg>
 </e>
-<e>
+  <e>
    <lg t1="Т" t2="Ш" t3="Ы" uri="54620-tshyk-dan" id="54620">
      <l pos="Prc" type="AN">тшыкӧдан</l>
        <l_var type="molodtsov-cyr">щыкӧԁан</l_var>
@@ -7479,7 +7480,7 @@
      </xg>
    </mg>
 </e>
-<e>
+  <e>
    <lg t1="Т" t2="Ш" t3="Ы" uri="54659-tshynalan" id="54659">
      <l pos="Prc" type="AN">тшыналан</l>
        <l_var type="molodtsov-cyr">щыналан</l_var>
@@ -7494,7 +7495,7 @@
      </xg>
    </mg>
 </e>
-<e>
+  <e>
    <lg t1="Т" t2="Ш" t3="Ы" uri="54673-tshynasyan" id="54673">
      <l pos="Prc" type="AN">тшынасян</l>
        <l_var type="molodtsov-cyr">щынаԍан</l_var>
@@ -7509,7 +7510,7 @@
      </xg>
    </mg>
 </e>
-<e>
+  <e>
    <lg t1="Т" t2="Ш" t3="Ӧ" uri="54448-tsh-k-yalana" id="54448">
      <l pos="Prc" type="ANA">тшӧкъялана</l>
        <l_var type="molodtsov-cyr">щӧкјалана</l_var>
@@ -7528,12 +7529,12 @@
      </xg>
    </mg>
 </e>
-<e>
+  <e>
    <lg t1="Т" t2="Ы" t3="Д" uri="54766-tydalan" id="54766">
      <l pos="Prc" type="AN">тыдалан</l>
        <l_var type="molodtsov-cyr">тыԁалан</l_var>
    </lg>
-   <mg relId="0"><strong>тыдалан, тыдалана</strong><br />
+   <mg relId="0"><strong>тыдалан, тыдалана</strong><br/>
      <tg xml:lang="rus">
        <t>1. видимый, виднеющийся</t>
      </tg>
@@ -7569,12 +7570,12 @@
      </xg>
    </mg>
 </e>
-<e>
+  <e>
    <lg t1="Т" t2="Ы" t3="Д" uri="54768-tydalana" id="54768">
      <l pos="Prc" type="ANA">тыдалана</l>
        <l_var type="molodtsov-cyr">тыԁалана</l_var>
    </lg>
-   <mg relId="0"><strong>тыдалана, тыдалан</strong><br />
+   <mg relId="0"><strong>тыдалана, тыдалан</strong><br/>
      <tg xml:lang="rus">
        <t>1. видимый, виднеющийся</t>
      </tg>
@@ -7618,29 +7619,29 @@
      </xg>
    </mg>
 </e>
-<e>
+  <e>
    <lg t1="Т" t2="Ы" t3="Л" uri="54853-tyl-kan" id="54853">
      <l pos="Prc" type="AN">тылькан</l>
        <l_var type="molodtsov-cyr">тыԉкан</l_var>
    </lg>
-   <mg relId="0"><strong>тылькан, тылька</strong><br /> <rg><r range_space="dialect"/></rg>
+   <mg relId="0"><strong>тылькан, тылька</strong><br/> <rg><r range_space="dialect"/></rg>
      <tg xml:lang="rus">
        <t>чёрный дятел, желна</t>
      </tg>
    </mg>
 </e>
-<e>
+  <e>
    <lg t1="Т" t2="Ы" t3="Р" uri="54898-tyrkan" id="54898">
      <l pos="Prc" type="AN">тыркан</l>
        <l_var type="molodtsov-cyr">тыркан</l_var>
    </lg>
    <mg relId="0"> <sg><s s_type="see">тылькан</s></sg>
      <tg xml:lang="rus">
-       <t></t>
+       <t/>
      </tg>
    </mg>
 </e>
-<e>
+  <e>
    <lg t1="Т" t2="Ы" t3="Ӧ" uri="54869-ty-dchan" id="54869">
      <l pos="Prc" type="AN">тыӧдчан</l>
        <l_var type="molodtsov-cyr">тыӧччан</l_var>
@@ -7655,12 +7656,12 @@
      </xg>
    </mg>
 </e>
-<e>
+  <e>
    <lg t1="Т" t2="Э" t3="Р" uri="55115-termasyan" id="55115">
      <l pos="Prc" type="AN">тэрмасян</l>
        <l_var type="molodtsov-cyr">термаԍан</l_var>
    </lg>
-   <mg relId="0"><strong>тэрмасян, тэрмасяна</strong><br />
+   <mg relId="0"><strong>тэрмасян, тэрмасяна</strong><br/>
      <tg xml:lang="rus">
        <t>1. спешный, неотложный; повышенный; срочный</t>
      </tg>
@@ -7675,7 +7676,7 @@
    </mg>
    <mg relId="1"> <sg><s s_type="see">тэрмасьысь</s></sg>
      <tg xml:lang="rus">
-       <t></t>
+       <t/>
      </tg>
      <xg>
        <x>тэрмасян вӧрас</x>
@@ -7683,12 +7684,12 @@
      </xg>
    </mg>
 </e>
-<e>
+  <e>
    <lg t1="Т" t2="Э" t3="Р" uri="55116-termasyana" id="55116">
      <l pos="Prc" type="ANA">тэрмасяна</l>
        <l_var type="molodtsov-cyr">термаԍана</l_var>
    </lg>
-   <mg relId="0"><strong>тэрмасяна, тэрмасян</strong><br />
+   <mg relId="0"><strong>тэрмасяна, тэрмасян</strong><br/>
      <tg xml:lang="rus">
        <t>1. спешный, неотложный; повышенный; срочный</t>
      </tg>
@@ -7703,7 +7704,7 @@
    </mg>
    <mg relId="1"> <sg><s s_type="see">тэрмасьысь</s></sg>
      <tg xml:lang="rus">
-       <t></t>
+       <t/>
      </tg>
      <xg>
        <x>тэрмасяна вӧрас</x>
@@ -7711,12 +7712,12 @@
      </xg>
    </mg>
 </e>
-<e>
+  <e>
    <lg t1="Т" t2="Э" t3="Р" uri="55117-term-dlan" id="55117">
      <l pos="Prc" type="AN">тэрмӧдлан</l>
        <l_var type="molodtsov-cyr">термӧԁлан</l_var>
    </lg>
-   <mg relId="0"><strong>тэрмӧдлан, тэрмӧдлана</strong><br />
+   <mg relId="0"><strong>тэрмӧдлан, тэрмӧдлана</strong><br/>
      <tg xml:lang="rus">
        <t>1. срочный, немедленный || срочно, немедленно</t>
      </tg>
@@ -7739,12 +7740,12 @@
      </xg>
    </mg>
 </e>
-<e>
+  <e>
    <lg t1="Т" t2="Э" t3="Р" uri="55119-term-dlana" id="55119">
      <l pos="Prc" type="ANA">тэрмӧдлана</l>
        <l_var type="molodtsov-cyr">термӧԁлана</l_var>
    </lg>
-   <mg relId="0"><strong>тэрмӧдлана, тэрмӧдлан</strong><br />
+   <mg relId="0"><strong>тэрмӧдлана, тэрмӧдлан</strong><br/>
      <tg xml:lang="rus">
        <t>1. срочный, немедленный || срочно, немедленно</t>
      </tg>
@@ -7771,7 +7772,7 @@
      </xg>
    </mg>
 </e>
-<e>
+  <e>
    <lg t1="Т" t2="Э" t3="Ч" uri="55178-techsyan" id="55178">
      <l pos="Prc" type="AN">тэчсян</l>
        <l_var type="molodtsov-cyr">течԍан</l_var>
@@ -7808,7 +7809,7 @@
      </xg>
    </mg>
 </e>
-<e>
+  <e>
    <lg t1="Т" t2="Ю" t3="В" uri="55186-tyuvgan" id="55186">
      <l pos="Prc" type="AN">тювган</l>
        <l_var type="molodtsov-cyr">ԏувган</l_var>
@@ -7824,7 +7825,7 @@
    </mg>
    <mg relId="1"> <sg><s s_type="see">тювйӧдчан</s></sg>
      <tg xml:lang="rus">
-       <t></t>
+       <t/>
      </tg>
    </mg>
    <mg relId="2">
@@ -7833,7 +7834,7 @@
      </tg>
    </mg>
 </e>
-<e>
+  <e>
    <lg t1="Т" t2="Ю" t3="В" uri="55192-tyuvzana" id="55192">
      <l pos="Prc" type="ANA">тювзана</l>
        <l_var type="molodtsov-cyr">ԏувзана</l_var>
@@ -7852,7 +7853,7 @@
      </xg>
    </mg>
 </e>
-<e>
+  <e>
    <lg t1="Т" t2="Ю" t3="В" uri="55199-tyuvij-dchan" id="55199">
      <l pos="Prc" type="AN">тювйӧдчан</l>
        <l_var type="molodtsov-cyr">ԏувјӧччан</l_var>
@@ -7863,7 +7864,7 @@
      </tg>
    </mg>
 </e>
-<e>
+  <e>
    <lg t1="Т" t2="Ю" t3="Л" uri="55255-tyul-pan" id="55255">
      <l pos="Prc" type="AN">тюльпан</l>
        <l_var type="molodtsov-cyr">ԏуԉпан</l_var>
@@ -7874,14 +7875,14 @@
      </tg>
    </mg>
 </e>
-<e>
+  <e>
    <lg t1="Т" t2="Ю" t3="Р" uri="55339-tyur-yasyana" id="55339">
      <l pos="Prc" type="ANA">тюръясяна</l>
        <l_var type="molodtsov-cyr">ԏурјаԍана</l_var>
    </lg>
    <mg relId="0">
      <tg xml:lang="rus">
-       <t pos="Prc" type="ANA"> катающийся на колёсах</t>
+       <t pos="Prc" type="ANA">катающийся на колёсах</t>
      </tg>
      <xg>
        <x>тюръясяна тумбочка</x>
@@ -7889,18 +7890,18 @@
      </xg>
    </mg>
 </e>
-<e>
+  <e>
    <lg t1="Т" t2="Я" t3="В" uri="55346-tyavgan" id="55346">
      <l pos="Prc" type="AN">тявган</l>
        <l_var type="molodtsov-cyr">ԏавган</l_var>
    </lg>
-   <mg relId="0"><strong>тявган, тявкан</strong><br />
+   <mg relId="0"><strong>тявган, тявкан</strong><br/>
      <tg xml:lang="rus">
        <t>галка; </t>
      </tg> <sg><s s_type="seeAlso">чавкан</s></sg>
    </mg>
 </e>
-<e>
+  <e>
    <lg t1="Т" t2="Я" t3="П" uri="55395-tyapkan" id="55395">
      <l pos="Prc" type="AN">тяпкан</l>
        <l_var type="molodtsov-cyr">ԏапкан</l_var>
@@ -7915,14 +7916,14 @@
      </xg>
    </mg>
 </e>
-<e>
+  <e>
    <lg t1="Т" t2="І" t3="Р" uri="51867-tiralan" id="51867">
      <l pos="Prc" type="AN">тіралан</l>
        <l_var type="molodtsov-cyr">тіралан</l_var>
    </lg>
-   <mg relId="0"><strong>тіралан, тіралана</strong><br />
+   <mg relId="0"><strong>тіралан, тіралана</strong><br/>
      <tg xml:lang="rus">
-       <t pos="Prc" type="ANA"> дрожащий</t>
+       <t pos="Prc" type="ANA">дрожащий</t>
      </tg>
      <xg>
        <x>тіралан гӧлӧсӧн шыӧдчыны</x>
@@ -7934,14 +7935,14 @@
      </xg>
    </mg>
 </e>
-<e>
+  <e>
    <lg t1="Т" t2="І" t3="Р" uri="51870-tiralana" id="51870">
      <l pos="Prc" type="ANA">тіралана</l>
        <l_var type="molodtsov-cyr">тіралана</l_var>
    </lg>
-   <mg relId="0"><strong>тіралана, тіралан</strong><br />
+   <mg relId="0"><strong>тіралана, тіралан</strong><br/>
      <tg xml:lang="rus">
-       <t pos="Prc" type="ANA"> дрожащий</t>
+       <t pos="Prc" type="ANA">дрожащий</t>
      </tg>
      <xg>
        <x>тіралана гӧлӧсӧн шыӧдчыны</x>
@@ -7953,7 +7954,7 @@
      </xg>
    </mg>
 </e>
-<e>
+  <e>
    <lg t1="Т" t2="І" t3="Я" uri="51950-tiyan" id="51950">
      <l pos="Prc" type="AN">тіян</l>
        <l_var type="molodtsov-cyr">тіјан</l_var>
@@ -7970,18 +7971,18 @@
      <xg>
        <x>кӧн тіян юкмӧсыд?</x>
        <xt xml:lang="rus">где ваш колодец?</xt>
-     </xg><br />
+     </xg><br/>
      <xg>
        <x>тіян лызьясыд век мавтасаӧсь</x>
        <xt xml:lang="rus"> ваши собаки всегда накормлены; вы держите порох сухим </xt><com>(<acronym title="буквально"><em>букв.</em></acronym> у вас лыжи всегда смазаны)</com>
-     </xg><br />
+     </xg><br/>
      <xg>
        <x>тіян служба – кывзысьны, а менам – не пыксьыны</x>
        <xt xml:lang="rus">ваша служба – слушаться, а моя – не сопротивляться</xt>
      </xg>
    </mg>
 </e>
-<e>
+  <e>
    <lg t1="Т" t2="Ӧ" t3="В" uri="52656-t-v-yan" id="52656">
      <l pos="Prc" type="AN">тӧвъян</l>
        <l_var type="molodtsov-cyr">тӧвјан</l_var>
@@ -8000,7 +8001,7 @@
      </xg>
    </mg>
 </e>
-<e>
+  <e>
    <lg t1="Т" t2="Ӧ" t3="В" uri="52658-t-v-yana-gozh-yana" id="52658">
      <l pos="Prc" type="ANA">тӧвъяна-гожъяна</l>
        <l_var type="molodtsov-cyr">тӧвјана-гожјана</l_var>
@@ -8015,19 +8016,19 @@
      </xg>
    </mg>
 </e>
-<e>
+  <e>
    <lg t1="Т" t2="Ӧ" t3="Д" uri="52667-t-dana" id="52667">
      <l pos="Prc" type="ANA">тӧдана</l>
        <l_var type="molodtsov-cyr">тӧԁана</l_var>
    </lg>
    <mg relId="0"> <sg><s s_type="see">тӧдантор</s></sg>
      <tg xml:lang="rus">
-       <t></t>
+       <t/>
      </tg>
    </mg>
    <mg relId="1"> <sg><s s_type="see">тӧдӧмӧн</s></sg>
      <tg xml:lang="rus">
-       <t></t>
+       <t/>
      </tg>
      <xg>
        <x>тӧдана видзны асьтӧ</x>
@@ -8035,7 +8036,7 @@
      </xg>
    </mg>
 </e>
-<e>
+  <e>
    <lg t1="Т" t2="Ӧ" t3="Д" uri="52726-t-dm-stchana" id="52726">
      <l pos="Prc" type="ANA">тӧдмӧстчана</l>
        <l_var type="molodtsov-cyr">тӧԁмӧсчана</l_var>
@@ -8050,7 +8051,7 @@
      </xg>
    </mg>
 </e>
-<e>
+  <e>
    <lg t1="Т" t2="Ӧ" t3="Д" uri="52767-t-dchana" id="52767">
      <l pos="Prc" type="ANA">тӧдчана</l>
        <l_var type="molodtsov-cyr">тӧччана</l_var>
@@ -8069,12 +8070,12 @@
      </xg>
    </mg>
 </e>
-<e>
+  <e>
    <lg t1="Т" t2="Ӧ" t3="Д" uri="52769-t-dchana" id="52769">
      <l pos="Prc" type="ANA">тӧдчана</l>
        <l_var type="molodtsov-cyr">тӧччана</l_var>
    </lg>
-   <mg relId="0"><strong>тӧдчана, тӧдчанаа</strong><br />
+   <mg relId="0"><strong>тӧдчана, тӧдчанаа</strong><br/>
      <tg xml:lang="rus">
        <t>заметно, значительно, существенно; ощутимо || значительный, существенный, большой</t>
      </tg>
@@ -8100,7 +8101,7 @@
      </xg>
    </mg>
 </e>
-<e>
+  <e>
    <lg t1="Т" t2="Ӧ" t3="Д" uri="52775-t-dch-dan" id="52775">
      <l pos="Prc" type="AN">тӧдчӧдан</l>
        <l_var type="molodtsov-cyr">тӧччӧԁан</l_var>
@@ -8115,7 +8116,7 @@
      </xg>
    </mg>
 </e>
-<e>
+  <e>
    <lg t1="Т" t2="Ӧ" t3="Д" uri="52777-t-dch-dana" id="52777">
      <l pos="Prc" type="ANA">тӧдчӧдана</l>
        <l_var type="molodtsov-cyr">тӧччӧԁана</l_var>
@@ -8134,7 +8135,7 @@
      </xg>
    </mg>
 </e>
-<e>
+  <e>
    <lg t1="Т" t2="Ӧ" t3="Ж" uri="52833-t-zhdysyan" id="52833">
      <l pos="Prc" type="AN">тӧждысян</l>
        <l_var type="molodtsov-cyr">тӧжԁыԍан</l_var>
@@ -8153,7 +8154,7 @@
      </xg>
    </mg>
 </e>
-<e>
+  <e>
    <lg t1="Т" t2="Ӧ" t3="Ж" uri="52836-t-zhdysyana" id="52836">
      <l pos="Prc" type="ANA">тӧждысяна</l>
        <l_var type="molodtsov-cyr">тӧжԁыԍана</l_var>
@@ -8184,7 +8185,7 @@
      </xg>
    </mg>
 </e>
-<e>
+  <e>
    <lg t1="Т" t2="Ӧ" t3="Л" uri="52907-t-l-dan" id="52907">
      <l pos="Prc" type="AN">тӧлӧдан</l>
        <l_var type="molodtsov-cyr">тӧлӧԁан</l_var>
@@ -8195,7 +8196,7 @@
      </tg>
    </mg>
 </e>
-<e>
+  <e>
    <lg t1="Т" t2="Ӧ" t3="Л" uri="52911-t-l-dchan" id="52911">
      <l pos="Prc" type="AN">тӧлӧдчан</l>
        <l_var type="molodtsov-cyr">тӧлӧччан</l_var>
@@ -8214,12 +8215,12 @@
      </xg>
    </mg>
 </e>
-<e>
+  <e>
    <lg t1="Т" t2="Ӧ" t3="Р" uri="52961-t-ran" id="52961">
      <l pos="Prc" type="AN">тӧран</l>
        <l_var type="molodtsov-cyr">тӧран</l_var>
    </lg>
-   <mg relId="0"><strong>тӧран, тӧрана</strong><br />
+   <mg relId="0"><strong>тӧран, тӧрана</strong><br/>
      <tg xml:lang="rus">
        <t>1. способный вмещать, способный вместить; ёмкостью, вместимостью с</t>
      </tg>
@@ -8230,12 +8231,12 @@
      </tg>
    </mg>
 </e>
-<e>
+  <e>
    <lg t1="Т" t2="Ӧ" t3="Р" uri="52962-t-rana" id="52962">
      <l pos="Prc" type="ANA">тӧрана</l>
        <l_var type="molodtsov-cyr">тӧрана</l_var>
    </lg>
-   <mg relId="0"><strong>тӧрана, тӧран</strong><br />
+   <mg relId="0"><strong>тӧрана, тӧран</strong><br/>
      <tg xml:lang="rus">
        <t>1. способный вмещать, способный вместить; ёмкостью, вместимостью с</t>
      </tg>
@@ -8250,7 +8251,7 @@
      </xg>
    </mg>
 </e>
-<e>
+  <e>
    <lg t1="Т" t2="Ӧ" t3="Р" uri="52978-t-rguijtan" id="52978">
      <l pos="Prc" type="AN">тӧргуйтан</l>
        <l_var type="molodtsov-cyr">тӧргујтан</l_var>
@@ -8261,7 +8262,7 @@
      </tg> <sg><s s_type="seeAlso">вузасян</s></sg>
    </mg>
 </e>
-<e>
+  <e>
    <lg t1="Т" t2="Ӧ" t3="Ч" uri="53060-t-chitchan" id="53060">
      <l pos="Prc" type="AN">тӧчитчан</l>
        <l_var type="molodtsov-cyr">тӧчіччан</l_var>
@@ -8276,7 +8277,7 @@
      </xg>
    </mg>
 </e>
-<e>
+  <e>
    <lg t1="У" t2="В" t3="Т" uri="55589-uvtyrtan" id="55589">
      <l pos="Prc" type="AN">увтыртан</l>
        <l_var type="molodtsov-cyr">увтыртан</l_var>
@@ -8300,7 +8301,7 @@
      </xg>
    </mg>
 </e>
-<e>
+  <e>
    <lg t1="У" t2="Д" t3="Ж" uri="55705-udzhdysyan" id="55705">
      <l pos="Prc" type="AN">удждысян</l>
        <l_var type="molodtsov-cyr">уҗԁыԍан</l_var>
@@ -8315,7 +8316,7 @@
      </xg>
    </mg>
 </e>
-<e>
+  <e>
    <lg t1="У" t2="Д" t3="Т" uri="55787-udtysyana" id="55787">
      <l pos="Prc" type="ANA">удтысяна</l>
        <l_var type="molodtsov-cyr">уттыԍана</l_var>
@@ -8330,7 +8331,7 @@
      </xg>
    </mg>
 </e>
-<e>
+  <e>
    <lg t1="У" t2="З" t3="Ь" uri="55818-uz-lan" id="55818">
      <l pos="Prc" type="AN">узьлан</l>
        <l_var type="molodtsov-cyr">уԅлан</l_var>
@@ -8366,7 +8367,7 @@
      </xg>
    </mg>
 </e>
-<e>
+  <e>
    <lg t1="У" t2="З" t3="Я" uri="55856-uzyan" id="55856">
      <l pos="Prc" type="AN">узян</l>
        <l_var type="molodtsov-cyr">уԅан</l_var>
@@ -8402,7 +8403,7 @@
      </xg>
    </mg>
 </e>
-<e>
+  <e>
    <lg t1="У" t2="Н" t3="М" uri="56207-unmovs-k-dan" id="56207">
      <l pos="Prc" type="AN">унмовськӧдан</l>
        <l_var type="molodtsov-cyr">унмовԍкӧԁан</l_var>
@@ -8435,14 +8436,14 @@
      </xg>
    </mg>
 </e>
-<e>
+  <e>
    <lg t1="У" t2="Н" t3="М" uri="56221-unmovs-dan" id="56221">
      <l pos="Prc" type="AN">унмовсьӧдан</l>
        <l_var type="molodtsov-cyr">унмовԍӧԁан</l_var>
    </lg>
-   <mg relId="0"><strong>унмовсьӧдан, унмовсьӧдана</strong><br /> <sg><s s_type="see">унмовськӧдан</s></sg>
+   <mg relId="0"><strong>унмовсьӧдан, унмовсьӧдана</strong><br/> <sg><s s_type="see">унмовськӧдан</s></sg>
      <tg xml:lang="rus">
-       <t></t>
+       <t/>
      </tg>
      <xg>
        <x>унмовсьӧдан сьыланкыв</x>
@@ -8450,14 +8451,14 @@
      </xg>
    </mg>
 </e>
-<e>
+  <e>
    <lg t1="У" t2="Н" t3="М" uri="56223-unmovs-dana" id="56223">
      <l pos="Prc" type="ANA">унмовсьӧдана</l>
        <l_var type="molodtsov-cyr">унмовԍӧԁана</l_var>
    </lg>
-   <mg relId="0"><strong>унмовсьӧдана, унмовсьӧдан</strong><br /> <sg><s s_type="see">унмовськӧдан</s></sg>
+   <mg relId="0"><strong>унмовсьӧдана, унмовсьӧдан</strong><br/> <sg><s s_type="see">унмовськӧдан</s></sg>
      <tg xml:lang="rus">
-       <t></t>
+       <t/>
      </tg>
      <xg>
        <x>унмовсьӧдана сьыланкыв</x>
@@ -8465,7 +8466,7 @@
      </xg>
    </mg>
 </e>
-<e>
+  <e>
    <lg t1="У" t2="Р" t3="М" uri="56326-urman" id="56326">
      <l pos="Prc" type="AN">урман</l>
        <l_var type="molodtsov-cyr">урман</l_var>
@@ -8476,7 +8477,7 @@
      </tg>
    </mg>
 </e>
-<e>
+  <e>
    <lg t1="У" t2="С" t3="Т" uri="56457-ustavitana" id="56457">
      <l pos="Prc" type="ANA">уставитана</l>
        <l_var type="molodtsov-cyr">уставітана</l_var>
@@ -8491,12 +8492,12 @@
      </xg>
    </mg>
 </e>
-<e>
+  <e>
    <lg t1="У" t2="С" t3="Я" uri="56545-usyan" id="56545">
      <l pos="Prc" type="AN">усян</l>
        <l_var type="molodtsov-cyr">уԍан</l_var>
    </lg>
-   <mg relId="0"><strong>усян, усяна</strong><br />
+   <mg relId="0"><strong>усян, усяна</strong><br/>
      <tg xml:lang="rus">
        <t>1. что-либо падающее</t>
      </tg>
@@ -8507,7 +8508,7 @@
      <xg>
        <x>батьӧ усян лунӧ</x>
        <xt xml:lang="rus">в день смерти отца</xt>
-     </xg><br />
+     </xg><br/>
      <xg>
        <x>◊ вывсянь усян меным оз ков</x>
        <xt xml:lang="rus"> мне не нужна манна небесная </xt><com>(<acronym title="буквально"><em>букв.</em></acronym> сыплющееся сверху)</com>
@@ -8523,12 +8524,12 @@
      </tg>
    </mg>
 </e>
-<e>
+  <e>
    <lg t1="У" t2="С" t3="Я" uri="56547-usyana" id="56547">
      <l pos="Prc" type="ANA">усяна</l>
        <l_var type="molodtsov-cyr">уԍана</l_var>
    </lg>
-   <mg relId="0"><strong>усяна, усян</strong><br />
+   <mg relId="0"><strong>усяна, усян</strong><br/>
      <tg xml:lang="rus">
        <t>1. что-либо падающее</t>
      </tg>
@@ -8539,7 +8540,7 @@
      <xg>
        <x>батьӧ усяна лунӧ</x>
        <xt xml:lang="rus">в день смерти отца</xt>
-     </xg><br />
+     </xg><br/>
      <xg>
        <x>◊ вывсянь усяна меным оз ков</x>
        <xt xml:lang="rus"> мне не нужна манна небесная </xt><com>(<acronym title="буквально"><em>букв.</em></acronym> сыплющееся сверху)</com>
@@ -8559,7 +8560,7 @@
      </xg>
    </mg>
 </e>
-<e>
+  <e>
    <lg t1="У" t2="Т" t3="Ъ" uri="56599-ut-yasyan" id="56599">
      <l pos="Prc" type="AN">утъясян</l>
        <l_var type="molodtsov-cyr">утјаԍан</l_var>
@@ -8570,7 +8571,7 @@
      </tg>
    </mg>
 </e>
-<e>
+  <e>
    <lg t1="У" t2="Я" t3="Н" uri="56644-uyan" id="56644">
      <l pos="Prc" type="AN">уян</l>
        <l_var type="molodtsov-cyr">ујан</l_var>
@@ -8581,7 +8582,7 @@
      </tg>
    </mg>
 </e>
-<e>
+  <e>
    <lg t1="Ч" t2="А" t3="Й" uri="56976-chaijtana" id="56976">
      <l pos="Prc" type="ANA">чайтана</l>
        <l_var type="molodtsov-cyr">чајтана</l_var>
@@ -8596,18 +8597,18 @@
      </xg>
    </mg>
 </e>
-<e>
+  <e>
    <lg t1="Ч" t2="А" t3="Р" uri="57122-chardalan-gymalan" id="57122">
      <l pos="Prc" type="AN">чардалан-гымалан</l>
        <l_var type="molodtsov-cyr">чарԁалан-гымалан</l_var>
    </lg>
    <mg relId="0"> <sg><s s_type="see">чарда-гыма</s></sg>
      <tg xml:lang="rus">
-       <t></t>
+       <t/>
      </tg>
    </mg>
 </e>
-<e>
+  <e>
    <lg t1="Ч" t2="Е" t3="П" uri="57468-cheplyalana" id="57468">
      <l pos="Prc" type="ANA">чеплялана</l>
        <l_var type="molodtsov-cyr">чепԉалана</l_var>
@@ -8635,29 +8636,29 @@
      </xg>
    </mg>
 </e>
-<e>
+  <e>
    <lg t1="Ч" t2="Е" t3="П" uri="57488-chep-l-tan" id="57488">
      <l pos="Prc" type="AN">чепӧльтан</l>
        <l_var type="molodtsov-cyr">чепӧԉтан</l_var>
    </lg>
    <mg relId="0"> <sg><s s_type="see">чепӧль</s></sg>
      <tg xml:lang="rus">
-       <t></t>
+       <t/>
      </tg>
    </mg>
 </e>
-<e>
+  <e>
    <lg t1="Ч" t2="Е" t3="П" uri="57489-chep-l-tana" id="57489">
      <l pos="Prc" type="ANA">чепӧльтана</l>
        <l_var type="molodtsov-cyr">чепӧԉтана</l_var>
    </lg>
    <mg relId="0"> <sg><s s_type="see">чеплялана</s></sg>
      <tg xml:lang="rus">
-       <t></t>
+       <t/>
      </tg>
    </mg>
 </e>
-<e>
+  <e>
    <lg t1="Ч" t2="Е" t3="Р" uri="57646-chertitchan" id="57646">
      <l pos="Prc" type="AN">чертитчан</l>
        <l_var type="molodtsov-cyr">черԏіччан</l_var>
@@ -8665,14 +8666,14 @@
    <mg relId="0">
      <tg xml:lang="rus">
        <t>чертёжный</t>
-     </tg><br />
+     </tg><br/>
      <xg>
        <x>чертитчан пӧв</x>
        <xt xml:lang="rus"> чертёжная доска</xt>
      </xg> <sg><s s_type="seeAlso">гижтан</s></sg>
    </mg>
 </e>
-<e>
+  <e>
    <lg t1="Ч" t2="И" t3="В" uri="57757-chivzan" id="57757">
      <l pos="Prc" type="AN">чивзан</l>
        <l_var type="molodtsov-cyr">чівзан</l_var>
@@ -8683,7 +8684,7 @@
      </tg>
    </mg>
 </e>
-<e>
+  <e>
    <lg t1="Ч" t2="И" t3="Л" uri="57909-chilzan" id="57909">
      <l pos="Prc" type="AN">чилзан</l>
        <l_var type="molodtsov-cyr">чілзан</l_var>
@@ -8698,7 +8699,7 @@
      </xg>
    </mg>
 </e>
-<e>
+  <e>
    <lg t1="Ч" t2="И" t3="Л" uri="57943-chilskan" id="57943">
      <l pos="Prc" type="AN">чилскан</l>
        <l_var type="molodtsov-cyr">чілскан</l_var>
@@ -8713,25 +8714,25 @@
      </xg>
    </mg>
 </e>
-<e>
+  <e>
    <lg t1="Ч" t2="И" t3="П" uri="58052-chipsasyan" id="58052">
      <l pos="Prc" type="AN">чипсасян</l>
        <l_var type="molodtsov-cyr">чіпсаԍан</l_var>
    </lg>
    <mg relId="0"> <sg><s s_type="see">чипсан во 2 значении</s></sg>
      <tg xml:lang="rus">
-       <t></t>
+       <t/>
      </tg>
    </mg>
 </e>
-<e>
+  <e>
    <lg t1="Ч" t2="О" t3="Б" uri="58300-chobotan" id="58300">
      <l pos="Prc" type="AN">чоботан</l>
        <l_var type="molodtsov-cyr">чоботан</l_var> <rg><r range_space="dialect"/></rg>
    </lg>
    <mg relId="0"> <sg><s s_type="see">чемодан</s></sg>
      <tg xml:lang="rus">
-       <t></t>
+       <t/>
      </tg>
      <xg>
        <x>чукӧртны кӧлуй ыджыд чоботанӧ</x>
@@ -8739,14 +8740,14 @@
      </xg>
    </mg>
 </e>
-<e>
+  <e>
    <lg t1="Ч" t2="О" t3="Л" uri="58360-chol-malan" id="58360">
      <l pos="Prc" type="AN">чолӧмалан</l>
        <l_var type="molodtsov-cyr">чолӧмалан</l_var>
    </lg>
-   <mg relId="0"><strong>чолӧмалан, чолӧмалана</strong><br />
+   <mg relId="0"><strong>чолӧмалан, чолӧмалана</strong><br/>
      <tg xml:lang="rus">
-       <t pos="Prc" type="ANA"> приветственный, поздравительный</t>
+       <t pos="Prc" type="ANA">приветственный, поздравительный</t>
      </tg>
      <xg>
        <x>чолӧмалан кыв</x>
@@ -8754,14 +8755,14 @@
      </xg>
    </mg>
 </e>
-<e>
+  <e>
    <lg t1="Ч" t2="О" t3="Л" uri="58363-chol-malana" id="58363">
      <l pos="Prc" type="ANA">чолӧмалана</l>
        <l_var type="molodtsov-cyr">чолӧмалана</l_var>
    </lg>
-   <mg relId="0"><strong>чолӧмалана, чолӧмалан</strong><br />
+   <mg relId="0"><strong>чолӧмалана, чолӧмалан</strong><br/>
      <tg xml:lang="rus">
-       <t pos="Prc" type="ANA"> приветственный, поздравительный</t>
+       <t pos="Prc" type="ANA">приветственный, поздравительный</t>
      </tg>
      <xg>
        <x>чолӧмалана кыв</x>
@@ -8773,18 +8774,18 @@
      </xg>
    </mg>
 </e>
-<e>
+  <e>
    <lg t1="Ч" t2="О" t3="Л" uri="58370-chol-masyan" id="58370">
      <l pos="Prc" type="AN">чолӧмасян</l>
        <l_var type="molodtsov-cyr">чолӧмаԍан</l_var>
    </lg>
    <mg relId="0"> <sg><s s_type="see">чолӧмалан</s><s s_type="see">чолӧмалана</s></sg>
      <tg xml:lang="rus">
-       <t></t>
+       <t/>
      </tg>
    </mg>
 </e>
-<e>
+  <e>
    <lg t1="Ч" t2="О" t3="Т" uri="58479-chotan" id="58479">
      <l pos="Prc" type="AN">чотан</l>
        <l_var type="molodtsov-cyr">чотан</l_var>
@@ -8808,7 +8809,7 @@
      </tg>
    </mg>
 </e>
-<e>
+  <e>
    <lg t1="Ч" t2="У" t3="Ж" uri="58863-chuzh-yana" id="58863">
      <l pos="Prc" type="ANA">чужъяна</l>
        <l_var type="molodtsov-cyr">чужјана</l_var>
@@ -8816,19 +8817,19 @@
    <mg relId="0">
      <tg xml:lang="rus">
        <t>неподходящий; бросовый</t>
-     </tg><br />
+     </tg><br/>
      <xg>
        <x>абу чужъяна морт</x>
        <xt xml:lang="rus"> человек он не бросовый</xt>
      </xg> <sg><s s_type="seeAlso">шыбитана</s></sg>
    </mg>
 </e>
-<e>
+  <e>
    <lg t1="Ч" t2="У" t3="Й" uri="58873-chuijdan" id="58873">
      <l pos="Prc" type="AN">чуйдан</l>
        <l_var type="molodtsov-cyr">чујԁан</l_var>
    </lg>
-   <mg relId="0"><strong>чуйдан, чуйдана</strong><br />
+   <mg relId="0"><strong>чуйдан, чуйдана</strong><br/>
      <tg xml:lang="rus">
        <t>подсказка || подсказывающий, наводящий</t>
      </tg>
@@ -8838,23 +8839,23 @@
      </xg>
    </mg>
 </e>
-<e>
+  <e>
    <lg t1="Ч" t2="У" t3="Й" uri="58877-chuijd-dan" id="58877">
      <l pos="Prc" type="AN">чуйдӧдан</l>
        <l_var type="molodtsov-cyr">чујԁӧԁан</l_var>
    </lg>
    <mg relId="0"> <sg><s s_type="see">чуйдана</s><s s_type="see">чуйдан</s></sg>
      <tg xml:lang="rus">
-       <t></t>
+       <t/>
      </tg>
    </mg>
 </e>
-<e>
+  <e>
    <lg t1="Ч" t2="У" t3="Й" uri="58894-chuijm-dan" id="58894">
      <l pos="Prc" type="AN">чуймӧдан</l>
        <l_var type="molodtsov-cyr">чујмӧԁан</l_var>
    </lg>
-   <mg relId="0"><strong>чуймӧдан, чуймӧдана</strong><br />
+   <mg relId="0"><strong>чуймӧдан, чуймӧдана</strong><br/>
      <tg xml:lang="rus">
        <t>удивительный, изумительный, ошеломляющий, потрясающий || удивительно, изумительно, потрясающе</t>
      </tg>
@@ -8864,12 +8865,12 @@
      </xg>
    </mg>
 </e>
-<e>
+  <e>
    <lg t1="Ч" t2="У" t3="Й" uri="58895-chuijm-dana" id="58895">
      <l pos="Prc" type="ANA">чуймӧдана</l>
        <l_var type="molodtsov-cyr">чујмӧԁана</l_var>
    </lg>
-   <mg relId="0"><strong>чуймӧдана, чуймӧдан</strong><br />
+   <mg relId="0"><strong>чуймӧдана, чуймӧдан</strong><br/>
      <tg xml:lang="rus">
        <t>удивительный, изумительный, ошеломляющий, потрясающий || удивительно, изумительно, потрясающе</t>
      </tg>
@@ -8887,12 +8888,12 @@
      </xg>
    </mg>
 </e>
-<e>
+  <e>
    <lg t1="Ч" t2="У" t3="К" uri="59046-chuksalan" id="59046">
      <l pos="Prc" type="AN">чуксалан</l>
        <l_var type="molodtsov-cyr">чуксалан</l_var>
    </lg>
-   <mg relId="0"><strong>чуксалан, чуксалана</strong><br />
+   <mg relId="0"><strong>чуксалан, чуксалана</strong><br/>
      <tg xml:lang="rus">
        <t>призывный</t>
      </tg>
@@ -8902,12 +8903,12 @@
      </xg>
    </mg>
 </e>
-<e>
+  <e>
    <lg t1="Ч" t2="У" t3="К" uri="59048-chuksalana" id="59048">
      <l pos="Prc" type="ANA">чуксалана</l>
        <l_var type="molodtsov-cyr">чуксалана</l_var>
    </lg>
-   <mg relId="0"><strong>чуксалана, чуксалан</strong><br />
+   <mg relId="0"><strong>чуксалана, чуксалан</strong><br/>
      <tg xml:lang="rus">
        <t>призывный</t>
      </tg>
@@ -8917,7 +8918,7 @@
      </xg>
    </mg>
 </e>
-<e>
+  <e>
    <lg t1="Ч" t2="У" t3="К" uri="59059-chukt-dana" id="59059">
      <l pos="Prc" type="ANA">чуктӧдана</l>
        <l_var type="molodtsov-cyr">чуктӧԁана</l_var>
@@ -8936,7 +8937,7 @@
      </xg>
    </mg>
 </e>
-<e>
+  <e>
    <lg t1="Ч" t2="У" t3="К" uri="58974-chuk-rtana" id="58974">
      <l pos="Prc" type="ANA">чукӧртана</l>
        <l_var type="molodtsov-cyr">чукӧртана</l_var>
@@ -8951,15 +8952,15 @@
      </xg>
    </mg>
 </e>
-<e>
+  <e>
    <lg t1="Ч" t2="У" t3="К" uri="59014-chuk-stan" id="59014">
      <l pos="Prc" type="AN">чукӧстан</l>
        <l_var type="molodtsov-cyr">чукӧстан</l_var>
    </lg>
-   <mg relId="0"><strong>чукӧстан, чукӧстана</strong><br />
+   <mg relId="0"><strong>чукӧстан, чукӧстана</strong><br/>
      <tg xml:lang="rus">
        <t>1. призывный</t>
-     </tg><br />
+     </tg><br/>
      <xg>
        <x>сувталісны негораа чукӧстан ылнаӧдз</x>
        <xt xml:lang="rus"> встали на таком расстоянии, чтобы можно было негромко окликнуть</xt>
@@ -8975,19 +8976,19 @@
      </xg>
    </mg>
 </e>
-<e>
+  <e>
    <lg t1="Ч" t2="У" t3="К" uri="59016-chuk-stana" id="59016">
      <l pos="Prc" type="ANA">чукӧстана</l>
        <l_var type="molodtsov-cyr">чукӧстана</l_var>
    </lg>
-   <mg relId="0"><strong>чукӧстана, чукӧстан</strong><br />
+   <mg relId="0"><strong>чукӧстана, чукӧстан</strong><br/>
      <tg xml:lang="rus">
        <t>1. призывный</t>
      </tg>
      <xg>
        <x>кылісны чукӧстана горӧдӧмъяс</x>
        <xt xml:lang="rus">прозвучали призывные крики</xt>
-     </xg><br />
+     </xg><br/>
      <xg>
        <x>сувталісны негораа чукӧстана ылнаӧдз</x>
        <xt xml:lang="rus"> встали на таком расстоянии, чтобы можно было негромко окликнуть</xt>
@@ -9003,12 +9004,12 @@
      </xg>
    </mg>
 </e>
-<e>
+  <e>
    <lg t1="Ч" t2="У" t3="Н" uri="59217-chunalan" id="59217">
      <l pos="Prc" type="AN">чуналан</l>
        <l_var type="molodtsov-cyr">чуналан</l_var>
    </lg>
-   <mg relId="0"><strong>чуналан, чуналана</strong><br />
+   <mg relId="0"><strong>чуналан, чуналана</strong><br/>
      <tg xml:lang="rus">
        <t>оглушительный</t>
      </tg>
@@ -9018,12 +9019,12 @@
      </xg>
    </mg>
 </e>
-<e>
+  <e>
    <lg t1="Ч" t2="У" t3="Н" uri="59218-chunalana" id="59218">
      <l pos="Prc" type="ANA">чуналана</l>
        <l_var type="molodtsov-cyr">чуналана</l_var>
    </lg>
-   <mg relId="0"><strong>чуналана, чуналан</strong><br />
+   <mg relId="0"><strong>чуналана, чуналан</strong><br/>
      <tg xml:lang="rus">
        <t>оглушительный</t>
      </tg>
@@ -9033,7 +9034,7 @@
      </xg>
    </mg>
 </e>
-<e>
+  <e>
    <lg t1="Ч" t2="У" t3="Н" uri="59221-chungan" id="59221">
      <l pos="Prc" type="AN">чунган</l>
        <l_var type="molodtsov-cyr">чунган</l_var>
@@ -9053,11 +9054,11 @@
    </mg>
    <mg relId="1"> <sg><s s_type="see">чуналан</s></sg>
      <tg xml:lang="rus">
-       <t></t>
+       <t/>
      </tg>
    </mg>
 </e>
-<e>
+  <e>
    <lg t1="Ч" t2="У" t3="Н" uri="59250-chun-dan" id="59250">
      <l pos="Prc" type="AN">чунӧдан</l>
        <l_var type="molodtsov-cyr">чунӧԁан</l_var>
@@ -9072,12 +9073,12 @@
      </xg>
    </mg>
 </e>
-<e>
+  <e>
    <lg t1="Ч" t2="У" t3="Т" uri="59421-chutkan" id="59421">
      <l pos="Prc" type="AN">чуткан</l>
        <l_var type="molodtsov-cyr">чуткан</l_var>
    </lg>
-   <mg relId="0"><span class="underline">употребляется лишь в составе выражений:</span><br />
+   <mg relId="0"><span class="underline">употребляется лишь в составе выражений:</span><br/>
      <xg>
        <x>чуткан кӧдзыд</x>
        <xt xml:lang="rus">жгучий мороз</xt>
@@ -9088,7 +9089,7 @@
      </xg>
    </mg>
 </e>
-<e>
+  <e>
    <lg t1="Ч" t2="У" t3="Т" uri="59423-chutkana" id="59423">
      <l pos="Prc" type="ANA">чуткана</l>
        <l_var type="molodtsov-cyr">чуткана</l_var>
@@ -9111,14 +9112,14 @@
      </xg>
    </mg>
 </e>
-<e>
+  <e>
    <lg t1="Ч" t2="У" t3="Т" uri="59429-chutkasyan" id="59429">
      <l pos="Prc" type="AN">чуткасян</l>
        <l_var type="molodtsov-cyr">чуткаԍан</l_var>
    </lg>
    <mg relId="0"> <sg><s s_type="see">чуткасьысь</s></sg>
      <tg xml:lang="rus">
-       <t></t>
+       <t/>
      </tg>
      <xg>
        <x>чуткасян сутуга</x>
@@ -9126,14 +9127,14 @@
      </xg>
    </mg>
 </e>
-<e>
+  <e>
    <lg t1="Ч" t2="У" t3="Т" uri="59440-chut-dchan" id="59440">
      <l pos="Prc" type="AN">чутӧдчан</l>
        <l_var type="molodtsov-cyr">чутӧччан</l_var>
    </lg>
    <mg relId="0"> <sg><s s_type="see">чуткасьысь</s></sg>
      <tg xml:lang="rus">
-       <t></t>
+       <t/>
      </tg>
      <xg>
        <x>ӧдйӧджык колӧ купайтчыны, мед мездысьны чутӧдчан пӧсьысь</x>
@@ -9141,7 +9142,7 @@
      </xg>
    </mg>
 </e>
-<e>
+  <e>
    <lg t1="Ч" t2="У" t3="Ш" uri="59459-chushan" id="59459">
      <l pos="Prc" type="AN">чушан</l>
        <l_var type="molodtsov-cyr">чушан</l_var>
@@ -9161,7 +9162,7 @@
      </xg>
    </mg>
 </e>
-<e>
+  <e>
    <lg t1="Ч" t2="Ӧ" t3="В" uri="58558-ch-vpan" id="58558">
      <l pos="Prc" type="AN">чӧвпан</l>
        <l_var type="molodtsov-cyr">чӧвпан</l_var>
@@ -9169,14 +9170,14 @@
    <mg relId="0">
      <tg xml:lang="rus">
        <t>каравай, коврига, булка</t>
-     </tg><br />
+     </tg><br/>
      <xg>
        <x>банйӧм чӧвпан</x>
        <xt xml:lang="rus"> румяная булка</xt>
      </xg> <sg><s s_type="seeAlso">тупӧсь</s></sg>
    </mg>
 </e>
-<e>
+  <e>
    <lg t1="Ч" t2="Ӧ" t3="В" uri="58566-ch-vtan" id="58566">
      <l pos="Prc" type="AN">чӧвтан</l>
        <l_var type="molodtsov-cyr">чӧвтан</l_var>
@@ -9191,7 +9192,7 @@
      </xg>
    </mg>
 </e>
-<e>
+  <e>
    <lg t1="Ч" t2="Ӧ" t3="Л" uri="58632-ch-lan" id="58632">
      <l pos="Prc" type="AN">чӧлан</l>
        <l_var type="molodtsov-cyr">чӧлан</l_var>
@@ -9218,7 +9219,7 @@
      </xg>
    </mg>
 </e>
-<e>
+  <e>
    <lg t1="Ч" t2="Ӧ" t3="С" uri="58731-ch-s-dan" id="58731">
      <l pos="Prc" type="AN">чӧсӧдан</l>
        <l_var type="molodtsov-cyr">чӧсӧԁан</l_var>
@@ -9242,7 +9243,7 @@
      </xg>
    </mg>
 </e>
-<e>
+  <e>
    <lg t1="Ш" t2="А" t3="Р" uri="59851-sharskan" id="59851">
      <l pos="Prc" type="AN">шарскан</l>
        <l_var type="molodtsov-cyr">шарскан</l_var>
@@ -9262,18 +9263,18 @@
      </tg>
    </mg>
 </e>
-<e>
+  <e>
    <lg t1="Ш" t2="В" t3="А" uri="60007-shvach-dchan" id="60007">
      <l pos="Prc" type="AN">швачӧдчан</l>
        <l_var type="molodtsov-cyr">швачӧччан</l_var>
    </lg>
    <mg relId="0"> <sg><s s_type="see">швачкакылан</s></sg>
      <tg xml:lang="rus">
-       <t></t>
+       <t/>
      </tg>
    </mg>
 </e>
-<e>
+  <e>
    <lg t1="Ш" t2="Е" t3="Д" uri="60197-shedan" id="60197">
      <l pos="Prc" type="AN">шедан</l>
        <l_var type="molodtsov-cyr">шеԁан</l_var>
@@ -9292,7 +9293,7 @@
      </xg>
    </mg>
 </e>
-<e>
+  <e>
    <lg t1="Ш" t2="Е" t3="Д" uri="60198-shedana" id="60198">
      <l pos="Prc" type="ANA">шедана</l>
        <l_var type="molodtsov-cyr">шеԁана</l_var>
@@ -9312,12 +9313,12 @@
      </xg>
    </mg>
 </e>
-<e>
+  <e>
    <lg t1="Ш" t2="Е" t3="М" uri="60250-shem-sm-dan" id="60250">
      <l pos="Prc" type="AN">шемӧсмӧдан</l>
        <l_var type="molodtsov-cyr">шемӧсмӧԁан</l_var>
    </lg>
-   <mg relId="0"><strong>шемӧсмӧдан, шемӧсмӧдана</strong><br />
+   <mg relId="0"><strong>шемӧсмӧдан, шемӧсмӧдана</strong><br/>
      <tg xml:lang="rus">
        <t>1. изумительный, удивительный, потрясающий</t>
      </tg>
@@ -9348,12 +9349,12 @@
      </xg>
    </mg>
 </e>
-<e>
+  <e>
    <lg t1="Ш" t2="Е" t3="М" uri="60253-shem-sm-dana" id="60253">
      <l pos="Prc" type="ANA">шемӧсмӧдана</l>
        <l_var type="molodtsov-cyr">шемӧсмӧԁана</l_var>
    </lg>
-   <mg relId="0"><strong>шемӧсмӧдана, шемӧсмӧдан</strong><br />
+   <mg relId="0"><strong>шемӧсмӧдана, шемӧсмӧдан</strong><br/>
      <tg xml:lang="rus">
        <t>1. изумительный, удивительный, потрясающий</t>
      </tg>
@@ -9388,14 +9389,14 @@
      </xg>
    </mg>
 </e>
-<e>
+  <e>
    <lg t1="Ш" t2="Е" t3="М" uri="60275-shem-stan" id="60275">
      <l pos="Prc" type="AN">шемӧстан</l>
        <l_var type="molodtsov-cyr">шемӧстан</l_var>
    </lg>
-   <mg relId="0"><strong>шемӧстан, шемӧстана</strong><br /> <sg><s s_type="see">шензьӧдана</s></sg>
+   <mg relId="0"><strong>шемӧстан, шемӧстана</strong><br/> <sg><s s_type="see">шензьӧдана</s></sg>
      <tg xml:lang="rus">
-       <t></t>
+       <t/>
      </tg>
      <xg>
        <x>шемӧстан выльтор</x>
@@ -9403,12 +9404,12 @@
      </xg>
    </mg>
 </e>
-<e>
+  <e>
    <lg t1="Ш" t2="Е" t3="Н" uri="60306-shenzyan" id="60306">
      <l pos="Prc" type="AN">шензян</l>
        <l_var type="molodtsov-cyr">шенԅан</l_var>
    </lg>
-   <mg relId="0"><strong>шензян, шензяна</strong><br />
+   <mg relId="0"><strong>шензян, шензяна</strong><br/>
      <tg xml:lang="rus">
        <t>удивляющийся; недоумевающий, недоумённый || удивлённо, изумлённо, недоумённо</t>
      </tg>
@@ -9430,7 +9431,7 @@
      </xg>
    </mg>
 </e>
-<e>
+  <e>
    <lg t1="Ш" t2="К" t3="О" uri="60484-shkorknitana" id="60484">
      <l pos="Prc" type="ANA">шкоркнитана</l>
        <l_var type="molodtsov-cyr">шкоркԋітана</l_var>
@@ -9446,7 +9447,7 @@
      </tg>
    </mg>
 </e>
-<e>
+  <e>
    <lg t1="Ш" t2="Л" t3="И" uri="60665-shlivgan" id="60665">
      <l pos="Prc" type="AN">шливган</l>
        <l_var type="molodtsov-cyr">шԉівган</l_var>
@@ -9461,7 +9462,7 @@
      </xg>
    </mg>
 </e>
-<e>
+  <e>
    <lg t1="Ш" t2="М" t3="О" uri="60980-shmonitan" id="60980">
      <l pos="Prc" type="AN">шмонитан</l>
        <l_var type="molodtsov-cyr">шмоԋітан</l_var>
@@ -9476,7 +9477,7 @@
      </xg>
    </mg>
 </e>
-<e>
+  <e>
    <lg t1="Ш" t2="М" t3="О" uri="60981-shmonitana" id="60981">
      <l pos="Prc" type="ANA">шмонитана</l>
        <l_var type="molodtsov-cyr">шмоԋітана</l_var>
@@ -9499,7 +9500,7 @@
      </xg>
    </mg>
 </e>
-<e>
+  <e>
    <lg t1="Ш" t2="О" t3="Б" uri="61133-shobr-dlan" id="61133">
      <l pos="Prc" type="AN">шобрӧдлан</l>
        <l_var type="molodtsov-cyr">шобрӧԁлан</l_var>
@@ -9514,7 +9515,7 @@
      </xg>
    </mg>
 </e>
-<e>
+  <e>
    <lg t1="Ш" t2="О" t3="Г" uri="61177-shogman" id="61177">
      <l pos="Prc" type="AN">шогман</l>
        <l_var type="molodtsov-cyr">шогман</l_var>
@@ -9537,7 +9538,7 @@
      </xg>
    </mg>
 </e>
-<e>
+  <e>
    <lg t1="Ш" t2="О" t3="Г" uri="61178-shogmana" id="61178">
      <l pos="Prc" type="ANA">шогмана</l>
        <l_var type="molodtsov-cyr">шогмана</l_var>
@@ -9572,14 +9573,14 @@
      </xg>
    </mg>
 </e>
-<e>
+  <e>
    <lg t1="Ш" t2="О" t3="Г" uri="61199-shog-dana" id="61199">
      <l pos="Prc" type="ANA">шогӧдана</l>
        <l_var type="molodtsov-cyr">шогӧԁана</l_var>
    </lg>
    <mg relId="0">
      <tg xml:lang="rus">
-       <t pos="Prc" type="ANA"> наводящий тоску, грусть</t>
+       <t pos="Prc" type="ANA">наводящий тоску, грусть</t>
      </tg>
      <xg>
        <x>шогӧдана сьыланкыв</x>
@@ -9587,12 +9588,12 @@
      </xg>
    </mg>
 </e>
-<e>
+  <e>
    <lg t1="Ш" t2="О" t3="Н" uri="61418-shontan" id="61418">
      <l pos="Prc" type="AN">шонтан</l>
        <l_var type="molodtsov-cyr">шонтан</l_var>
    </lg>
-   <mg relId="0"><strong>шонтан, шонтана</strong><br />
+   <mg relId="0"><strong>шонтан, шонтана</strong><br/>
      <tg xml:lang="rus">
        <t>нагревательный, согревательный; согревающий; отопительный</t>
      </tg>
@@ -9606,12 +9607,12 @@
      </xg>
    </mg>
 </e>
-<e>
+  <e>
    <lg t1="Ш" t2="О" t3="Н" uri="61421-shontana" id="61421">
      <l pos="Prc" type="ANA">шонтана</l>
        <l_var type="molodtsov-cyr">шонтана</l_var>
    </lg>
-   <mg relId="0"><strong>шонтана, шонтан</strong><br />
+   <mg relId="0"><strong>шонтана, шонтан</strong><br/>
      <tg xml:lang="rus">
        <t>нагревательный, согревательный; согревающий; отопительный</t>
      </tg>
@@ -9629,7 +9630,7 @@
      </xg>
    </mg>
 </e>
-<e>
+  <e>
    <lg t1="Ш" t2="О" t3="Н" uri="61441-shon-yan" id="61441">
      <l pos="Prc" type="AN">шонъян</l>
        <l_var type="molodtsov-cyr">шонјан</l_var>
@@ -9640,19 +9641,19 @@
      </tg>
    </mg>
 </e>
-<e>
+  <e>
    <lg t1="Ш" t2="У" t3="А" uri="61909-shuan" id="61909">
      <l pos="Prc" type="AN">шуан</l>
        <l_var type="molodtsov-cyr">шуан</l_var>
    </lg>
    <mg relId="0"> <sg><s s_type="see">шуантор</s></sg>
      <tg xml:lang="rus">
-       <t></t>
+       <t/>
      </tg>
    </mg>
    <mg relId="1">
      <tg xml:lang="rus">
-       <t pos="Prc" type="ANA"> <em>в определённых сочетаниях</em> решающий</t>
+       <t pos="Prc" type="ANA"><em>в определённых сочетаниях</em> решающий</t>
      </tg>
      <xg>
        <x>шуан гӧлӧс</x>
@@ -9664,14 +9665,14 @@
      </xg>
    </mg>
 </e>
-<e>
+  <e>
    <lg t1="Ш" t2="У" t3="А" uri="61911-shuana" id="61911">
      <l pos="Prc" type="ANA">шуана</l>
        <l_var type="molodtsov-cyr">шуана</l_var>
    </lg>
    <mg relId="0">
      <tg xml:lang="rus">
-       <t pos="Prc" type="ANA"> сказанный; устный</t>
+       <t pos="Prc" type="ANA">сказанный; устный</t>
      </tg>
      <xg>
        <x>шуана кывъяс</x>
@@ -9687,7 +9688,7 @@
      </xg>
    </mg>
 </e>
-<e>
+  <e>
    <lg t1="Ш" t2="У" t3="З" uri="61996-shuz-dchan" id="61996">
      <l pos="Prc" type="AN">шузьӧдчан</l>
        <l_var type="molodtsov-cyr">шуԅӧччан</l_var>
@@ -9702,7 +9703,7 @@
      </xg>
    </mg>
 </e>
-<e>
+  <e>
    <lg t1="Ш" t2="У" t3="Л" uri="62067-shulyalana" id="62067">
      <l pos="Prc" type="ANA">шулялана</l>
        <l_var type="molodtsov-cyr">шуԉалана</l_var>
@@ -9727,7 +9728,7 @@
      </xg>
    </mg>
 </e>
-<e>
+  <e>
    <lg t1="Ш" t2="У" t3="Р" uri="62190-shurk-yalana" id="62190">
      <l pos="Prc" type="ANA">шуркъялана</l>
        <l_var type="molodtsov-cyr">шуркјалана</l_var>
@@ -9746,7 +9747,7 @@
      </xg>
    </mg>
 </e>
-<e>
+  <e>
    <lg t1="Ш" t2="У" t3="Т" uri="62247-shutitana" id="62247">
      <l pos="Prc" type="ANA">шутитана</l>
        <l_var type="molodtsov-cyr">шуԏітана</l_var>
@@ -9769,7 +9770,7 @@
      </xg>
    </mg>
 </e>
-<e>
+  <e>
    <lg t1="Ш" t2="У" t3="Т" uri="62277-shut-lyalana" id="62277">
      <l pos="Prc" type="ANA">шутьлялана</l>
        <l_var type="molodtsov-cyr">шуԏԉалана</l_var>
@@ -9788,7 +9789,7 @@
      </xg>
    </mg>
 </e>
-<e>
+  <e>
    <lg t1="Ш" t2="У" t3="Т" uri="62281-shut-lyan" id="62281">
      <l pos="Prc" type="AN">шутьлян</l>
        <l_var type="molodtsov-cyr">шуԏԉан</l_var> <rg><r range_space="dialect"/></rg>
@@ -9799,14 +9800,14 @@
      </tg> <sg><s s_type="seeAlso">пӧлян во 2 значении</s></sg>
    </mg>
 </e>
-<e>
+  <e>
    <lg t1="Ш" t2="Ы" t3="Б" uri="62374-shybitan" id="62374">
      <l pos="Prc" type="AN">шыбитан</l>
        <l_var type="molodtsov-cyr">шыбітан</l_var>
    </lg>
-   <mg relId="0"><strong>шыбитан, шыбитана</strong><br />
+   <mg relId="0"><strong>шыбитан, шыбитана</strong><br/>
      <tg xml:lang="rus">
-       <t pos="Prc" type="ANA"> бросовый; такой, который следует выбросить</t>
+       <t pos="Prc" type="ANA">бросовый; такой, который следует выбросить</t>
      </tg>
      <xg>
        <x>абу шыбитан</x>
@@ -9814,14 +9815,14 @@
      </xg>
    </mg>
 </e>
-<e>
+  <e>
    <lg t1="Ш" t2="Ы" t3="Б" uri="62375-shybitana" id="62375">
      <l pos="Prc" type="ANA">шыбитана</l>
        <l_var type="molodtsov-cyr">шыбітана</l_var>
    </lg>
-   <mg relId="0"><strong>шыбитана, шыбитан</strong><br />
+   <mg relId="0"><strong>шыбитана, шыбитан</strong><br/>
      <tg xml:lang="rus">
-       <t pos="Prc" type="ANA"> бросовый; такой, который следует выбросить</t>
+       <t pos="Prc" type="ANA">бросовый; такой, который следует выбросить</t>
      </tg>
      <xg>
        <x>абу шыбитана</x>
@@ -9829,14 +9830,14 @@
      </xg>
    </mg>
 </e>
-<e>
+  <e>
    <lg t1="Ш" t2="Ы" t3="Б" uri="62388-shybitchan" id="62388">
      <l pos="Prc" type="AN">шыбитчан</l>
        <l_var type="molodtsov-cyr">шыбіччан</l_var>
    </lg>
-   <mg relId="0"><strong>шыбитчан, шыбитчана</strong><br />
+   <mg relId="0"><strong>шыбитчан, шыбитчана</strong><br/>
      <tg xml:lang="rus">
-       <t pos="Prc" type="ANA"> бросающийся</t>
+       <t pos="Prc" type="ANA">бросающийся</t>
      </tg>
      <xg>
        <x>синмӧ шыбитчан</x>
@@ -9844,14 +9845,14 @@
      </xg>
    </mg>
 </e>
-<e>
+  <e>
    <lg t1="Ш" t2="Ы" t3="Б" uri="62391-shybitchana" id="62391">
      <l pos="Prc" type="ANA">шыбитчана</l>
        <l_var type="molodtsov-cyr">шыбіччана</l_var>
    </lg>
-   <mg relId="0"><strong>шыбитчана, шыбитчан</strong><br />
+   <mg relId="0"><strong>шыбитчана, шыбитчан</strong><br/>
      <tg xml:lang="rus">
-       <t pos="Prc" type="ANA"> бросающийся</t>
+       <t pos="Prc" type="ANA">бросающийся</t>
      </tg>
      <xg>
        <x>синмӧ шыбитчана</x>
@@ -9859,7 +9860,7 @@
      </xg>
    </mg>
 </e>
-<e>
+  <e>
    <lg t1="Ш" t2="Ы" t3="М" uri="62584-shymyrtchan" id="62584">
      <l pos="Prc" type="AN">шымыртчан</l>
        <l_var type="molodtsov-cyr">шымырччан</l_var>
@@ -9874,7 +9875,7 @@
      </xg>
    </mg>
 </e>
-<e>
+  <e>
    <lg t1="Ш" t2="Ы" t3="Р" uri="62686-shyrz-ysyan" id="62686">
      <l pos="Prc" type="AN">шырзьысян</l>
        <l_var type="molodtsov-cyr">шырԅыԍан</l_var>
@@ -9885,7 +9886,7 @@
      </tg>
    </mg>
 </e>
-<e>
+  <e>
    <lg t1="Ш" t2="Ӧ" t3="Й" uri="61511-sh-ij-voshtana" id="61511">
      <l pos="Prc" type="ANA">шӧйӧвоштана</l>
        <l_var type="molodtsov-cyr">шӧјӧвоштана</l_var>
@@ -9904,14 +9905,14 @@
      </xg>
    </mg>
 </e>
-<e>
+  <e>
    <lg t1="Ы" t2="Д" t3="Ж" uri="62847-ydzhd-dlan" id="62847">
      <l pos="Prc" type="AN">ыдждӧдлан</l>
        <l_var type="molodtsov-cyr">ыҗԁӧԁлан</l_var>
    </lg>
-   <mg relId="0"><strong>ыдждӧдлан, ыдждӧдлана</strong><br />
+   <mg relId="0"><strong>ыдждӧдлан, ыдждӧдлана</strong><br/>
      <tg xml:lang="rus">
-       <t pos="Prc" type="ANA"> величальный; хвалебный</t>
+       <t pos="Prc" type="ANA">величальный; хвалебный</t>
      </tg>
      <xg>
        <x>ыдждӧдлан кывъяс</x>
@@ -9923,14 +9924,14 @@
      </xg>
    </mg>
 </e>
-<e>
+  <e>
    <lg t1="Ы" t2="Д" t3="Ж" uri="62849-ydzhd-dlana" id="62849">
      <l pos="Prc" type="ANA">ыдждӧдлана</l>
        <l_var type="molodtsov-cyr">ыҗԁӧԁлана</l_var>
    </lg>
-   <mg relId="0"><strong>ыдждӧдлана, ыдждӧдлан</strong><br />
+   <mg relId="0"><strong>ыдждӧдлана, ыдждӧдлан</strong><br/>
      <tg xml:lang="rus">
-       <t pos="Prc" type="ANA"> величальный; хвалебный</t>
+       <t pos="Prc" type="ANA">величальный; хвалебный</t>
      </tg>
      <xg>
        <x>ыдждӧдлана кывъяс</x>
@@ -9942,14 +9943,14 @@
      </xg>
    </mg>
 </e>
-<e>
+  <e>
    <lg t1="Ы" t2="З" t3="З" uri="62944-yzz-dan" id="62944">
      <l pos="Prc" type="AN">ыззьӧдан</l>
        <l_var type="molodtsov-cyr">ызԅӧԁан</l_var>
    </lg>
-   <mg relId="0"><strong>ыззьӧдан, ызйӧдан</strong><br />
+   <mg relId="0"><strong>ыззьӧдан, ызйӧдан</strong><br/>
      <tg xml:lang="rus">
-       <t pos="Prc" type="ANA"> зажигательный; вдохновляющий</t>
+       <t pos="Prc" type="ANA">зажигательный; вдохновляющий</t>
      </tg>
      <xg>
        <x>ыззьӧдан гӧлӧс</x>
@@ -9961,14 +9962,14 @@
      </xg>
    </mg>
 </e>
-<e>
+  <e>
    <lg t1="Ы" t2="З" t3="Й" uri="62954-yzij-dan" id="62954">
      <l pos="Prc" type="AN">ызйӧдан</l>
        <l_var type="molodtsov-cyr">ызјӧԁан</l_var>
    </lg>
-   <mg relId="0"><strong>ызйӧдан, ыззьӧдан</strong><br />
+   <mg relId="0"><strong>ызйӧдан, ыззьӧдан</strong><br/>
      <tg xml:lang="rus">
-       <t pos="Prc" type="ANA"> зажигательный; вдохновляющий</t>
+       <t pos="Prc" type="ANA">зажигательный; вдохновляющий</t>
      </tg>
      <xg>
        <x>ызйӧдан гӧлӧс</x>
@@ -9980,18 +9981,18 @@
      </xg>
    </mg>
 </e>
-<e>
+  <e>
    <lg t1="Ы" t2="З" t3="Й" uri="62955-yzij-dana" id="62955">
      <l pos="Prc" type="ANA">ызйӧдана</l>
        <l_var type="molodtsov-cyr">ызјӧԁана</l_var>
    </lg>
    <mg relId="0">
      <tg xml:lang="rus">
-       <t pos="Prc" type="ANA"> </t>
+       <t pos="Prc" type="ANA"></t>
      </tg> <sg><s s_type="see">ызйӧдан</s></sg>
    </mg>
 </e>
-<e>
+  <e>
    <lg t1="Ы" t2="Л" t3="Ӧ" uri="63092-yl-dlana" id="63092">
      <l pos="Prc" type="ANA">ылӧдлана</l>
        <l_var type="molodtsov-cyr">ылӧԁлана</l_var>
@@ -10019,7 +10020,7 @@
      </xg>
    </mg>
 </e>
-<e>
+  <e>
    <lg t1="Ы" t2="Л" t3="Ӧ" uri="63102-yl-dchan" id="63102">
      <l pos="Prc" type="AN">ылӧдчан</l>
        <l_var type="molodtsov-cyr">ылӧччан</l_var>
@@ -10027,18 +10028,18 @@
    <mg relId="0">
      <tg xml:lang="rus">
        <t>обманчивый</t>
-     </tg><br />
+     </tg><br/>
      <xg>
        <x>ылӧдчан лун </x>
        <xt xml:lang="rus"><acronym title="в переносном значении"><em>перен.</em></acronym> день шутки и юмора</xt>
-     </xg><br />
+     </xg><br/>
      <xg>
        <x>ылӧдчан поводдя</x>
        <xt xml:lang="rus">обманчивая погода</xt>
      </xg>
    </mg>
 </e>
-<e>
+  <e>
    <lg t1="Ы" t2="Л" t3="Ӧ" uri="63104-yl-dchana" id="63104">
      <l pos="Prc" type="ANA">ылӧдчана</l>
        <l_var type="molodtsov-cyr">ылӧччана</l_var>
@@ -10057,7 +10058,7 @@
      </xg>
    </mg>
 </e>
-<e>
+  <e>
    <lg t1="Ы" t2="Н" t3="Ь" uri="63217-yn-yalan" id="63217">
      <l pos="Prc" type="AN">ыньялан</l>
        <l_var type="molodtsov-cyr">ыԋԋалан</l_var>
@@ -10072,14 +10073,14 @@
      </xg>
    </mg>
 </e>
-<e>
+  <e>
    <lg t1="Ы" t2="П" t3="Ъ" uri="63251-yp-yalan" id="63251">
      <l pos="Prc" type="AN">ыпъялан</l>
        <l_var type="molodtsov-cyr">ыпјалан</l_var>
    </lg>
-   <mg relId="0"><strong>ыпъялан, ыпъялана</strong><br />
+   <mg relId="0"><strong>ыпъялан, ыпъялана</strong><br/>
      <tg xml:lang="rus">
-       <t pos="Prc" type="ANA"> пылающий</t>
+       <t pos="Prc" type="ANA">пылающий</t>
      </tg>
      <xg>
        <x>ыпъялан би</x>
@@ -10095,14 +10096,14 @@
      </xg>
    </mg>
 </e>
-<e>
+  <e>
    <lg t1="Ы" t2="П" t3="Ъ" uri="63253-yp-yalana" id="63253">
      <l pos="Prc" type="ANA">ыпъялана</l>
        <l_var type="molodtsov-cyr">ыпјалана</l_var>
    </lg>
-   <mg relId="0"><strong>ыпъялана, ыпъялана</strong><br />
+   <mg relId="0"><strong>ыпъялана, ыпъялана</strong><br/>
      <tg xml:lang="rus">
-       <t pos="Prc" type="ANA"> пылающий</t>
+       <t pos="Prc" type="ANA">пылающий</t>
      </tg>
      <xg>
        <x>ыпъялана би</x>
@@ -10122,25 +10123,25 @@
      </xg>
    </mg>
 </e>
-<e>
+  <e>
    <lg t1="Ы" t2="Р" t3="З" uri="63271-yrzana" id="63271">
      <l pos="Prc" type="ANA">ырзана</l>
        <l_var type="molodtsov-cyr">ырзана</l_var>
    </lg>
    <mg relId="0">
      <tg xml:lang="rus">
-       <t pos="Prc" type="ANA"> ревущий; рыдающий</t>
+       <t pos="Prc" type="ANA">ревущий; рыдающий</t>
      </tg>
    </mg>
 </e>
-<e>
+  <e>
    <lg t1="Ы" t2="Р" t3="К" uri="63313-yrk-dana" id="63313">
      <l pos="Prc" type="ANA">ыркӧдана</l>
        <l_var type="molodtsov-cyr">ыркӧԁана</l_var>
    </lg>
    <mg relId="0">
      <tg xml:lang="rus">
-       <t pos="Prc" type="ANA"> освежающий</t>
+       <t pos="Prc" type="ANA">освежающий</t>
      </tg>
      <xg>
        <x>ыркӧдана тӧвру</x>
@@ -10152,7 +10153,7 @@
      </xg>
    </mg>
 </e>
-<e>
+  <e>
    <lg t1="Ы" t2="Р" t3="Ш" uri="63396-yrshasyana" id="63396">
      <l pos="Prc" type="ANA">ыршасяна</l>
        <l_var type="molodtsov-cyr">ыршаԍана</l_var>
@@ -10167,7 +10168,7 @@
      </xg>
    </mg>
 </e>
-<e>
+  <e>
    <lg t1="Ы" t2="Р" t3="Ъ" uri="63400-yr-yan" id="63400">
      <l pos="Prc" type="AN">ыръян</l>
        <l_var type="molodtsov-cyr">ырјан</l_var>
@@ -10194,7 +10195,7 @@
      </xg>
    </mg>
 </e>
-<e>
+  <e>
    <lg t1="Ы" t2="Р" t3="Ъ" uri="63402-yr-yana" id="63402">
      <l pos="Prc" type="ANA">ыръяна</l>
        <l_var type="molodtsov-cyr">ырјана</l_var>
@@ -10222,7 +10223,7 @@
      </xg>
    </mg>
 </e>
-<e>
+  <e>
    <lg t1="Ы" t2="Т" t3="Ш" uri="63488-ytshkan" id="63488">
      <l pos="Prc" type="AN">ытшкан</l>
        <l_var type="molodtsov-cyr">ыщкан</l_var>
@@ -10246,11 +10247,11 @@
    </mg>
    <mg relId="1"> <sg><s s_type="see">ытшкысян</s></sg>
      <tg xml:lang="rus">
-       <t></t>
+       <t/>
      </tg>
    </mg>
 </e>
-<e>
+  <e>
    <lg t1="Ы" t2="Т" t3="Ш" uri="63506-ytshkysyan" id="63506">
      <l pos="Prc" type="AN">ытшкысян</l>
        <l_var type="molodtsov-cyr">ыщкыԍан</l_var>
@@ -10265,7 +10266,7 @@
      </xg>
    </mg>
 </e>
-<e>
+  <e>
    <lg t1="Ы" t2="Ш" t3="М" uri="63553-yshman" id="63553">
      <l pos="Prc" type="AN">ышман</l>
        <l_var type="molodtsov-cyr">ышман</l_var>
@@ -10284,7 +10285,7 @@
      </xg>
    </mg>
 </e>
-<e>
+  <e>
    <lg t1="Ы" t2="Ш" t3="М" uri="63555-yshmana" id="63555">
      <l pos="Prc" type="ANA">ышмана</l>
        <l_var type="molodtsov-cyr">ышмана</l_var>
@@ -10307,14 +10308,14 @@
      </xg>
    </mg>
 </e>
-<e>
+  <e>
    <lg t1="Ы" t2="Ш" t3="М" uri="63558-yshm-dana" id="63558">
      <l pos="Prc" type="ANA">ышмӧдана</l>
        <l_var type="molodtsov-cyr">ышмӧԁана</l_var>
    </lg>
    <mg relId="0">
      <tg xml:lang="rus">
-       <t pos="Prc" type="ANA"> вдохновляющий; воодушевляющий</t>
+       <t pos="Prc" type="ANA">вдохновляющий; воодушевляющий</t>
      </tg>
      <xg>
        <x>ышмӧдана кывъяс</x>
@@ -10322,7 +10323,7 @@
      </xg>
    </mg>
 </e>
-<e>
+  <e>
    <lg t1="Э" t2="Л" t3="Ь" uri="63814-el-tana" id="63814">
      <l pos="Prc" type="ANA">эльтана</l>
        <l_var type="molodtsov-cyr">еԉтана</l_var>
@@ -10341,7 +10342,7 @@
      </xg>
    </mg>
 </e>
-<e>
+  <e>
    <lg t1="Э" t2="Л" t3="Ь" uri="63819-el-tchana" id="63819">
      <l pos="Prc" type="ANA">эльтчана</l>
        <l_var type="molodtsov-cyr">еԉччана</l_var>
@@ -10360,12 +10361,12 @@
      </xg>
    </mg>
 </e>
-<e>
+  <e>
    <lg t1="Э" t2="Р" t3="А" uri="63973-eralan" id="63973">
      <l pos="Prc" type="AN">эралан</l>
        <l_var type="molodtsov-cyr">ералан</l_var>
    </lg>
-   <mg relId="0"><strong>эралан, эралана</strong><br />
+   <mg relId="0"><strong>эралан, эралана</strong><br/>
      <tg xml:lang="rus">
        <t pos="Prc" type="ANA">1. рычащий, урчащий; огрызающийся; ворчащий</t>
      </tg>
@@ -10384,12 +10385,12 @@
      </xg>
    </mg>
 </e>
-<e>
+  <e>
    <lg t1="Э" t2="Р" t3="А" uri="63974-eralana" id="63974">
      <l pos="Prc" type="ANA">эралана</l>
        <l_var type="molodtsov-cyr">ералана</l_var>
    </lg>
-   <mg relId="0"><strong>эралана, эралан</strong><br />
+   <mg relId="0"><strong>эралана, эралан</strong><br/>
      <tg xml:lang="rus">
        <t pos="Prc" type="ANA">1. рычащий, урчащий; огрызающийся; ворчащий</t>
      </tg>
@@ -10408,7 +10409,7 @@
      </xg>
    </mg>
 </e>
-<e>
+  <e>
    <lg t1="Э" t2="С" t3="К" uri="64057-eskana" id="64057">
      <l pos="Prc" type="ANA">эскана</l>
        <l_var type="molodtsov-cyr">ескана</l_var>
@@ -10452,7 +10453,7 @@
      </xg>
    </mg>
 </e>
-<e>
+  <e>
    <lg t1="Ю" t2="А" t3="Н" uri="64360-yuan-syoyan" id="64360">
      <l pos="Prc" type="AN">юан-сёян</l>
        <l_var type="molodtsov-cyr">јуан-ԍојан</l_var>
@@ -10463,7 +10464,7 @@
      </tg> <sg><s s_type="seeAlso">сёян-юан</s></sg>
    </mg>
 </e>
-<e>
+  <e>
    <lg t1="Ю" t2="Г" t3="Д" uri="64407-yugdan" id="64407">
      <l pos="Prc" type="AN">югдан</l>
        <l_var type="molodtsov-cyr">југԁан</l_var>
@@ -10490,14 +10491,14 @@
      </xg>
    </mg>
 </e>
-<e>
+  <e>
    <lg t1="Ю" t2="Г" t3="Д" uri="64414-yugd-dana" id="64414">
      <l pos="Prc" type="ANA">югдӧдана</l>
        <l_var type="molodtsov-cyr">југԁӧԁана</l_var>
    </lg>
    <mg relId="0">
      <tg xml:lang="rus">
-       <t pos="Prc" type="ANA"> просветительский</t>
+       <t pos="Prc" type="ANA">просветительский</t>
      </tg>
      <xg>
        <x>йӧзӧс югдӧдана удж</x>
@@ -10505,25 +10506,25 @@
      </xg>
    </mg>
 </e>
-<e>
+  <e>
    <lg t1="Ю" t2="Г" t3="З" uri="64431-yugz-dan" id="64431">
      <l pos="Prc" type="AN">югзьӧдан</l>
        <l_var type="molodtsov-cyr">југԅӧԁан</l_var>
    </lg>
    <mg relId="0"> <sg><s s_type="see">югдӧдан</s></sg>
      <tg xml:lang="rus">
-       <t></t>
+       <t/>
      </tg>
    </mg>
 </e>
-<e>
+  <e>
    <lg t1="Ю" t2="Г" t3="З" uri="64440-yugzyana" id="64440">
      <l pos="Prc" type="ANA">югзяна</l>
        <l_var type="molodtsov-cyr">југԅана</l_var>
    </lg>
    <mg relId="0"> <sg><s s_type="see">югъялан</s><s s_type="see">югъялана</s></sg>
      <tg xml:lang="rus">
-       <t></t>
+       <t/>
      </tg>
      <xg>
        <x>казявны вижов лӧзӧн югзянаӧс</x>
@@ -10531,12 +10532,12 @@
      </xg>
    </mg>
 </e>
-<e>
+  <e>
    <lg t1="Ю" t2="Г" t3="Ъ" uri="64469-yug-yalan" id="64469">
      <l pos="Prc" type="AN">югъялан</l>
        <l_var type="molodtsov-cyr">југјалан</l_var>
    </lg>
-   <mg relId="0"><strong>югъялан, югъялана</strong><br />
+   <mg relId="0"><strong>югъялан, югъялана</strong><br/>
      <tg xml:lang="rus">
        <t>сияющий, сверкающий, блестящий; лоснящийся</t>
      </tg>
@@ -10562,12 +10563,12 @@
      </xg>
    </mg>
 </e>
-<e>
+  <e>
    <lg t1="Ю" t2="Г" t3="Ъ" uri="64472-yug-yalana" id="64472">
      <l pos="Prc" type="ANA">югъялана</l>
        <l_var type="molodtsov-cyr">југјалана</l_var>
    </lg>
-   <mg relId="0"><strong>югъялана, югъялан</strong><br />
+   <mg relId="0"><strong>югъялана, югъялан</strong><br/>
      <tg xml:lang="rus">
        <t>сияющий, сверкающий, блестящий; лоснящийся</t>
      </tg>
@@ -10593,7 +10594,7 @@
      </xg>
    </mg>
 </e>
-<e>
+  <e>
    <lg t1="Ю" t2="Г" t3="Ы" uri="64487-yugydan" id="64487">
      <l pos="Prc" type="AN">югыдан</l>
        <l_var type="molodtsov-cyr">југыԁан</l_var>
@@ -10604,7 +10605,7 @@
      </tg>
    </mg>
 </e>
-<e>
+  <e>
    <lg t1="Ю" t2="К" t3="А" uri="64592-yukan" id="64592">
      <l pos="Prc" type="AN">юкан</l>
        <l_var type="molodtsov-cyr">јукан</l_var>
@@ -10615,7 +10616,7 @@
      </tg>
    </mg>
 </e>
-<e>
+  <e>
    <lg t1="Ю" t2="К" t3="Т" uri="64667-yuktasyan" id="64667">
      <l pos="Prc" type="AN">юктасян</l>
        <l_var type="molodtsov-cyr">јуктаԍан</l_var>
@@ -10647,12 +10648,12 @@
      </xg>
    </mg>
 </e>
-<e>
+  <e>
    <lg t1="Ю" t2="Р" t3="А" uri="64772-yuralan" id="64772">
      <l pos="Prc" type="AN">юралан</l>
        <l_var type="molodtsov-cyr">јуралан</l_var>
    </lg>
-   <mg relId="0"><strong>юралан, юралана</strong><br />
+   <mg relId="0"><strong>юралан, юралана</strong><br/>
      <tg xml:lang="rus">
        <t pos="Prc" type="ANA">1. звенящий, звучащий, раздающийся</t>
      </tg>
@@ -10676,12 +10677,12 @@
      </xg>
    </mg>
 </e>
-<e>
+  <e>
    <lg t1="Ю" t2="Р" t3="А" uri="64773-yuralana" id="64773">
      <l pos="Prc" type="ANA">юралана</l>
        <l_var type="molodtsov-cyr">јуралана</l_var>
    </lg>
-   <mg relId="0"><strong>юралана, юралан</strong><br />
+   <mg relId="0"><strong>юралана, юралан</strong><br/>
      <tg xml:lang="rus">
        <t pos="Prc" type="ANA">1. звенящий, звучащий, раздающийся</t>
      </tg>
@@ -10709,19 +10710,19 @@
      </xg>
    </mg>
 </e>
-<e>
+  <e>
    <lg t1="Ю" t2="Ӧ" t3="Р" uri="64745-yu-rtan" id="64745">
      <l pos="Prc" type="AN">юӧртан</l>
        <l_var type="molodtsov-cyr">јуӧртан</l_var>
    </lg>
-   <mg relId="0"><strong>юӧртан, юӧртана</strong><br />
+   <mg relId="0"><strong>юӧртан, юӧртана</strong><br/>
      <tg xml:lang="rus">
        <t>1. <acronym title="причастие"><em>прич.</em></acronym> извещающий, сообщающий, уведомляющий</t>
-     </tg><br />
+     </tg><br/>
      <xg>
        <x>юӧртан небӧг </x>
        <xt xml:lang="rus"><acronym title="неологизм"><em>неол.</em></acronym> справочник</xt>
-     </xg><br />
+     </xg><br/>
      <xg>
        <x>юӧртан письмӧ</x>
        <xt xml:lang="rus">письмо-сообщение</xt>
@@ -10746,12 +10747,12 @@
      </xg>
    </mg>
 </e>
-<e>
+  <e>
    <lg t1="Ю" t2="Ӧ" t3="Р" uri="64746-yu-rtana" id="64746">
      <l pos="Prc" type="ANA">юӧртана</l>
        <l_var type="molodtsov-cyr">јуӧртана</l_var>
    </lg>
-   <mg relId="0"><strong>юӧртана, юӧртан</strong><br />
+   <mg relId="0"><strong>юӧртана, юӧртан</strong><br/>
      <tg xml:lang="rus">
        <t>1. <acronym title="причастие"><em>прич.</em></acronym> извещающий, сообщающий, уведомляющий</t>
      </tg>
@@ -10779,14 +10780,14 @@
      </xg>
    </mg>
 </e>
-<e>
+  <e>
    <lg t1="Я" t2="Н" t3="Ӧ" uri="65192-yan-dan" id="65192">
      <l pos="Prc" type="AN">янӧдан</l>
        <l_var type="molodtsov-cyr">јанӧԁан</l_var>
    </lg>
-   <mg relId="0"><strong>янӧдан, янӧдана</strong><br />
+   <mg relId="0"><strong>янӧдан, янӧдана</strong><br/>
      <tg xml:lang="rus">
-       <t pos="Prc" type="ANA"> позорящий, унизительный, постыдный</t>
+       <t pos="Prc" type="ANA">позорящий, унизительный, постыдный</t>
      </tg>
      <xg>
        <x>янӧдан кыв шуны</x>
@@ -10794,14 +10795,14 @@
      </xg>
    </mg>
 </e>
-<e>
+  <e>
    <lg t1="Я" t2="Н" t3="Ӧ" uri="65195-yan-dana" id="65195">
      <l pos="Prc" type="ANA">янӧдана</l>
        <l_var type="molodtsov-cyr">јанӧԁана</l_var>
    </lg>
-   <mg relId="0"><strong>янӧдана, янӧдан</strong><br />
+   <mg relId="0"><strong>янӧдана, янӧдан</strong><br/>
      <tg xml:lang="rus">
-       <t pos="Prc" type="ANA"> позорящий, унизительный, постыдный</t>
+       <t pos="Prc" type="ANA">позорящий, унизительный, постыдный</t>
      </tg>
      <xg>
        <x>янӧдана кыв шуны</x>
@@ -10809,7 +10810,7 @@
      </xg>
    </mg>
 </e>
-<e>
+  <e>
    <lg t1="Ё" t2="Д" t3="І" uri="15527-yodipiyan" id="15527">
      <l pos="Prc" type="AN">ёдіпиян</l>
        <l_var type="molodtsov-cyr">јоԁіпіјан</l_var>
@@ -10820,7 +10821,7 @@
      </tg>
    </mg>
 </e>
-<e>
+  <e>
    <lg t1="Ё" t2="С" t3="Ь" uri="15703-yos-tan" id="15703">
      <l pos="Prc" type="AN">ёсьтан</l>
        <l_var type="molodtsov-cyr">јоԍтан</l_var>
@@ -10835,18 +10836,18 @@
      </xg>
    </mg>
 </e>
-<e>
+  <e>
    <lg t1="Ӧ" t2="Б" t3="Л" uri="37226-blezyana" id="37226">
      <l pos="Prc" type="ANA">ӧблезяна</l>
        <l_var type="molodtsov-cyr">ӧблеԅана</l_var>
    </lg>
-   <mg relId="0"><strong><acronym title="старая орфография"><em>ст.орф.</em></acronym> обезьяна</strong><br />
+   <mg relId="0"><strong><acronym title="старая орфография"><em>ст.орф.</em></acronym> обезьяна</strong><br/>
      <tg xml:lang="rus">
        <t>обезьяна || обезьяний</t>
      </tg>
    </mg>
 </e>
-<e>
+  <e>
    <lg t1="Ӧ" t2="В" t3="Т" uri="37292-vtchan" id="37292">
      <l pos="Prc" type="AN">ӧвтчан</l>
        <l_var type="molodtsov-cyr">ӧвччан</l_var>
@@ -10857,7 +10858,7 @@
      </tg>
    </mg>
 </e>
-<e>
+  <e>
    <lg t1="Ӧ" t2="Д" t3="Д" uri="37356-ddz-dchan" id="37356">
      <l pos="Prc" type="AN">ӧддзӧдчан</l>
        <l_var type="molodtsov-cyr">ӧԇԇӧччан</l_var> <rg><r range_space="dialect"/></rg>
@@ -10868,12 +10869,12 @@
      </tg>
    </mg>
 </e>
-<e>
+  <e>
    <lg t1="Ӧ" t2="З" t3="Ъ" uri="37512-z-yan" id="37512">
      <l pos="Prc" type="AN">ӧзъян</l>
        <l_var type="molodtsov-cyr">ӧзјан</l_var>
    </lg>
-   <mg relId="0"><strong>ӧзъян, ӧзъяна</strong><br />
+   <mg relId="0"><strong>ӧзъян, ӧзъяна</strong><br/>
      <tg xml:lang="rus">
        <t>1. горящий; пламенный</t>
      </tg>
@@ -10900,14 +10901,14 @@
      </xg>
    </mg>
 </e>
-<e>
+  <e>
    <lg t1="Ӧ" t2="К" t3="С" uri="37589-ksyan" id="37589">
      <l pos="Prc" type="AN">ӧксян</l>
        <l_var type="molodtsov-cyr">ӧкԍан</l_var>
    </lg>
    <mg relId="0"> <sg><s s_type="see">ӧксьӧм</s></sg>
      <tg xml:lang="rus">
-       <t></t>
+       <t/>
      </tg>
      <xg>
        <x>ӧксян вылын</x>
@@ -10915,14 +10916,14 @@
      </xg>
    </mg>
 </e>
-<e>
+  <e>
    <lg t1="Ӧ" t2="Т" t3="Л" uri="38016-tla-dan" id="38016">
      <l pos="Prc" type="AN">ӧтлаӧдан</l>
        <l_var type="molodtsov-cyr">ӧтлаӧԁан</l_var>
    </lg>
    <mg relId="0" domain="grammar">
      <tg xml:lang="rus">
-       <t><span class="underline">употребляется лишь в составе выражений:</span><br /></t>
+       <t><span class="underline">употребляется лишь в составе выражений:</span><br/></t>
      </tg>
      <xg>
        <x>ӧтлаӧдан союз</x>
@@ -10930,14 +10931,14 @@
      </xg>
    </mg>
 </e>
-<e>
+  <e>
    <lg t1="Ӧ" t2="Ш" t3="Л" uri="38333-shl-pan" id="38333">
      <l pos="Prc" type="AN">ӧшлӧпан</l>
        <l_var type="molodtsov-cyr">ӧшлӧпан</l_var>
    </lg>
    <mg relId="0"> <sg><s s_type="see">ӧслӧп во 2 и 3 значениях</s></sg>
      <tg xml:lang="rus">
-       <t></t>
+       <t/>
      </tg>
      <xg>
        <x>ӧшлӧпан кодь</x>
@@ -10949,5 +10950,4 @@
      </xg>
    </mg>
 </e>
-
-</r> 
+</r>

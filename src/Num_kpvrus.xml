@@ -1,5 +1,42 @@
-<?xml version="1.0" encoding="utf-8"?> <r id="kpvrus" xml:lang="kpv">
-<e>
+<?xml version="1.0" encoding="UTF-8"?>
+<r xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:hfp="http://www.w3.org/2001/XMLSchema-hasFacetAndProperty" xmlns:fn="http://www.w3.org/2005/02/xpath-functions" xsi:noNamespaceSchemaLocation="../../../../../gtcore/schemas/fiu-dict-schema.xsd" xml:lang="kpv">
+  <e>
+   <lg t1="П" t2="Е" t3="Р" uri="39612-pervoij" id="39612">
+     <l hid="Hom1" pos="Det" type="Ord">первой</l>
+       <l_var type="molodtsov-cyr">первој</l_var>
+   </lg>
+   <mg relId="0">
+     <tg xml:lang="rus">
+       <t pos="Det"> <acronym title="имя числительное"><em>числ.</em></acronym> <acronym title="порядковое числительное"><em>порядк.</em></acronym> первый</t>
+     </tg>
+     <xg>
+       <x>первой во</x>
+       <xt xml:lang="rus">первый год</xt>
+     </xg>
+     <xg>
+       <x>первой рейс</x>
+       <xt xml:lang="rus">первый рейс</xt>
+     </xg>
+     <xg>
+       <x>первой артӧ и бур пон тыртӧмавлӧ</x>
+       <xt xml:lang="rus">в первую осень и хорошая собака недобычлива</xt>
+     </xg>
+   </mg>
+   <mg relId="1">
+     <tg xml:lang="rus">
+       <t pos="Det">первичный</t>
+     </tg>
+     <xg>
+       <x>висьӧмлӧн первой кад</x>
+       <xt xml:lang="rus">первичный период болезни</xt>
+     </xg>
+     <xg>
+       <x>первой слӧй</x>
+       <xt xml:lang="rus">первичный слой</xt>
+     </xg>
+   </mg>
+</e>
+  <e>
    <lg t1="В" t2="Е" t3="Т" uri="6228-vetymyn" id="6228">
      <l pos="Num">ветымын</l>
        <l_var type="molodtsov-cyr">ветымын</l_var>
@@ -18,7 +55,7 @@
      </xg>
    </mg>
 </e>
-<e>
+  <e>
    <lg t1="В" t2="И" t3="Т" uri="6953-vit" id="6953">
      <l pos="Num">вит</l>
        <l_var type="molodtsov-cyr">віт</l_var>
@@ -46,7 +83,67 @@
    </xg> 
    </mg>
 </e>
-<e>
+  <e>
+   <lg t1="В" t2="И" t3="Т" uri="6962-vitnan" id="6962"><l pos="Num">витнан</l>
+       <l_var type="molodtsov-cyr">вітнан</l_var>
+   </lg>
+   <mg>
+     <tg xml:lang="rus">
+       <t><acronym title="имя числительное"><em>числ.</em></acronym> <acronym title="собирательное (существительное)"><em>собир.</em></acronym> все пять; вся пятёрка</t>
+     </tg>
+     <xg>
+       <x>витнан чойыс</x>
+       <xt xml:lang="rus">все пять сестёр</xt>
+     </xg>
+     <xg>
+       <x>витнан чуньыс висьӧ</x>
+       <xt xml:lang="rus">все пять пальцев болят</xt>
+     </xg>
+   </mg>
+</e>
+  <e>
+   <lg t1="В" t2="И" t3="Т" uri="6964-vitnannyd" id="6964"><l pos="Num">витнанныд</l>
+       <l_var type="molodtsov-cyr">вітнанныԁ</l_var>
+   </lg>
+   <mg>
+     <tg xml:lang="rus">
+       <t><acronym title="местоимение"><em>мест.</em></acronym> <acronym title="счётно-личное"><em>счётно-личн.</em></acronym> вы пятеро</t>
+     </tg>
+     <xg>
+       <x>витнанныд воинныд?</x>
+       <xt xml:lang="rus">вы все пятеро вернулись?</xt>
+     </xg>
+   </mg>
+</e>
+  <e>
+   <lg t1="В" t2="И" t3="Т" uri="6967-vitnannym" id="6967"><l pos="Num">витнанным</l>
+       <l_var type="molodtsov-cyr">вітнанным</l_var>
+   </lg>
+   <mg>
+     <tg xml:lang="rus">
+       <t><acronym title="местоимение"><em>мест.</em></acronym> <acronym title="счётно-личное"><em>счётно-личн.</em></acronym> мы пятеро</t>
+     </tg>
+     <xg>
+       <x>витнанным ветлам</x>
+       <xt xml:lang="rus">мы все пятеро сходим</xt>
+     </xg>
+   </mg>
+</e>
+  <e>
+   <lg t1="В" t2="И" t3="Т" uri="6970-vitnannys" id="6970"><l pos="Num">витнанныс</l>
+       <l_var type="molodtsov-cyr">вітнанныс</l_var>
+   </lg>
+   <mg>
+     <tg xml:lang="rus">
+       <t><acronym title="местоимение"><em>мест.</em></acronym> <acronym title="счётно-личное"><em>счётно-личн.</em></acronym> они пятеро</t>
+     </tg>
+     <xg>
+       <x>витнаннысӧ ошкӧны</x>
+       <xt xml:lang="rus">их всех пятерых хвалят</xt>
+     </xg>
+   </mg>
+</e>
+  <e>
    <lg t1="В" t2="И" t3="Т" uri="6983-vitsyo" id="6983">
      <l pos="Num">витсё</l>
        <l_var type="molodtsov-cyr">вітԍо</l_var>
@@ -62,7 +159,61 @@
      </xg>
    </mg>
 </e>
-<e>
+  <e>
+   <lg t1="В" t2="И" t3="Т" uri="6986-vitsyo-d" id="6986"><l pos="Num">витсёӧд</l>
+       <l_var type="molodtsov-cyr">вітԍоӧԁ</l_var>
+   </lg>
+   <mg>
+     <tg xml:lang="rus">
+       <t><acronym title="имя числительное"><em>числ.</em></acronym> <acronym title="порядковое числительное"><em>порядк.</em></acronym> пятисотый</t>
+     </tg>
+     <xg>
+       <x>витсёӧд номер</x>
+       <xt xml:lang="rus">пятисотый номер</xt>
+     </xg>
+   </mg>
+</e>
+  <e>
+   <lg t1="В" t2="И" t3="Т" uri="6972-vit-d" id="6972"><l pos="Num">витӧд</l>
+       <l_var type="molodtsov-cyr">вітӧԁ</l_var>
+   </lg>
+   <mg>
+     <tg xml:lang="rus">
+       <t><acronym title="имя числительное"><em>числ.</em></acronym> <acronym title="порядковое числительное"><em>порядк.</em></acronym> пятый</t>
+     </tg>
+     <xg>
+       <x>витӧд юкӧн</x>
+       <xt xml:lang="rus">пятая часть</xt>
+     </xg>
+     <xg>
+       <x>витӧдысь ветлыны</x>
+       <xt xml:lang="rus">съездить в пятый раз</xt>
+     </xg><br/>
+     <xg>
+       <x>◊ витӧд кӧ </x>
+       <xt xml:lang="rus"><acronym title="вводное слово"><em>вводн.сл.</em></acronym> в-пятых</xt>
+     </xg>
+   </mg>
+</e>
+  <e>
+   <lg t1="В" t2="И" t3="Т" uri="6976-vit-n" id="6976"><l pos="Num">витӧн</l>
+       <l_var type="molodtsov-cyr">вітӧн</l_var>
+   </lg>
+   <mg>
+     <tg xml:lang="rus">
+       <t>впятером; пятеро</t>
+     </tg>
+     <xg>
+       <x>витӧн уджавны</x>
+       <xt xml:lang="rus">впятером работать</xt>
+     </xg>
+     <xg>
+       <x>найӧ вӧліны витӧн</x>
+       <xt xml:lang="rus">их было пятеро</xt>
+     </xg>
+   </mg>
+</e>
+  <e>
    <lg t1="Д" t2="А" t3="С" uri="12179-das" id="12179">
      <l pos="Num">дас</l>
        <l_var type="molodtsov-cyr">ԁас</l_var>
@@ -154,12 +305,12 @@
      <xg>
        <x>дас пӧвстӧн</x>
        <xt xml:lang="rus">в десятикратном размере</xt>
-     </xg><br />
+     </xg><br/>
      <xg>
        <x>дас ур </x>
        <xt xml:lang="rus"><acronym title="устаревшее слово"><em>уст.</em></acronym> три копейки </xt>
         <xt xml:lang="rus" src_type="literally:буквально"> десять белок</xt>
-     </xg><br />
+     </xg><br/>
      <xg>
        <x>дас ура деньга</x>
        <xt xml:lang="rus">трёхкопеечная монета</xt>
@@ -178,7 +329,106 @@
    </xg> 
    </mg>
 </e>
-<e>
+  <e>
+   <lg t1="Д" t2="А" t3="С" uri="12189-das-vit" id="12189">
+     <l pos="Num">дас вит</l>
+       <l_var type="molodtsov-cyr">ԁас віт</l_var>
+   </lg>
+   <mg relId="0">
+     <tg xml:lang="rus">
+       <t>пятнадцать</t>
+     </tg>
+   </mg>
+</e>
+  <e>
+   <lg t1="Д" t2="А" t3="С" uri="12192-das-kvaijt" id="12192">
+     <l pos="Num">дас квайт</l>
+       <l_var type="molodtsov-cyr">ԁас квајт</l_var>
+   </lg>
+   <mg relId="0">
+     <tg xml:lang="rus">
+       <t>шестнадцать</t>
+     </tg>
+   </mg>
+</e>
+  <e>
+   <lg t1="Д" t2="А" t3="С" uri="12185-das-kuim" id="12185">
+     <l pos="Num">дас куим</l>
+       <l_var type="molodtsov-cyr">ԁас куім</l_var>
+   </lg>
+   <mg relId="0">
+     <tg xml:lang="rus">
+       <t>тринадцать</t>
+     </tg>
+   </mg>
+</e>
+  <e>
+   <lg t1="Д" t2="А" t3="С" uri="12183-das-kyk" id="12183">
+     <l pos="Num">дас кык</l>
+       <l_var type="molodtsov-cyr">ԁас кык</l_var>
+   </lg>
+   <mg relId="0">
+     <tg xml:lang="rus">
+       <t>двенадцать</t>
+     </tg>
+   </mg>
+</e>
+  <e>
+   <lg t1="Д" t2="А" t3="С" uri="12198-das-k-k-yamys" id="12198">
+     <l pos="Num">дас кӧкъямыс</l>
+       <l_var type="molodtsov-cyr">ԁас кӧкјамыс</l_var>
+   </lg>
+   <mg relId="0">
+     <tg xml:lang="rus">
+       <t>восемнадцать</t>
+     </tg>
+   </mg>
+</e>
+  <e>
+   <lg t1="Д" t2="А" t3="С" uri="12186-das-nyol-" id="12186">
+     <l pos="Num">дас нёль</l>
+       <l_var type="molodtsov-cyr">ԁас ԋоԉ</l_var>
+   </lg>
+   <mg relId="0">
+     <tg xml:lang="rus">
+       <t>четырнадцать</t>
+     </tg>
+   </mg>
+</e>
+  <e>
+   <lg t1="Д" t2="А" t3="С" uri="12195-das-sizim" id="12195">
+     <l pos="Num">дас сизим</l>
+       <l_var type="molodtsov-cyr">ԁас ԍіԅім</l_var>
+   </lg>
+   <mg relId="0">
+     <tg xml:lang="rus">
+       <t>семнадцать</t>
+     </tg>
+   </mg>
+</e>
+  <e>
+   <lg t1="Д" t2="А" t3="С" uri="12201-das-kmys" id="12201">
+     <l pos="Num">дас ӧкмыс</l>
+       <l_var type="molodtsov-cyr">ԁас ӧкмыс</l_var>
+   </lg>
+   <mg relId="0">
+     <tg xml:lang="rus">
+       <t>девятнадцать</t>
+     </tg>
+   </mg>
+</e>
+  <e>
+   <lg t1="Д" t2="А" t3="С" uri="12180-das-ti" id="12180">
+     <l pos="Num">дас ӧти</l>
+       <l_var type="molodtsov-cyr">ԁас ӧԏі</l_var>
+   </lg>
+   <mg relId="0">
+     <tg xml:lang="rus">
+       <t>одиннадцать</t>
+     </tg>
+   </mg>
+</e>
+  <e>
    <lg t1="К" t2="В" t3="А" uri="20454-kvaijt" id="20454">
      <l pos="Num">квайт</l>
        <l_var type="molodtsov-cyr">квајт</l_var>
@@ -214,12 +464,12 @@
      <xg>
        <x>квайтысь чинтыны ӧтиӧс</x>
        <xt xml:lang="rus">из шести вычесть единицу</xt>
-     </xg><br />
+     </xg><br/>
      <xg>
        <x>◊ квайт пӧв костӧ пырны</x>
        <xt xml:lang="rus">умереть </xt>
         <xt xml:lang="rus" src_type="literally:буквально"> зайти меж шести досок</xt>
-     </xg><br />
+     </xg><br/>
      <xg>
        <x>◊ квайт чуня</x>
        <xt xml:lang="rus">а) шестипалый</xt>
@@ -227,7 +477,52 @@
      </xg>
    </mg>
 </e>
-<e>
+  <e>
+   <lg t1="К" t2="В" t3="А" uri="20460-kvaijtnannyd" id="20460">
+     <l pos="Num" type="Coll">квайтнанныд</l>
+       <l_var type="molodtsov-cyr">квајтнанныԁ</l_var>
+   </lg>
+   <mg relId="0">
+     <tg xml:lang="rus">
+       <t><acronym title="имя числительное"><em>числ.</em></acronym> <acronym title="собирательное (существительное)"><em>собир.</em></acronym> вы все шестеро</t>
+     </tg>
+     <xg>
+       <x>квайтнанныдлы лоӧ ветлыны</x>
+       <xt xml:lang="rus">вам всем шестерым придётся сходить</xt>
+     </xg>
+   </mg>
+</e>
+  <e>
+   <lg t1="К" t2="В" t3="А" uri="20462-kvaijtnannym" id="20462">
+     <l pos="Num" type="Coll">квайтнанным</l>
+       <l_var type="molodtsov-cyr">квајтнанным</l_var>
+   </lg>
+   <mg relId="0">
+     <tg xml:lang="rus">
+       <t><acronym title="имя числительное"><em>числ.</em></acronym> <acronym title="собирательное (существительное)"><em>собир.</em></acronym> мы все шестеро</t>
+     </tg>
+     <xg>
+       <x>квайтнанным пӧрысьӧсь</x>
+       <xt xml:lang="rus">мы все шестеро стары</xt>
+     </xg>
+   </mg>
+</e>
+  <e>
+   <lg t1="К" t2="В" t3="А" uri="20464-kvaijtnannys" id="20464">
+     <l pos="Num" type="Coll">квайтнанныс</l>
+       <l_var type="molodtsov-cyr">квајтнанныс</l_var>
+   </lg>
+   <mg relId="0">
+     <tg xml:lang="rus">
+       <t><acronym title="имя числительное"><em>числ.</em></acronym> <acronym title="собирательное (существительное)"><em>собир.</em></acronym> они все шестеро</t>
+     </tg>
+     <xg>
+       <x>квайтнанныс усины война вылын</x>
+       <xt xml:lang="rus">они все шестеро погибли на войне</xt>
+     </xg>
+   </mg>
+</e>
+  <e>
    <lg t1="К" t2="В" t3="А" uri="20477-kvaijtsyo" id="20477">
      <l pos="Num">квайтсё</l>
        <l_var type="molodtsov-cyr">квајтԍо</l_var>
@@ -238,7 +533,7 @@
      </tg>
    </mg>
 </e>
-<e>
+  <e>
    <lg t1="К" t2="В" t3="А" uri="20479-kvaijtymyn" id="20479">
      <l pos="Num">квайтымын</l>
        <l_var type="molodtsov-cyr">квајтымын</l_var>
@@ -257,7 +552,7 @@
      </xg>
    </mg>
 </e>
-<e>
+  <e>
    <lg t1="К" t2="О" t3="Й" uri="22131-koijm-d" id="22131">
      <l pos="Num">коймӧд</l>
        <l_var type="molodtsov-cyr">којмӧԁ</l_var>
@@ -284,7 +579,7 @@
      </xg>
    </mg>
 </e>
-<e>
+  <e>
    <lg t1="К" t2="О" t3="М" uri="22815-komyn" id="22815">
      <l pos="Num">комын</l>
        <l_var type="molodtsov-cyr">комын</l_var>
@@ -319,7 +614,7 @@
      </xg>
    </mg>
 </e>
-<e>
+  <e>
    <lg t1="К" t2="У" t3="И" uri="25210-kuim" id="25210">
      <l pos="Num">куим</l>
        <l_var type="molodtsov-cyr">куім</l_var>
@@ -355,15 +650,15 @@
      <xg>
        <x>куим пӧвста</x>
        <xt xml:lang="rus">тройной</xt>
-     </xg><br />
+     </xg><br/>
      <xg>
        <x>куим ур </x>
        <xt xml:lang="rus"><acronym title="устаревшее слово"><em>уст.</em></acronym> копейка</xt>
-     </xg><br />
+     </xg><br/>
      <xg>
        <x>куим ура </x>
        <xt xml:lang="rus"><acronym title="устаревшее слово"><em>уст.</em></acronym> монета достоинством в копейку</xt>
-     </xg><br />
+     </xg><br/>
      <xg>
        <x>куим час асыв</x>
        <xt xml:lang="rus">три часа утра</xt>
@@ -371,7 +666,7 @@
      <xg>
        <x>мӧдӧдчим куимӧн</x>
        <xt xml:lang="rus">мы отправились втроём</xt>
-     </xg><br />
+     </xg><br/>
      <xg>
        <x>куим рушкуӧ он сёй </x>
        <xt xml:lang="rus" src_type="proverb:пословица">свыше меры не съешь</xt>
@@ -386,7 +681,18 @@
      </xg>
    </mg>
 </e>
-<e>
+  <e>
+   <lg t1="К" t2="У" t3="И" uri="25222-kuim-nyol-" id="25222">
+     <l pos="Num">куим-ӧ-нёль</l>
+       <l_var type="molodtsov-cyr">куім-ӧ-ԋоԉ</l_var>
+   </lg>
+   <mg relId="0">
+     <tg xml:lang="rus">
+       <t><acronym title="имя числительное"><em>числ.</em></acronym> <acronym title="приблизительный падеж"><em>прибл.п.</em></acronym> три-четыре</t>
+     </tg>
+   </mg>
+</e>
+  <e>
    <lg t1="К" t2="У" t3="И" uri="25227-kuimsyo" id="25227">
      <l pos="Num">куимсё</l>
        <l_var type="molodtsov-cyr">куімԍо</l_var>
@@ -397,7 +703,7 @@
      </tg>
    </mg>
 </e>
-<e>
+  <e>
    <lg t1="К" t2="Ы" t3="К" uri="26546-kyk" id="26546">
      <l pos="Num">кык</l>
        <l_var type="molodtsov-cyr">кык</l_var>
@@ -405,7 +711,7 @@
    <mg relId="0">
      <tg xml:lang="rus">
        <t pos="Num"><acronym title="имя числительное"><em>числ.</em></acronym> <acronym title="количественное (послелог, числительное)"><em>колич.</em></acronym></t>
-     </tg><br />
+     </tg><br/>
      <tg xml:lang="rus">
        <t pos="Num">1. два</t>
      </tg>
@@ -473,7 +779,7 @@
    <mg relId="1">
      <tg xml:lang="rus">
        <t pos="Num">двойной, сдвоенный; удвоенный || вдвое; дву-, двух-</t>
-     </tg><br /><stress>&#160;&#160;&#160;кык бана</stress> <acronym title="в прямом значении"><em>прям.</em></acronym> <em>и</em> <acronym title="в переносном значении"><em>перен.</em></acronym> двуличный<br />
+     </tg><br/><stress>   кык бана</stress> <acronym title="в прямом значении"><em>прям.</em></acronym> <em>и</em> <acronym title="в переносном значении"><em>перен.</em></acronym> двуличный<br/>
      <xg>
        <x>кык вевся</x>
        <xt xml:lang="rus">двойной, в два слоя</xt>
@@ -533,21 +839,21 @@
      <xg>
        <x>◊ кык би костӧ веськавны, кык изки костӧ сюрны</x>
        <xt xml:lang="rus">оказаться меж двух огней</xt>
-     </xg><br />
+     </xg><br/>
      <xg>
        <x>◊ кык бӧр кок йылын сулавны</x>
        <xt xml:lang="rus">угождать </xt>
         <xt xml:lang="rus" src_type="literally:буквально"> стоять на задних лапах</xt>
-     </xg><br />
+     </xg><br/>
      <xg>
        <x>◊ кык жель</x>
        <xt xml:lang="rus">две задиры</xt>
-     </xg><br />
+     </xg><br/>
      <xg>
        <x>◊ кык жель костӧ босьтантор</x>
        <xt xml:lang="rus">не стоит ломаного гроша </xt>
         <xt xml:lang="rus" src_type="literally:буквально"> то, что можно взять двумя щепками</xt>
-     </xg><br />
+     </xg><br/>
      <xg>
        <x>◊ кык кымӧр костӧ пуктыны</x>
        <xt xml:lang="rus">положить между двух облаков (не на место; никуда)</xt>
@@ -562,7 +868,7 @@
      </xg>
    </mg>
 </e>
-<e>
+  <e>
    <lg t1="К" t2="Ы" t3="К" uri="26567-kyk-kuim" id="26567">
      <l pos="Num">кык-куим</l>
        <l_var type="molodtsov-cyr">кык-куім</l_var>
@@ -573,7 +879,60 @@
      </tg>
    </mg>
 </e>
-<e>
+  <e>
+   <lg t1="К" t2="Ы" t3="К" uri="26587-kyknannyd" id="26587">
+     <l pos="Num" type="Coll">кыкнанныд</l>
+       <l_var type="molodtsov-cyr">кыкнанныԁ</l_var>
+   </lg>
+   <mg relId="0">
+     <tg xml:lang="rus">
+       <t><acronym title="местоимение"><em>мест.</em></acronym> <acronym title="счётно-личное"><em>счётно-личн.</em></acronym> вы оба</t>
+     </tg>
+     <xg>
+       <x>кыкнанныдлы висьталӧма</x>
+       <xt xml:lang="rus">вам обоим сказано</xt>
+     </xg>
+     <xg>
+       <x>кыкнанныд кӧ шаньӧсь, воча он люкасьӧ</x>
+       <xt xml:lang="rus">если оба покладисты, не будете бодать друг друга</xt>
+     </xg>
+   </mg>
+</e>
+  <e>
+   <lg t1="К" t2="Ы" t3="К" uri="26590-kyknannym" id="26590">
+     <l pos="Num" type="Coll">кыкнанным</l>
+       <l_var type="molodtsov-cyr">кыкнанным</l_var>
+   </lg>
+   <mg relId="0">
+     <tg xml:lang="rus">
+       <t><acronym title="местоимение"><em>мест.</em></acronym> <acronym title="счётно-личное"><em>счётно-личн.</em></acronym> мы оба</t>
+     </tg>
+     <xg>
+       <x>ми кыкнанным ӧтыдждаӧсь</x>
+       <xt xml:lang="rus">мы оба одного возраста</xt>
+     </xg>
+   </mg>
+</e>
+  <e>
+   <lg t1="К" t2="Ы" t3="К" uri="26593-kyknannys" id="26593">
+     <l pos="Num" type="Coll">кыкнанныс</l>
+       <l_var type="molodtsov-cyr">кыкнанныс</l_var>
+   </lg>
+   <mg relId="0">
+     <tg xml:lang="rus">
+       <t><acronym title="местоимение"><em>мест.</em></acronym> <acronym title="счётно-личное"><em>счётно-личн.</em></acronym> они оба</t>
+     </tg>
+     <xg>
+       <x>кыкнанныс ӧткодьӧсь</x>
+       <xt xml:lang="rus">оба они одинаковы</xt>
+     </xg>
+     <xg>
+       <x>кыкнанныс чӧв усины</x>
+       <xt xml:lang="rus">оба приумолкли</xt>
+     </xg>
+   </mg>
+</e>
+  <e>
    <lg t1="К" t2="Ы" t3="К" uri="26612-kyksyo" id="26612">
      <l pos="Num">кыксё</l>
        <l_var type="molodtsov-cyr">кыкԍо</l_var>
@@ -592,7 +951,7 @@
      </xg>
    </mg>
 </e>
-<e>
+  <e>
    <lg t1="К" t2="Ы" t3="К" uri="26624-kykys-kuimys-" id="26624">
      <l pos="Num">кыкысь-куимысь</l>
        <l_var type="molodtsov-cyr">кыкыԍ-куімыԍ</l_var>
@@ -607,7 +966,7 @@
      </xg>
    </mg>
 </e>
-<e>
+  <e>
    <lg t1="К" t2="Ы" t3="К" uri="26601-kyk-n-kyk-n" id="26601">
      <l pos="Num">кыкӧн-кыкӧн</l>
        <l_var type="molodtsov-cyr">кыкӧн-кыкӧн</l_var>
@@ -622,7 +981,7 @@
      </xg>
    </mg>
 </e>
-<e>
+  <e>
    <lg t1="К" t2="Ӧ" t3="К" uri="23988-k-k-yamys" id="23988">
      <l pos="Num">кӧкъямыс</l>
        <l_var type="molodtsov-cyr">кӧкјамыс</l_var>
@@ -665,7 +1024,7 @@
      </xg>
    </mg>
 </e>
-<e>
+  <e>
    <lg t1="К" t2="Ӧ" t3="К" uri="23989-k-k-yamysdas" id="23989">
      <l pos="Num">кӧкъямысдас</l>
        <l_var type="molodtsov-cyr">кӧкјамысԁас</l_var>
@@ -680,7 +1039,7 @@
      </xg>
    </mg>
 </e>
-<e>
+  <e>
    <lg t1="К" t2="Ӧ" t3="К" uri="23998-k-k-yamyssyo" id="23998">
      <l pos="Num">кӧкъямыссё</l>
        <l_var type="molodtsov-cyr">кӧкјамысԍо</l_var>
@@ -691,7 +1050,7 @@
      </tg>
    </mg>
 </e>
-<e>
+  <e>
    <lg t1="М" t2="И" t3="Л" uri="31588-milliard" id="31588">
      <l pos="Num">миллиард</l>
        <l_var type="molodtsov-cyr">міԉԉарԁ</l_var>
@@ -702,7 +1061,7 @@
      </tg>
    </mg>
 </e>
-<e>
+  <e>
    <lg t1="М" t2="И" t3="Л" uri="31595-million" id="31595">
      <l pos="Num">миллион</l>
        <l_var type="molodtsov-cyr">міԉԉон</l_var>
@@ -713,7 +1072,7 @@
      </tg>
    </mg>
 </e>
-<e>
+  <e>
    <lg t1="Н" t2="Е" t3="Л" uri="34121-nelyamyn" id="34121">
      <l pos="Num">нелямын</l>
        <l_var type="molodtsov-cyr">ԋеԉамын</l_var>
@@ -725,19 +1084,19 @@
      <xg>
        <x>сё нелямын</x>
        <xt xml:lang="rus">сто сорок</xt>
-     </xg><br />
+     </xg><br/>
      <xg>
        <x>сё нелямын ур </x>
        <xt xml:lang="rus"><acronym title="устаревшее слово"><em>уст.</em></acronym> сорок копеек</xt>
-     </xg><br />
+     </xg><br/>
      <xg>
        <x>нелямын арӧс бӧрад бабаыд абу нин баба </x>
-       <xt xml:lang="rus"  src_type="saying:поговорка">сорок лет – бабий век </xt>
+       <xt xml:lang="rus" src_type="saying:поговорка">сорок лет – бабий век </xt>
         <xt xml:lang="rus" src_type="literally:буквально"> после сорока лет женщина уже не женщина</xt>
      </xg>
    </mg>
 </e>
-<e>
+  <e>
    <lg t1="Н" t2="Ё" t3="Л" uri="34350-nyol-" id="34350">
      <l pos="Num">нёль</l>
        <l_var type="molodtsov-cyr">ԋоԉ</l_var>
@@ -802,7 +1161,7 @@
        <x>нёльысь</x>
        <xt xml:lang="rus">а) из четырёх</xt>
        <xt xml:lang="rus">б) четыре раза</xt>
-     </xg><br />
+     </xg><br/>
      <xg>
        <x>морт нёль меным ковмас</x>
        <xt xml:lang="rus">мне понадобится человека четыре</xt>
@@ -825,7 +1184,7 @@
    </xg> 
    </mg>
 </e>
-<e>
+  <e>
    <lg t1="Н" t2="Ё" t3="Л" uri="34360-nyol-vit" id="34360">
      <l pos="Num">нёль-ӧ-вит</l>
        <l_var type="molodtsov-cyr">ԋоԉ-ӧ-віт</l_var>
@@ -840,7 +1199,7 @@
      </xg>
    </mg>
 </e>
-<e>
+  <e>
    <lg t1="Н" t2="Ё" t3="Л" uri="34369-nyol-syo" id="34369">
      <l pos="Num">нёльсё</l>
        <l_var type="molodtsov-cyr">ԋоԉԍо</l_var>
@@ -855,81 +1214,7 @@
      </xg>
    </mg>
 </e>
-<e>
-   <lg t1="П" t2="Е" t3="Р" uri="39612-pervoij" id="39612">
-     <l hid="Hom1" pos="Det" type="Ord">первой</l>
-       <l_var type="molodtsov-cyr">первој</l_var>
-   </lg>
-   <mg relId="0">
-     <tg xml:lang="rus">
-       <t pos="Det"> <acronym title="имя числительное"><em>числ.</em></acronym> <acronym title="порядковое числительное"><em>порядк.</em></acronym> первый</t>
-     </tg>
-     <xg>
-       <x>первой во</x>
-       <xt xml:lang="rus">первый год</xt>
-     </xg>
-     <xg>
-       <x>первой рейс</x>
-       <xt xml:lang="rus">первый рейс</xt>
-     </xg>
-     <xg>
-       <x>первой артӧ и бур пон тыртӧмавлӧ</x>
-       <xt xml:lang="rus">в первую осень и хорошая собака недобычлива</xt>
-     </xg>
-   </mg>
-   <mg relId="1">
-     <tg xml:lang="rus">
-       <t pos="Det">первичный</t>
-     </tg>
-     <xg>
-       <x>висьӧмлӧн первой кад</x>
-       <xt xml:lang="rus">первичный период болезни</xt>
-     </xg>
-     <xg>
-       <x>первой слӧй</x>
-       <xt xml:lang="rus">первичный слой</xt>
-     </xg>
-   </mg>
-</e>
-<e>
-   <lg t1="П" t2="Е" t3="Р" uri="39612-pervoij" id="39612">
-     <l hid="Hom2" pos="Adv">первой</l>
-       <l_var type="molodtsov-cyr">первој</l_var>
-   </lg>
-   <mg relId="0">
-     <tg xml:lang="rus">
-       <t pos="Adv">сначала, прежде; сперва</t>
-     </tg>
-     <xg>
-       <x>первой думышт</x>
-       <xt xml:lang="rus">сначала подумай</xt>
-     </xg>
-     <xg>
-       <x>первой ме, а сэсся тэ</x>
-       <xt xml:lang="rus">сперва я, а потом ты</xt>
-     </xg>
-     <xg>
-       <x>◊ первой лӧсьӧд сютӧ, сэсся мератӧ</x>
-       <xt src_type="proverb:пословица" xml:lang="rus">было бы болото, а черти найдутся</xt>
-       <xt src_type="literally:буквально" xml:lang="rus">сначала приготовь рожь, потом и меру)</xt>
-     </xg>
-     <sg>
-       <s pos="Adv" relId="0" s_type="seeAlso">войдӧр</s>
-       <s pos="Adv" relId="1" s_type="seeAlso">войдӧр</s>
-     </sg>
-   </mg>
-   <mg relId="1">
-     <tg xml:lang="rus">
-       <t pos="Adv">впервые</t>
-     </tg>
-     <xg>
-       <x>первой на аддза</x>
-       <xt xml:lang="rus">впервые вижу</xt>
-     </xg>
-     <sg><s pos="Num" s_type="seeAlso">медводдзаысь</s></sg>
-   </mg>
-</e>
-<e>
+  <e>
    <lg t1="П" t2="Е" t3="Р" uri="39621-pervoijya" id="39621">
      <l pos="Num">первойя</l>
        <l_var type="molodtsov-cyr">первојја</l_var>
@@ -957,7 +1242,7 @@
      </xg>
    </mg>
 </e>
-<e>
+  <e>
    <lg t1="С" t2="И" t3="З" uri="47285-sizim" id="47285">
      <l pos="Num">сизим</l>
        <l_var type="molodtsov-cyr">ԍіԅім</l_var>
@@ -1004,7 +1289,7 @@
      </xg>
    </mg>
 </e>
-<e>
+  <e>
    <lg t1="С" t2="И" t3="З" uri="47289-sizimdas" id="47289">
      <l pos="Num">сизимдас</l>
        <l_var type="molodtsov-cyr">ԍіԅімԁас</l_var>
@@ -1023,7 +1308,7 @@
      </xg>
    </mg>
 </e>
-<e>
+  <e>
    <lg t1="С" t2="И" t3="З" uri="47306-sizimsyo" id="47306">
      <l pos="Num">сизимсё</l>
        <l_var type="molodtsov-cyr">ԍіԅімԍо</l_var>
@@ -1038,7 +1323,7 @@
      </xg>
    </mg>
 </e>
-<e>
+  <e>
    <lg t1="С" t2="Ю" t3="Р" uri="50633-syurs" id="50633">
      <l pos="Num">сюрс</l>
        <l_var type="molodtsov-cyr">ԍурс</l_var>
@@ -1069,7 +1354,7 @@
      </xg>
    </mg>
 </e>
-<e>
+  <e>
    <lg t1="С" t2="Ё" t3="" uri="46942-syo" id="46942">
      <l hid="Hom1" pos="Num">сё</l>
        <l_var type="molodtsov-cyr">ԍо</l_var>
@@ -1105,7 +1390,7 @@
      <xg>
        <x>◊ сё вожӧн</x>
        <xt xml:lang="rus">ручьём</xt>
-     </xg><br />
+     </xg><br/>
      <xg>
        <x>◊ сё ен могысь</x>
        <xt xml:lang="rus">сделай милость, очень прошу </xt>
@@ -1114,7 +1399,7 @@
      <xg>
        <x>◊ сё майбыр</x>
        <xt xml:lang="rus">благодать</xt>
-     </xg><br />
+     </xg><br/>
      <xg>
        <x>◊ сё мокасьт, сё мор</x>
        <xt xml:lang="rus">чёрт побери </xt>
@@ -1130,7 +1415,7 @@
      </xg>
    </mg>
 </e>
-<e>
+  <e>
    <lg t1="С" t2="Ё" t3="" uri="46942-syo" id="46942">
      <l hid="Hom2" pos="Num">сё</l>
        <l_var type="molodtsov-cyr">ԍо</l_var>
@@ -1142,14 +1427,14 @@
      <xg>
        <x>сё жаль</x>
        <xt xml:lang="rus">очень жалко</xt>
-     </xg><br />
+     </xg><br/>
      <xg>
        <x>сё нимкодь</x>
        <xt xml:lang="rus">очень приятно</xt>
      </xg>; <sg><s pos="Num" s_type="seeAlso">зэв</s></sg>
    </mg>
 </e>
-<e>
+  <e>
    <lg t1="Т" t2="Ы" t3="С" uri="54993-tysyacha" id="54993">
      <l pos="Num">тысяча</l>
        <l_var type="molodtsov-cyr">тыԍача</l_var>
@@ -1160,11 +1445,11 @@
      </tg>
      <xg>
        <x>тысячаысь</x>
-       <xt xml:lang="rus"></xt>
-     </xg><br />&#160;&#160;&#160;&#160;&#160;&#160;а) из тысячи<br />&#160;&#160;&#160;&#160;&#160;&#160;б) тысячу раз; <sg><s pos="Num" s_type="seeAlso">сюрс</s></sg>
+       <xt xml:lang="rus"/>
+     </xg><br/>      а) из тысячи<br/>      б) тысячу раз; <sg><s pos="Num" s_type="seeAlso">сюрс</s></sg>
    </mg>
 </e>
-<e>
+  <e>
    <lg t1="Ӧ" t2="К" t3="М" uri="37546-kmys" id="37546">
      <l pos="Num">ӧкмыс</l>
        <l_var type="molodtsov-cyr">ӧкмыс</l_var>
@@ -1227,7 +1512,7 @@
      </xg>
    </mg>
 </e>
-<e>
+  <e>
    <lg t1="Ӧ" t2="К" t3="М" uri="37550-kmysdas" id="37550">
      <l pos="Num">ӧкмысдас</l>
        <l_var type="molodtsov-cyr">ӧкмысԁас</l_var>
@@ -1242,7 +1527,7 @@
      </xg>
    </mg>
 </e>
-<e>
+  <e>
    <lg t1="Ӧ" t2="К" t3="М" uri="37558-kmyssyo" id="37558">
      <l pos="Num">ӧкмыссё</l>
        <l_var type="molodtsov-cyr">ӧкмыԍԍо</l_var>
@@ -1257,7 +1542,7 @@
      </xg>
    </mg>
 </e>
-<e>
+  <e>
    <lg t1="Ӧ" t2="Т" t3="" uri="37729-t" id="37729">
      <l pos="Num">ӧт</l>
        <l_var type="molodtsov-cyr">ӧт</l_var>
@@ -1268,7 +1553,7 @@
      </tg>
    </mg>
 </e>
-<e>
+  <e>
    <lg t1="Ӧ" t2="Т" t3="И" uri="37848-ti" id="37848">
      <l pos="Num">ӧти</l>
        <l_var type="molodtsov-cyr">ӧԏі</l_var>
@@ -1285,7 +1570,7 @@
        <x>дзик ӧти</x>
        <xt xml:lang="rus">а) совершенно один</xt>
        <xt xml:lang="rus">б) единственный</xt>
-     </xg><br />
+     </xg><br/>
      <xg>
        <x>дзик ӧти петан туй</x>
        <xt xml:lang="rus">единственный выход</xt>
@@ -1359,7 +1644,7 @@
        <xt xml:lang="rus">а) однообразный</xt>
        <xt xml:lang="rus">б) единообразный</xt>
        <xt xml:lang="rus">в) одинаковый; однородный</xt>
-     </xg><br />&#160;&#160;&#160;&#160;&#160;&#160;г) один и тот же<br />
+     </xg><br/>      г) один и тот же<br/>
      <xg>
        <x>ӧти пӧлӧс сёян</x>
        <xt xml:lang="rus">однообразная пища</xt>
@@ -1371,23 +1656,23 @@
      <xg>
        <x>ӧти сайын</x>
        <xt xml:lang="rus">заодно, попутно</xt>
-     </xg><br />
+     </xg><br/>
      <xg>
        <x>ӧти сигӧра </x>
        <xt xml:lang="rus"><acronym title="имя прилагательное"><em>прил.</em></acronym> односкатный</xt>
-     </xg><br />
+     </xg><br/>
      <xg>
        <x>ӧти судта </x>
        <xt xml:lang="rus"><acronym title="имя прилагательное"><em>прил.</em></acronym> одноэтажный</xt>
-     </xg><br />
+     </xg><br/>
      <xg>
        <x>ӧти сьӧлӧмысь</x>
        <xt xml:lang="rus">единодушно, дружно</xt>
-     </xg><br />
+     </xg><br/>
      <xg>
        <x>ӧти гумла вылын вартӧны </x>
-       <xt xml:lang="rus"  src_type="saying:поговорка">одного поля ягода</xt>
-       <xt xml:lang="rus"  src_type="literally:буквально">на одном току молотят</xt>
+       <xt xml:lang="rus" src_type="saying:поговорка">одного поля ягода</xt>
+       <xt xml:lang="rus" src_type="literally:буквально">на одном току молотят</xt>
      </xg>
      <xg>
        <x>ӧти донӧн ставсӧ он донъяв</x>
@@ -1395,19 +1680,19 @@
      </xg>
      <xg>
        <x>ӧти кыв шуан, а дасӧс содтасны </x>
-       <xt xml:lang="rus"  src_type="saying:поговорка">скажешь слово, а прибавят десять</xt>
+       <xt xml:lang="rus" src_type="saying:поговорка">скажешь слово, а прибавят десять</xt>
      </xg>
    </mg>
    <mg relId="1"> <rg><r range_space="dialect"/></rg>
      <tg xml:lang="rus">
-       <t pos="Num"></t>
-     </tg><br />&#160;&#160;&#160;1) совсем, совершенно<br />
+       <t pos="Num"/>
+     </tg><br/>   1) совсем, совершенно<br/>
      <xg>
-       <x>&#160;&#160;&#160;ӧти ог вермы сёйны</x>
+       <x>   ӧти ог вермы сёйны</x>
        <xt xml:lang="rus">есть совсем не могу</xt>
-     </xg><br />&#160;&#160;&#160;2) одинаково; всё одно<br />
+     </xg><br/>   2) одинаково; всё одно<br/>
      <xg>
-       <x>&#160;&#160;&#160;ӧти жӧ наысь тӧлкыс абу</x>
+       <x>   ӧти жӧ наысь тӧлкыс абу</x>
        <xt xml:lang="rus">всё одно от них толку нет</xt>
      </xg>
      <xg>
@@ -1437,12 +1722,12 @@
      <xg>
        <x>◊ ӧти няньшомысь</x>
        <xt xml:lang="rus">из одного теста; два сапога пара</xt>
-     </xg><br />
+     </xg><br/>
      <xg>
        <x>◊ ӧти плака вылӧ сувтны</x>
        <xt xml:lang="rus">клясться </xt>
         <xt xml:lang="rus" src_type="literally:буквально"> встать на одну доску</xt>
-     </xg><br />
+     </xg><br/>
      <xg>
        <x>◊ ӧти пӧв кузя ветлыны</x>
        <xt xml:lang="rus">ходить по струнке (по ниточке) </xt>
@@ -1450,338 +1735,15 @@
      </xg>
    </mg>
 </e>
-<e>
+  <e>
    <lg t1="Ӧ" t2="Т" t3="И" uri="37856-tik" id="37856">
      <l pos="Num">ӧтик</l>
        <l_var type="molodtsov-cyr">ӧԏік</l_var>
    </lg>
    <mg relId="0"> <sg><s pos="Num" s_type="see">ӧти</s></sg>
      <tg xml:lang="rus">
-       <t pos="Num"></t>
+       <t pos="Num"/>
      </tg>
    </mg>
 </e>
-<e>
-   <lg t1="В" t2="И" t3="Т" uri="6962-vitnan" id="6962"><l pos="Num">витнан</l>
-       <l_var type="molodtsov-cyr">вітнан</l_var>
-   </lg>
-   <mg>
-     <tg xml:lang="rus">
-       <t><acronym title="имя числительное"><em>числ.</em></acronym> <acronym title="собирательное (существительное)"><em>собир.</em></acronym> все пять; вся пятёрка</t>
-     </tg>
-     <xg>
-       <x>витнан чойыс</x>
-       <xt xml:lang="rus">все пять сестёр</xt>
-     </xg>
-     <xg>
-       <x>витнан чуньыс висьӧ</x>
-       <xt xml:lang="rus">все пять пальцев болят</xt>
-     </xg>
-   </mg>
-</e>
-<e>
-   <lg t1="В" t2="И" t3="Т" uri="6964-vitnannyd" id="6964"><l pos="Num">витнанныд</l>
-       <l_var type="molodtsov-cyr">вітнанныԁ</l_var>
-   </lg>
-   <mg>
-     <tg xml:lang="rus">
-       <t><acronym title="местоимение"><em>мест.</em></acronym> <acronym title="счётно-личное"><em>счётно-личн.</em></acronym> вы пятеро</t>
-     </tg>
-     <xg>
-       <x>витнанныд воинныд?</x>
-       <xt xml:lang="rus">вы все пятеро вернулись?</xt>
-     </xg>
-   </mg>
-</e>
-<e>
-   <lg t1="В" t2="И" t3="Т" uri="6967-vitnannym" id="6967"><l pos="Num">витнанным</l>
-       <l_var type="molodtsov-cyr">вітнанным</l_var>
-   </lg>
-   <mg>
-     <tg xml:lang="rus">
-       <t><acronym title="местоимение"><em>мест.</em></acronym> <acronym title="счётно-личное"><em>счётно-личн.</em></acronym> мы пятеро</t>
-     </tg>
-     <xg>
-       <x>витнанным ветлам</x>
-       <xt xml:lang="rus">мы все пятеро сходим</xt>
-     </xg>
-   </mg>
-</e>
-<e>
-   <lg t1="В" t2="И" t3="Т" uri="6970-vitnannys" id="6970"><l pos="Num">витнанныс</l>
-       <l_var type="molodtsov-cyr">вітнанныс</l_var>
-   </lg>
-   <mg>
-     <tg xml:lang="rus">
-       <t><acronym title="местоимение"><em>мест.</em></acronym> <acronym title="счётно-личное"><em>счётно-личн.</em></acronym> они пятеро</t>
-     </tg>
-     <xg>
-       <x>витнаннысӧ ошкӧны</x>
-       <xt xml:lang="rus">их всех пятерых хвалят</xt>
-     </xg>
-   </mg>
-</e>
-<e>
-   <lg t1="В" t2="И" t3="Т" uri="6986-vitsyo-d" id="6986"><l pos="Num">витсёӧд</l>
-       <l_var type="molodtsov-cyr">вітԍоӧԁ</l_var>
-   </lg>
-   <mg>
-     <tg xml:lang="rus">
-       <t><acronym title="имя числительное"><em>числ.</em></acronym> <acronym title="порядковое числительное"><em>порядк.</em></acronym> пятисотый</t>
-     </tg>
-     <xg>
-       <x>витсёӧд номер</x>
-       <xt xml:lang="rus">пятисотый номер</xt>
-     </xg>
-   </mg>
-</e>
-<e>
-   <lg t1="В" t2="И" t3="Т" uri="6972-vit-d" id="6972"><l pos="Num">витӧд</l>
-       <l_var type="molodtsov-cyr">вітӧԁ</l_var>
-   </lg>
-   <mg>
-     <tg xml:lang="rus">
-       <t><acronym title="имя числительное"><em>числ.</em></acronym> <acronym title="порядковое числительное"><em>порядк.</em></acronym> пятый</t>
-     </tg>
-     <xg>
-       <x>витӧд юкӧн</x>
-       <xt xml:lang="rus">пятая часть</xt>
-     </xg>
-     <xg>
-       <x>витӧдысь ветлыны</x>
-       <xt xml:lang="rus">съездить в пятый раз</xt>
-     </xg><br />
-     <xg>
-       <x>◊ витӧд кӧ </x>
-       <xt xml:lang="rus"><acronym title="вводное слово"><em>вводн.сл.</em></acronym> в-пятых</xt>
-     </xg>
-   </mg>
-</e>
-<e>
-   <lg t1="В" t2="И" t3="Т" uri="6976-vit-n" id="6976"><l pos="Num">витӧн</l>
-       <l_var type="molodtsov-cyr">вітӧн</l_var>
-   </lg>
-   <mg>
-     <tg xml:lang="rus">
-       <t>впятером; пятеро</t>
-     </tg>
-     <xg>
-       <x>витӧн уджавны</x>
-       <xt xml:lang="rus">впятером работать</xt>
-     </xg>
-     <xg>
-       <x>найӧ вӧліны витӧн</x>
-       <xt xml:lang="rus">их было пятеро</xt>
-     </xg>
-   </mg>
-</e>
-<e>
-   <lg t1="Д" t2="А" t3="С" uri="12189-das-vit" id="12189">
-     <l pos="Num">дас вит</l>
-       <l_var type="molodtsov-cyr">ԁас віт</l_var>
-   </lg>
-   <mg relId="0">
-     <tg xml:lang="rus">
-       <t>пятнадцать</t>
-     </tg>
-   </mg>
-</e>
-<e>
-   <lg t1="Д" t2="А" t3="С" uri="12192-das-kvaijt" id="12192">
-     <l pos="Num">дас квайт</l>
-       <l_var type="molodtsov-cyr">ԁас квајт</l_var>
-   </lg>
-   <mg relId="0">
-     <tg xml:lang="rus">
-       <t>шестнадцать</t>
-     </tg>
-   </mg>
-</e>
-<e>
-   <lg t1="Д" t2="А" t3="С" uri="12185-das-kuim" id="12185">
-     <l pos="Num">дас куим</l>
-       <l_var type="molodtsov-cyr">ԁас куім</l_var>
-   </lg>
-   <mg relId="0">
-     <tg xml:lang="rus">
-       <t>тринадцать</t>
-     </tg>
-   </mg>
-</e>
-<e>
-   <lg t1="Д" t2="А" t3="С" uri="12183-das-kyk" id="12183">
-     <l pos="Num">дас кык</l>
-       <l_var type="molodtsov-cyr">ԁас кык</l_var>
-   </lg>
-   <mg relId="0">
-     <tg xml:lang="rus">
-       <t>двенадцать</t>
-     </tg>
-   </mg>
-</e>
-<e>
-   <lg t1="Д" t2="А" t3="С" uri="12198-das-k-k-yamys" id="12198">
-     <l pos="Num">дас кӧкъямыс</l>
-       <l_var type="molodtsov-cyr">ԁас кӧкјамыс</l_var>
-   </lg>
-   <mg relId="0">
-     <tg xml:lang="rus">
-       <t>восемнадцать</t>
-     </tg>
-   </mg>
-</e>
-<e>
-   <lg t1="Д" t2="А" t3="С" uri="12186-das-nyol-" id="12186">
-     <l pos="Num">дас нёль</l>
-       <l_var type="molodtsov-cyr">ԁас ԋоԉ</l_var>
-   </lg>
-   <mg relId="0">
-     <tg xml:lang="rus">
-       <t>четырнадцать</t>
-     </tg>
-   </mg>
-</e>
-<e>
-   <lg t1="Д" t2="А" t3="С" uri="12195-das-sizim" id="12195">
-     <l pos="Num">дас сизим</l>
-       <l_var type="molodtsov-cyr">ԁас ԍіԅім</l_var>
-   </lg>
-   <mg relId="0">
-     <tg xml:lang="rus">
-       <t>семнадцать</t>
-     </tg>
-   </mg>
-</e>
-<e>
-   <lg t1="Д" t2="А" t3="С" uri="12201-das-kmys" id="12201">
-     <l pos="Num">дас ӧкмыс</l>
-       <l_var type="molodtsov-cyr">ԁас ӧкмыс</l_var>
-   </lg>
-   <mg relId="0">
-     <tg xml:lang="rus">
-       <t>девятнадцать</t>
-     </tg>
-   </mg>
-</e>
-<e>
-   <lg t1="Д" t2="А" t3="С" uri="12180-das-ti" id="12180">
-     <l pos="Num">дас ӧти</l>
-       <l_var type="molodtsov-cyr">ԁас ӧԏі</l_var>
-   </lg>
-   <mg relId="0">
-     <tg xml:lang="rus">
-       <t>одиннадцать</t>
-     </tg>
-   </mg>
-</e>
-<e>
-   <lg t1="К" t2="В" t3="А" uri="20460-kvaijtnannyd" id="20460">
-     <l pos="Num" type="Coll">квайтнанныд</l>
-       <l_var type="molodtsov-cyr">квајтнанныԁ</l_var>
-   </lg>
-   <mg relId="0">
-     <tg xml:lang="rus">
-       <t><acronym title="имя числительное"><em>числ.</em></acronym> <acronym title="собирательное (существительное)"><em>собир.</em></acronym> вы все шестеро</t>
-     </tg>
-     <xg>
-       <x>квайтнанныдлы лоӧ ветлыны</x>
-       <xt xml:lang="rus">вам всем шестерым придётся сходить</xt>
-     </xg>
-   </mg>
-</e>
-<e>
-   <lg t1="К" t2="В" t3="А" uri="20462-kvaijtnannym" id="20462">
-     <l pos="Num" type="Coll">квайтнанным</l>
-       <l_var type="molodtsov-cyr">квајтнанным</l_var>
-   </lg>
-   <mg relId="0">
-     <tg xml:lang="rus">
-       <t><acronym title="имя числительное"><em>числ.</em></acronym> <acronym title="собирательное (существительное)"><em>собир.</em></acronym> мы все шестеро</t>
-     </tg>
-     <xg>
-       <x>квайтнанным пӧрысьӧсь</x>
-       <xt xml:lang="rus">мы все шестеро стары</xt>
-     </xg>
-   </mg>
-</e>
-<e>
-   <lg t1="К" t2="В" t3="А" uri="20464-kvaijtnannys" id="20464">
-     <l pos="Num" type="Coll">квайтнанныс</l>
-       <l_var type="molodtsov-cyr">квајтнанныс</l_var>
-   </lg>
-   <mg relId="0">
-     <tg xml:lang="rus">
-       <t><acronym title="имя числительное"><em>числ.</em></acronym> <acronym title="собирательное (существительное)"><em>собир.</em></acronym> они все шестеро</t>
-     </tg>
-     <xg>
-       <x>квайтнанныс усины война вылын</x>
-       <xt xml:lang="rus">они все шестеро погибли на войне</xt>
-     </xg>
-   </mg>
-</e>
-<e>
-   <lg t1="К" t2="У" t3="И" uri="25222-kuim-nyol-" id="25222">
-     <l pos="Num">куим-ӧ-нёль</l>
-       <l_var type="molodtsov-cyr">куім-ӧ-ԋоԉ</l_var>
-   </lg>
-   <mg relId="0">
-     <tg xml:lang="rus">
-       <t><acronym title="имя числительное"><em>числ.</em></acronym> <acronym title="приблизительный падеж"><em>прибл.п.</em></acronym> три-четыре</t>
-     </tg>
-   </mg>
-</e>
-<e>
-   <lg t1="К" t2="Ы" t3="К" uri="26587-kyknannyd" id="26587">
-     <l pos="Num" type="Coll">кыкнанныд</l>
-       <l_var type="molodtsov-cyr">кыкнанныԁ</l_var>
-   </lg>
-   <mg relId="0">
-     <tg xml:lang="rus">
-       <t><acronym title="местоимение"><em>мест.</em></acronym> <acronym title="счётно-личное"><em>счётно-личн.</em></acronym> вы оба</t>
-     </tg>
-     <xg>
-       <x>кыкнанныдлы висьталӧма</x>
-       <xt xml:lang="rus">вам обоим сказано</xt>
-     </xg>
-     <xg>
-       <x>кыкнанныд кӧ шаньӧсь, воча он люкасьӧ</x>
-       <xt xml:lang="rus">если оба покладисты, не будете бодать друг друга</xt>
-     </xg>
-   </mg>
-</e>
-<e>
-   <lg t1="К" t2="Ы" t3="К" uri="26590-kyknannym" id="26590">
-     <l pos="Num" type="Coll">кыкнанным</l>
-       <l_var type="molodtsov-cyr">кыкнанным</l_var>
-   </lg>
-   <mg relId="0">
-     <tg xml:lang="rus">
-       <t><acronym title="местоимение"><em>мест.</em></acronym> <acronym title="счётно-личное"><em>счётно-личн.</em></acronym> мы оба</t>
-     </tg>
-     <xg>
-       <x>ми кыкнанным ӧтыдждаӧсь</x>
-       <xt xml:lang="rus">мы оба одного возраста</xt>
-     </xg>
-   </mg>
-</e>
-<e>
-   <lg t1="К" t2="Ы" t3="К" uri="26593-kyknannys" id="26593">
-     <l pos="Num" type="Coll">кыкнанныс</l>
-       <l_var type="molodtsov-cyr">кыкнанныс</l_var>
-   </lg>
-   <mg relId="0">
-     <tg xml:lang="rus">
-       <t><acronym title="местоимение"><em>мест.</em></acronym> <acronym title="счётно-личное"><em>счётно-личн.</em></acronym> они оба</t>
-     </tg>
-     <xg>
-       <x>кыкнанныс ӧткодьӧсь</x>
-       <xt xml:lang="rus">оба они одинаковы</xt>
-     </xg>
-     <xg>
-       <x>кыкнанныс чӧв усины</x>
-       <xt xml:lang="rus">оба приумолкли</xt>
-     </xg>
-   </mg>
-</e>
-
-</r> 
+</r>
