@@ -58,7 +58,7 @@
    </mg>
 </e>
 <e>
-   <lg t1="Б" t2="У" t3="К" uri="3523-bukysha" id="3523"><l>букыша</l>
+   <lg t1="Б" t2="У" t3="К" uri="3523-bukysha" id="3523"><l pos="A">букыша</l>
        <l_var type="molodtsov-cyr">букыша</l_var>
    </lg>
    <mg relId="0"> <sg><s s_type="see">букышӧн</s></sg>
@@ -627,13 +627,13 @@
    </mg>
 </e>
 <e>
-   <lg t1="Д" t2="А" t3="" uri="12118-da" id="12118"><l>да</l>
+   <lg t1="Д" t2="А" t3="" uri="12118-da" id="12118"><l pos="СС">да</l>
        <l_var type="molodtsov-cyr">ԁа</l_var>
    </lg>
    <mg relId="0">
      <tg xml:lang="rus">
-       <t><em>союз</em></t>
-     </tg><br />&#160;&#160;&#160;1) <acronym title="присоединительный"><em>присоед.</em></acronym> да, и<br />
+       <t pos="СС"><acronym title="присоединительный"><em>присоед.</em></acronym> да, и</t>
+     </tg>
      <xg>
        <x>видзӧдан да, йи пырыс тыдалӧ быд из</x>
        <xt xml:lang="rus">смотришь, и через лёд виден каждый камешек</xt>
@@ -649,7 +649,12 @@
      <xg>
        <x>чужан муыд быдӧнлы дона да муса</x>
        <xt xml:lang="rus">своя родина всем дорога и мила</xt>
-     </xg><br />&#160;&#160;&#160;2) <acronym title="противительный (союз)"><em>противит.</em></acronym> да, но; а<br />
+     </xg>
+   </mg>
+   <mg relId="1">
+     <tg xml:lang="rus">
+       <t><acronym title="противительный (союз)"><em>противит.</em></acronym> да, но; а</t>
+     </tg>
      <xg>
        <x>верма, да ог вӧч</x>
        <xt xml:lang="rus">могу, но не сделаю</xt>
@@ -9390,12 +9395,12 @@
 </e>
 <e>
    <lg t1="Н" t2="И" t3="М" uri="34616-nimtan" id="34616">
-     <l hid="Hom2">нимтан</l>
+     <l hid="Hom2" pos="Prc">>нимтан</l>
        <l_var type="molodtsov-cyr">ԋімтан</l_var>
    </lg>
    <mg relId="0" domain="grammar">
      <tg xml:lang="rus">
-       <t> назывной</t>
+       <t>назывной</t>
      </tg>
      <xg>
        <x>нимтан функция</x>
@@ -9405,12 +9410,12 @@
 </e>
 <e>
    <lg t1="Н" t2="И" t3="Н" uri="34631-nin" id="34631">
-     <l hid="Hom2">нин</l>
+     <l hid="Hom2" pos="Adv">>нин</l>
        <l_var type="molodtsov-cyr">ԋін</l_var>
    </lg>
    <mg relId="0">
      <tg xml:lang="rus">
-       <t pos="Pcle"> уж, уже</t>
+       <t pos="Adv">уж, уже</t>
      </tg>
      <xg>
        <x>абу нин окота узьны</x>
@@ -9477,7 +9482,7 @@
 </e>
 <e>
    <lg t1="Н" t2="И" t3="Т" uri="34707-nitsh" id="34707">
-     <l hid="Hom2">нитш</l>
+     <l hid="Hom2" pos="Adv">нитш</l>
        <l_var type="molodtsov-cyr">ԋіщ</l_var>
    </lg>
    <mg relId="0"> <rg><r range_space="dialect"/></rg>
@@ -9487,57 +9492,6 @@
      <xg>
        <x>нитш куйлыны</x>
        <xt xml:lang="rus">лежать неподвижно</xt>
-     </xg>
-   </mg>
-</e>
-<e>
-   <lg t1="Н" t2="О" t3="" uri="34731-no" id="34731">
-     <l hid="Hom1">но</l>
-       <l_var type="molodtsov-cyr">но</l_var>
-   </lg>
-   <mg relId="0">
-     <tg xml:lang="rus">
-       <t><acronym title="междометие"><em>межд.</em></acronym> но, ну <em>(понукание)</em></t>
-     </tg>
-     <xg>
-       <x>но, восьлав!</x>
-       <xt xml:lang="rus">ну, шагай!</xt>
-     </xg>
-   </mg>
-   <mg relId="1">
-     <tg xml:lang="rus">
-       <t></t>
-     </tg><br />&#160;&#160;&#160;1) <acronym title="частица"><em>част.</em></acronym> ну<br />
-     <xg>
-       <x>но, вот ми и воим</x>
-       <xt xml:lang="rus">ну, вот мы и пришли</xt>
-     </xg>
-     <xg>
-       <x>но, ловзин?</x>
-       <xt xml:lang="rus">ну, ожил?</xt>
-     </xg><br />&#160;&#160;&#160;2) ладно, хорошо<br />
-     <xg>
-       <x>эн шу «но», а вӧч</x>
-       <xt xml:lang="rus">не говори «ладно», а сделай</xt>
-     </xg>
-   </mg>
-</e>
-<e>
-   <lg t1="Н" t2="О" t3="" uri="34731-no" id="34731">
-     <l hid="Hom2">но</l>
-       <l_var type="molodtsov-cyr">но</l_var>
-   </lg>
-   <mg relId="0">
-     <tg xml:lang="rus">
-       <t><em>союз</em> <acronym title="противительный (союз)"><em>противит.</em></acronym> но, а</t>
-     </tg>
-     <xg>
-       <x>ичӧт, но ён</x>
-       <xt xml:lang="rus">мал, но силён</xt>
-     </xg>
-     <xg>
-       <x>книга бур, но абу ставнас</x>
-       <xt xml:lang="rus">книга хорошая, но не вся</xt>
      </xg>
    </mg>
 </e>

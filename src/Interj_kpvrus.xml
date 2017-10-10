@@ -37,7 +37,7 @@
    </lg>
    <mg> <rg><r range_space="dialect"/></rg>
      <tg xml:lang="rus">
-       <t><acronym title="междометие"><em>межд.</em></acronym> о, ой, ох <em>(восклицание, выражающее восхищение; вскрик от внезапной боли, от неожиданности)</em>; боже</t>
+       <t pos="Interj">о, ой, ох <em>(восклицание, выражающее восхищение; вскрик от внезапной боли, от неожиданности)</em>; боже</t>
      </tg>
    </mg>
 </e>
@@ -2886,6 +2886,21 @@
      <tg xml:lang="rus">
        <t pos="Interj">возглас, которым погоняют лошадей</t>
      </tg>
+   </mg>
+</e>
+<e>
+   <lg t1="Н" t2="О" t3="" uri="34731-no" id="34731">
+     <l hid="Hom1" pos="Interj">но</l>
+       <l_var type="molodtsov-cyr">но</l_var>
+   </lg>
+   <mg relId="0">
+     <tg xml:lang="rus">
+       <t pos="Interj">но, ну <em>(понукание)</em></t>
+     </tg>
+     <xg>
+       <x>но, восьлав!</x>
+       <xt xml:lang="rus">ну, шагай!</xt>
+     </xg>
    </mg>
 </e>
 </r>

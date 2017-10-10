@@ -99,4 +99,23 @@
      </xg>
    </mg>
 </e>
+<e>
+   <lg t1="Н" t2="О" t3="" uri="34731-no" id="34731">
+     <l pos="CC">но</l>
+       <l_var type="molodtsov-cyr">но</l_var>
+   </lg>
+   <mg relId="0">
+     <tg xml:lang="rus">
+       <t><em>союз</em> <acronym title="противительный (союз)"><em>противит.</em></acronym> но, а</t>
+     </tg>
+     <xg>
+       <x>ичӧт, но ён</x>
+       <xt xml:lang="rus">мал, но силён</xt>
+     </xg>
+     <xg>
+       <x>книга бур, но абу ставнас</x>
+       <xt xml:lang="rus">книга хорошая, но не вся</xt>
+     </xg>
+   </mg>
+</e>
 </r>

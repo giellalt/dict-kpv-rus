@@ -851,4 +851,32 @@
      </tg>
    </mg>
 </e>
+<e>
+   <lg t1="Н" t2="О" t3="" uri="34731-no" id="34731">
+     <l pos="Pcle">но</l>
+       <l_var type="molodtsov-cyr">но</l_var>
+   </lg>
+   <mg relId="0">
+     <tg xml:lang="rus">
+       <t pos="Pcle">ну</t>
+     </tg>
+     <xg>
+       <x>но, вот ми и воим</x>
+       <xt xml:lang="rus">ну, вот мы и пришли</xt>
+     </xg>
+     <xg>
+       <x>но, ловзин?</x>
+       <xt xml:lang="rus">ну, ожил?</xt>
+     </xg>
+   </mg>
+   <mg relId="1">
+     <tg xml:lang="rus">
+       <t pos="Pcle">ладно, хорошо</t>
+     </tg>
+     <xg>
+       <x>эн шу «но», а вӧч</x>
+       <xt xml:lang="rus">не говори «ладно», а сделай</xt>
+     </xg>
+   </mg>
+</e>
 </r>
