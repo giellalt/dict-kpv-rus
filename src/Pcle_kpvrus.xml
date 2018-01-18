@@ -4,6 +4,8 @@
    <lg t1="А" t2="" t3="" uri="2-a" id="2">
      <l pos="Pcle">а</l>
        <l_var type="molodtsov-cyr">a</l_var>
+  <stg>
+<st Contlex="PCLE_">а</st></stg>
    </lg>
    <mg relId="0">
      <tg xml:lang="rus">
@@ -67,6 +69,8 @@
    <lg t1="А" t2="Б" t3="У" uri="24-abu" id="24">
      <l pos="Pcle">абу</l>
        <l_var type="molodtsov-cyr">aбу</l_var>
+  <stg>
+<st Contlex="PCLE_">абу</st></stg>
    </lg>
    <mg relId="0">
      <tg xml:lang="rus">
@@ -120,6 +124,8 @@
    <lg t1="А" t2="Л" t3="И" uri="450-ali" id="450">
      <l hid="Hom3" pos="Pcle" type="Qst">али</l>
        <l_var type="molodtsov-cyr">aԉі</l_var>
+  <stg>
+<st Contlex="PCLE_">али</st></stg>
    </lg>
    <mg relId="0">
      <tg xml:lang="rus">
@@ -160,6 +166,8 @@
    <lg t1="Б" t2="А" t3="Р" uri="1700-bara" id="1700">
      <l hid="Hom2" pos="Pcle">бара</l>
        <l_var type="molodtsov-cyr">бара</l_var>
+  <stg>
+<st Contlex="PCLE_">бара</st></stg>
    </lg>
    <mg relId="0">
      <tg xml:lang="rus">
@@ -220,6 +228,8 @@
    <lg t1="Б" t2="Л" t3="А" uri="2303-blasl-" id="2303">
      <l pos="Pcle">бласлӧ</l>
        <l_var type="molodtsov-cyr">бласлӧ</l_var>
+  <stg>
+<st Contlex="PCLE_">бласлӧ</st></stg>
    </lg>
    <mg relId="0"><span class="underline">употребляется лишь в составе выражений:</span>
     <xg>
@@ -236,6 +246,8 @@
    <lg t1="Б" t2="Р" t3="И" uri="3115-bri" id="3115">
      <l pos="Pcle">бри</l>
        <l_var type="molodtsov-cyr">брі</l_var>
+  <stg>
+<st Contlex="PCLE_">бри</st></stg>
    </lg>
    <mg relId="0"><span class="underline">употребляется лишь в составе выражений:</span><br/>
      <xg>
@@ -248,6 +260,8 @@
    <lg t1="Б" t2="Ы" t3="Д" uri="4106-byds-n" id="4106">
      <l hid="Hom2" pos="Pcle">быдсӧн</l>
        <l_var type="molodtsov-cyr">бытсӧн</l_var>
+  <stg>
+<st Contlex="PCLE_">быдсӧн</st></stg>
    </lg>
    <mg relId="0"> <sg><s hid="Hom2" pos="Pcle" s_type="see">быдӧн</s></sg>
      <tg xml:lang="rus">
@@ -259,6 +273,8 @@
    <lg t1="Б" t2="Ы" t3="Д" uri="4104-byd-n" id="4104">
      <l hid="Hom2" pos="Pcle">быдӧн</l>
        <l_var type="molodtsov-cyr">быԁӧн</l_var>
+  <stg>
+<st Contlex="PCLE_">быдӧн</st></stg>
    </lg>
    <mg relId="0">
      <tg xml:lang="rus">
@@ -290,6 +306,8 @@
    <lg t1="Б" t2="Ы" t3="З" uri="4172-byz-baz-" id="4172">
      <l pos="Pcle">бызӧ-базӧ</l>
        <l_var type="molodtsov-cyr">бызӧ-базӧ</l_var>
+  <stg>
+<st Contlex="PCLE_">бызӧ-базӧ</st></stg>
    </lg>
    <mg relId="0"><span class="underline">употребляется лишь в составе выражений:</span><br/>
      <xg>
@@ -302,6 +320,8 @@
    <lg t1="Б" t2="Ы" t3="Т" uri="4296-bytt-k-" id="4296">
      <l pos="Pcle">быттьӧкӧ</l>
        <l_var type="molodtsov-cyr">быԏԏӧкӧ</l_var>
+  <stg>
+<st Contlex="PCLE_">быттьӧкӧ</st></stg>
    </lg>
    <mg relId="0"> <sg><s pos="Pcle" s_type="see">быттьӧ</s></sg>
      <tg xml:lang="rus">
@@ -313,6 +333,8 @@
    <lg t1="Б" t2="Ы" t3="Т" uri="4299-bytt-k-n-s-" id="4299">
      <l pos="Pcle">быттьӧкӧнӧсь</l>
        <l_var type="molodtsov-cyr">быԏԏӧкӧнӧԍ</l_var>
+  <stg>
+<st Contlex="PCLE_">быттьӧкӧнӧсь</st></stg>
    </lg>
    <mg relId="0"> <sg><s pos="Pcle" s_type="see">быттьӧ</s></sg>
      <tg xml:lang="rus">
@@ -324,6 +346,8 @@
    <lg t1="В" t2="Е" t3="Д" uri="5155-ved" id="5155">
      <l pos="Pcle">вед</l>
        <l_var type="molodtsov-cyr">веԁ</l_var>
+  <stg>
+<st Contlex="PCLE_">вед</st></stg>
    </lg>
    <mg relId="0">
      <tg xml:lang="rus">
@@ -339,6 +363,8 @@
    <lg t1="В" t2="И" t3="Л" uri="6667-vil-s" id="6667">
      <l pos="Pcle">вильс</l>
        <l_var type="molodtsov-cyr">віԉс</l_var>
+  <stg>
+<st Contlex="PCLE_">вильс</st></stg>
    </lg>
    <mg relId="0"><span class="underline">употребляется лишь в составе выражений:</span>
     <xg>
@@ -351,6 +377,8 @@
    <lg t1="В" t2="Ӧ" t3="Д" uri="8007-v-d" id="8007">
      <l pos="Pcle">вӧд</l>
        <l_var type="molodtsov-cyr">вӧԁ</l_var>
+  <stg>
+<st Contlex="PCLE_">вӧд</st></stg>
    </lg>
    <mg relId="0"> <sg><s pos="Pcle" s_type="see">вед</s><s pos="Pcle" s_type="see">ӧд Ⅲ в 1 значении</s></sg>
      <tg xml:lang="rus">
@@ -362,6 +390,8 @@
    <lg t1="В" t2="Ӧ" t3="Л" uri="8176-v-l-m" id="8176">
      <l pos="Pcle">вӧлӧм</l>
        <l_var type="molodtsov-cyr">вӧлӧм</l_var>
+  <stg>
+<st Contlex="PCLE_">вӧлӧм</st></stg>
    </lg>
    <mg relId="0">
      <tg xml:lang="rus">
@@ -389,6 +419,8 @@
    <lg t1="Д" t2="А" t3="В" uri="12122-davaij" id="12122">
      <l pos="Pcle">давай</l>
        <l_var type="molodtsov-cyr">ԁавај</l_var>
+  <stg>
+<st Contlex="PCLE_">давай</st></stg>
    </lg>
    <mg relId="0">
      <tg xml:lang="rus">
@@ -408,6 +440,8 @@
    <lg t1="Д" t2="А" t3="К" uri="12147-dak" id="12147">
      <l pos="Pcle">дак</l>
        <l_var type="molodtsov-cyr">ԁак</l_var>
+  <stg>
+<st Contlex="PCLE_">дак</st></stg>
    </lg>
    <mg relId="0">
      <tg xml:lang="rus">
@@ -427,6 +461,8 @@
    <lg t1="И" t2="Н" t3="Ӧ" uri="18511-in-" id="18511">
      <l pos="Pcle">инӧ</l>
        <l_var type="molodtsov-cyr">інӧ</l_var>
+  <stg>
+<st Contlex="PCLE_">инӧ</st></stg>
    </lg>
    <mg relId="0">
      <tg xml:lang="rus">
@@ -460,6 +496,8 @@
    <lg t1="И" t2="Н" t3="Ӧ" uri="18520-in-s-" id="18520">
      <l pos="Pcle">инӧсь</l>
        <l_var type="molodtsov-cyr">інӧԍ</l_var>
+  <stg>
+<st Contlex="PCLE_">инӧсь</st></stg>
    </lg>
    <mg relId="0"> <sg><s pos="Pcle" s_type="see">инӧ</s></sg>
      <tg xml:lang="rus">
@@ -471,6 +509,8 @@
    <lg t1="М" t2="Е" t3="Д" uri="31147-medlytyk-" id="31147">
      <l pos="Pcle">медлытыкӧ</l>
        <l_var type="molodtsov-cyr">меԁлытыкӧ</l_var>
+  <stg>
+<st Contlex="PCLE_">медлытыкӧ</st></stg>
    </lg>
    <mg relId="0"> <sg><s pos="Pcle" s_type="see">медлытӧ</s></sg>
      <tg xml:lang="rus">
@@ -482,6 +522,8 @@
    <lg t1="М" t2="И" t3="С" uri="31703-misya" id="31703">
      <l pos="Pcle">мися</l>
        <l_var type="molodtsov-cyr">міԍа</l_var>
+  <stg>
+<st Contlex="PCLE_">мися</st></stg>
    </lg>
    <mg relId="0">
      <tg xml:lang="rus">
@@ -513,6 +555,8 @@
    <lg t1="М" t2="У" t3="Н" uri="32540-munt-" id="32540">
      <l pos="Pcle">мунтӧ</l>
        <l_var type="molodtsov-cyr">мунтӧ</l_var>
+  <stg>
+<st Contlex="PCLE_">мунтӧ</st></stg>
    </lg>
    <mg relId="0">
      <tg xml:lang="rus">
@@ -528,6 +572,8 @@
    <lg t1="М" t2="Ӧ" t3="Й" uri="32228-m-ij" id="32228">
      <l pos="Pcle">мӧй</l>
        <l_var type="molodtsov-cyr">мӧј</l_var>
+  <stg>
+<st Contlex="PCLE_">мӧй</st></stg>
    </lg>
    <mg relId="0">
      <tg xml:lang="rus">
@@ -544,6 +590,8 @@
    <lg t1="Н" t2="Е" t3="" uri="33875-ne" id="33875">
      <l pos="Pcle">не</l>
        <l_var type="molodtsov-cyr">ԋе</l_var>
+  <stg>
+<st Contlex="PCLE_">не</st></stg>
    </lg>
    <mg relId="0">
      <tg xml:lang="rus">
@@ -606,9 +654,41 @@
    </mg>
 </e>
   <e>
+   <lg t1="Н" t2="О" t3="" uri="34731-no" id="34731">
+     <l pos="Pcle">но</l>
+       <l_var type="molodtsov-cyr">но</l_var>
+  <stg>
+<st Contlex="PCLE_">но</st></stg>
+   </lg>
+   <mg relId="0">
+     <tg xml:lang="rus">
+       <t pos="Pcle">ну</t>
+     </tg>
+     <xg>
+       <x>но, вот ми и воим</x>
+       <xt xml:lang="rus">ну, вот мы и пришли</xt>
+     </xg>
+     <xg>
+       <x>но, ловзин?</x>
+       <xt xml:lang="rus">ну, ожил?</xt>
+     </xg>
+   </mg>
+   <mg relId="1">
+     <tg xml:lang="rus">
+       <t pos="Pcle">ладно, хорошо</t>
+     </tg>
+     <xg>
+       <x>эн шу «но», а вӧч</x>
+       <xt xml:lang="rus">не говори «ладно», а сделай</xt>
+     </xg>
+   </mg>
+</e>
+  <e>
    <lg t1="Н" t2="Ӧ" t3="" uri="34933-n-" id="34933">
      <l pos="Pcle">нӧ</l>
        <l_var type="molodtsov-cyr">нӧ</l_var>
+  <stg>
+<st Contlex="PCLE_">нӧ</st></stg>
    </lg>
    <mg relId="0">
      <tg xml:lang="rus">
@@ -649,6 +729,8 @@
    <lg t1="С" t2="Ь" t3="Ӧ" uri="50341-s-taki" id="50341">
      <l pos="Pcle">сьӧтаки</l>
        <l_var type="molodtsov-cyr">ԍӧтакі</l_var>
+  <stg>
+<st Contlex="PCLE_">сьӧтаки</st></stg>
    </lg>
    <mg relId="0">
      <tg xml:lang="rus">
@@ -660,6 +742,8 @@
    <lg t1="Т" t2="О" t3="Л" uri="52072-tol-k-" id="52072">
      <l pos="Pcle">толькӧ</l>
        <l_var type="molodtsov-cyr">тоԉкӧ</l_var>
+  <stg>
+<st Contlex="PCLE_">толькӧ</st></stg>
    </lg>
    <mg relId="0">
      <tg xml:lang="rus">
@@ -675,6 +759,8 @@
    <lg t1="Т" t2="О" t3="Н" uri="52163-ton-" id="52163">
      <l pos="Pcle">тонӧ</l>
        <l_var type="molodtsov-cyr">тонӧ</l_var>
+  <stg>
+<st Contlex="PCLE_">тонӧ</st></stg>
    </lg>
    <mg relId="0">
      <tg xml:lang="rus">
@@ -698,6 +784,8 @@
    <lg t1="Т" t2="Ы" t3="К" uri="54818-tyk-" id="54818">
      <l pos="Pcle">тыкӧ</l>
        <l_var type="molodtsov-cyr">тыкӧ</l_var>
+  <stg>
+<st Contlex="PCLE_">тыкӧ</st></stg>
    </lg>
    <mg relId="0">
      <tg xml:lang="rus">
@@ -713,6 +801,8 @@
    <lg t1="Ч" t2="А" t3="С" uri="57203-chaslyv" id="57203">
      <l pos="Pcle">часлыв</l>
        <l_var type="molodtsov-cyr">часлыв</l_var>
+  <stg>
+<st Contlex="PCLE_">часлыв</st></stg>
    </lg>
    <mg relId="0"><strong>часлыв, часлы</strong><br/> <sg><s pos="Pcle" s_type="see">час Ⅱ</s></sg>
      <tg xml:lang="rus">
@@ -724,6 +814,8 @@
    <lg t1="Ч" t2="У" t3="Р" uri="59333-churki-budi" id="59333">
      <l pos="Pcle">чурки-буди</l>
        <l_var type="molodtsov-cyr">чуркі-буԃі</l_var>
+  <stg>
+<st Contlex="PCLE_">чурки-буди</st></stg>
    </lg>
    <mg relId="0">
      <tg xml:lang="rus">
@@ -743,6 +835,8 @@
    <lg t1="Ч" t2="Ӧ" t3="В" uri="58554-ch-vly" id="58554">
      <l pos="Pcle">чӧвлы</l>
        <l_var type="molodtsov-cyr">чӧвлы</l_var>
+  <stg>
+<st Contlex="PCLE_">чӧвлы</st></stg>
    </lg>
    <mg relId="0">
      <tg xml:lang="rus">
@@ -758,6 +852,8 @@
    <lg t1="Ы" t2="Ш" t3="" uri="63519-ysh" id="63519">
      <l pos="Pcle">ыш</l>
        <l_var type="molodtsov-cyr">ыш</l_var>
+  <stg>
+<st Contlex="PCLE_">ыш</st></stg>
    </lg>
    <mg relId="0"> <sg><s pos="Pcle" s_type="see">ыштӧ во 2 значении</s></sg>
      <tg xml:lang="rus">
@@ -769,6 +865,8 @@
    <lg t1="Э" t2="Н" t3="Л" uri="63904-enlyv" id="63904">
      <l pos="Pcle">энлыв</l>
        <l_var type="molodtsov-cyr">енлыв</l_var>
+  <stg>
+<st Contlex="PCLE_">энлыв</st></stg>
    </lg>
    <mg relId="0"><strong>энлыв, энлы</strong><br/>
      <tg xml:lang="rus">
@@ -788,6 +886,8 @@
    <lg t1="Э" t2="С" t3="Ь" uri="64154-es-k-" id="64154">
      <l pos="Pcle">эськӧ</l>
        <l_var type="molodtsov-cyr">еԍкӧ</l_var>
+  <stg>
+<st Contlex="PCLE_">эськӧ</st></stg>
    </lg>
    <mg relId="0">
      <tg xml:lang="rus">
@@ -822,7 +922,9 @@
   <e>
    <lg t1="Э" t2="С" t3="Ь" uri="64157-es-k-n" id="64157">
      <l pos="Pcle">эськӧн</l>
-       <l_var type="molodtsov-cyr">еԍкӧн</l_var> <rg><r range_space="dialect"/></rg>
+       <l_var type="molodtsov-cyr">еԍкӧн</l_var>
+  <stg>
+<st Contlex="PCLE_">эськӧн</st></stg> <rg><r range_space="dialect"/></rg>
    </lg>
    <mg relId="0"> <sg><s pos="Pcle" s_type="see">эськӧ</s></sg>
      <tg xml:lang="rus">
@@ -833,7 +935,9 @@
   <e>
    <lg t1="Ӧ" t2="Н" t3="Ж" uri="37648-nzha" id="37648">
      <l pos="Pcle">ӧнжа</l>
-       <l_var type="molodtsov-cyr">ӧнжа</l_var> <rg><r range_space="dialect"/></rg>
+       <l_var type="molodtsov-cyr">ӧнжа</l_var>
+  <stg>
+<st Contlex="PCLE_">ӧнжа</st></stg> <rg><r range_space="dialect"/></rg>
    </lg>
    <mg relId="0">
      <tg xml:lang="rus">
@@ -844,39 +948,13 @@
   <e exclude="fst">
    <lg t1="А" t2="Б" t3="У" uri="28-abu-s-" id="28"><l pos="Pcle">абуӧсь</l>
        <l_var type="molodtsov-cyr">aбуӧԍ</l_var>
+  <stg>
+<st Contlex="PCLE_">абуӧсь</st></stg>
    </lg>
    <mg relId="0">
      <tg xml:lang="rus">
        <t>нет</t>
      </tg>
-   </mg>
-</e>
-<e>
-   <lg t1="Н" t2="О" t3="" uri="34731-no" id="34731">
-     <l pos="Pcle">но</l>
-       <l_var type="molodtsov-cyr">но</l_var>
-   </lg>
-   <mg relId="0">
-     <tg xml:lang="rus">
-       <t pos="Pcle">ну</t>
-     </tg>
-     <xg>
-       <x>но, вот ми и воим</x>
-       <xt xml:lang="rus">ну, вот мы и пришли</xt>
-     </xg>
-     <xg>
-       <x>но, ловзин?</x>
-       <xt xml:lang="rus">ну, ожил?</xt>
-     </xg>
-   </mg>
-   <mg relId="1">
-     <tg xml:lang="rus">
-       <t pos="Pcle">ладно, хорошо</t>
-     </tg>
-     <xg>
-       <x>эн шу «но», а вӧч</x>
-       <xt xml:lang="rus">не говори «ладно», а сделай</xt>
-     </xg>
    </mg>
 </e>
 </r>

@@ -4,6 +4,8 @@
    <lg t1="Б" t2="Ы" t3="Т" uri="4293-bytt-" id="4293">
      <l pos="CS">быттьӧ</l>
        <l_var type="molodtsov-cyr">быԏԏӧ</l_var>
+  <stg>
+<st Contlex="CS_">быттьӧ</st></stg>
    </lg>
    <mg relId="0">
      <tg xml:lang="rus">
@@ -106,6 +108,8 @@
   <e>
    <lg t1="К" t2="Ӧ" t3="" uri="23691-k-" id="23691"><l pos="CS">кӧ</l>
        <l_var type="molodtsov-cyr">кӧ</l_var>
+  <stg>
+<st Contlex="CS_">кӧ</st></stg>
    </lg>
    <mg relId="0">
      <tg xml:lang="rus">

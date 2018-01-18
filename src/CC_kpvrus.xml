@@ -4,6 +4,8 @@
    <lg t1="А" t2="" t3="" uri="2-a" id="2">
      <l pos="CC">а</l>
        <l_var type="molodtsov-cyr">a</l_var>
+  <stg>
+<st Contlex="CC_">а</st></stg>
    </lg>
    <mg relId="0">
      <tg xml:lang="rus">
@@ -58,6 +60,8 @@
    <lg t1="А" t2="Л" t3="И" uri="450-ali" id="450">
      <l hid="Hom2" pos="CC">али</l>
        <l_var type="molodtsov-cyr">aԉі</l_var>
+  <stg>
+<st Contlex="CC_">али</st></stg>
    </lg>
    <mg>
      <tg xml:lang="rus">
@@ -77,6 +81,8 @@
    <lg t1="Л" t2="И" t3="Б" uri="28281-lib-n-s-" id="28281">
      <l pos="CC">либӧнӧсь</l>
        <l_var type="molodtsov-cyr">ԉібӧнӧԍ</l_var>
+  <stg>
+<st Contlex="CC_">либӧнӧсь</st></stg>
    </lg>
    <mg relId="0"> <sg><s pos="CC" s_type="see">либӧ</s></sg>
      <tg xml:lang="rus">
@@ -85,24 +91,11 @@
    </mg>
 </e>
   <e>
-   <lg t1="С" t2="Э" t3="С" uri="50431-sessya" id="50431">
-     <l pos="CC" hid="Hom2">сэсся</l>
-       <l_var type="molodtsov-cyr">сеԍԍа</l_var>
-   </lg>
-   <mg>
-     <tg xml:lang="rus">
-       <t><em>союз</em> да и</t>
-     </tg>
-     <xg>
-       <x>сэсся и черинас пӧ юыс озыр</x>
-       <xt xml:lang="rus">да и рыбой, говорят, река богата</xt>
-     </xg>
-   </mg>
-</e>
-<e>
    <lg t1="Н" t2="О" t3="" uri="34731-no" id="34731">
      <l pos="CC">но</l>
        <l_var type="molodtsov-cyr">но</l_var>
+  <stg>
+<st Contlex="CC_">но</st></stg>
    </lg>
    <mg relId="0">
      <tg xml:lang="rus">
@@ -115,6 +108,23 @@
      <xg>
        <x>книга бур, но абу ставнас</x>
        <xt xml:lang="rus">книга хорошая, но не вся</xt>
+     </xg>
+   </mg>
+</e>
+  <e>
+   <lg t1="С" t2="Э" t3="С" uri="50431-sessya" id="50431">
+     <l pos="CC" hid="Hom2">сэсся</l>
+       <l_var type="molodtsov-cyr">сеԍԍа</l_var>
+  <stg>
+<st Contlex="CC_">сэсся</st></stg>
+   </lg>
+   <mg>
+     <tg xml:lang="rus">
+       <t><em>союз</em> да и</t>
+     </tg>
+     <xg>
+       <x>сэсся и черинас пӧ юыс озыр</x>
+       <xt xml:lang="rus">да и рыбой, говорят, река богата</xt>
      </xg>
    </mg>
 </e>

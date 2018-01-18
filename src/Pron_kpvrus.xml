@@ -4,10 +4,12 @@
    <lg t1="А" t2="С" t3="" uri="899-as" id="899">
      <l pos="Pron">ас</l>
        <l_var type="molodtsov-cyr">aс</l_var>
+  <stg>
+<st Contlex="PRON_">ас</st></stg>
    </lg>
    <mg relId="0">
      <tg xml:lang="rus">
-       <t><acronym title="местоимение"><em>мест.</em></acronym></t>
+       <t pos="Pron"/>
      </tg><br/>
      <tg xml:lang="rus">
        <t>1. <acronym title="притяжательный (-ая, -ое)"><em>притяж.</em></acronym> свой, собственный</t>
@@ -142,6 +144,8 @@
   <e>
    <lg t1="А" t2="С" t3="К" uri="965-ask-d" id="965"><l pos="Pron">аскӧд</l>
        <l_var type="molodtsov-cyr">aскӧԁ</l_var>
+  <stg>
+<st Contlex="PRON_">аскӧд</st></stg>
    </lg>
    <mg> <sg><s s_type="see">аскӧдым</s></sg>
      <tg xml:lang="rus">
@@ -152,6 +156,8 @@
   <e>
    <lg t1="А" t2="С" t3="К" uri="966-ask-dnyd" id="966"><l pos="Pron">аскӧдныд</l>
        <l_var type="molodtsov-cyr">aскӧԁныԁ</l_var>
+  <stg>
+<st Contlex="PRON_">аскӧдныд</st></stg>
    </lg>
    <mg>
      <tg xml:lang="rus">
@@ -166,6 +172,8 @@
   <e>
    <lg t1="А" t2="С" t3="К" uri="968-ask-dnym" id="968"><l pos="Pron">аскӧдным</l>
        <l_var type="molodtsov-cyr">aскӧԁным</l_var>
+  <stg>
+<st Contlex="PRON_">аскӧдным</st></stg>
    </lg>
    <mg>
      <tg xml:lang="rus">
@@ -180,6 +188,8 @@
   <e>
    <lg t1="А" t2="С" t3="К" uri="970-ask-dnys" id="970"><l pos="Pron">аскӧдныс</l>
        <l_var type="molodtsov-cyr">aскӧԁныс</l_var>
+  <stg>
+<st Contlex="PRON_">аскӧдныс</st></stg>
    </lg>
    <mg>
      <tg xml:lang="rus">
@@ -194,6 +204,8 @@
   <e>
    <lg t1="А" t2="С" t3="К" uri="972-ask-dyd" id="972"><l pos="Pron">аскӧдыд</l>
        <l_var type="molodtsov-cyr">aскӧԁыԁ</l_var>
+  <stg>
+<st Contlex="PRON_">аскӧдыд</st></stg>
    </lg>
    <mg>
      <tg xml:lang="rus">
@@ -208,6 +220,8 @@
   <e>
    <lg t1="А" t2="С" t3="К" uri="973-ask-dym" id="973"><l pos="Pron">аскӧдым</l>
        <l_var type="molodtsov-cyr">aскӧԁым</l_var>
+  <stg>
+<st Contlex="PRON_">аскӧдым</st></stg>
    </lg>
    <mg>
      <tg xml:lang="rus">
@@ -226,6 +240,8 @@
   <e>
    <lg t1="А" t2="С" t3="К" uri="975-ask-dys" id="975"><l pos="Pron">аскӧдыс</l>
        <l_var type="molodtsov-cyr">aскӧԁыс</l_var>
+  <stg>
+<st Contlex="PRON_">аскӧдыс</st></stg>
    </lg>
    <mg>
      <tg xml:lang="rus">
@@ -245,6 +261,8 @@
    <lg t1="А" t2="С" t3="Л" uri="983-aslad" id="983">
      <l pos="Pron">аслад</l>
        <l_var type="molodtsov-cyr">aслаԁ</l_var>
+  <stg>
+<st Contlex="PRON_">аслад</st></stg>
    </lg>
    <mg relId="0">
      <tg xml:lang="rus">
@@ -276,6 +294,8 @@
   <e>
    <lg t1="А" t2="С" t3="Л" uri="989-asladorsyan-" id="989"><l pos="Pron">асладорсянь</l>
        <l_var type="molodtsov-cyr">aслаԁорԍаԋ</l_var>
+  <stg>
+<st Contlex="PRON_">асладорсянь</st></stg>
    </lg>
    <mg>
      <tg xml:lang="rus">
@@ -290,6 +310,8 @@
   <e>
    <lg t1="А" t2="С" t3="Л" uri="992-asladoryn" id="992"><l pos="Pron">асладорын</l>
        <l_var type="molodtsov-cyr">aслаԁорын</l_var>
+  <stg>
+<st Contlex="PRON_">асладорын</st></stg>
    </lg>
    <mg>
      <tg xml:lang="rus">
@@ -304,6 +326,8 @@
   <e>
    <lg t1="А" t2="С" t3="Л" uri="988-aslador-" id="988"><l pos="Pron">асладорӧ</l>
        <l_var type="molodtsov-cyr">aслаԁорӧ</l_var>
+  <stg>
+<st Contlex="PRON_">асладорӧ</st></stg>
    </lg>
    <mg relId="0">
      <tg xml:lang="rus">
@@ -328,6 +352,8 @@
    <lg t1="А" t2="С" t3="Л" uri="995-aslam" id="995">
      <l pos="Pron">аслам</l>
        <l_var type="molodtsov-cyr">aслам</l_var>
+  <stg>
+<st Contlex="PRON_">аслам</st></stg>
    </lg>
    <mg relId="0">
      <tg xml:lang="rus">
@@ -355,6 +381,8 @@
   <e>
    <lg t1="А" t2="С" t3="Л" uri="1001-aslanyd" id="1001"><l pos="Pron">асланыд</l>
        <l_var type="molodtsov-cyr">aсланыԁ</l_var>
+  <stg>
+<st Contlex="PRON_">асланыд</st></stg>
    </lg>
    <mg relId="0">
      <tg xml:lang="rus">
@@ -375,6 +403,8 @@
    <lg t1="А" t2="С" t3="Л" uri="1004-aslanym" id="1004">
      <l pos="Pron">асланым</l>
        <l_var type="molodtsov-cyr">aсланым</l_var>
+  <stg>
+<st Contlex="PRON_">асланым</st></stg>
    </lg>
    <mg relId="0">
      <tg xml:lang="rus">
@@ -395,6 +425,8 @@
    <lg t1="А" t2="С" t3="Л" uri="1009-aslanys" id="1009">
      <l pos="Pron">асланыс</l>
        <l_var type="molodtsov-cyr">aсланыс</l_var>
+  <stg>
+<st Contlex="PRON_">асланыс</st></stg>
    </lg>
    <mg relId="0">
      <tg xml:lang="rus">
@@ -418,6 +450,8 @@
   <e>
    <lg t1="А" t2="С" t3="Л" uri="1012-aslanysl-n" id="1012"><l pos="Pron">асланыслӧн</l>
        <l_var type="molodtsov-cyr">aсланыслӧн</l_var>
+  <stg>
+<st Contlex="PRON_">асланыслӧн</st></stg>
    </lg>
    <mg>
      <tg xml:lang="rus">
@@ -432,6 +466,8 @@
   <e>
    <lg t1="А" t2="С" t3="Л" uri="1013-aslan-" id="1013"><l pos="Pron">аслань</l>
        <l_var type="molodtsov-cyr">aслаԋ</l_var>
+  <stg>
+<st Contlex="PRON_">аслань</st></stg>
    </lg>
    <mg relId="0">
      <tg xml:lang="rus">
@@ -455,6 +491,8 @@
   <e>
    <lg t1="А" t2="С" t3="Л" uri="1016-aslan-nyd" id="1016"><l pos="Pron">асланьныд</l>
        <l_var type="molodtsov-cyr">aслаԋныԁ</l_var>
+  <stg>
+<st Contlex="PRON_">асланьныд</st></stg>
    </lg>
    <mg>
      <tg xml:lang="rus">
@@ -469,6 +507,8 @@
   <e>
    <lg t1="А" t2="С" t3="Л" uri="1018-aslan-nym" id="1018"><l pos="Pron">асланьным</l>
        <l_var type="molodtsov-cyr">aслаԋным</l_var>
+  <stg>
+<st Contlex="PRON_">асланьным</st></stg>
    </lg>
    <mg>
      <tg xml:lang="rus">
@@ -483,6 +523,8 @@
   <e>
    <lg t1="А" t2="С" t3="Л" uri="1020-aslan-nys" id="1020"><l pos="Pron">асланьныс</l>
        <l_var type="molodtsov-cyr">aслаԋныс</l_var>
+  <stg>
+<st Contlex="PRON_">асланьныс</st></stg>
    </lg>
    <mg>
      <tg xml:lang="rus">
@@ -497,6 +539,8 @@
   <e>
    <lg t1="А" t2="С" t3="Л" uri="1025-aslan-yd" id="1025"><l pos="Pron">асланьыд</l>
        <l_var type="molodtsov-cyr">aслаԋыԁ</l_var>
+  <stg>
+<st Contlex="PRON_">асланьыд</st></stg>
    </lg>
    <mg>
      <tg xml:lang="rus">
@@ -511,6 +555,8 @@
   <e>
    <lg t1="А" t2="С" t3="Л" uri="1027-aslan-ym" id="1027"><l pos="Pron">асланьым</l>
        <l_var type="molodtsov-cyr">aслаԋым</l_var>
+  <stg>
+<st Contlex="PRON_">асланьым</st></stg>
    </lg>
    <mg>
      <tg xml:lang="rus">
@@ -525,6 +571,8 @@
   <e>
    <lg t1="А" t2="С" t3="Л" uri="1030-aslan-ys" id="1030"><l pos="Pron">асланьыс</l>
        <l_var type="molodtsov-cyr">aслаԋыс</l_var>
+  <stg>
+<st Contlex="PRON_">асланьыс</st></stg>
    </lg>
    <mg>
      <tg xml:lang="rus">
@@ -544,6 +592,8 @@
    <lg t1="А" t2="С" t3="Л" uri="1031-aslas" id="1031">
      <l pos="Pron">аслас</l>
        <l_var type="molodtsov-cyr">aслас</l_var>
+  <stg>
+<st Contlex="PRON_">аслас</st></stg>
    </lg>
    <mg relId="0">
      <tg xml:lang="rus">
@@ -571,6 +621,8 @@
   <e>
    <lg t1="А" t2="С" t3="Л" uri="1035-aslyd" id="1035"><l pos="Pron">аслыд</l>
        <l_var type="molodtsov-cyr">aслыԁ</l_var>
+  <stg>
+<st Contlex="PRON_">аслыд</st></stg>
    </lg>
    <mg>
      <tg xml:lang="rus">
@@ -593,6 +645,8 @@
   <e>
    <lg t1="А" t2="С" t3="Л" uri="1040-aslym" id="1040"><l pos="Pron">аслым</l>
        <l_var type="molodtsov-cyr">aслым</l_var>
+  <stg>
+<st Contlex="PRON_">аслым</st></stg>
    </lg>
    <mg>
      <tg xml:lang="rus">
@@ -607,6 +661,8 @@
   <e>
    <lg t1="А" t2="С" t3="Л" uri="1044-aslynyd" id="1044"><l pos="Pron">аслыныд</l>
        <l_var type="molodtsov-cyr">aслыныԁ</l_var>
+  <stg>
+<st Contlex="PRON_">аслыныд</st></stg>
    </lg>
    <mg>
      <tg xml:lang="rus">
@@ -621,6 +677,8 @@
   <e>
    <lg t1="А" t2="С" t3="Л" uri="1047-aslynym" id="1047"><l pos="Pron">аслыным</l>
        <l_var type="molodtsov-cyr">aслыным</l_var>
+  <stg>
+<st Contlex="PRON_">аслыным</st></stg>
    </lg>
    <mg>
      <tg xml:lang="rus">
@@ -635,6 +693,8 @@
   <e>
    <lg t1="А" t2="С" t3="Л" uri="1049-aslynys" id="1049"><l pos="Pron">аслыныс</l>
        <l_var type="molodtsov-cyr">aслыныс</l_var>
+  <stg>
+<st Contlex="PRON_">аслыныс</st></stg>
    </lg>
    <mg>
      <tg xml:lang="rus">
@@ -649,6 +709,8 @@
   <e>
    <lg t1="А" t2="С" t3="Л" uri="1052-aslys" id="1052"><l pos="Pron">аслыс</l>
        <l_var type="molodtsov-cyr">aслыс</l_var>
+  <stg>
+<st Contlex="PRON_">аслыс</st></stg>
    </lg>
    <mg>
      <tg xml:lang="rus">
@@ -663,6 +725,8 @@
   <e>
    <lg t1="А" t2="С" t3="Н" uri="1093-asnad" id="1093"><l pos="Pron">аснад</l>
        <l_var type="molodtsov-cyr">aснаԁ</l_var>
+  <stg>
+<st Contlex="PRON_">аснад</st></stg>
    </lg>
    <mg>
      <tg xml:lang="rus">
@@ -673,6 +737,8 @@
   <e>
    <lg t1="А" t2="С" t3="Н" uri="1095-asnam" id="1095"><l pos="Pron">аснам</l>
        <l_var type="molodtsov-cyr">aснам</l_var>
+  <stg>
+<st Contlex="PRON_">аснам</st></stg>
    </lg>
    <mg>
      <tg xml:lang="rus">
@@ -683,6 +749,8 @@
   <e>
    <lg t1="А" t2="С" t3="Н" uri="1097-asnanyd" id="1097"><l pos="Pron">аснаныд</l>
        <l_var type="molodtsov-cyr">aснаныԁ</l_var>
+  <stg>
+<st Contlex="PRON_">аснаныд</st></stg>
    </lg>
    <mg>
      <tg xml:lang="rus">
@@ -693,6 +761,8 @@
   <e>
    <lg t1="А" t2="С" t3="Н" uri="1099-asnanym" id="1099"><l pos="Pron">аснаным</l>
        <l_var type="molodtsov-cyr">aснаным</l_var>
+  <stg>
+<st Contlex="PRON_">аснаным</st></stg>
    </lg>
    <mg>
      <tg xml:lang="rus">
@@ -703,6 +773,8 @@
   <e>
    <lg t1="А" t2="С" t3="Н" uri="1101-asnanys" id="1101"><l pos="Pron">аснаныс</l>
        <l_var type="molodtsov-cyr">aснаныс</l_var>
+  <stg>
+<st Contlex="PRON_">аснаныс</st></stg>
    </lg>
    <mg>
      <tg xml:lang="rus">
@@ -713,6 +785,8 @@
   <e>
    <lg t1="А" t2="С" t3="Н" uri="1103-asnas" id="1103"><l pos="Pron">аснас</l>
        <l_var type="molodtsov-cyr">aснас</l_var>
+  <stg>
+<st Contlex="PRON_">аснас</st></stg>
    </lg>
    <mg>
      <tg xml:lang="rus">
@@ -727,6 +801,8 @@
   <e>
    <lg t1="А" t2="С" t3="С" uri="1151-ass-yd" id="1151"><l pos="Pron">ассьыд</l>
        <l_var type="molodtsov-cyr">aԍԍыԁ</l_var>
+  <stg>
+<st Contlex="PRON_">ассьыд</st></stg>
    </lg>
    <mg relId="0">
      <tg xml:lang="rus">
@@ -758,6 +834,8 @@
   <e>
    <lg t1="А" t2="С" t3="С" uri="1153-ass-ym" id="1153"><l pos="Pron">ассьым</l>
        <l_var type="molodtsov-cyr">aԍԍым</l_var>
+  <stg>
+<st Contlex="PRON_">ассьым</st></stg>
    </lg>
    <mg relId="0">
      <tg xml:lang="rus">
@@ -781,6 +859,8 @@
   <e>
    <lg t1="А" t2="С" t3="С" uri="1156-ass-ynyd" id="1156"><l pos="Pron">ассьыныд</l>
        <l_var type="molodtsov-cyr">aԍԍыныԁ</l_var>
+  <stg>
+<st Contlex="PRON_">ассьыныд</st></stg>
    </lg>
    <mg relId="0">
      <tg xml:lang="rus">
@@ -804,6 +884,8 @@
   <e>
    <lg t1="А" t2="С" t3="С" uri="1159-ass-ynym" id="1159"><l pos="Pron">ассьыным</l>
        <l_var type="molodtsov-cyr">aԍԍыным</l_var>
+  <stg>
+<st Contlex="PRON_">ассьыным</st></stg>
    </lg>
    <mg relId="0">
      <tg xml:lang="rus">
@@ -827,6 +909,8 @@
   <e>
    <lg t1="А" t2="С" t3="С" uri="1160-ass-ynys" id="1160"><l pos="Pron">ассьыныс</l>
        <l_var type="molodtsov-cyr">aԍԍыныс</l_var>
+  <stg>
+<st Contlex="PRON_">ассьыныс</st></stg>
    </lg>
    <mg relId="0">
      <tg xml:lang="rus">
@@ -850,6 +934,8 @@
   <e>
    <lg t1="А" t2="С" t3="С" uri="1161-ass-ys" id="1161"><l pos="Pron">ассьыс</l>
        <l_var type="molodtsov-cyr">aԍԍыс</l_var>
+  <stg>
+<st Contlex="PRON_">ассьыс</st></stg>
    </lg>
    <mg relId="0">
      <tg xml:lang="rus">
@@ -881,6 +967,8 @@
   <e>
    <lg t1="А" t2="С" t3="С" uri="1165-assyan-" id="1165"><l pos="Pron">ассянь</l>
        <l_var type="molodtsov-cyr">aԍԍаԋ</l_var>
+  <stg>
+<st Contlex="PRON_">ассянь</st></stg>
    </lg>
    <mg>
      <tg xml:lang="rus">
@@ -891,6 +979,8 @@
   <e>
    <lg t1="А" t2="С" t3="С" uri="1168-assyan-nyd" id="1168"><l pos="Pron">ассяньныд</l>
        <l_var type="molodtsov-cyr">aԍԍаԋныԁ</l_var>
+  <stg>
+<st Contlex="PRON_">ассяньныд</st></stg>
    </lg>
    <mg>
      <tg xml:lang="rus">
@@ -905,6 +995,8 @@
   <e>
    <lg t1="А" t2="С" t3="С" uri="1171-assyan-nym" id="1171"><l pos="Pron">ассяньным</l>
        <l_var type="molodtsov-cyr">aԍԍаԋным</l_var>
+  <stg>
+<st Contlex="PRON_">ассяньным</st></stg>
    </lg>
    <mg>
      <tg xml:lang="rus">
@@ -919,6 +1011,8 @@
   <e>
    <lg t1="А" t2="С" t3="С" uri="1172-assyan-nys" id="1172"><l pos="Pron">ассяньныс</l>
        <l_var type="molodtsov-cyr">aԍԍаԋныс</l_var>
+  <stg>
+<st Contlex="PRON_">ассяньныс</st></stg>
    </lg>
    <mg>
      <tg xml:lang="rus">
@@ -933,6 +1027,8 @@
   <e>
    <lg t1="А" t2="С" t3="С" uri="1175-assyan-yd" id="1175"><l pos="Pron">ассяньыд</l>
        <l_var type="molodtsov-cyr">aԍԍаԋыԁ</l_var>
+  <stg>
+<st Contlex="PRON_">ассяньыд</st></stg>
    </lg>
    <mg>
      <tg xml:lang="rus">
@@ -951,6 +1047,8 @@
   <e>
    <lg t1="А" t2="С" t3="С" uri="1176-assyan-ym" id="1176"><l pos="Pron">ассяньым</l>
        <l_var type="molodtsov-cyr">aԍԍаԋым</l_var>
+  <stg>
+<st Contlex="PRON_">ассяньым</st></stg>
    </lg>
    <mg>
      <tg xml:lang="rus">
@@ -965,6 +1063,8 @@
   <e>
    <lg t1="А" t2="С" t3="С" uri="1177-assyan-ys" id="1177"><l pos="Pron">ассяньыс</l>
        <l_var type="molodtsov-cyr">aԍԍаԋыс</l_var>
+  <stg>
+<st Contlex="PRON_">ассяньыс</st></stg>
    </lg>
    <mg>
      <tg xml:lang="rus">
@@ -979,6 +1079,8 @@
   <e>
    <lg t1="А" t2="С" t3="Т" uri="1180-ast-g" id="1180"><l pos="Pron">астӧг</l>
        <l_var type="molodtsov-cyr">aстӧг</l_var>
+  <stg>
+<st Contlex="PRON_">астӧг</st></stg>
    </lg>
    <mg relId="0"> <sg><s s_type="see">астӧгым</s></sg>
      <tg xml:lang="rus">
@@ -998,6 +1100,8 @@
   <e>
    <lg t1="А" t2="С" t3="Т" uri="1181-ast-gnyd" id="1181"><l pos="Pron">астӧгныд</l>
        <l_var type="molodtsov-cyr">aстӧгныԁ</l_var>
+  <stg>
+<st Contlex="PRON_">астӧгныд</st></stg>
    </lg>
    <mg>
      <tg xml:lang="rus">
@@ -1012,6 +1116,8 @@
   <e>
    <lg t1="А" t2="С" t3="Т" uri="1183-ast-gnym" id="1183"><l pos="Pron">астӧгным</l>
        <l_var type="molodtsov-cyr">aстӧгным</l_var>
+  <stg>
+<st Contlex="PRON_">астӧгным</st></stg>
    </lg>
    <mg>
      <tg xml:lang="rus">
@@ -1026,6 +1132,8 @@
   <e>
    <lg t1="А" t2="С" t3="Т" uri="1186-ast-gnys" id="1186"><l pos="Pron">астӧгныс</l>
        <l_var type="molodtsov-cyr">aстӧгныс</l_var>
+  <stg>
+<st Contlex="PRON_">астӧгныс</st></stg>
    </lg>
    <mg>
      <tg xml:lang="rus">
@@ -1040,6 +1148,8 @@
   <e>
    <lg t1="А" t2="С" t3="Т" uri="1188-ast-gyd" id="1188"><l pos="Pron">астӧгыд</l>
        <l_var type="molodtsov-cyr">aстӧгыԁ</l_var>
+  <stg>
+<st Contlex="PRON_">астӧгыд</st></stg>
    </lg>
    <mg>
      <tg xml:lang="rus">
@@ -1054,6 +1164,8 @@
   <e>
    <lg t1="А" t2="С" t3="Т" uri="1190-ast-gym" id="1190"><l pos="Pron">астӧгым</l>
        <l_var type="molodtsov-cyr">aстӧгым</l_var>
+  <stg>
+<st Contlex="PRON_">астӧгым</st></stg>
    </lg>
    <mg>
      <tg xml:lang="rus">
@@ -1068,6 +1180,8 @@
   <e>
    <lg t1="А" t2="С" t3="Т" uri="1192-ast-gys" id="1192"><l pos="Pron">астӧгыс</l>
        <l_var type="molodtsov-cyr">aстӧгыс</l_var>
+  <stg>
+<st Contlex="PRON_">астӧгыс</st></stg>
    </lg>
    <mg>
      <tg xml:lang="rus">
@@ -1083,10 +1197,12 @@
    <lg t1="А" t2="С" t3="Ь" uri="1270-as-nyd" id="1270">
      <l pos="Pron">асьныд</l>
        <l_var type="molodtsov-cyr">aԍныԁ</l_var>
+  <stg>
+<st Contlex="PRON_">асьныд</st></stg>
    </lg>
    <mg relId="0">
      <tg xml:lang="rus">
-       <t><acronym title="местоимение"><em>мест.</em></acronym> <acronym title="усилительно-личное (местоимение)"><em>усил.-личн.</em></acronym> <acronym title="местоимение"><em>мест.</em></acronym> <acronym title="2-ое лицо"><em>2 л.</em></acronym> вы сами</t>
+       <t pos="Pron"> <acronym title="усилительно-личное (местоимение)"><em>усил.-личн.</em></acronym> <acronym title="местоимение"><em>мест.</em></acronym> <acronym title="2-ое лицо"><em>2 л.</em></acronym> вы сами</t>
      </tg>
      <xg>
        <x>асьныд волӧй</x>
@@ -1098,10 +1214,12 @@
    <lg t1="А" t2="С" t3="Ь" uri="1272-as-nym" id="1272">
      <l pos="Pron">асьным</l>
        <l_var type="molodtsov-cyr">aԍным</l_var>
+  <stg>
+<st Contlex="PRON_">асьным</st></stg>
    </lg>
    <mg relId="0">
      <tg xml:lang="rus">
-       <t><acronym title="местоимение"><em>мест.</em></acronym> <acronym title="усилительно-личное (местоимение)"><em>усил.-личн.</em></acronym> <acronym title="местоимение"><em>мест.</em></acronym> <acronym title="1-ое лицо"><em>1 л.</em></acronym> мы сами</t>
+       <t pos="Pron"> <acronym title="усилительно-личное (местоимение)"><em>усил.-личн.</em></acronym> <acronym title="местоимение"><em>мест.</em></acronym> <acronym title="1-ое лицо"><em>1 л.</em></acronym> мы сами</t>
      </tg>
      <xg>
        <x>ми асьным локтам</x>
@@ -1117,6 +1235,8 @@
    <lg t1="А" t2="С" t3="Ь" uri="1275-as-nym-s" id="1275">
      <l pos="Pron">асьнымӧс</l>
        <l_var type="molodtsov-cyr">aԍнымӧс</l_var>
+  <stg>
+<st Contlex="PRON_">асьнымӧс</st></stg>
    </lg>
    <mg relId="0">
      <tg xml:lang="rus">
@@ -1132,10 +1252,12 @@
    <lg t1="А" t2="С" t3="Ь" uri="1276-as-nys" id="1276">
      <l pos="Pron">асьныс</l>
        <l_var type="molodtsov-cyr">aԍныс</l_var>
+  <stg>
+<st Contlex="PRON_">асьныс</st></stg>
    </lg>
    <mg relId="0">
      <tg xml:lang="rus">
-       <t><acronym title="местоимение"><em>мест.</em></acronym> <acronym title="усилительно-личное (местоимение)"><em>усил.-личн.</em></acronym> <acronym title="местоимение"><em>мест.</em></acronym> <acronym title="3-ье лицо"><em>3 л.</em></acronym> они сами</t>
+       <t pos="Pron"> <acronym title="усилительно-личное (местоимение)"><em>усил.-личн.</em></acronym> <acronym title="местоимение"><em>мест.</em></acronym> <acronym title="3-ье лицо"><em>3 л.</em></acronym> они сами</t>
      </tg>
      <xg>
        <x>асьныс тӧдӧны</x>
@@ -1147,6 +1269,8 @@
    <lg t1="А" t2="С" t3="Ь" uri="1277-as-nys-" id="1277">
      <l pos="Pron">асьнысӧ</l>
        <l_var type="molodtsov-cyr">aԍнысӧ</l_var>
+  <stg>
+<st Contlex="PRON_">асьнысӧ</st></stg>
    </lg>
    <mg relId="0">
      <tg xml:lang="rus">
@@ -1162,6 +1286,8 @@
    <lg t1="А" t2="С" t3="Ь" uri="1278-as-nyt-" id="1278">
      <l pos="Pron">асьнытӧ</l>
        <l_var type="molodtsov-cyr">aԍнытӧ</l_var>
+  <stg>
+<st Contlex="PRON_">асьнытӧ</st></stg>
    </lg>
    <mg relId="0">
      <tg xml:lang="rus">
@@ -1177,6 +1303,8 @@
    <lg t1="А" t2="С" t3="Ь" uri="1280-as-s-" id="1280">
      <l pos="Pron">асьсӧ</l>
        <l_var type="molodtsov-cyr">aԍсӧ</l_var>
+  <stg>
+<st Contlex="PRON_">асьсӧ</st></stg>
    </lg>
    <mg relId="0">
      <tg xml:lang="rus">
@@ -1192,6 +1320,8 @@
    <lg t1="А" t2="С" t3="Ь" uri="1282-as-t-" id="1282">
      <l pos="Pron">асьтӧ</l>
        <l_var type="molodtsov-cyr">aԍтӧ</l_var>
+  <stg>
+<st Contlex="PRON_">асьтӧ</st></stg>
    </lg>
    <mg relId="0">
      <tg xml:lang="rus">
@@ -1207,10 +1337,12 @@
    <lg t1="А" t2="Ч" t3="Ы" uri="1349-achyd" id="1349">
      <l pos="Pron">ачыд</l>
        <l_var type="molodtsov-cyr">aчыԁ</l_var>
+  <stg>
+<st Contlex="PRON_">ачыд</st></stg>
    </lg>
    <mg relId="0">
      <tg xml:lang="rus">
-       <t><acronym title="местоимение"><em>мест.</em></acronym> <acronym title="усилительно-личное (местоимение)"><em>усил.-личн.</em></acronym> <acronym title="единственное число"><em>ед.ч.</em></acronym> <acronym title="2-ое лицо"><em>2 л.</em></acronym> ты сам</t>
+       <t pos="Pron"> <acronym title="усилительно-личное (местоимение)"><em>усил.-личн.</em></acronym> <acronym title="единственное число"><em>ед.ч.</em></acronym> <acronym title="2-ое лицо"><em>2 л.</em></acronym> ты сам</t>
      </tg>
      <xg>
        <x>ачыд тӧдан</x>
@@ -1230,10 +1362,12 @@
    <lg t1="А" t2="Ч" t3="Ы" uri="1351-achym" id="1351">
      <l pos="Pron">ачым</l>
        <l_var type="molodtsov-cyr">aчым</l_var>
+  <stg>
+<st Contlex="PRON_">ачым</st></stg>
    </lg>
    <mg relId="0">
      <tg xml:lang="rus">
-       <t><acronym title="местоимение"><em>мест.</em></acronym> <acronym title="усилительно-личное (местоимение)"><em>усил.-личн.</em></acronym> <acronym title="единственное число"><em>ед.ч.</em></acronym> <acronym title="1-ое лицо"><em>1 л.</em></acronym> я сам</t>
+       <t pos="Pron"> <acronym title="усилительно-личное (местоимение)"><em>усил.-личн.</em></acronym> <acronym title="единственное число"><em>ед.ч.</em></acronym> <acronym title="1-ое лицо"><em>1 л.</em></acronym> я сам</t>
      </tg>
      <xg>
        <x>ачым аддзылі</x>
@@ -1253,6 +1387,8 @@
    <lg t1="А" t2="Ч" t3="Ы" uri="1353-achym-n" id="1353">
      <l pos="Pron">ачымӧн</l>
        <l_var type="molodtsov-cyr">aчымӧн</l_var>
+  <stg>
+<st Contlex="PRON_">ачымӧн</st></stg>
    </lg>
    <mg relId="0"> <sg><s s_type="see">аснам</s></sg>
      <tg xml:lang="rus">
@@ -1264,6 +1400,8 @@
    <lg t1="А" t2="Ч" t3="Ы" uri="1354-achym-s" id="1354">
      <l pos="Pron">ачымӧс</l>
        <l_var type="molodtsov-cyr">aчымӧс</l_var>
+  <stg>
+<st Contlex="PRON_">ачымӧс</st></stg>
    </lg>
    <mg relId="0">
      <tg xml:lang="rus">
@@ -1279,10 +1417,12 @@
    <lg t1="А" t2="Ч" t3="Ы" uri="1357-achys" id="1357">
      <l pos="Pron">ачыс</l>
        <l_var type="molodtsov-cyr">aчыс</l_var>
+  <stg>
+<st Contlex="PRON_">ачыс</st></stg>
    </lg>
    <mg relId="0">
      <tg xml:lang="rus">
-       <t><acronym title="местоимение"><em>мест.</em></acronym> <acronym title="усилительно-личное (местоимение)"><em>усил.-личн.</em></acronym> <acronym title="единственное число"><em>ед.ч.</em></acronym> <acronym title="3-ье лицо"><em>3 л.</em></acronym> он сам</t>
+       <t pos="Pron"> <acronym title="усилительно-личное (местоимение)"><em>усил.-личн.</em></acronym> <acronym title="единственное число"><em>ед.ч.</em></acronym> <acronym title="3-ье лицо"><em>3 л.</em></acronym> он сам</t>
      </tg>
      <xg>
        <x>ачыс тӧдӧ</x>
@@ -1298,10 +1438,12 @@
    <lg t1="Б" t2="Ы" t3="Д" uri="4104-byd-n" id="4104">
      <l hid="Hom1" pos="Pron">быдӧн</l>
        <l_var type="molodtsov-cyr">быԁӧн</l_var>
+  <stg>
+<st Contlex="PRON_">быдӧн</st></stg>
    </lg>
    <mg relId="0">
      <tg xml:lang="rus">
-       <t><acronym title="местоимение"><em>мест.</em></acronym> <acronym title="обобщительное (местоимение)"><em>обобщ.</em></acronym> <acronym title="определительное (местоимение)"><em>опред.</em></acronym> все</t>
+       <t pos="Pron"> <acronym title="обобщительное (местоимение)"><em>обобщ.</em></acronym> <acronym title="определительное (местоимение)"><em>опред.</em></acronym> все</t>
      </tg>
      <xg>
        <x>быдӧнлы колӧ сетны</x>
@@ -1359,6 +1501,8 @@
    <lg t1="К" t2="Ы" t3="Д" uri="26373-kydz-myij" id="26373">
      <l pos="Pron">кыдз-мый</l>
        <l_var type="molodtsov-cyr">кыԇ-мыј</l_var>
+  <stg>
+<st Contlex="PRON_">кыдз-мый</st></stg>
    </lg>
    <mg relId="0"> <sg><s pos="Pron" s_type="see">кыдзи-мый</s></sg>
      <tg xml:lang="rus">
@@ -1370,6 +1514,8 @@
    <lg t1="К" t2="Ы" t3="Д" uri="26362-kydzik" id="26362">
      <l pos="Pron">кыдзик</l>
        <l_var type="molodtsov-cyr">кыԇік</l_var>
+  <stg>
+<st Contlex="PRON_">кыдзик</st></stg>
    </lg>
    <mg relId="0"><strong>кыдзик, кыдзикӧн</strong><br/>
      <tg xml:lang="rus">
@@ -1385,6 +1531,8 @@
    <lg t1="К" t2="Ы" t3="Т" uri="27131-kyt" id="27131">
      <l pos="Pron">кыт</l>
        <l_var type="molodtsov-cyr">кыт</l_var>
+  <stg>
+<st Contlex="PRON_">кыт</st></stg>
    </lg>
    <mg relId="0"><strong>кыт, кыті</strong><br/>
      <tg xml:lang="rus">
@@ -1404,6 +1552,8 @@
    <lg t1="К" t2="Ы" t3="Т" uri="27150-kytchan-" id="27150">
      <l pos="Pron">кытчань</l>
        <l_var type="molodtsov-cyr">кыччаԋ</l_var>
+  <stg>
+<st Contlex="PRON_">кытчань</st></stg>
    </lg>
    <mg relId="0"><strong>кытчань, кытчаньӧ</strong><br/>
      <tg xml:lang="rus">
@@ -1419,6 +1569,8 @@
    <lg t1="К" t2="Ы" t3="Т" uri="27163-kytch-myij" id="27163">
      <l pos="Pron">кытчӧ-мый</l>
        <l_var type="molodtsov-cyr">кыччӧ-мыј</l_var>
+  <stg>
+<st Contlex="PRON_">кытчӧ-мый</st></stg>
    </lg>
    <mg relId="0">
      <tg xml:lang="rus">
@@ -1434,6 +1586,8 @@
    <lg t1="К" t2="Ӧ" t3="Н" uri="24195-k-n-ya" id="24195">
      <l pos="Pron">кӧнъя</l>
        <l_var type="molodtsov-cyr">кӧнја</l_var>
+  <stg>
+<st Contlex="PRON_">кӧнъя</st></stg>
    </lg>
    <mg relId="0">
      <tg xml:lang="rus">
@@ -1452,7 +1606,9 @@
   <e>
    <lg t1="М" t2="Е" t3="" uri="30957-me" id="30957">
      <l pos="Pron">ме</l>
-       <l_var type="molodtsov-cyr">ме</l_var> <comment><em>(<xref link="мен"> мен</xref> – полная основа в <acronym title="косвенные (падежи)"><em>косв.</em></acronym> падежах)</em> <acronym title="местоимение"><em>мест.</em></acronym> <acronym title="личная форма, личное местоимение"><em>личн.</em></acronym></comment>
+       <l_var type="molodtsov-cyr">ме</l_var>
+  <stg>
+<st Contlex="PRON_">ме</st></stg> <comment><em>(<xref link="мен"> мен</xref> – полная основа в <acronym title="косвенные (падежи)"><em>косв.</em></acronym> падежах)</em> <acronym title="местоимение"><em>мест.</em></acronym> <acronym title="личная форма, личное местоимение"><em>личн.</em></acronym></comment>
    </lg>
    <mg relId="0">
      <tg xml:lang="rus">
@@ -1581,7 +1737,9 @@
   <e>
    <lg t1="М" t2="Е" t3="С" uri="31431-messya" id="31431">
      <l pos="Pron">месся</l>
-       <l_var type="molodtsov-cyr">меԍԍа</l_var> <rg><r range_space="dialect"/></rg>
+       <l_var type="molodtsov-cyr">меԍԍа</l_var>
+  <stg>
+<st Contlex="PRON_">месся</st></stg> <rg><r range_space="dialect"/></rg>
    </lg>
    <mg relId="0"> <sg><s pos="Pron" s_type="see">меысь</s></sg>
      <tg xml:lang="rus">
@@ -1593,6 +1751,8 @@
    <lg t1="М" t2="И" t3="" uri="31551-mi" id="31551">
      <l pos="Pron">ми</l>
        <l_var type="molodtsov-cyr">мі</l_var>
+  <stg>
+<st Contlex="PRON_">ми</st></stg>
    </lg>
    <mg relId="0">
      <tg xml:lang="rus">
@@ -1636,6 +1796,8 @@
    <lg t1="М" t2="И" t3="Л" uri="31616-mily" id="31616">
      <l pos="Pron">милы</l>
        <l_var type="molodtsov-cyr">мілы</l_var>
+  <stg>
+<st Contlex="PRON_">милы</st></stg>
    </lg>
    <mg relId="0"> <sg><s pos="Pron" s_type="see">миянлы</s></sg>
      <tg xml:lang="rus">
@@ -1647,6 +1809,8 @@
    <lg t1="М" t2="И" t3="Л" uri="31618-milys-" id="31618">
      <l pos="Pron">милысь</l>
        <l_var type="molodtsov-cyr">мілыԍ</l_var>
+  <stg>
+<st Contlex="PRON_">милысь</st></stg>
    </lg>
    <mg relId="0"> <sg><s pos="Pron" s_type="see">миянлысь</s></sg>
      <tg xml:lang="rus">
@@ -1657,7 +1821,9 @@
   <e>
    <lg t1="М" t2="О" t3="Р" uri="32038-morta-mort" id="32038">
      <l pos="Pron">морта-морт</l>
-       <l_var type="molodtsov-cyr">морта-морт</l_var> <rg><r range_space="dialect"/></rg>
+       <l_var type="molodtsov-cyr">морта-морт</l_var>
+  <stg>
+<st Contlex="PRON_">морта-морт</st></stg> <rg><r range_space="dialect"/></rg>
    </lg>
    <mg relId="0">
      <tg xml:lang="rus">
@@ -1669,6 +1835,8 @@
    <lg t1="М" t2="У" t3="К" uri="32491-muk-d" id="32491">
      <l pos="Pron">мукӧд</l>
        <l_var type="molodtsov-cyr">мукӧԁ</l_var>
+  <stg>
+<st Contlex="PRON_">мукӧд</st></stg>
    </lg>
    <mg relId="0">
      <tg xml:lang="rus">
@@ -1750,6 +1918,8 @@
    <lg t1="М" t2="Ы" t3="Я" uri="33410-myya" id="33410">
      <l pos="Pron">мыя</l>
        <l_var type="molodtsov-cyr">мыја</l_var>
+  <stg>
+<st Contlex="PRON_">мыя</st></stg>
    </lg>
    <mg relId="0">
      <tg xml:lang="rus">
@@ -1788,10 +1958,12 @@
    <lg t1="Н" t2="А" t3="Й" uri="33579-naij-" id="33579">
      <l pos="Pron">найӧ</l>
        <l_var type="molodtsov-cyr">најӧ</l_var>
+  <stg>
+<st Contlex="PRON_">найӧ</st></stg>
    </lg>
    <mg relId="0">
      <tg xml:lang="rus">
-       <t><acronym title="местоимение"><em>мест.</em></acronym> <acronym title="личная форма, личное местоимение"><em>личн.</em></acronym> они</t>
+       <t pos="Pron"> <acronym title="личная форма, личное местоимение"><em>личн.</em></acronym> они</t>
      </tg>
      <xg>
        <x>найӧ талун локтасны</x>
@@ -1820,6 +1992,8 @@
    <lg t1="Н" t2="А" t3="Л" uri="33614-nala" id="33614">
      <l pos="Pron">нала</l>
        <l_var type="molodtsov-cyr">нала</l_var>
+  <stg>
+<st Contlex="PRON_">нала</st></stg>
    </lg>
    <mg relId="0">
      <tg xml:lang="rus">
@@ -1835,6 +2009,8 @@
    <lg t1="Н" t2="А" t3="Л" uri="33619-naladoryn" id="33619">
      <l pos="Pron">наладорын</l>
        <l_var type="molodtsov-cyr">налаԁорын</l_var>
+  <stg>
+<st Contlex="PRON_">наладорын</st></stg>
    </lg>
    <mg relId="0">
      <tg xml:lang="rus">
@@ -1851,6 +2027,8 @@
    <lg t1="Н" t2="А" t3="Л" uri="33618-nalador-" id="33618">
      <l pos="Pron">наладорӧ</l>
        <l_var type="molodtsov-cyr">налаԁорӧ</l_var>
+  <stg>
+<st Contlex="PRON_">наладорӧ</st></stg>
    </lg>
    <mg relId="0">
      <tg xml:lang="rus">
@@ -1879,6 +2057,8 @@
    <lg t1="Н" t2="А" t3="Ӧ" uri="33693-na-n" id="33693">
      <l pos="Pron">наӧн</l>
        <l_var type="molodtsov-cyr">наӧн</l_var>
+  <stg>
+<st Contlex="PRON_">наӧн</st></stg>
    </lg>
    <mg relId="0">
      <tg xml:lang="rus">
@@ -1893,7 +2073,9 @@
   <e>
    <lg t1="Н" t2="Е" t3="К" uri="34043-nekin" id="34043">
      <l pos="Pron">некин</l>
-       <l_var type="molodtsov-cyr">ԋекін</l_var> <rg><r range_space="dialect"/></rg>
+       <l_var type="molodtsov-cyr">ԋекін</l_var>
+  <stg>
+<st Contlex="PRON_">некин</st></stg> <rg><r range_space="dialect"/></rg>
    </lg>
    <mg relId="0"> <sg><s pos="Pron" s_type="see">некод</s></sg>
      <tg xml:lang="rus">
@@ -1905,10 +2087,12 @@
    <lg t1="Н" t2="Е" t3="К" uri="34044-nekod" id="34044">
      <l pos="Pron">некод</l>
        <l_var type="molodtsov-cyr">ԋекоԁ</l_var>
+  <stg>
+<st Contlex="PRON_">некод</st></stg>
    </lg>
    <mg relId="0">
      <tg xml:lang="rus">
-       <t><acronym title="местоимение"><em>мест.</em></acronym> <acronym title="отрицательное (частица, предложение)"><em>отриц.</em></acronym></t>
+       <t pos="Pron"> <acronym title="отрицательное (частица, предложение)"><em>отриц.</em></acronym></t>
      </tg><br/>
      <tg xml:lang="rus">
        <t>1. никто</t>
@@ -1973,10 +2157,12 @@
    <lg t1="Н" t2="Е" t3="К" uri="34047-nekodar" id="34047">
      <l pos="Pron">некодар</l>
        <l_var type="molodtsov-cyr">ԋекоԁар</l_var>
+  <stg>
+<st Contlex="PRON_">некодар</st></stg>
    </lg>
    <mg relId="0">
      <tg xml:lang="rus">
-       <t><acronym title="местоимение"><em>мест.</em></acronym> <acronym title="отрицательное (частица, предложение)"><em>отриц.</em></acronym> ни один <em>(из двух)</em>; никоторый <em>(из двух)</em> <acronym title="разговорное"><em>разг.</em></acronym></t>
+       <t pos="Pron"> <acronym title="отрицательное (частица, предложение)"><em>отриц.</em></acronym> ни один <em>(из двух)</em>; никоторый <em>(из двух)</em> <acronym title="разговорное"><em>разг.</em></acronym></t>
      </tg>
      <xg>
        <x>эз и войковтлы некодар чомъяс</x>
@@ -1988,6 +2174,8 @@
    <lg t1="Н" t2="Е" t3="К" uri="34067-nekodyr" id="34067">
      <l pos="Pron">некодыр</l>
        <l_var type="molodtsov-cyr">ԋекоԁыр</l_var>
+  <stg>
+<st Contlex="PRON_">некодыр</st></stg>
    </lg>
    <mg relId="0"> <sg><s pos="Pron" s_type="see">некор</s></sg>
      <tg xml:lang="rus">
@@ -2003,6 +2191,8 @@
    <lg t1="Н" t2="Е" t3="К" uri="34076-nekutsh-ma" id="34076">
      <l pos="Pron">некутшӧма</l>
        <l_var type="molodtsov-cyr">ԋекущӧма</l_var>
+  <stg>
+<st Contlex="PRON_">некутшӧма</st></stg>
    </lg>
    <mg relId="0">
      <tg xml:lang="rus">
@@ -2031,6 +2221,8 @@
    <lg t1="Н" t2="Е" t3="К" uri="34079-nekydzi" id="34079">
      <l pos="Pron">некыдзи</l>
        <l_var type="molodtsov-cyr">ԋекыԇі</l_var>
+  <stg>
+<st Contlex="PRON_">некыдзи</st></stg>
    </lg>
    <mg relId="0"> <sg><s pos="Pron" s_type="see">некыдз</s></sg>
      <tg xml:lang="rus">
@@ -2042,10 +2234,12 @@
    <lg t1="Н" t2="Е" t3="К" uri="34081-nekymyn" id="34081">
      <l pos="Pron">некымын</l>
        <l_var type="molodtsov-cyr">ԋекымын</l_var>
+  <stg>
+<st Contlex="PRON_">некымын</st></stg>
    </lg>
    <mg relId="0">
      <tg xml:lang="rus">
-       <t><acronym title="местоимение"><em>мест.</em></acronym> <acronym title="неопределённое (местоимение)"><em>неопр.</em></acronym> несколько</t>
+       <t pos="Pron"> <acronym title="неопределённое (местоимение)"><em>неопр.</em></acronym> несколько</t>
      </tg>
      <xg>
        <x>некымын воськов</x>
@@ -2074,6 +2268,8 @@
    <lg t1="Н" t2="Е" t3="К" uri="34091-nekys-" id="34091">
      <l pos="Pron">некысь</l>
        <l_var type="molodtsov-cyr">ԋекыԍ</l_var>
+  <stg>
+<st Contlex="PRON_">некысь</st></stg>
    </lg>
    <mg relId="0">
      <tg xml:lang="rus">
@@ -2102,6 +2298,8 @@
    <lg t1="Н" t2="Е" t3="К" uri="34093-nekysyan-" id="34093">
      <l pos="Pron">некысянь</l>
        <l_var type="molodtsov-cyr">ԋекыԍаԋ</l_var>
+  <stg>
+<st Contlex="PRON_">некысянь</st></stg>
    </lg>
    <mg relId="0">
      <tg xml:lang="rus">
@@ -2126,6 +2324,8 @@
    <lg t1="Н" t2="Е" t3="К" uri="34094-nekyt" id="34094">
      <l pos="Pron">некыт</l>
        <l_var type="molodtsov-cyr">ԋекыт</l_var>
+  <stg>
+<st Contlex="PRON_">некыт</st></stg>
    </lg>
    <mg relId="0">
      <tg xml:lang="rus">
@@ -2154,6 +2354,8 @@
    <lg t1="Н" t2="Е" t3="К" uri="34102-nekytch-" id="34102">
      <l pos="Pron">некытчӧ</l>
        <l_var type="molodtsov-cyr">ԋекыччӧ</l_var>
+  <stg>
+<st Contlex="PRON_">некытчӧ</st></stg>
    </lg>
    <mg relId="0">
      <tg xml:lang="rus">
@@ -2210,6 +2412,8 @@
    <lg t1="Н" t2="Е" t3="К" uri="34103-nekytch-dz" id="34103">
      <l pos="Pron">некытчӧдз</l>
        <l_var type="molodtsov-cyr">ԋекыччӧԇ</l_var>
+  <stg>
+<st Contlex="PRON_">некытчӧдз</st></stg>
    </lg>
    <mg relId="0">
      <tg xml:lang="rus">
@@ -2225,6 +2429,8 @@
    <lg t1="Н" t2="Е" t3="К" uri="34105-nekytys-" id="34105">
      <l pos="Pron">некытысь</l>
        <l_var type="molodtsov-cyr">ԋекытыԍ</l_var>
+  <stg>
+<st Contlex="PRON_">некытысь</st></stg>
    </lg>
    <mg relId="0"> <sg><s pos="Pron" s_type="see">некысь</s></sg>
      <tg xml:lang="rus">
@@ -2240,6 +2446,8 @@
    <lg t1="Н" t2="Е" t3="К" uri="34097-nekyti" id="34097">
      <l pos="Pron">некыті</l>
        <l_var type="molodtsov-cyr">ԋекыті</l_var>
+  <stg>
+<st Contlex="PRON_">некыті</st></stg>
    </lg>
    <mg relId="0"> <sg><s pos="Pron" s_type="see">некыт</s></sg>
      <tg xml:lang="rus">
@@ -2251,10 +2459,12 @@
    <lg t1="Н" t2="Е" t3="М" uri="34125-nem" id="34125">
      <l pos="Pron">нем</l>
        <l_var type="molodtsov-cyr">ԋем</l_var>
+  <stg>
+<st Contlex="PRON_">нем</st></stg>
    </lg>
    <mg relId="0">
      <tg xml:lang="rus">
-       <t><acronym title="местоимение"><em>мест.</em></acronym> <acronym title="неопределённое (местоимение)"><em>неопр.</em></acronym> ничто, ничего</t>
+       <t pos="Pron"> <acronym title="неопределённое (местоимение)"><em>неопр.</em></acronym> ничто, ничего</t>
      </tg>
      <xg>
        <x>нем абу</x>
@@ -2362,6 +2572,8 @@
    <lg t1="Н" t2="Е" t3="М" uri="34170-nemys-mog-" id="34170">
      <l pos="Pron">немысьмогӧ</l>
        <l_var type="molodtsov-cyr">ԋемыԍмогӧ</l_var>
+  <stg>
+<st Contlex="PRON_">немысьмогӧ</st></stg>
    </lg>
    <mg relId="0"><span class="underline">употребляется лишь в составе выражений:</span><br/>
      <xg>
@@ -2373,7 +2585,9 @@
   <e>
    <lg t1="Н" t2="И" t3="Н" uri="34640-nin-kod" id="34640">
      <l pos="Pron">нинӧкод</l>
-       <l_var type="molodtsov-cyr">ԋінӧкоԁ</l_var> <rg><r range_space="dialect"/></rg>
+       <l_var type="molodtsov-cyr">ԋінӧкоԁ</l_var>
+  <stg>
+<st Contlex="PRON_">нинӧкод</st></stg> <rg><r range_space="dialect"/></rg>
    </lg>
    <mg relId="0">
      <tg xml:lang="rus">
@@ -2393,7 +2607,9 @@
   <e>
    <lg t1="Н" t2="И" t3="Н" uri="34641-nin-kutsh-m" id="34641">
      <l pos="Pron">нинӧкутшӧм</l>
-       <l_var type="molodtsov-cyr">ԋінӧкущӧм</l_var> <rg><r range_space="dialect"/></rg>
+       <l_var type="molodtsov-cyr">ԋінӧкущӧм</l_var>
+  <stg>
+<st Contlex="PRON_">нинӧкутшӧм</st></stg> <rg><r range_space="dialect"/></rg>
    </lg>
    <mg relId="0">
      <tg xml:lang="rus">
@@ -2405,6 +2621,8 @@
    <lg t1="Н" t2="И" t3="Н" uri="34646-nin-mtor" id="34646">
      <l pos="Pron">нинӧмтор</l>
        <l_var type="molodtsov-cyr">ԋінӧмтор</l_var>
+  <stg>
+<st Contlex="PRON_">нинӧмтор</st></stg>
        <stress><strong>(-й-)</strong></stress>
    </lg>
    <mg relId="0">
@@ -2429,6 +2647,8 @@
    <lg t1="С" t2="Ы" t3="Л" uri="49923-sylador-" id="49923">
      <l pos="Pron">сыладорӧ</l>
        <l_var type="molodtsov-cyr">сылаԁорӧ</l_var>
+  <stg>
+<st Contlex="PRON_">сыладорӧ</st></stg>
    </lg>
    <mg relId="0">
      <tg xml:lang="rus">
@@ -2444,6 +2664,8 @@
    <lg t1="С" t2="Ы" t3="М" uri="49954-symda-mynda" id="49954">
      <l pos="Pron">сымда-мында</l>
        <l_var type="molodtsov-cyr">сымԁа-мынԁа</l_var>
+  <stg>
+<st Contlex="PRON_">сымда-мында</st></stg>
    </lg>
    <mg relId="0"> <sg><s pos="Pron" s_type="see">сымда</s></sg>
      <tg xml:lang="rus">
@@ -2455,6 +2677,8 @@
    <lg t1="С" t2="Ы" t3="Ы" uri="50084-syys-" id="50084">
      <l pos="Pron">сыысь</l>
        <l_var type="molodtsov-cyr">сыыԍ</l_var>
+  <stg>
+<st Contlex="PRON_">сыысь</st></stg>
    </lg>
    <mg relId="0">
      <tg xml:lang="rus">
@@ -2487,6 +2711,8 @@
    <lg t1="С" t2="Э" t3="Т" uri="50480-setsh-m-tatsh-m" id="50480">
      <l pos="Pron">сэтшӧм-татшӧм</l>
        <l_var type="molodtsov-cyr">сещӧм-тащӧм</l_var>
+  <stg>
+<st Contlex="PRON_">сэтшӧм-татшӧм</st></stg>
    </lg>
    <mg relId="0">
      <tg xml:lang="rus">
@@ -2524,6 +2750,8 @@
    <lg t1="С" t2="І" t3="Й" uri="47599-siij-" id="47599">
      <l pos="Pron">сійӧ</l>
        <l_var type="molodtsov-cyr">сіјӧ</l_var>
+  <stg>
+<st Contlex="PRON_">сійӧ</st></stg>
    </lg>
    <mg relId="0">
      <tg xml:lang="rus">
@@ -2631,10 +2859,12 @@
    <lg t1="Т" t2="А" t3="Й" uri="50964-taij-" id="50964">
      <l pos="Pron">тайӧ</l>
        <l_var type="molodtsov-cyr">тајӧ</l_var>
+  <stg>
+<st Contlex="PRON_">тайӧ</st></stg>
    </lg>
    <mg relId="0">
      <tg xml:lang="rus">
-       <t><acronym title="местоимение"><em>мест.</em></acronym> <acronym title="указательное (местоимение, частица)"><em>указ.</em></acronym> этот, эта, это</t>
+       <t pos="Pron"> <acronym title="указательное (местоимение, частица)"><em>указ.</em></acronym> этот, эта, это</t>
      </tg>
      <xg>
        <x>тайӧ здукӧ</x>
@@ -2674,10 +2904,12 @@
    <lg t1="Т" t2="Э" t3="" uri="55074-te" id="55074">
      <l pos="Pron">тэ</l>
        <l_var type="molodtsov-cyr">те</l_var>
+  <stg>
+<st Contlex="PRON_">тэ</st></stg>
    </lg>
    <mg relId="0">
      <tg xml:lang="rus">
-       <t><acronym title="местоимение"><em>мест.</em></acronym> <acronym title="личная форма, личное местоимение"><em>личн.</em></acronym> <xref link="тэн"> тэн</xref><em>полная основа в некоторых <acronym title="косвенные (падежи)"><em>косв.</em></acronym> падежах</em> ты</t>
+       <t pos="Pron"> <acronym title="личная форма, личное местоимение"><em>личн.</em></acronym> <xref link="тэн"> тэн</xref><em>полная основа в некоторых <acronym title="косвенные (падежи)"><em>косв.</em></acronym> падежах</em> ты</t>
      </tg>
      <xg>
        <x>ветла тэкӧд</x>
@@ -2745,10 +2977,12 @@
    <lg t1="Т" t2="І" t3="" uri="51734-ti" id="51734">
      <l pos="Pron">ті</l>
        <l_var type="molodtsov-cyr">ті</l_var>
+  <stg>
+<st Contlex="PRON_">ті</st></stg>
    </lg>
    <mg relId="0">
      <tg xml:lang="rus">
-       <t><acronym title="местоимение"><em>мест.</em></acronym> <acronym title="личная форма, личное местоимение"><em>личн.</em></acronym> вы <em>(полная основа <xref link="тіян"> тіян</xref>)</em></t>
+       <t pos="Pron"> <acronym title="личная форма, личное местоимение"><em>личн.</em></acronym> вы <em>(полная основа <xref link="тіян"> тіян</xref>)</em></t>
      </tg>
      <xg>
        <x>ті асьныд тӧданныд</x>
@@ -2784,6 +3018,8 @@
    <lg t1="Э" t2="С" t3="Т" uri="64140-estsh-ma" id="64140">
      <l pos="Pron">эстшӧма</l>
        <l_var type="molodtsov-cyr">есщӧма</l_var>
+  <stg>
+<st Contlex="PRON_">эстшӧма</st></stg>
    </lg>
    <mg relId="0">
      <tg xml:lang="rus">
@@ -2799,10 +3035,12 @@
    <lg t1="Э" t2="С" t3="Ы" uri="64145-esy" id="64145">
      <l pos="Pron">эсы</l>
        <l_var type="molodtsov-cyr">есы</l_var>
+  <stg>
+<st Contlex="PRON_">эсы</st></stg>
    </lg>
    <mg relId="0">
      <tg xml:lang="rus">
-       <t><acronym title="местоимение"><em>мест.</em></acronym> <acronym title="указательное (местоимение, частица)"><em>указ.</em></acronym> <acronym title="краткая форма"><em>кратк.ф.</em></acronym> <em>от</em> <xref link="эсійӧ"> эсійӧ</xref></t>
+       <t pos="Pron"> <acronym title="указательное (местоимение, частица)"><em>указ.</em></acronym> <acronym title="краткая форма"><em>кратк.ф.</em></acronym> <em>от</em> <xref link="эсійӧ"> эсійӧ</xref></t>
      </tg>
      <xg>
        <x>эсы кузя сир</x>
@@ -2822,6 +3060,8 @@
    <lg t1="Э" t2="С" t3="Ы" uri="64147-esylador" id="64147">
      <l pos="Pron">эсыладор</l>
        <l_var type="molodtsov-cyr">есылаԁор</l_var>
+  <stg>
+<st Contlex="PRON_">эсыладор</st></stg>
    </lg>
    <mg relId="0">
      <tg xml:lang="rus">
@@ -2833,6 +3073,8 @@
    <lg t1="Э" t2="С" t3="Ы" uri="64150-esymet-" id="64150">
      <l pos="Pron">эсыметь</l>
        <l_var type="molodtsov-cyr">есымеԏ</l_var>
+  <stg>
+<st Contlex="PRON_">эсыметь</st></stg>
    </lg>
    <mg relId="0">
      <tg xml:lang="rus">
@@ -2852,6 +3094,8 @@
    <lg t1="Э" t2="С" t3="Ы" uri="64152-esymynda" id="64152">
      <l pos="Pron">эсымында</l>
        <l_var type="molodtsov-cyr">есымынԁа</l_var>
+  <stg>
+<st Contlex="PRON_">эсымында</st></stg>
    </lg>
    <mg relId="0">
      <tg xml:lang="rus">
@@ -2867,10 +3111,12 @@
    <lg t1="Э" t2="С" t3="І" uri="64049-esiij-" id="64049">
      <l pos="Pron">эсійӧ</l>
        <l_var type="molodtsov-cyr">есіјӧ</l_var>
+  <stg>
+<st Contlex="PRON_">эсійӧ</st></stg>
    </lg>
    <mg relId="0">
      <tg xml:lang="rus">
-       <t><acronym title="местоимение"><em>мест.</em></acronym> <acronym title="указательное (местоимение, частица)"><em>указ.</em></acronym> тот</t>
+       <t pos="Pron"> <acronym title="указательное (местоимение, частица)"><em>указ.</em></acronym> тот</t>
      </tg>
      <xg>
        <x>со эсійӧ паньсӧ ньӧба</x>
@@ -2891,6 +3137,8 @@
    <lg t1="Э" t2="Т" t3="А" uri="64160-etadz" id="64160">
      <l pos="Pron">этадз</l>
        <l_var type="molodtsov-cyr">етаԇ</l_var>
+  <stg>
+<st Contlex="PRON_">этадз</st></stg>
    </lg>
    <mg relId="0"><strong>этадз, этадзи</strong><br/>
      <tg xml:lang="rus">
@@ -2914,6 +3162,8 @@
    <lg t1="Э" t2="Т" t3="А" uri="64163-etadzi" id="64163">
      <l pos="Pron">этадзи</l>
        <l_var type="molodtsov-cyr">етаԇі</l_var>
+  <stg>
+<st Contlex="PRON_">этадзи</st></stg>
    </lg>
    <mg relId="0"><strong>этадзи, этадз</strong><br/>
      <tg xml:lang="rus">
@@ -2937,10 +3187,12 @@
    <lg t1="Э" t2="Т" t3="А" uri="64167-etaij-" id="64167">
      <l pos="Pron">этайӧ</l>
        <l_var type="molodtsov-cyr">етајӧ</l_var>
+  <stg>
+<st Contlex="PRON_">этайӧ</st></stg>
    </lg>
    <mg relId="0">
      <tg xml:lang="rus">
-       <t><acronym title="местоимение"><em>мест.</em></acronym> <acronym title="указательное (местоимение, частица)"><em>указ.</em></acronym> этот, вот этот</t>
+       <t pos="Pron"> <acronym title="указательное (местоимение, частица)"><em>указ.</em></acronym> этот, вот этот</t>
      </tg>
      <xg>
        <x>этайӧ зонмыслы тшӧкты лэптыны</x>
@@ -2956,6 +3208,8 @@
    <lg t1="Э" t2="Т" t3="А" uri="64179-etan" id="64179">
      <l pos="Pron">этан</l>
        <l_var type="molodtsov-cyr">етан</l_var>
+  <stg>
+<st Contlex="PRON_">этан</st></stg>
    </lg>
    <mg relId="0"><strong>этан, этані</strong><br/>
      <tg xml:lang="rus">
@@ -2975,6 +3229,8 @@
    <lg t1="Э" t2="Т" t3="А" uri="64182-etani" id="64182">
      <l pos="Pron">этані</l>
        <l_var type="molodtsov-cyr">етані</l_var>
+  <stg>
+<st Contlex="PRON_">этані</st></stg>
    </lg>
    <mg relId="0"><strong>этані, этан</strong><br/>
      <tg xml:lang="rus">
@@ -2994,6 +3250,8 @@
    <lg t1="Э" t2="Т" t3="А" uri="64209-etatsh-ma" id="64209">
      <l pos="Pron">этатшӧма</l>
        <l_var type="molodtsov-cyr">етащӧма</l_var>
+  <stg>
+<st Contlex="PRON_">этатшӧма</st></stg>
    </lg>
    <mg relId="0">
      <tg xml:lang="rus">
@@ -3013,6 +3271,8 @@
    <lg t1="Э" t2="Т" t3="І" uri="64218-etiij-" id="64218">
      <l pos="Pron">этійӧ</l>
        <l_var type="molodtsov-cyr">етіјӧ</l_var>
+  <stg>
+<st Contlex="PRON_">этійӧ</st></stg>
    </lg>
    <mg relId="0"> <sg><s pos="Pron" s_type="see">этайӧ</s></sg>
      <tg xml:lang="rus">
@@ -3024,6 +3284,8 @@
    <lg t1="Ӧ" t2="Т" t3="А" uri="37737-tar" id="37737">
      <l pos="Pron">ӧтар</l>
        <l_var type="molodtsov-cyr">ӧтар</l_var>
+  <stg>
+<st Contlex="PRON_">ӧтар</st></stg>
    </lg>
    <mg relId="0">
      <tg xml:lang="rus">
@@ -3060,10 +3322,12 @@
    <lg t1="Ӧ" t2="Т" t3="М" uri="38038-tm-dar" id="38038">
      <l pos="Pron">ӧтмӧдар</l>
        <l_var type="molodtsov-cyr">ӧтмӧԁар</l_var>
+  <stg>
+<st Contlex="PRON_">ӧтмӧдар</st></stg>
    </lg>
    <mg relId="0">
      <tg xml:lang="rus">
-       <t><acronym title="местоимение"><em>мест.</em></acronym> <acronym title="определительное (местоимение)"><em>опред.</em></acronym> <em>в роли</em> <acronym title="определение"><em>опр.</em></acronym> оба</t>
+       <t pos="Pron"> <acronym title="определительное (местоимение)"><em>опред.</em></acronym> <em>в роли</em> <acronym title="определение"><em>опр.</em></acronym> оба</t>
      </tg>
      <xg>
        <x>ӧтмӧдар боксянь</x>

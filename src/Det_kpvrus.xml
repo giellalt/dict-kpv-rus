@@ -4,6 +4,8 @@
    <lg t1="Б" t2="Ы" t3="Д" uri="4043-byd" id="4043">
      <l hid="Hom1" pos="Det">быд</l>
        <l_var type="molodtsov-cyr">быԁ</l_var>
+  <stg>
+<st Contlex="DET_">быд</st></stg>
    </lg>
    <mg relId="0">
      <tg xml:lang="rus">
@@ -48,6 +50,8 @@
    <lg t1="В" t2="Е" t3="Т" uri="6230-vetymyn-d" id="6230">
      <l pos="Det">ветымынӧд</l>
        <l_var type="molodtsov-cyr">ветымынӧԁ</l_var>
+  <stg>
+<st Contlex="DET_">ветымынӧд</st></stg>
    </lg>
    <mg relId="0">
      <tg xml:lang="rus">
@@ -63,6 +67,8 @@
    <lg t1="Д" t2="А" t3="С" uri="12207-das-d" id="12207">
      <l pos="Det">дасӧд</l>
        <l_var type="molodtsov-cyr">ԁасӧԁ</l_var>
+  <stg>
+<st Contlex="DET_">дасӧд</st></stg>
    </lg>
    <mg relId="0">
      <tg xml:lang="rus">
@@ -82,6 +88,8 @@
    <lg t1="К" t2="В" t3="А" uri="20478-kvaijtsyo-d" id="20478">
      <l pos="Det" type="Ord">квайтсёӧд</l>
        <l_var type="molodtsov-cyr">квајтԍоӧԁ</l_var>
+  <stg>
+<st Contlex="DET_">квайтсёӧд</st></stg>
    </lg>
    <mg relId="0">
      <tg xml:lang="rus">
@@ -93,6 +101,8 @@
    <lg t1="К" t2="В" t3="А" uri="20481-kvaijtymyn-d" id="20481">
      <l pos="Det" type="Ord">квайтымынӧд</l>
        <l_var type="molodtsov-cyr">квајтымынӧԁ</l_var>
+  <stg>
+<st Contlex="DET_">квайтымынӧд</st></stg>
    </lg>
    <mg relId="0">
      <tg xml:lang="rus">
@@ -112,6 +122,8 @@
    <lg t1="К" t2="В" t3="А" uri="20467-kvaijt-d" id="20467">
      <l pos="Det" type="Ord">квайтӧд</l>
        <l_var type="molodtsov-cyr">квајтӧԁ</l_var>
+  <stg>
+<st Contlex="DET_">квайтӧд</st></stg>
    </lg>
    <mg relId="0">
      <tg xml:lang="rus">
@@ -135,6 +147,8 @@
    <lg t1="К" t2="О" t3="М" uri="22819-komyn-d" id="22819">
      <l pos="Det">комынӧд</l>
        <l_var type="molodtsov-cyr">комынӧԁ</l_var>
+  <stg>
+<st Contlex="DET_">комынӧд</st></stg>
    </lg>
    <mg relId="0">
      <tg xml:lang="rus">
@@ -150,6 +164,8 @@
    <lg t1="К" t2="У" t3="И" uri="25228-kuimsyo-d" id="25228">
      <l pos="Det" type="Ord">куимсёӧд</l>
        <l_var type="molodtsov-cyr">куімԍоӧԁ</l_var>
+  <stg>
+<st Contlex="DET_">куимсёӧд</st></stg>
    </lg>
    <mg relId="0">
      <tg xml:lang="rus">
@@ -161,6 +177,8 @@
    <lg t1="К" t2="Ы" t3="З" uri="26461-kyz-d" id="26461">
      <l pos="Det" type="Ord">кызьӧд</l>
        <l_var type="molodtsov-cyr">кыԅӧԁ</l_var>
+  <stg>
+<st Contlex="DET_">кызьӧд</st></stg>
    </lg>
    <mg relId="0">
      <tg xml:lang="rus">
@@ -180,6 +198,8 @@
    <lg t1="К" t2="Ы" t3="К" uri="26615-kyksyo-d" id="26615">
      <l pos="Det" type="Ord">кыксёӧд</l>
        <l_var type="molodtsov-cyr">кыкԍоӧԁ</l_var>
+  <stg>
+<st Contlex="DET_">кыксёӧд</st></stg>
    </lg>
    <mg relId="0">
      <tg xml:lang="rus">
@@ -195,6 +215,8 @@
    <lg t1="К" t2="Ы" t3="К" uri="26598-kyk-d" id="26598">
      <l pos="Det" type="Ord">кыкӧд</l>
        <l_var type="molodtsov-cyr">кыкӧԁ</l_var>
+  <stg>
+<st Contlex="DET_">кыкӧд</st></stg>
    </lg>
    <mg relId="0">
      <tg xml:lang="rus">
@@ -214,6 +236,8 @@
    <lg t1="К" t2="Ы" t3="М" uri="26709-kymyn-d" id="26709">
      <l pos="Det" type="Ord">кымынӧд</l>
        <l_var type="molodtsov-cyr">кымынӧԁ</l_var>
+  <stg>
+<st Contlex="DET_">кымынӧд</st></stg>
    </lg>
    <mg relId="0">
      <tg xml:lang="rus">
@@ -233,6 +257,8 @@
    <lg t1="К" t2="Ӧ" t3="К" uri="23992-k-k-yamysdas-d" id="23992">
      <l pos="Det">кӧкъямысдасӧд</l>
        <l_var type="molodtsov-cyr">кӧкјамысԁасӧԁ</l_var>
+  <stg>
+<st Contlex="DET_">кӧкъямысдасӧд</st></stg>
    </lg>
    <mg relId="0">
      <tg xml:lang="rus">
@@ -248,6 +274,8 @@
    <lg t1="К" t2="Ӧ" t3="К" uri="23999-k-k-yamyssyo-d" id="23999">
      <l pos="Det">кӧкъямыссёӧд</l>
        <l_var type="molodtsov-cyr">кӧкјамысԍоӧԁ</l_var>
+  <stg>
+<st Contlex="DET_">кӧкъямыссёӧд</st></stg>
    </lg>
    <mg relId="0">
      <tg xml:lang="rus">
@@ -259,6 +287,8 @@
    <lg t1="К" t2="Ӧ" t3="К" uri="23995-k-k-yamys-d" id="23995">
      <l pos="Det">кӧкъямысӧд</l>
        <l_var type="molodtsov-cyr">кӧкјамысӧԁ</l_var>
+  <stg>
+<st Contlex="DET_">кӧкъямысӧд</st></stg>
    </lg>
    <mg relId="0">
      <tg xml:lang="rus">
@@ -283,6 +313,8 @@
    <lg t1="Л" t2="Ю" t3="Б" uri="29947-lyub-ij" id="29947">
      <l pos="Det">любӧй</l>
        <l_var type="molodtsov-cyr">ԉубӧј</l_var>
+  <stg>
+<st Contlex="DET_">любӧй</st></stg>
    </lg>
    <mg relId="0">
      <tg xml:lang="rus">
@@ -311,6 +343,8 @@
    <lg t1="М" t2="И" t3="Л" uri="31589-milliard-d" id="31589">
      <l pos="Det">миллиардӧд</l>
        <l_var type="molodtsov-cyr">міԉԉарԁӧԁ</l_var>
+  <stg>
+<st Contlex="DET_">миллиардӧд</st></stg>
    </lg>
    <mg relId="0">
      <tg xml:lang="rus">
@@ -322,6 +356,8 @@
    <lg t1="М" t2="И" t3="Л" uri="31601-million-d" id="31601">
      <l pos="Det">миллионӧд</l>
        <l_var type="molodtsov-cyr">міԉԉонӧԁ</l_var>
+  <stg>
+<st Contlex="DET_">миллионӧд</st></stg>
    </lg>
    <mg relId="0">
      <tg xml:lang="rus">
@@ -333,6 +369,8 @@
    <lg t1="Н" t2="Е" t3="Л" uri="34122-nelyamyn-d" id="34122">
      <l pos="Det">нелямынӧд</l>
        <l_var type="molodtsov-cyr">ԋеԉамынӧԁ</l_var>
+  <stg>
+<st Contlex="DET_">нелямынӧд</st></stg>
    </lg>
    <mg relId="0">
      <tg xml:lang="rus">
@@ -344,6 +382,8 @@
    <lg t1="Н" t2="Ё" t3="Л" uri="34370-nyol-syo-d" id="34370">
      <l pos="Det">нёльсёӧд</l>
        <l_var type="molodtsov-cyr">ԋоԉԍоӧԁ</l_var>
+  <stg>
+<st Contlex="DET_">нёльсёӧд</st></stg>
    </lg>
    <mg relId="0">
      <tg xml:lang="rus">
@@ -355,6 +395,8 @@
    <lg t1="Н" t2="Ё" t3="Л" uri="34361-nyol-d" id="34361">
      <l pos="Det">нёльӧд</l>
        <l_var type="molodtsov-cyr">ԋоԉӧԁ</l_var>
+  <stg>
+<st Contlex="DET_">нёльӧд</st></stg>
    </lg>
    <mg relId="0">
      <tg xml:lang="rus">
@@ -402,6 +444,8 @@
    <lg t1="С" t2="И" t3="З" uri="47292-sizimdas-d" id="47292">
      <l pos="Det">сизимдасӧд</l>
        <l_var type="molodtsov-cyr">ԍіԅімԁасӧԁ</l_var>
+  <stg>
+<st Contlex="DET_">сизимдасӧд</st></stg>
    </lg>
    <mg relId="0">
      <tg xml:lang="rus">
@@ -421,6 +465,8 @@
    <lg t1="С" t2="И" t3="З" uri="47307-sizimsyo-d" id="47307">
      <l pos="Det">сизимсёӧд</l>
        <l_var type="molodtsov-cyr">ԍіԅімԍоӧԁ</l_var>
+  <stg>
+<st Contlex="DET_">сизимсёӧд</st></stg>
    </lg>
    <mg relId="0">
      <tg xml:lang="rus">
@@ -436,6 +482,8 @@
    <lg t1="С" t2="И" t3="З" uri="47303-sizim-d" id="47303">
      <l pos="Det">сизимӧд</l>
        <l_var type="molodtsov-cyr">ԍіԅімӧԁ</l_var>
+  <stg>
+<st Contlex="DET_">сизимӧд</st></stg>
    </lg>
    <mg relId="0">
      <tg xml:lang="rus">
@@ -469,6 +517,8 @@
    <lg t1="С" t2="Ю" t3="Р" uri="50643-syurs-d" id="50643">
      <l pos="Det">сюрсӧд</l>
        <l_var type="molodtsov-cyr">ԍурсӧԁ</l_var>
+  <stg>
+<st Contlex="DET_">сюрсӧд</st></stg>
    </lg>
    <mg relId="0">
      <tg xml:lang="rus">
@@ -484,6 +534,8 @@
    <lg t1="С" t2="Ё" t3="Ӧ" uri="47017-syo-d" id="47017">
      <l pos="Det">сёӧд</l>
        <l_var type="molodtsov-cyr">ԍоӧԁ</l_var>
+  <stg>
+<st Contlex="DET_">сёӧд</st></stg>
    </lg>
    <mg relId="0">
      <tg xml:lang="rus">
@@ -503,6 +555,8 @@
    <lg t1="Т" t2="Ы" t3="С" uri="54996-tysyacha-d" id="54996">
      <l pos="Det">тысячаӧд</l>
        <l_var type="molodtsov-cyr">тыԍачаӧԁ</l_var>
+  <stg>
+<st Contlex="DET_">тысячаӧд</st></stg>
    </lg>
    <mg relId="0">
      <tg xml:lang="rus">
@@ -514,6 +568,8 @@
    <lg t1="Ӧ" t2="К" t3="М" uri="37552-kmysdas-d" id="37552">
      <l pos="Det" type="Ord">ӧкмысдасӧд</l>
        <l_var type="molodtsov-cyr">ӧкмысԁасӧԁ</l_var>
+  <stg>
+<st Contlex="DET_">ӧкмысдасӧд</st></stg>
    </lg>
    <mg relId="0">
      <tg xml:lang="rus">
@@ -525,6 +581,8 @@
    <lg t1="Ӧ" t2="К" t3="М" uri="37559-kmyssyo-d" id="37559">
      <l pos="Det" type="Ord">ӧкмыссёӧд</l>
        <l_var type="molodtsov-cyr">ӧкмыԍԍоӧԁ</l_var>
+  <stg>
+<st Contlex="DET_">ӧкмыссёӧд</st></stg>
    </lg>
    <mg relId="0">
      <tg xml:lang="rus">
@@ -536,6 +594,8 @@
    <lg t1="Ӧ" t2="К" t3="М" uri="37555-kmys-d" id="37555">
      <l pos="Det" type="Ord">ӧкмысӧд</l>
        <l_var type="molodtsov-cyr">ӧкмысӧԁ</l_var>
+  <stg>
+<st Contlex="DET_">ӧкмысӧд</st></stg>
    </lg>
    <mg relId="0">
      <tg xml:lang="rus">
@@ -551,6 +611,8 @@
    <lg t1="Ӧ" t2="Т" t3="И" uri="37865-tik-d" id="37865">
      <l pos="Det" type="Ord">ӧтикӧд</l>
        <l_var type="molodtsov-cyr">ӧԏікӧԁ</l_var>
+  <stg>
+<st Contlex="DET_">ӧтикӧд</st></stg>
    </lg>
    <mg relId="0"><span class="underline">употребляется лишь в составе выражений:</span><br/>
      <xg>

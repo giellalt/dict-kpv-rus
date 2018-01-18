@@ -4,6 +4,8 @@
    <lg t1="Б" t2="Е" t3="Р" uri="1994-berg-dl-m-n" id="1994">
      <l pos="Ger" type="OMON">бергӧдлӧмӧн</l>
        <l_var type="molodtsov-cyr">бергӧԁлӧмӧн</l_var>
+  <stg>
+<st Contlex="GER_">бергӧдлӧмӧн</st></stg>
    </lg>
    <mg relId="0">
      <tg xml:lang="rus">
@@ -19,6 +21,8 @@
    <lg t1="Б" t2="У" t3="Р" uri="3811-burmyt-dz" id="3811">
      <l pos="Ger" type="TODZ">бурмытӧдз</l>
        <l_var type="molodtsov-cyr">бурмытӧԇ</l_var>
+  <stg>
+<st Contlex="GER_">бурмытӧдз</st></stg>
    </lg>
    <mg relId="0"> <sg><s s_type="see">бурмымӧн</s></sg>
      <tg xml:lang="rus">
@@ -30,6 +34,8 @@
    <lg t1="Б" t2="Ӧ" t3="Б" uri="2774-b-bmyt-dz" id="2774">
      <l pos="Ger" type="TODZ">бӧбмытӧдз</l>
        <l_var type="molodtsov-cyr">бӧбмытӧԇ</l_var>
+  <stg>
+<st Contlex="GER_">бӧбмытӧдз</st></stg>
    </lg>
    <mg relId="0">
      <tg xml:lang="rus">
@@ -45,6 +51,8 @@
    <lg t1="Б" t2="Ӧ" t3="Р" uri="2877-b-rdm-n" id="2877">
      <l pos="Ger" type="MON">бӧрдмӧн</l>
        <l_var type="molodtsov-cyr">бӧрԁмӧн</l_var>
+  <stg>
+<st Contlex="GER_">бӧрдмӧн</st></stg>
    </lg>
    <mg relId="0">
      <tg xml:lang="rus">
@@ -68,6 +76,8 @@
    <lg t1="Б" t2="Ӧ" t3="Р" uri="2895-b-rd-m-n" id="2895">
      <l pos="Ger" type="OMON">бӧрдӧмӧн</l>
        <l_var type="molodtsov-cyr">бӧрԁӧмӧн</l_var>
+  <stg>
+<st Contlex="GER_">бӧрдӧмӧн</st></stg>
    </lg>
    <mg relId="0">
      <tg xml:lang="rus">
@@ -91,6 +101,8 @@
    <lg t1="Б" t2="Ӧ" t3="Р" uri="2917-b-rijys-m-n" id="2917">
      <l pos="Ger" type="OMON">бӧрйысьмӧн</l>
        <l_var type="molodtsov-cyr">бӧрјыԍмӧн</l_var>
+  <stg>
+<st Contlex="GER_">бӧрйысьмӧн</st></stg>
    </lg>
    <mg relId="0">
      <tg xml:lang="rus">
@@ -106,6 +118,8 @@
    <lg t1="Б" t2="Ӧ" t3="Р" uri="2911-b-rij-m-n" id="2911">
      <l pos="Ger" type="OMON">бӧрйӧмӧн</l>
        <l_var type="molodtsov-cyr">бӧрјӧмӧн</l_var>
+  <stg>
+<st Contlex="GER_">бӧрйӧмӧн</st></stg>
    </lg>
    <mg relId="0">
      <tg xml:lang="rus">
@@ -121,6 +135,8 @@
    <lg t1="В" t2="А" t3="Й" uri="4560-vaijm-n" id="4560">
      <l pos="Ger" type="MON">ваймӧн</l>
        <l_var type="molodtsov-cyr">вајмӧн</l_var>
+  <stg>
+<st Contlex="GER_">ваймӧн</st></stg>
    </lg>
    <mg relId="0">
      <tg xml:lang="rus">
@@ -140,6 +156,8 @@
    <lg t1="В" t2="А" t3="Р" uri="4790-varkij-m-n" id="4790">
      <l pos="Ger" type="OMON">варкйӧмӧн</l>
        <l_var type="molodtsov-cyr">варкјӧмӧн</l_var>
+  <stg>
+<st Contlex="GER_">варкйӧмӧн</st></stg>
    </lg>
    <mg relId="0"> <sg><s s_type="see">варкйӧн</s></sg>
      <tg xml:lang="rus">
@@ -151,6 +169,8 @@
    <lg t1="В" t2="А" t3="Р" uri="4887-vartch-m-n" id="4887">
      <l pos="Ger" type="OMON">вартчӧмӧн</l>
        <l_var type="molodtsov-cyr">варччӧмӧн</l_var>
+  <stg>
+<st Contlex="GER_">вартчӧмӧн</st></stg>
    </lg>
    <mg relId="0">
      <tg xml:lang="rus">
@@ -166,6 +186,8 @@
    <lg t1="В" t2="Е" t3="Ж" uri="5182-vezhavidzt-g" id="5182">
      <l pos="Ger" type="TOG">вежавидзтӧг</l>
        <l_var type="molodtsov-cyr">вежавічтӧг</l_var>
+  <stg>
+<st Contlex="GER_">вежавидзтӧг</st></stg>
    </lg>
    <mg relId="0">
      <tg xml:lang="rus">
@@ -185,6 +207,8 @@
    <lg t1="В" t2="Е" t3="Ж" uri="5278-vezhm-n" id="5278">
      <l pos="Ger" type="MON">вежмӧн</l>
        <l_var type="molodtsov-cyr">вежмӧн</l_var>
+  <stg>
+<st Contlex="GER_">вежмӧн</st></stg>
    </lg>
    <mg relId="0">
      <tg xml:lang="rus">
@@ -222,6 +246,8 @@
    <lg t1="В" t2="Е" t3="Л" uri="5539-velavt-g" id="5539">
      <l pos="Ger" type="TOG">велавтӧг</l>
        <l_var type="molodtsov-cyr">велавтӧг</l_var>
+  <stg>
+<st Contlex="GER_">велавтӧг</st></stg>
    </lg>
    <mg relId="0">
      <tg xml:lang="rus">
@@ -241,6 +267,8 @@
    <lg t1="В" t2="Е" t3="Р" uri="5806-verz-m-n" id="5806">
      <l pos="Ger" type="OMON">верзьӧмӧн</l>
        <l_var type="molodtsov-cyr">верԅӧмӧн</l_var>
+  <stg>
+<st Contlex="GER_">верзьӧмӧн</st></stg>
    </lg>
    <mg relId="0">
      <tg xml:lang="rus">
@@ -260,6 +288,8 @@
    <lg t1="В" t2="Е" t3="С" uri="6126-ves-p-rm-n" id="6126">
      <l pos="Ger" type="MON">весьӧпӧрмӧн</l>
        <l_var type="molodtsov-cyr">веԍӧпӧрмӧн</l_var>
+  <stg>
+<st Contlex="GER_">весьӧпӧрмӧн</st></stg>
    </lg>
    <mg relId="0">
      <tg xml:lang="rus">
@@ -275,6 +305,8 @@
    <lg t1="В" t2="Е" t3="Т" uri="6203-vetlym-n" id="6203">
      <l pos="Ger" type="MON">ветлымӧн</l>
        <l_var type="molodtsov-cyr">ветлымӧн</l_var>
+  <stg>
+<st Contlex="GER_">ветлымӧн</st></stg>
    </lg>
    <mg relId="0">
      <tg xml:lang="rus">
@@ -290,6 +322,8 @@
    <lg t1="В" t2="И" t3="Д" uri="6445-vidzt-m-n" id="6445">
      <l pos="Ger" type="OMON">видзтӧмӧн</l>
        <l_var type="molodtsov-cyr">вічтӧмӧн</l_var>
+  <stg>
+<st Contlex="GER_">видзтӧмӧн</st></stg>
    </lg>
    <mg relId="0">
      <tg xml:lang="rus">
@@ -309,6 +343,8 @@
    <lg t1="В" t2="И" t3="Д" uri="6412-vidz-dm-n" id="6412">
      <l pos="Ger" type="MON">видзӧдмӧн</l>
        <l_var type="molodtsov-cyr">віԇӧԁмӧн</l_var>
+  <stg>
+<st Contlex="GER_">видзӧдмӧн</st></stg>
    </lg>
    <mg relId="0">
      <tg xml:lang="rus">
@@ -328,6 +364,8 @@
    <lg t1="В" t2="И" t3="Д" uri="6424-vidz-dt-g" id="6424">
      <l pos="Ger" type="TOG">видзӧдтӧг</l>
        <l_var type="molodtsov-cyr">віԇӧттӧг</l_var>
+  <stg>
+<st Contlex="GER_">видзӧдтӧг</st></stg>
    </lg>
    <mg relId="0">
      <tg xml:lang="rus">
@@ -356,6 +394,8 @@
    <lg t1="В" t2="И" t3="З" uri="6581-vizuvtm-n" id="6581">
      <l pos="Ger" type="MON">визувтмӧн</l>
        <l_var type="molodtsov-cyr">візувтмӧн</l_var>
+  <stg>
+<st Contlex="GER_">визувтмӧн</st></stg>
    </lg>
    <mg relId="0"><span class="underline">употребляется лишь в составе выражений:</span><br/>
      <xg>
@@ -372,6 +412,8 @@
    <lg t1="В" t2="И" t3="М" uri="6733-vim-n" id="6733">
      <l pos="Ger" type="MON">вимӧн</l>
        <l_var type="molodtsov-cyr">вімӧн</l_var>
+  <stg>
+<st Contlex="GER_">вимӧн</st></stg>
    </lg>
    <mg relId="0">
      <tg xml:lang="rus">
@@ -387,6 +429,8 @@
    <lg t1="В" t2="И" t3="Р" uri="6842-virsermunt-dz" id="6842">
      <l pos="Ger" type="TODZ">вирсермунтӧдз</l>
        <l_var type="molodtsov-cyr">вірԍермунтӧԇ</l_var>
+  <stg>
+<st Contlex="GER_">вирсермунтӧдз</st></stg>
    </lg>
    <mg relId="0">
      <tg xml:lang="rus">
@@ -402,6 +446,8 @@
    <lg t1="В" t2="И" t3="С" uri="6889-vis-mym-n" id="6889">
      <l pos="Ger" type="MON">висьмымӧн</l>
        <l_var type="molodtsov-cyr">віԍмымӧн</l_var>
+  <stg>
+<st Contlex="GER_">висьмымӧн</st></stg>
    </lg>
    <mg relId="0">
      <tg xml:lang="rus">
@@ -417,6 +463,8 @@
    <lg t1="В" t2="И" t3="С" uri="6906-vis-dt-g" id="6906">
      <l pos="Ger" type="TOG">висьӧдтӧг</l>
        <l_var type="molodtsov-cyr">віԍӧттӧг</l_var>
+  <stg>
+<st Contlex="GER_">висьӧдтӧг</st></stg>
    </lg>
    <mg relId="0">
      <tg xml:lang="rus">
@@ -428,6 +476,8 @@
    <lg t1="В" t2="О" t3="М" uri="7633-vom-nal-m-n" id="7633">
      <l pos="Ger" type="OMON">вомӧналӧмӧн</l>
        <l_var type="molodtsov-cyr">вомӧналӧмӧн</l_var>
+  <stg>
+<st Contlex="GER_">вомӧналӧмӧн</st></stg>
    </lg>
    <mg relId="0">
      <tg xml:lang="rus">
@@ -443,6 +493,8 @@
    <lg t1="В" t2="У" t3="Д" uri="8618-vudzhm-n" id="8618">
      <l pos="Ger" type="MON">вуджмӧн</l>
        <l_var type="molodtsov-cyr">вуҗмӧн</l_var>
+  <stg>
+<st Contlex="GER_">вуджмӧн</st></stg>
    </lg>
    <mg relId="0"><span class="underline">употребляется лишь в составе выражений:</span><br/>
      <xg>
@@ -459,6 +511,8 @@
    <lg t1="В" t2="У" t3="З" uri="8710-vuzavm-n" id="8710">
      <l pos="Ger" type="MON">вузавмӧн</l>
        <l_var type="molodtsov-cyr">вузавмӧн</l_var>
+  <stg>
+<st Contlex="GER_">вузавмӧн</st></stg>
    </lg>
    <mg relId="0">
      <tg xml:lang="rus">
@@ -474,6 +528,8 @@
    <lg t1="Г" t2="Е" t3="З" uri="9808-gez-yas-m-n" id="9808">
      <l pos="Ger" type="OMON">гезъясьӧмӧн</l>
        <l_var type="molodtsov-cyr">гезјаԍӧмӧн</l_var>
+  <stg>
+<st Contlex="GER_">гезъясьӧмӧн</st></stg>
    </lg>
    <mg relId="0">
      <tg xml:lang="rus">
@@ -485,6 +541,8 @@
    <lg t1="Г" t2="О" t3="Р" uri="10429-gorz-dlym-n" id="10429">
      <l pos="Ger" type="MON">горзьӧдлымӧн</l>
        <l_var type="molodtsov-cyr">горԅӧԁлымӧн</l_var>
+  <stg>
+<st Contlex="GER_">горзьӧдлымӧн</st></stg>
    </lg>
    <mg relId="0">
      <tg xml:lang="rus">
@@ -500,6 +558,8 @@
    <lg t1="Г" t2="У" t3="Д" uri="11451-gudyrtchym-n" id="11451">
      <l pos="Ger" type="MON">гудыртчымӧн</l>
        <l_var type="molodtsov-cyr">гуԁырччымӧн</l_var>
+  <stg>
+<st Contlex="GER_">гудыртчымӧн</st></stg>
    </lg>
    <mg relId="0"><span class="underline">употребляется лишь в составе выражений:</span><br/>
      <xg>
@@ -512,6 +572,8 @@
    <lg t1="Г" t2="Ӧ" t3="Р" uri="10952-g-rd-dm-n" id="10952">
      <l pos="Ger" type="MON">гӧрдӧдмӧн</l>
        <l_var type="molodtsov-cyr">гӧрԁӧԁмӧн</l_var>
+  <stg>
+<st Contlex="GER_">гӧрдӧдмӧн</st></stg>
    </lg>
    <mg relId="0">
      <tg xml:lang="rus">
@@ -527,6 +589,8 @@
    <lg t1="Г" t2="Ӧ" t3="Р" uri="10958-g-rd-dt-dz" id="10958">
      <l pos="Ger" type="TODZ">гӧрдӧдтӧдз</l>
        <l_var type="molodtsov-cyr">гӧрԁӧттӧԇ</l_var>
+  <stg>
+<st Contlex="GER_">гӧрдӧдтӧдз</st></stg>
    </lg>
    <mg relId="0"> <sg><s s_type="see">гӧрдӧдмӧн</s></sg>
      <tg xml:lang="rus">
@@ -538,6 +602,8 @@
    <lg t1="Д" t2="Ж" t3="А" uri="12474-dzhag-dchym-n" id="12474">
      <l pos="Ger" type="MON">джагӧдчымӧн</l>
        <l_var type="molodtsov-cyr">җагӧччымӧн</l_var>
+  <stg>
+<st Contlex="GER_">джагӧдчымӧн</st></stg>
    </lg>
    <mg relId="0">
      <tg xml:lang="rus">
@@ -557,6 +623,8 @@
    <lg t1="Д" t2="Ж" t3="Е" uri="12525-dzhen-d-d-m-n" id="12525">
      <l pos="Ger" type="OMON">дженьдӧдӧмӧн</l>
        <l_var type="molodtsov-cyr">җеԋԁӧԁӧмӧн</l_var>
+  <stg>
+<st Contlex="GER_">дженьдӧдӧмӧн</st></stg>
    </lg>
    <mg relId="0">
      <tg xml:lang="rus">
@@ -572,6 +640,8 @@
    <lg t1="Д" t2="Ж" t3="Ӧ" uri="12584-dzh-mdavt-g" id="12584">
      <l pos="Ger" type="TOG">джӧмдавтӧг</l>
        <l_var type="molodtsov-cyr">җӧмԁавтӧг</l_var>
+  <stg>
+<st Contlex="GER_">джӧмдавтӧг</st></stg>
    </lg>
    <mg relId="0">
      <tg xml:lang="rus">
@@ -591,6 +661,8 @@
    <lg t1="Д" t2="Ж" t3="Ӧ" uri="12599-dzh-mdyvt-g" id="12599">
      <l pos="Ger" type="TOG">джӧмдывтӧг</l>
        <l_var type="molodtsov-cyr">җӧмԁывтӧг</l_var>
+  <stg>
+<st Contlex="GER_">джӧмдывтӧг</st></stg>
    </lg>
    <mg relId="0">
      <tg xml:lang="rus">
@@ -606,6 +678,8 @@
    <lg t1="Д" t2="З" t3="А" uri="12728-dzazhg-m-n" id="12728">
      <l pos="Ger" type="OMON">дзажгӧмӧн</l>
        <l_var type="molodtsov-cyr">ԇажгӧмӧн</l_var>
+  <stg>
+<st Contlex="GER_">дзажгӧмӧн</st></stg>
    </lg>
    <mg relId="0">
      <tg xml:lang="rus">
@@ -621,6 +695,8 @@
    <lg t1="Д" t2="З" t3="А" uri="12748-dzaijgys-m-n" id="12748">
      <l pos="Ger" type="OMON">дзайгысьӧмӧн</l>
        <l_var type="molodtsov-cyr">ԇајгыԍӧмӧн</l_var>
+  <stg>
+<st Contlex="GER_">дзайгысьӧмӧн</st></stg>
    </lg>
    <mg relId="0">
      <tg xml:lang="rus">
@@ -636,6 +712,8 @@
    <lg t1="Д" t2="З" t3="Е" uri="12792-dzebs-m-n" id="12792">
      <l pos="Ger" type="OMON">дзебсьӧмӧн</l>
        <l_var type="molodtsov-cyr">ԇепԍӧмӧн</l_var>
+  <stg>
+<st Contlex="GER_">дзебсьӧмӧн</st></stg>
    </lg>
    <mg relId="0">
      <tg xml:lang="rus">
@@ -669,6 +747,8 @@
    <lg t1="Д" t2="З" t3="Е" uri="12810-dzebsyas-t-g" id="12810">
      <l pos="Ger" type="TOG">дзебсясьтӧг</l>
        <l_var type="molodtsov-cyr">ԇебԍаԍтӧг</l_var>
+  <stg>
+<st Contlex="GER_">дзебсясьтӧг</st></stg>
    </lg>
    <mg relId="0">
      <tg xml:lang="rus">
@@ -684,6 +764,8 @@
    <lg t1="Д" t2="З" t3="Е" uri="12832-dzenavt-dz" id="12832">
      <l pos="Ger" type="TODZ">дзенавтӧдз</l>
        <l_var type="molodtsov-cyr">ԇенавтӧԇ</l_var>
+  <stg>
+<st Contlex="GER_">дзенавтӧдз</st></stg>
    </lg>
    <mg relId="0">
      <tg xml:lang="rus">
@@ -704,6 +786,8 @@
    <lg t1="Д" t2="З" t3="Е" uri="12890-dzesk-dch-m-n" id="12890">
      <l pos="Ger" type="OMON">дзескӧдчӧмӧн</l>
        <l_var type="molodtsov-cyr">ԇескӧччӧмӧн</l_var>
+  <stg>
+<st Contlex="GER_">дзескӧдчӧмӧн</st></stg>
    </lg>
    <mg relId="0">
      <tg xml:lang="rus">
@@ -719,6 +803,8 @@
    <lg t1="Д" t2="З" t3="И" uri="13033-dzirdavm-n" id="13033">
      <l pos="Ger" type="MON">дзирдавмӧн</l>
        <l_var type="molodtsov-cyr">ԇірԁавмӧн</l_var>
+  <stg>
+<st Contlex="GER_">дзирдавмӧн</st></stg>
    </lg>
    <mg relId="0">
      <tg xml:lang="rus">
@@ -734,6 +820,8 @@
    <lg t1="Д" t2="З" t3="О" uri="13108-dzobavm-n" id="13108">
      <l pos="Ger" type="MON">дзобавмӧн</l>
        <l_var type="molodtsov-cyr">ԇобавмӧн</l_var>
+  <stg>
+<st Contlex="GER_">дзобавмӧн</st></stg>
    </lg>
    <mg relId="0">
      <tg xml:lang="rus">
@@ -749,6 +837,8 @@
    <lg t1="Д" t2="З" t3="О" uri="13257-dzormym-n" id="13257">
      <l pos="Ger" type="MON">дзормымӧн</l>
        <l_var type="molodtsov-cyr">ԇормымӧн</l_var>
+  <stg>
+<st Contlex="GER_">дзормымӧн</st></stg>
    </lg>
    <mg relId="0">
      <tg xml:lang="rus">
@@ -768,6 +858,8 @@
    <lg t1="Д" t2="З" t3="О" uri="13261-dzormyt-dz" id="13261">
      <l pos="Ger" type="TODZ">дзормытӧдз</l>
        <l_var type="molodtsov-cyr">ԇормытӧԇ</l_var>
+  <stg>
+<st Contlex="GER_">дзормытӧдз</st></stg>
    </lg>
    <mg relId="0">
      <tg xml:lang="rus">
@@ -783,6 +875,8 @@
    <lg t1="Д" t2="З" t3="У" uri="13347-dzuglyas-m-n" id="13347">
      <l pos="Ger" type="OMON">дзуглясьӧмӧн</l>
        <l_var type="molodtsov-cyr">ԇугԉаԍӧмӧн</l_var>
+  <stg>
+<st Contlex="GER_">дзуглясьӧмӧн</st></stg>
    </lg>
    <mg relId="0">
      <tg xml:lang="rus">
@@ -798,6 +892,8 @@
    <lg t1="Д" t2="З" t3="У" uri="13358-dzugs-m-n" id="13358">
      <l pos="Ger" type="OMON">дзугсьӧмӧн</l>
        <l_var type="molodtsov-cyr">ԇугԍӧмӧн</l_var>
+  <stg>
+<st Contlex="GER_">дзугсьӧмӧн</st></stg>
    </lg>
    <mg relId="0">
      <tg xml:lang="rus">
@@ -813,6 +909,8 @@
    <lg t1="Д" t2="З" t3="У" uri="13537-dzurtt-g" id="13537">
      <l pos="Ger" type="TOG">дзурттӧг</l>
        <l_var type="molodtsov-cyr">ԇурттӧг</l_var>
+  <stg>
+<st Contlex="GER_">дзурттӧг</st></stg>
    </lg>
    <mg relId="0">
      <tg xml:lang="rus">
@@ -828,6 +926,8 @@
    <lg t1="Д" t2="З" t3="У" uri="13532-dzurt-m-n" id="13532">
      <l pos="Ger" type="OMON">дзуртӧмӧн</l>
        <l_var type="molodtsov-cyr">ԇуртӧмӧн</l_var>
+  <stg>
+<st Contlex="GER_">дзуртӧмӧн</st></stg>
    </lg>
    <mg relId="0">
      <tg xml:lang="rus">
@@ -847,6 +947,8 @@
    <lg t1="Д" t2="И" t3="В" uri="13593-divuijtch-m-n" id="13593">
      <l pos="Ger" type="OMON">дивуйтчӧмӧн</l>
        <l_var type="molodtsov-cyr">ԃівујччӧмӧн</l_var>
+  <stg>
+<st Contlex="GER_">дивуйтчӧмӧн</st></stg>
    </lg>
    <mg relId="0">
      <tg xml:lang="rus">
@@ -871,6 +973,8 @@
    <lg t1="Д" t2="О" t3="В" uri="13885-dovkij-dl-m-n" id="13885">
      <l pos="Ger" type="OMON">довкйӧдлӧмӧн</l>
        <l_var type="molodtsov-cyr">ԁовкјӧԁлӧмӧн</l_var>
+  <stg>
+<st Contlex="GER_">довкйӧдлӧмӧн</st></stg>
    </lg>
    <mg relId="0">
      <tg xml:lang="rus">
@@ -886,6 +990,8 @@
    <lg t1="Д" t2="О" t3="В" uri="13896-dovknit-m-n" id="13896">
      <l pos="Ger" type="OMON">довкнитӧмӧн</l>
        <l_var type="molodtsov-cyr">ԁовкԋітӧмӧн</l_var>
+  <stg>
+<st Contlex="GER_">довкнитӧмӧн</st></stg>
    </lg>
    <mg relId="0">
      <tg xml:lang="rus">
@@ -905,6 +1011,8 @@
    <lg t1="Д" t2="О" t3="В" uri="13920-dov-yal-m-n" id="13920">
      <l pos="Ger" type="OMON">довъялӧмӧн</l>
        <l_var type="molodtsov-cyr">ԁовјалӧмӧн</l_var>
+  <stg>
+<st Contlex="GER_">довъялӧмӧн</st></stg>
    </lg>
    <mg relId="0">
      <tg xml:lang="rus">
@@ -920,6 +1028,8 @@
    <lg t1="Д" t2="О" t3="Д" uri="13943-doddyas-t-dz" id="13943">
      <l pos="Ger" type="TODZ">доддясьтӧдз</l>
        <l_var type="molodtsov-cyr">ԁоԃԃаԍтӧԇ</l_var>
+  <stg>
+<st Contlex="GER_">доддясьтӧдз</st></stg>
    </lg>
    <mg relId="0">
      <tg xml:lang="rus">
@@ -935,6 +1045,8 @@
    <lg t1="Д" t2="О" t3="Й" uri="13973-doijdm-n" id="13973">
      <l pos="Ger" type="MON">дойдмӧн</l>
        <l_var type="molodtsov-cyr">ԁојԁмӧн</l_var>
+  <stg>
+<st Contlex="GER_">дойдмӧн</st></stg>
    </lg>
    <mg relId="0">
      <tg xml:lang="rus">
@@ -954,6 +1066,8 @@
    <lg t1="Д" t2="О" t3="Й" uri="14002-doijmyt-dz" id="14002">
      <l pos="Ger" type="TODZ">доймытӧдз</l>
        <l_var type="molodtsov-cyr">ԁојмытӧԇ</l_var>
+  <stg>
+<st Contlex="GER_">доймытӧдз</st></stg>
    </lg>
    <mg relId="0">
      <tg xml:lang="rus">
@@ -977,6 +1091,8 @@
    <lg t1="Д" t2="О" t3="Н" uri="14148-dont-g" id="14148">
      <l pos="Ger" type="TOG">донтӧг</l>
        <l_var type="molodtsov-cyr">ԁонтӧг</l_var>
+  <stg>
+<st Contlex="GER_">донтӧг</st></stg>
    </lg>
    <mg relId="0">
      <tg xml:lang="rus">
@@ -1000,6 +1116,8 @@
    <lg t1="Д" t2="О" t3="Н" uri="14190-don-yal-m-n" id="14190">
      <l pos="Ger" type="OMON">донъялӧмӧн</l>
        <l_var type="molodtsov-cyr">ԁонјалӧмӧн</l_var>
+  <stg>
+<st Contlex="GER_">донъялӧмӧн</st></stg>
    </lg>
    <mg relId="0">
      <tg xml:lang="rus">
@@ -1015,6 +1133,8 @@
    <lg t1="Д" t2="О" t3="Н" uri="14198-don-yas-t-g" id="14198">
      <l pos="Ger" type="TOG">донъясьтӧг</l>
        <l_var type="molodtsov-cyr">ԁонјаԍтӧг</l_var>
+  <stg>
+<st Contlex="GER_">донъясьтӧг</st></stg>
    </lg>
    <mg relId="0">
      <tg xml:lang="rus">
@@ -1030,6 +1150,8 @@
    <lg t1="Д" t2="О" t3="Р" uri="14254-dorijys-m-n" id="14254">
      <l pos="Ger" type="OMON">дорйысьӧмӧн</l>
        <l_var type="molodtsov-cyr">ԁорјыԍӧмӧн</l_var>
+  <stg>
+<st Contlex="GER_">дорйысьӧмӧн</st></stg>
    </lg>
    <mg relId="0">
      <tg xml:lang="rus">
@@ -1045,6 +1167,8 @@
    <lg t1="Д" t2="О" t3="Р" uri="14281-dorovtchyl-m-n" id="14281">
      <l pos="Ger" type="OMON">доровтчылӧмӧн</l>
        <l_var type="molodtsov-cyr">ԁоровччылӧмӧн</l_var>
+  <stg>
+<st Contlex="GER_">доровтчылӧмӧн</st></stg>
    </lg>
    <mg relId="0">
      <tg xml:lang="rus">
@@ -1065,6 +1189,8 @@
    <lg t1="Д" t2="Р" t3="Ӧ" uri="14671-dr-zhzhitm-n" id="14671">
      <l pos="Ger" type="MON">дрӧжжитмӧн</l>
        <l_var type="molodtsov-cyr">ԁрӧжжітмӧн</l_var>
+  <stg>
+<st Contlex="GER_">дрӧжжитмӧн</st></stg>
    </lg>
    <mg relId="0">
      <tg xml:lang="rus">
@@ -1080,6 +1206,8 @@
    <lg t1="Д" t2="Р" t3="Ӧ" uri="14681-dr-zhmun-m-n" id="14681">
      <l pos="Ger" type="OMON">дрӧжмунӧмӧн</l>
        <l_var type="molodtsov-cyr">ԁрӧжмунӧмӧн</l_var>
+  <stg>
+<st Contlex="GER_">дрӧжмунӧмӧн</st></stg>
    </lg>
    <mg relId="0">
      <tg xml:lang="rus">
@@ -1095,6 +1223,8 @@
    <lg t1="Д" t2="У" t3="Б" uri="14751-dubavt-dz" id="14751">
      <l pos="Ger" type="TODZ">дубавтӧдз</l>
        <l_var type="molodtsov-cyr">ԁубавтӧԇ</l_var>
+  <stg>
+<st Contlex="GER_">дубавтӧдз</st></stg>
    </lg>
    <mg relId="0">
      <tg xml:lang="rus">
@@ -1115,6 +1245,8 @@
    <lg t1="Д" t2="У" t3="В" uri="14792-duvg-dch-m-n" id="14792">
      <l pos="Ger" type="OMON">дувгӧдчӧмӧн</l>
        <l_var type="molodtsov-cyr">ԁувгӧччӧмӧн</l_var>
+  <stg>
+<st Contlex="GER_">дувгӧдчӧмӧн</st></stg>
    </lg>
    <mg relId="0">
      <tg xml:lang="rus">
@@ -1130,6 +1262,8 @@
    <lg t1="Д" t2="У" t3="Г" uri="14823-dugdyvlyt-g" id="14823">
      <l pos="Ger" type="TOG">дугдывлытӧг</l>
        <l_var type="molodtsov-cyr">ԁугԁывлытӧг</l_var>
+  <stg>
+<st Contlex="GER_">дугдывлытӧг</st></stg>
    </lg>
    <mg relId="0">
      <tg xml:lang="rus">
@@ -1154,6 +1288,8 @@
    <lg t1="Д" t2="У" t3="Г" uri="14829-dugdyvt-g" id="14829">
      <l pos="Ger" type="TOG">дугдывтӧг</l>
        <l_var type="molodtsov-cyr">ԁугԁывтӧг</l_var>
+  <stg>
+<st Contlex="GER_">дугдывтӧг</st></stg>
    </lg>
    <mg relId="0">
      <tg xml:lang="rus">
@@ -1234,6 +1370,8 @@
    <lg t1="Д" t2="У" t3="Г" uri="14835-dugdyl-m-n" id="14835">
      <l pos="Ger" type="OMON">дугдылӧмӧн</l>
        <l_var type="molodtsov-cyr">ԁугԁылӧмӧн</l_var>
+  <stg>
+<st Contlex="GER_">дугдылӧмӧн</st></stg>
    </lg>
    <mg relId="0">
      <tg xml:lang="rus">
@@ -1249,6 +1387,8 @@
    <lg t1="Д" t2="У" t3="З" uri="14893-duz-yal-m-n" id="14893">
      <l pos="Ger" type="OMON">дузъялӧмӧн</l>
        <l_var type="molodtsov-cyr">ԁузјалӧмӧн</l_var>
+  <stg>
+<st Contlex="GER_">дузъялӧмӧн</st></stg>
    </lg>
    <mg relId="0">
      <tg xml:lang="rus">
@@ -1264,6 +1404,8 @@
    <lg t1="Д" t2="У" t3="К" uri="14903-dukal-m-n" id="14903">
      <l pos="Ger" type="OMON">дукалӧмӧн</l>
        <l_var type="molodtsov-cyr">ԁукалӧмӧн</l_var>
+  <stg>
+<st Contlex="GER_">дукалӧмӧн</st></stg>
    </lg>
    <mg relId="0">
      <tg xml:lang="rus">
@@ -1279,6 +1421,8 @@
    <lg t1="Д" t2="У" t3="Л" uri="14965-dul-smunt-dz" id="14965">
      <l pos="Ger" type="TODZ">дульсмунтӧдз</l>
        <l_var type="molodtsov-cyr">ԁуԉсмунтӧԇ</l_var>
+  <stg>
+<st Contlex="GER_">дульсмунтӧдз</st></stg>
    </lg>
    <mg relId="0">
      <tg xml:lang="rus">
@@ -1294,6 +1438,8 @@
    <lg t1="Д" t2="У" t3="М" uri="14978-dumaijt-m-n" id="14978">
      <l pos="Ger" type="OMON">думайтӧмӧн</l>
        <l_var type="molodtsov-cyr">ԁумајтӧмӧн</l_var>
+  <stg>
+<st Contlex="GER_">думайтӧмӧн</st></stg>
    </lg>
    <mg relId="0">
      <tg xml:lang="rus">
@@ -1309,6 +1455,8 @@
    <lg t1="Д" t2="У" t3="М" uri="15003-dumyshtt-g" id="15003">
      <l pos="Ger" type="TOG">думышттӧг</l>
        <l_var type="molodtsov-cyr">ԁумышттӧг</l_var>
+  <stg>
+<st Contlex="GER_">думышттӧг</st></stg>
    </lg>
    <mg relId="0">
      <tg xml:lang="rus">
@@ -1332,6 +1480,8 @@
    <lg t1="Д" t2="У" t3="М" uri="15008-dumyshtch-m-n" id="15008">
      <l pos="Ger" type="OMON">думыштчӧмӧн</l>
        <l_var type="molodtsov-cyr">ԁумышчӧмӧн</l_var>
+  <stg>
+<st Contlex="GER_">думыштчӧмӧн</st></stg>
    </lg>
    <mg relId="0">
      <tg xml:lang="rus">
@@ -1347,6 +1497,8 @@
    <lg t1="Д" t2="У" t3="М" uri="14997-dumysht-m-n" id="14997">
      <l pos="Ger" type="OMON">думыштӧмӧн</l>
        <l_var type="molodtsov-cyr">ԁумыштӧмӧн</l_var>
+  <stg>
+<st Contlex="GER_">думыштӧмӧн</st></stg>
    </lg>
    <mg relId="0">
      <tg xml:lang="rus">
@@ -1370,6 +1522,8 @@
    <lg t1="Д" t2="У" t3="М" uri="14984-dum-n" id="14984">
      <l pos="Ger" type="MON">думӧн</l>
        <l_var type="molodtsov-cyr">ԁумӧн</l_var>
+  <stg>
+<st Contlex="GER_">думӧн</st></stg>
    </lg>
    <mg relId="0">
      <tg xml:lang="rus">
@@ -1397,6 +1551,8 @@
    <lg t1="Д" t2="У" t3="Н" uri="15024-dundyt-dz" id="15024">
      <l pos="Ger" type="TODZ">дундытӧдз</l>
        <l_var type="molodtsov-cyr">ԁунԁытӧԇ</l_var>
+  <stg>
+<st Contlex="GER_">дундытӧдз</st></stg>
    </lg>
    <mg relId="0">
      <tg xml:lang="rus">
@@ -1412,6 +1568,8 @@
    <lg t1="Д" t2="Э" t3="Л" uri="15265-del-dchyt-g" id="15265">
      <l pos="Ger" type="TOG">дэльӧдчытӧг</l>
        <l_var type="molodtsov-cyr">ԁеԉӧччытӧг</l_var>
+  <stg>
+<st Contlex="GER_">дэльӧдчытӧг</st></stg>
    </lg>
    <mg relId="0">
      <tg xml:lang="rus">
@@ -1427,6 +1585,8 @@
    <lg t1="Д" t2="Э" t3="Л" uri="15253-del-d-m-n" id="15253">
      <l pos="Ger" type="OMON">дэльӧдӧмӧн</l>
        <l_var type="molodtsov-cyr">ԁеԉӧԁӧмӧн</l_var>
+  <stg>
+<st Contlex="GER_">дэльӧдӧмӧн</st></stg>
    </lg>
    <mg relId="0">
      <tg xml:lang="rus">
@@ -1442,6 +1602,8 @@
    <lg t1="Д" t2="І" t3="В" uri="13685-divz-m-n" id="13685">
      <l pos="Ger" type="OMON">дівзӧмӧн</l>
        <l_var type="molodtsov-cyr">ԁівзӧмӧн</l_var>
+  <stg>
+<st Contlex="GER_">дівзӧмӧн</st></stg>
    </lg>
    <mg relId="0">
      <tg xml:lang="rus">
@@ -1457,6 +1619,8 @@
    <lg t1="Д" t2="Ӧ" t3="З" uri="14516-d-zmym-n" id="14516">
      <l pos="Ger" type="MON">дӧзмымӧн</l>
        <l_var type="molodtsov-cyr">ԁӧзмымӧн</l_var>
+  <stg>
+<st Contlex="GER_">дӧзмымӧн</st></stg>
    </lg>
    <mg relId="0">
      <tg xml:lang="rus">
@@ -1468,6 +1632,8 @@
    <lg t1="Д" t2="Ӧ" t3="З" uri="14522-d-zmyt-g" id="14522">
      <l pos="Ger" type="TOG">дӧзмытӧг</l>
        <l_var type="molodtsov-cyr">ԁӧзмытӧг</l_var>
+  <stg>
+<st Contlex="GER_">дӧзмытӧг</st></stg>
    </lg>
    <mg relId="0">
      <tg xml:lang="rus">
@@ -1487,6 +1653,8 @@
    <lg t1="Д" t2="Ӧ" t3="З" uri="14523-d-zmyt-dz" id="14523">
      <l pos="Ger" type="TODZ">дӧзмытӧдз</l>
        <l_var type="molodtsov-cyr">ԁӧзмытӧԇ</l_var>
+  <stg>
+<st Contlex="GER_">дӧзмытӧдз</st></stg>
    </lg>
    <mg relId="0">
      <tg xml:lang="rus">
@@ -1502,6 +1670,8 @@
    <lg t1="Д" t2="Ӧ" t3="З" uri="14511-d-zm-m-n" id="14511">
      <l pos="Ger" type="OMON">дӧзмӧмӧн</l>
        <l_var type="molodtsov-cyr">ԁӧзмӧмӧн</l_var>
+  <stg>
+<st Contlex="GER_">дӧзмӧмӧн</st></stg>
    </lg>
    <mg relId="0">
      <tg xml:lang="rus">
@@ -1521,6 +1691,8 @@
    <lg t1="Д" t2="Ӧ" t3="Н" uri="14589-d-nz-yt-dz" id="14589">
      <l pos="Ger" type="TODZ">дӧнзьытӧдз</l>
        <l_var type="molodtsov-cyr">ԁӧнԅытӧԇ</l_var>
+  <stg>
+<st Contlex="GER_">дӧнзьытӧдз</st></stg>
    </lg>
    <mg relId="0">
      <tg xml:lang="rus">
@@ -1536,6 +1708,8 @@
    <lg t1="Ж" t2="А" t3="Л" uri="15784-zhalyaddzat-g" id="15784">
      <l pos="Ger" type="TOG">жаляддзатӧг</l>
        <l_var type="molodtsov-cyr">жаԉаԇԇатӧг</l_var>
+  <stg>
+<st Contlex="GER_">жаляддзатӧг</st></stg>
    </lg>
    <mg relId="0">
      <tg xml:lang="rus">
@@ -1551,6 +1725,8 @@
    <lg t1="З" t2="А" t3="В" uri="16524-zavaritm-n" id="16524">
      <l pos="Ger" type="MON">заваритмӧн</l>
        <l_var type="molodtsov-cyr">заварітмӧн</l_var>
+  <stg>
+<st Contlex="GER_">заваритмӧн</st></stg>
    </lg>
    <mg relId="0">
      <tg xml:lang="rus">
@@ -1566,6 +1742,8 @@
    <lg t1="И" t2="С" t3="Т" uri="18683-ist-g" id="18683">
      <l pos="Ger" type="TOG">истӧг</l>
        <l_var type="molodtsov-cyr">істӧг</l_var>
+  <stg>
+<st Contlex="GER_">истӧг</st></stg>
    </lg>
    <mg relId="0">
      <tg xml:lang="rus">
@@ -1605,6 +1783,8 @@
    <lg t1="Й" t2="Ӧ" t3="Й" uri="19127-ij-ijmym-n" id="19127">
      <l pos="Ger" type="MON">йӧймымӧн</l>
        <l_var type="molodtsov-cyr">јӧјмымӧн</l_var>
+  <stg>
+<st Contlex="GER_">йӧймымӧн</st></stg>
    </lg>
    <mg relId="0">
      <tg xml:lang="rus">
@@ -1620,6 +1800,8 @@
    <lg t1="К" t2="А" t3="Б" uri="19335-kabyrtch-m-n" id="19335">
      <l pos="Ger" type="OMON">кабыртчӧмӧн</l>
        <l_var type="molodtsov-cyr">кабырччӧмӧн</l_var>
+  <stg>
+<st Contlex="GER_">кабыртчӧмӧн</st></stg>
    </lg>
    <mg relId="0">
      <tg xml:lang="rus">
@@ -1635,6 +1817,8 @@
    <lg t1="К" t2="А" t3="В" uri="19362-kavshas-m-n" id="19362">
      <l pos="Ger" type="OMON">кавшасьӧмӧн</l>
        <l_var type="molodtsov-cyr">кавшаԍӧмӧн</l_var>
+  <stg>
+<st Contlex="GER_">кавшасьӧмӧн</st></stg>
    </lg>
    <mg relId="0">
      <tg xml:lang="rus">
@@ -1650,6 +1834,8 @@
    <lg t1="К" t2="А" t3="З" uri="19504-kaz-tyvt-g" id="19504">
      <l pos="Ger" type="TOG">казьтывтӧг</l>
        <l_var type="molodtsov-cyr">каԅтывтӧг</l_var>
+  <stg>
+<st Contlex="GER_">казьтывтӧг</st></stg>
    </lg>
    <mg relId="0">
      <tg xml:lang="rus">
@@ -1675,6 +1861,8 @@
    <lg t1="К" t2="А" t3="З" uri="19526-kazyavlyt-g" id="19526">
      <l pos="Ger" type="TOG">казявлытӧг</l>
        <l_var type="molodtsov-cyr">каԅавлытӧг</l_var>
+  <stg>
+<st Contlex="GER_">казявлытӧг</st></stg>
    </lg>
    <mg relId="0">
      <tg xml:lang="rus">
@@ -1694,6 +1882,8 @@
    <lg t1="К" t2="А" t3="З" uri="19527-kazyavm-n" id="19527">
      <l pos="Ger" type="MON">казявмӧн</l>
        <l_var type="molodtsov-cyr">каԅавмӧн</l_var>
+  <stg>
+<st Contlex="GER_">казявмӧн</st></stg>
    </lg>
    <mg relId="0">
      <tg xml:lang="rus">
@@ -1717,6 +1907,8 @@
    <lg t1="К" t2="А" t3="Т" uri="20251-katlas-m-n" id="20251">
      <l pos="Ger" type="OMON">катласьӧмӧн</l>
        <l_var type="molodtsov-cyr">катлаԍӧмӧн</l_var>
+  <stg>
+<st Contlex="GER_">катласьӧмӧн</st></stg>
    </lg>
    <mg relId="0">
      <tg xml:lang="rus">
@@ -1732,6 +1924,8 @@
    <lg t1="К" t2="А" t3="Т" uri="20263-katl-dl-m-n" id="20263">
      <l pos="Ger" type="OMON">катлӧдлӧмӧн</l>
        <l_var type="molodtsov-cyr">катлӧԁлӧмӧн</l_var>
+  <stg>
+<st Contlex="GER_">катлӧдлӧмӧн</st></stg>
    </lg>
    <mg relId="0">
      <tg xml:lang="rus">
@@ -1752,6 +1946,8 @@
    <lg t1="К" t2="А" t3="Ш" uri="20433-kashk-m-n" id="20433">
      <l pos="Ger" type="OMON">кашкӧмӧн</l>
        <l_var type="molodtsov-cyr">кашкӧмӧн</l_var>
+  <stg>
+<st Contlex="GER_">кашкӧмӧн</st></stg>
    </lg>
    <mg relId="0">
      <tg xml:lang="rus">
@@ -1763,6 +1959,8 @@
    <lg t1="К" t2="Е" t3="В" uri="20568-kevmys-m-n" id="20568">
      <l pos="Ger" type="OMON">кевмысьӧмӧн</l>
        <l_var type="molodtsov-cyr">кевмыԍӧмӧн</l_var>
+  <stg>
+<st Contlex="GER_">кевмысьӧмӧн</st></stg>
    </lg>
    <mg relId="0">
      <tg xml:lang="rus">
@@ -1778,6 +1976,8 @@
    <lg t1="К" t2="Е" t3="Д" uri="20590-kedzovt-m-n" id="20590">
      <l pos="Ger" type="OMON">кедзовтӧмӧн</l>
        <l_var type="molodtsov-cyr">кеԇовтӧмӧн</l_var>
+  <stg>
+<st Contlex="GER_">кедзовтӧмӧн</st></stg>
    </lg>
    <mg relId="0">
      <tg xml:lang="rus">
@@ -1794,6 +1994,8 @@
    <lg t1="К" t2="Е" t3="Ж" uri="20598-kezhavt-g" id="20598">
      <l pos="Ger" type="TOG">кежавтӧг</l>
        <l_var type="molodtsov-cyr">кежавтӧг</l_var>
+  <stg>
+<st Contlex="GER_">кежавтӧг</st></stg>
    </lg>
    <mg relId="0">
      <tg xml:lang="rus">
@@ -1809,6 +2011,8 @@
    <lg t1="К" t2="Е" t3="Ж" uri="20645-kezh-m-n" id="20645">
      <l pos="Ger" type="OMON">кежӧмӧн</l>
        <l_var type="molodtsov-cyr">кежӧмӧн</l_var>
+  <stg>
+<st Contlex="GER_">кежӧмӧн</st></stg>
    </lg>
    <mg relId="0">
      <tg xml:lang="rus">
@@ -1824,6 +2028,8 @@
    <lg t1="К" t2="Е" t3="З" uri="20677-keznitch-m-n" id="20677">
      <l pos="Ger" type="OMON">кезнитчӧмӧн</l>
        <l_var type="molodtsov-cyr">кезԋіччӧмӧн</l_var>
+  <stg>
+<st Contlex="GER_">кезнитчӧмӧн</st></stg>
    </lg>
    <mg relId="0">
      <tg xml:lang="rus">
@@ -1844,6 +2050,8 @@
    <lg t1="К" t2="Е" t3="К" uri="20715-kekurvidz-m-n" id="20715">
      <l pos="Ger" type="OMON">кекурвидзӧмӧн</l>
        <l_var type="molodtsov-cyr">кекурвіԇӧмӧн</l_var>
+  <stg>
+<st Contlex="GER_">кекурвидзӧмӧн</st></stg>
    </lg>
    <mg relId="0">
      <tg xml:lang="rus">
@@ -1859,6 +2067,8 @@
    <lg t1="К" t2="Е" t3="К" uri="20717-kekurtch-m-n" id="20717">
      <l pos="Ger" type="OMON">кекуртчӧмӧн</l>
        <l_var type="molodtsov-cyr">кекурччӧмӧн</l_var>
+  <stg>
+<st Contlex="GER_">кекуртчӧмӧн</st></stg>
    </lg>
    <mg relId="0">
      <tg xml:lang="rus">
@@ -1870,6 +2080,8 @@
    <lg t1="К" t2="Е" t3="Л" uri="20744-kel-d-dm-n" id="20744">
      <l pos="Ger" type="MON">кельдӧдмӧн</l>
        <l_var type="molodtsov-cyr">кеԉԁӧԁмӧн</l_var>
+  <stg>
+<st Contlex="GER_">кельдӧдмӧн</st></stg>
    </lg>
    <mg relId="0">
      <tg xml:lang="rus">
@@ -1885,6 +2097,8 @@
    <lg t1="К" t2="Е" t3="Л" uri="20752-kel-d-dt-dz" id="20752">
      <l pos="Ger" type="TODZ">кельдӧдтӧдз</l>
        <l_var type="molodtsov-cyr">кеԉԁӧттӧԇ</l_var>
+  <stg>
+<st Contlex="GER_">кельдӧдтӧдз</st></stg>
    </lg>
    <mg relId="0">
      <tg xml:lang="rus">
@@ -1900,6 +2114,8 @@
    <lg t1="К" t2="Е" t3="Л" uri="20733-kel-d-m-n" id="20733">
      <l pos="Ger" type="OMON">келӧдӧмӧн</l>
        <l_var type="molodtsov-cyr">келӧԁӧмӧн</l_var>
+  <stg>
+<st Contlex="GER_">келӧдӧмӧн</st></stg>
    </lg>
    <mg relId="0">
      <tg xml:lang="rus">
@@ -1915,6 +2131,8 @@
    <lg t1="К" t2="Е" t3="Л" uri="20735-kel-m-n" id="20735">
      <l pos="Ger" type="OMON">келӧмӧн</l>
        <l_var type="molodtsov-cyr">келӧмӧн</l_var>
+  <stg>
+<st Contlex="GER_">келӧмӧн</st></stg>
    </lg>
    <mg relId="0">
      <tg xml:lang="rus">
@@ -1934,6 +2152,8 @@
    <lg t1="К" t2="И" t3="А" uri="21017-kias-t-g" id="21017">
      <l pos="Ger" type="TOG">киасьтӧг</l>
        <l_var type="molodtsov-cyr">кіаԍтӧг</l_var>
+  <stg>
+<st Contlex="GER_">киасьтӧг</st></stg>
    </lg>
    <mg relId="0">
      <tg xml:lang="rus">
@@ -1945,6 +2165,8 @@
    <lg t1="К" t2="И" t3="А" uri="21016-kias-m-n" id="21016">
      <l pos="Ger" type="OMON">киасьӧмӧн</l>
        <l_var type="molodtsov-cyr">кіаԍӧмӧн</l_var>
+  <stg>
+<st Contlex="GER_">киасьӧмӧн</st></stg>
    </lg>
    <mg relId="0">
      <tg xml:lang="rus">
@@ -1960,6 +2182,8 @@
    <lg t1="К" t2="И" t3="З" uri="21102-kizyavt-g" id="21102">
      <l pos="Ger" type="TOG">кизявтӧг</l>
        <l_var type="molodtsov-cyr">кіԅавтӧг</l_var>
+  <stg>
+<st Contlex="GER_">кизявтӧг</st></stg>
    </lg>
    <mg relId="0">
      <tg xml:lang="rus">
@@ -1975,6 +2199,8 @@
    <lg t1="К" t2="И" t3="З" uri="21107-kizyal-m-n" id="21107">
      <l pos="Ger" type="OMON">кизялӧмӧн</l>
        <l_var type="molodtsov-cyr">кіԅалӧмӧн</l_var>
+  <stg>
+<st Contlex="GER_">кизялӧмӧн</st></stg>
    </lg>
    <mg relId="0">
      <tg xml:lang="rus">
@@ -1990,6 +2216,8 @@
    <lg t1="К" t2="И" t3="З" uri="21113-kizyas-t-g" id="21113">
      <l pos="Ger" type="TOG">кизясьтӧг</l>
        <l_var type="molodtsov-cyr">кіԅаԍтӧг</l_var>
+  <stg>
+<st Contlex="GER_">кизясьтӧг</st></stg>
    </lg>
    <mg relId="0">
      <tg xml:lang="rus">
@@ -2004,7 +2232,9 @@
   <e>
    <lg t1="К" t2="И" t3="К" uri="21151-kikurvidz-m-n" id="21151">
      <l pos="Ger" type="OMON">кикурвидзӧмӧн</l>
-       <l_var type="molodtsov-cyr">кікурвіԇӧмӧн</l_var> <rg><r range_space="dialect"/></rg>
+       <l_var type="molodtsov-cyr">кікурвіԇӧмӧн</l_var>
+  <stg>
+<st Contlex="GER_">кикурвидзӧмӧн</st></stg> <rg><r range_space="dialect"/></rg>
    </lg>
    <mg relId="0">
      <tg xml:lang="rus">
@@ -2016,6 +2246,8 @@
    <lg t1="К" t2="И" t3="Л" uri="21235-kil-kuvt-dz" id="21235">
      <l pos="Ger" type="TODZ">килькувтӧдз</l>
        <l_var type="molodtsov-cyr">кіԉкувтӧԇ</l_var>
+  <stg>
+<st Contlex="GER_">килькувтӧдз</st></stg>
    </lg>
    <mg relId="0">
      <tg xml:lang="rus">
@@ -2027,6 +2259,8 @@
    <lg t1="К" t2="И" t3="Р" uri="21360-kirg-m-n" id="21360">
      <l pos="Ger" type="OMON">киргӧмӧн</l>
        <l_var type="molodtsov-cyr">кіргӧмӧн</l_var>
+  <stg>
+<st Contlex="GER_">киргӧмӧн</st></stg>
    </lg>
    <mg relId="0">
      <tg xml:lang="rus">
@@ -2042,6 +2276,8 @@
    <lg t1="К" t2="И" t3="С" uri="21482-kis-t-g" id="21482">
      <l pos="Ger" type="TOG">кисьтӧг</l>
        <l_var type="molodtsov-cyr">кіԍтӧг</l_var>
+  <stg>
+<st Contlex="GER_">кисьтӧг</st></stg>
    </lg>
    <mg relId="0">
      <tg xml:lang="rus">
@@ -2053,6 +2289,8 @@
    <lg t1="К" t2="И" t3="Т" uri="21501-kit-g-podt-g" id="21501">
      <l pos="Ger" type="TOG">китӧг-подтӧг</l>
        <l_var type="molodtsov-cyr">кітӧг-поттӧг</l_var>
+  <stg>
+<st Contlex="GER_">китӧг-подтӧг</st></stg>
    </lg>
    <mg relId="0"><span class="underline">употребляется лишь в составе выражений:</span><br/>
      <xg>
@@ -2069,6 +2307,8 @@
    <lg t1="К" t2="Л" t3="О" uri="21687-klopk-m-n" id="21687">
      <l pos="Ger" type="OMON">клопкӧмӧн</l>
        <l_var type="molodtsov-cyr">клопкӧмӧн</l_var>
+  <stg>
+<st Contlex="GER_">клопкӧмӧн</st></stg>
    </lg>
    <mg relId="0">
      <tg xml:lang="rus">
@@ -2084,6 +2324,8 @@
    <lg t1="К" t2="О" t3="В" uri="21894-kovt-g" id="21894">
      <l pos="Ger" type="TOG">ковтӧг</l>
        <l_var type="molodtsov-cyr">ковтӧг</l_var>
+  <stg>
+<st Contlex="GER_">ковтӧг</st></stg>
    </lg>
    <mg relId="0">
      <tg xml:lang="rus">
@@ -2120,6 +2362,8 @@
    <lg t1="К" t2="О" t3="Д" uri="21966-koddzym-n" id="21966">
      <l pos="Ger" type="MON">коддзымӧн</l>
        <l_var type="molodtsov-cyr">коԇԇымӧн</l_var>
+  <stg>
+<st Contlex="GER_">коддзымӧн</st></stg>
    </lg>
    <mg relId="0">
      <tg xml:lang="rus">
@@ -2135,6 +2379,8 @@
    <lg t1="К" t2="О" t3="Д" uri="21970-koddzyt-dz" id="21970">
      <l pos="Ger" type="TODZ">коддзытӧдз</l>
        <l_var type="molodtsov-cyr">коԇԇытӧԇ</l_var>
+  <stg>
+<st Contlex="GER_">коддзытӧдз</st></stg>
    </lg>
    <mg relId="0"> <sg><s s_type="see">коддзӧдмӧн</s></sg>
      <tg xml:lang="rus">
@@ -2150,6 +2396,8 @@
    <lg t1="К" t2="О" t3="Д" uri="21955-koddz-dm-n" id="21955">
      <l pos="Ger" type="MON">коддзӧдмӧн</l>
        <l_var type="molodtsov-cyr">коԇԇӧԁмӧн</l_var>
+  <stg>
+<st Contlex="GER_">коддзӧдмӧн</st></stg>
    </lg>
    <mg relId="0">
      <tg xml:lang="rus">
@@ -2165,6 +2413,8 @@
    <lg t1="К" t2="О" t3="Д" uri="21993-kodzl-dl-m-n" id="21993">
      <l pos="Ger" type="OMON">кодзлӧдлӧмӧн</l>
        <l_var type="molodtsov-cyr">коԇлӧԁлӧмӧн</l_var>
+  <stg>
+<st Contlex="GER_">кодзлӧдлӧмӧн</st></stg>
    </lg>
    <mg relId="0">
      <tg xml:lang="rus">
@@ -2180,6 +2430,8 @@
    <lg t1="К" t2="О" t3="Д" uri="22036-kodijys-m-n" id="22036">
      <l pos="Ger" type="OMON">кодйысьӧмӧн</l>
        <l_var type="molodtsov-cyr">коԁјыԍӧмӧн</l_var>
+  <stg>
+<st Contlex="GER_">кодйысьӧмӧн</st></stg>
    </lg>
    <mg relId="0">
      <tg xml:lang="rus">
@@ -2204,6 +2456,8 @@
    <lg t1="К" t2="О" t3="Й" uri="22144-koij-m-n" id="22144">
      <l pos="Ger" type="OMON">койӧмӧн</l>
        <l_var type="molodtsov-cyr">којӧмӧн</l_var>
+  <stg>
+<st Contlex="GER_">койӧмӧн</st></stg>
    </lg>
    <mg relId="0">
      <tg xml:lang="rus">
@@ -2233,6 +2487,8 @@
    <lg t1="К" t2="О" t3="К" uri="22357-kokchunyas-m-n" id="22357">
      <l pos="Ger" type="OMON">кокчунясьӧмӧн</l>
        <l_var type="molodtsov-cyr">кокчуԋаԍӧмӧн</l_var>
+  <stg>
+<st Contlex="GER_">кокчунясьӧмӧн</st></stg>
    </lg>
    <mg relId="0">
      <tg xml:lang="rus">
@@ -2244,6 +2500,8 @@
    <lg t1="К" t2="О" t3="Л" uri="22446-koll-dt-g" id="22446">
      <l pos="Ger" type="TOG">колльӧдтӧг</l>
        <l_var type="molodtsov-cyr">коԉԉӧттӧг</l_var>
+  <stg>
+<st Contlex="GER_">колльӧдтӧг</st></stg>
    </lg>
    <mg relId="0">
      <tg xml:lang="rus">
@@ -2260,6 +2518,8 @@
    <lg t1="К" t2="О" t3="Л" uri="22634-kol-chchyvt-g" id="22634">
      <l pos="Ger" type="TOG">кольччывтӧг</l>
        <l_var type="molodtsov-cyr">коԉччывтӧг</l_var>
+  <stg>
+<st Contlex="GER_">кольччывтӧг</st></stg>
    </lg>
    <mg relId="0">
      <tg xml:lang="rus">
@@ -2275,6 +2535,8 @@
    <lg t1="К" t2="О" t3="Л" uri="22653-kolyavt-g" id="22653">
      <l pos="Ger" type="TOG">колявтӧг</l>
        <l_var type="molodtsov-cyr">коԉавтӧг</l_var>
+  <stg>
+<st Contlex="GER_">колявтӧг</st></stg>
    </lg>
    <mg relId="0">
      <tg xml:lang="rus">
@@ -2299,6 +2561,8 @@
    <lg t1="К" t2="О" t3="С" uri="23274-kosavl-m-n" id="23274">
      <l pos="Ger" type="OMON">косавлӧмӧн</l>
        <l_var type="molodtsov-cyr">косавлӧмӧн</l_var>
+  <stg>
+<st Contlex="GER_">косавлӧмӧн</st></stg>
    </lg>
    <mg relId="0">
      <tg xml:lang="rus">
@@ -2314,6 +2578,8 @@
    <lg t1="К" t2="О" t3="С" uri="23359-kostavlyt-g" id="23359">
      <l pos="Ger" type="TOG">коставлытӧг</l>
        <l_var type="molodtsov-cyr">коставлытӧг</l_var>
+  <stg>
+<st Contlex="GER_">коставлытӧг</st></stg>
    </lg>
    <mg relId="0">
      <tg xml:lang="rus">
@@ -2342,6 +2608,8 @@
    <lg t1="К" t2="О" t3="С" uri="23356-kostavl-m-n" id="23356">
      <l pos="Ger" type="OMON">коставлӧмӧн</l>
        <l_var type="molodtsov-cyr">коставлӧмӧн</l_var>
+  <stg>
+<st Contlex="GER_">коставлӧмӧн</st></stg>
    </lg>
    <mg relId="0">
      <tg xml:lang="rus">
@@ -2366,6 +2634,8 @@
    <lg t1="К" t2="О" t3="С" uri="23380-kost-dl-m-n" id="23380">
      <l pos="Ger" type="OMON">костӧдлӧмӧн</l>
        <l_var type="molodtsov-cyr">костӧԁлӧмӧн</l_var>
+  <stg>
+<st Contlex="GER_">костӧдлӧмӧн</st></stg>
    </lg>
    <mg relId="0">
      <tg xml:lang="rus">
@@ -2381,6 +2651,8 @@
    <lg t1="К" t2="О" t3="С" uri="23473-kosyavm-n" id="23473">
      <l pos="Ger" type="MON">косявмӧн</l>
        <l_var type="molodtsov-cyr">коԍавмӧн</l_var>
+  <stg>
+<st Contlex="GER_">косявмӧн</st></stg>
    </lg>
    <mg relId="0">
      <tg xml:lang="rus">
@@ -2396,6 +2668,8 @@
    <lg t1="К" t2="О" t3="Т" uri="23588-kotshk-dchyt-g" id="23588">
      <l pos="Ger" type="TOG">котшкӧдчытӧг</l>
        <l_var type="molodtsov-cyr">кощкӧччытӧг</l_var>
+  <stg>
+<st Contlex="GER_">котшкӧдчытӧг</st></stg>
    </lg>
    <mg relId="0">
      <tg xml:lang="rus">
@@ -2411,6 +2685,8 @@
    <lg t1="К" t2="О" t3="Ч" uri="23653-kochkavm-n" id="23653">
      <l pos="Ger" type="MON">кочкавмӧн</l>
        <l_var type="molodtsov-cyr">кочкавмӧн</l_var>
+  <stg>
+<st Contlex="GER_">кочкавмӧн</st></stg>
    </lg>
    <mg relId="0">
      <tg xml:lang="rus">
@@ -2426,6 +2702,8 @@
    <lg t1="К" t2="О" t3="Ч" uri="23657-kochkavt-dz" id="23657">
      <l pos="Ger" type="TODZ">кочкавтӧдз</l>
        <l_var type="molodtsov-cyr">кочкавтӧԇ</l_var>
+  <stg>
+<st Contlex="GER_">кочкавтӧдз</st></stg>
    </lg>
    <mg relId="0">
      <tg xml:lang="rus">
@@ -2445,6 +2723,8 @@
    <lg t1="К" t2="О" t3="Я" uri="23684-koyavm-n" id="23684">
      <l pos="Ger" type="MON">коявмӧн</l>
        <l_var type="molodtsov-cyr">којавмӧн</l_var>
+  <stg>
+<st Contlex="GER_">коявмӧн</st></stg>
    </lg>
    <mg relId="0">
      <tg xml:lang="rus">
@@ -2456,6 +2736,8 @@
    <lg t1="К" t2="Р" t3="У" uri="24931-krukas-lyt-g" id="24931">
      <l pos="Ger" type="TOG">крукасьлытӧг</l>
        <l_var type="molodtsov-cyr">крукаԍлытӧг</l_var>
+  <stg>
+<st Contlex="GER_">крукасьлытӧг</st></stg>
    </lg>
    <mg relId="0">
      <tg xml:lang="rus">
@@ -2471,6 +2753,8 @@
    <lg t1="К" t2="У" t3="В" uri="25050-kuvm-n" id="25050">
      <l pos="Ger" type="MON">кувмӧн</l>
        <l_var type="molodtsov-cyr">кувмӧн</l_var>
+  <stg>
+<st Contlex="GER_">кувмӧн</st></stg>
    </lg>
    <mg relId="0">
      <tg xml:lang="rus">
@@ -2498,6 +2782,8 @@
    <lg t1="К" t2="У" t3="В" uri="25065-kuvt-dz" id="25065">
      <l pos="Ger" type="TODZ">кувтӧдз</l>
        <l_var type="molodtsov-cyr">кувтӧԇ</l_var>
+  <stg>
+<st Contlex="GER_">кувтӧдз</st></stg>
    </lg>
    <mg relId="0"> <sg><s s_type="see">кувмӧн</s></sg>
      <tg xml:lang="rus">
@@ -2522,6 +2808,8 @@
    <lg t1="К" t2="У" t3="Ж" uri="25133-kuzht-g" id="25133">
      <l pos="Ger" type="TOG">кужтӧг</l>
        <l_var type="molodtsov-cyr">кужтӧг</l_var>
+  <stg>
+<st Contlex="GER_">кужтӧг</st></stg>
    </lg>
    <mg relId="0">
      <tg xml:lang="rus">
@@ -2537,6 +2825,8 @@
    <lg t1="К" t2="У" t3="Ж" uri="25131-kuzh-m-n" id="25131">
      <l pos="Ger" type="OMON">кужӧмӧн</l>
        <l_var type="molodtsov-cyr">кужӧмӧн</l_var>
+  <stg>
+<st Contlex="GER_">кужӧмӧн</st></stg>
    </lg>
    <mg relId="0">
      <tg xml:lang="rus">
@@ -2556,6 +2846,8 @@
    <lg t1="К" t2="У" t3="И" uri="25220-kuim-n" id="25220">
      <l pos="Ger" type="MON">куимӧн</l>
        <l_var type="molodtsov-cyr">куімӧн</l_var>
+  <stg>
+<st Contlex="GER_">куимӧн</st></stg>
    </lg>
    <mg relId="0">
      <tg xml:lang="rus">
@@ -2571,6 +2863,8 @@
    <lg t1="К" t2="У" t3="Й" uri="25246-kuijl-m-n" id="25246">
      <l pos="Ger" type="OMON">куйлӧмӧн</l>
        <l_var type="molodtsov-cyr">кујлӧмӧн</l_var>
+  <stg>
+<st Contlex="GER_">куйлӧмӧн</st></stg>
    </lg>
    <mg relId="0">
      <tg xml:lang="rus">
@@ -2590,6 +2884,8 @@
    <lg t1="К" t2="У" t3="Й" uri="25260-kuij-davt-g" id="25260">
      <l pos="Ger" type="TOG">куйӧдавтӧг</l>
        <l_var type="molodtsov-cyr">кујӧԁавтӧг</l_var>
+  <stg>
+<st Contlex="GER_">куйӧдавтӧг</st></stg>
    </lg>
    <mg relId="0">
      <tg xml:lang="rus">
@@ -2609,6 +2905,8 @@
    <lg t1="К" t2="У" t3="Й" uri="25262-kuij-davt-dz" id="25262">
      <l pos="Ger" type="TODZ">куйӧдавтӧдз</l>
        <l_var type="molodtsov-cyr">кујӧԁавтӧԇ</l_var>
+  <stg>
+<st Contlex="GER_">куйӧдавтӧдз</st></stg>
    </lg>
    <mg relId="0">
      <tg xml:lang="rus">
@@ -2620,6 +2918,8 @@
    <lg t1="К" t2="У" t3="Л" uri="25410-kul-myt-dz" id="25410">
      <l pos="Ger" type="TODZ">кульмытӧдз</l>
        <l_var type="molodtsov-cyr">куԉмытӧԇ</l_var>
+  <stg>
+<st Contlex="GER_">кульмытӧдз</st></stg>
    </lg>
    <mg relId="0">
      <tg xml:lang="rus">
@@ -2635,6 +2935,8 @@
    <lg t1="К" t2="У" t3="Р" uri="25745-kurchchyshtal-m-n" id="25745">
      <l pos="Ger" type="OMON">курччышталӧмӧн</l>
        <l_var type="molodtsov-cyr">курччышталӧмӧн</l_var>
+  <stg>
+<st Contlex="GER_">курччышталӧмӧн</st></stg>
    </lg>
    <mg relId="0">
      <tg xml:lang="rus">
@@ -2650,6 +2952,8 @@
    <lg t1="К" t2="У" t3="С" uri="25806-kusnyas-m-n" id="25806">
      <l pos="Ger" type="OMON">куснясьӧмӧн</l>
        <l_var type="molodtsov-cyr">кусԋаԍӧмӧн</l_var>
+  <stg>
+<st Contlex="GER_">куснясьӧмӧн</st></stg>
    </lg>
    <mg relId="0">
      <tg xml:lang="rus">
@@ -2665,6 +2969,8 @@
    <lg t1="К" t2="У" t3="С" uri="25864-kusyn-tch-m-n" id="25864">
      <l pos="Ger" type="OMON">кусыньтчӧмӧн</l>
        <l_var type="molodtsov-cyr">кусыԋччӧмӧн</l_var>
+  <stg>
+<st Contlex="GER_">кусыньтчӧмӧн</st></stg>
    </lg>
    <mg relId="0">
      <tg xml:lang="rus">
@@ -2680,6 +2986,8 @@
    <lg t1="К" t2="У" t3="Т" uri="25912-kutkyrtch-m-n" id="25912">
      <l pos="Ger" type="OMON">куткыртчӧмӧн</l>
        <l_var type="molodtsov-cyr">куткырччӧмӧн</l_var>
+  <stg>
+<st Contlex="GER_">куткыртчӧмӧн</st></stg>
    </lg>
    <mg relId="0">
      <tg xml:lang="rus">
@@ -2695,6 +3003,8 @@
    <lg t1="К" t2="У" t3="Т" uri="25953-kutchys-t-g" id="25953">
      <l pos="Ger" type="TOG">кутчысьтӧг</l>
        <l_var type="molodtsov-cyr">куччыԍтӧг</l_var>
+  <stg>
+<st Contlex="GER_">кутчысьтӧг</st></stg>
    </lg>
    <mg relId="0">
      <tg xml:lang="rus">
@@ -2714,6 +3024,8 @@
    <lg t1="К" t2="У" t3="Т" uri="25952-kutchys-m-n" id="25952">
      <l pos="Ger" type="OMON">кутчысьӧмӧн</l>
        <l_var type="molodtsov-cyr">куччыԍӧмӧн</l_var>
+  <stg>
+<st Contlex="GER_">кутчысьӧмӧн</st></stg>
    </lg>
    <mg relId="0">
      <tg xml:lang="rus">
@@ -2746,6 +3058,8 @@
    <lg t1="К" t2="У" t3="Ч" uri="26042-kuchkal-m-n" id="26042">
      <l pos="Ger" type="OMON">кучкалӧмӧн</l>
        <l_var type="molodtsov-cyr">кучкалӧмӧн</l_var>
+  <stg>
+<st Contlex="GER_">кучкалӧмӧн</st></stg>
    </lg>
    <mg relId="0">
      <tg xml:lang="rus">
@@ -2761,6 +3075,8 @@
    <lg t1="К" t2="Ы" t3="В" uri="26194-kyvzys-t-g" id="26194">
      <l pos="Ger" type="TOG">кывзысьтӧг</l>
        <l_var type="molodtsov-cyr">кывзыԍтӧг</l_var>
+  <stg>
+<st Contlex="GER_">кывзысьтӧг</st></stg>
    </lg>
    <mg relId="0">
      <tg xml:lang="rus">
@@ -2781,6 +3097,8 @@
    <lg t1="К" t2="Ы" t3="В" uri="26191-kyvzys-m-n" id="26191">
      <l pos="Ger" type="OMON">кывзысьӧмӧн</l>
        <l_var type="molodtsov-cyr">кывзыԍӧмӧн</l_var>
+  <stg>
+<st Contlex="GER_">кывзысьӧмӧн</st></stg>
    </lg>
    <mg relId="0">
      <tg xml:lang="rus">
@@ -2805,6 +3123,8 @@
    <lg t1="К" t2="Ы" t3="В" uri="26224-kyvkutt-g" id="26224">
      <l pos="Ger" type="TOG">кывкуттӧг</l>
        <l_var type="molodtsov-cyr">кывкуттӧг</l_var>
+  <stg>
+<st Contlex="GER_">кывкуттӧг</st></stg>
    </lg>
    <mg relId="0">
      <tg xml:lang="rus">
@@ -2820,6 +3140,8 @@
    <lg t1="К" t2="Ы" t3="В" uri="26262-kyvm-n" id="26262">
      <l pos="Ger" type="MON">кывмӧн</l>
        <l_var type="molodtsov-cyr">кывмӧн</l_var>
+  <stg>
+<st Contlex="GER_">кывмӧн</st></stg>
    </lg>
    <mg relId="0"><strong>кывмӧн, кывмӧнъя</strong><br/>
      <tg xml:lang="rus">
@@ -2860,6 +3182,8 @@
    <lg t1="К" t2="Ы" t3="Л" uri="26654-kyl-dch-m-n" id="26654">
      <l pos="Ger" type="OMON">кылӧдчӧмӧн</l>
        <l_var type="molodtsov-cyr">кылӧччӧмӧн</l_var>
+  <stg>
+<st Contlex="GER_">кылӧдчӧмӧн</st></stg>
    </lg>
    <mg relId="0">
      <tg xml:lang="rus">
@@ -2875,6 +3199,8 @@
    <lg t1="К" t2="Ы" t3="Л" uri="26668-kyl-n-vom-n" id="26668">
      <l pos="Ger" type="MON">кылӧн-вомӧн</l>
        <l_var type="molodtsov-cyr">кылӧн-вомӧн</l_var>
+  <stg>
+<st Contlex="GER_">кылӧн-вомӧн</st></stg>
    </lg>
    <mg relId="0">
      <tg xml:lang="rus">
@@ -2894,6 +3220,8 @@
    <lg t1="К" t2="Ы" t3="Н" uri="26774-kynmyt-dz" id="26774">
      <l pos="Ger" type="TODZ">кынмытӧдз</l>
        <l_var type="molodtsov-cyr">кынмытӧԇ</l_var>
+  <stg>
+<st Contlex="GER_">кынмытӧдз</st></stg>
    </lg>
    <mg relId="0">
      <tg xml:lang="rus">
@@ -2909,6 +3237,8 @@
    <lg t1="К" t2="Ы" t3="Н" uri="26819-kyn-ks-d-m-n" id="26819">
      <l pos="Ger" type="OMON">кыньксьӧдӧмӧн</l>
        <l_var type="molodtsov-cyr">кыԋкԍӧԁӧмӧн</l_var>
+  <stg>
+<st Contlex="GER_">кыньксьӧдӧмӧн</st></stg>
    </lg>
    <mg relId="0">
      <tg xml:lang="rus">
@@ -2924,6 +3254,8 @@
    <lg t1="К" t2="Ы" t3="П" uri="26859-kypmun-m-n" id="26859">
      <l pos="Ger" type="OMON">кыпмунӧмӧн</l>
        <l_var type="molodtsov-cyr">кыпмунӧмӧн</l_var>
+  <stg>
+<st Contlex="GER_">кыпмунӧмӧн</st></stg>
    </lg>
    <mg relId="0">
      <tg xml:lang="rus">
@@ -2939,6 +3271,8 @@
    <lg t1="К" t2="Ы" t3="С" uri="27058-kyskas-m-n" id="27058">
      <l pos="Ger" type="OMON">кыскасьӧмӧн</l>
        <l_var type="molodtsov-cyr">кыскаԍӧмӧн</l_var>
+  <stg>
+<st Contlex="GER_">кыскасьӧмӧн</st></stg>
    </lg>
    <mg relId="0">
      <tg xml:lang="rus">
@@ -2963,6 +3297,8 @@
    <lg t1="К" t2="Ы" t3="С" uri="27071-kyskym-n" id="27071">
      <l pos="Ger" type="MON">кыскымӧн</l>
        <l_var type="molodtsov-cyr">кыскымӧн</l_var>
+  <stg>
+<st Contlex="GER_">кыскымӧн</st></stg>
    </lg>
    <mg relId="0">
      <tg xml:lang="rus">
@@ -2990,6 +3326,8 @@
    <lg t1="К" t2="Ы" t3="С" uri="27089-kyskyshtm-n" id="27089">
      <l pos="Ger" type="MON">кыскыштмӧн</l>
        <l_var type="molodtsov-cyr">кыскыштмӧн</l_var>
+  <stg>
+<st Contlex="GER_">кыскыштмӧн</st></stg>
    </lg>
    <mg relId="0">
      <tg xml:lang="rus">
@@ -3001,6 +3339,8 @@
    <lg t1="К" t2="Ы" t3="С" uri="27070-kysk-m-n" id="27070">
      <l pos="Ger" type="OMON">кыскӧмӧн</l>
        <l_var type="molodtsov-cyr">кыскӧмӧн</l_var>
+  <stg>
+<st Contlex="GER_">кыскӧмӧн</st></stg>
    </lg>
    <mg relId="0">
      <tg xml:lang="rus">
@@ -3016,6 +3356,8 @@
    <lg t1="К" t2="Ы" t3="Т" uri="27195-kytshlavt-g" id="27195">
      <l pos="Ger" type="TOG">кытшлавтӧг</l>
        <l_var type="molodtsov-cyr">кыщлавтӧг</l_var>
+  <stg>
+<st Contlex="GER_">кытшлавтӧг</st></stg>
    </lg>
    <mg relId="0">
      <tg xml:lang="rus">
@@ -3031,6 +3373,8 @@
    <lg t1="К" t2="Ы" t3="Т" uri="27199-kytshlal-m-n" id="27199">
      <l pos="Ger" type="OMON">кытшлалӧмӧн</l>
        <l_var type="molodtsov-cyr">кыщлалӧмӧн</l_var>
+  <stg>
+<st Contlex="GER_">кытшлалӧмӧн</st></stg>
    </lg>
    <mg relId="0">
      <tg xml:lang="rus">
@@ -3055,6 +3399,8 @@
    <lg t1="К" t2="Ы" t3="Т" uri="27210-kytshl-dlyt-g" id="27210">
      <l pos="Ger" type="TOG">кытшлӧдлытӧг</l>
        <l_var type="molodtsov-cyr">кыщлӧԁлытӧг</l_var>
+  <stg>
+<st Contlex="GER_">кытшлӧдлытӧг</st></stg>
    </lg>
    <mg relId="0">
      <tg xml:lang="rus">
@@ -3070,6 +3416,8 @@
    <lg t1="К" t2="Ы" t3="Т" uri="27208-kytshl-dl-m-n" id="27208">
      <l pos="Ger" type="OMON">кытшлӧдлӧмӧн</l>
        <l_var type="molodtsov-cyr">кыщлӧԁлӧмӧн</l_var>
+  <stg>
+<st Contlex="GER_">кытшлӧдлӧмӧн</st></stg>
    </lg>
    <mg relId="0">
      <tg xml:lang="rus">
@@ -3094,6 +3442,8 @@
    <lg t1="К" t2="Ы" t3="Т" uri="27232-kytshovt-m-n" id="27232">
      <l pos="Ger" type="OMON">кытшовтӧмӧн</l>
        <l_var type="molodtsov-cyr">кыщовтӧмӧн</l_var>
+  <stg>
+<st Contlex="GER_">кытшовтӧмӧн</st></stg>
    </lg>
    <mg relId="0">
      <tg xml:lang="rus">
@@ -3122,6 +3472,8 @@
    <lg t1="К" t2="Ӧ" t3="В" uri="23719-k-vknit-m-n" id="23719">
      <l pos="Ger" type="OMON">кӧвкнитӧмӧн</l>
        <l_var type="molodtsov-cyr">кӧвкԋітӧмӧн</l_var>
+  <stg>
+<st Contlex="GER_">кӧвкнитӧмӧн</st></stg>
    </lg>
    <mg relId="0">
      <tg xml:lang="rus">
@@ -3137,6 +3489,8 @@
    <lg t1="Л" t2="А" t3="Д" uri="27448-ladt-g" id="27448">
      <l pos="Ger" type="TOG">ладтӧг</l>
        <l_var type="molodtsov-cyr">латтӧг</l_var>
+  <stg>
+<st Contlex="GER_">ладтӧг</st></stg>
    </lg>
    <mg relId="0">
      <tg xml:lang="rus">
@@ -3152,6 +3506,8 @@
    <lg t1="Л" t2="А" t3="Н" uri="27660-lan-t-m-n" id="27660">
      <l pos="Ger" type="OMON">ланьтӧмӧн</l>
        <l_var type="molodtsov-cyr">лаԋтӧмӧн</l_var>
+  <stg>
+<st Contlex="GER_">ланьтӧмӧн</st></stg>
    </lg>
    <mg relId="0">
      <tg xml:lang="rus">
@@ -3175,6 +3531,8 @@
    <lg t1="Л" t2="И" t3="Ч" uri="28473-lichledzlyt-g" id="28473">
      <l pos="Ger" type="TOG">личлэдзлытӧг</l>
        <l_var type="molodtsov-cyr">ԉічлеԇлытӧг</l_var>
+  <stg>
+<st Contlex="GER_">личлэдзлытӧг</st></stg>
    </lg>
    <mg relId="0">
      <tg xml:lang="rus">
@@ -3202,6 +3560,8 @@
    <lg t1="Л" t2="И" t3="Ч" uri="28484-lichledzchys-m-n" id="28484">
      <l pos="Ger" type="OMON">личлэдзчысьӧмӧн</l>
        <l_var type="molodtsov-cyr">ԉічлеччыԍӧмӧн</l_var>
+  <stg>
+<st Contlex="GER_">личлэдзчысьӧмӧн</st></stg>
    </lg>
    <mg relId="0">
      <tg xml:lang="rus">
@@ -3213,6 +3573,8 @@
    <lg t1="Л" t2="И" t3="Ш" uri="28509-lishavm-n" id="28509">
      <l pos="Ger" type="MON">лишавмӧн</l>
        <l_var type="molodtsov-cyr">ԉішавмӧн</l_var>
+  <stg>
+<st Contlex="GER_">лишавмӧн</st></stg>
    </lg>
    <mg relId="0">
      <tg xml:lang="rus">
@@ -3228,6 +3590,8 @@
    <lg t1="Л" t2="О" t3="М" uri="28723-lomtym-n" id="28723">
      <l pos="Ger" type="MON">ломтымӧн</l>
        <l_var type="molodtsov-cyr">ломтымӧн</l_var>
+  <stg>
+<st Contlex="GER_">ломтымӧн</st></stg>
    </lg>
    <mg relId="0"> <sg><s s_type="see">ломтысьмӧн</s></sg>
      <tg xml:lang="rus">
@@ -3239,6 +3603,8 @@
    <lg t1="Л" t2="О" t3="М" uri="28730-lomtys-m-n" id="28730">
      <l pos="Ger" type="OMON">ломтысьмӧн</l>
        <l_var type="molodtsov-cyr">ломтыԍмӧн</l_var>
+  <stg>
+<st Contlex="GER_">ломтысьмӧн</st></stg>
    </lg>
    <mg relId="0">
      <tg xml:lang="rus">
@@ -3258,6 +3624,8 @@
    <lg t1="Л" t2="Ы" t3="Й" uri="29509-lyijm-n" id="29509">
      <l pos="Ger" type="MON">лыймӧн</l>
        <l_var type="molodtsov-cyr">лыјмӧн</l_var>
+  <stg>
+<st Contlex="GER_">лыймӧн</st></stg>
    </lg>
    <mg relId="0">
      <tg xml:lang="rus">
@@ -3281,6 +3649,8 @@
    <lg t1="Л" t2="Э" t3="Д" uri="29765-ledzal-m-n" id="29765">
      <l pos="Ger" type="OMON">лэдзалӧмӧн</l>
        <l_var type="molodtsov-cyr">леԇалӧмӧн</l_var>
+  <stg>
+<st Contlex="GER_">лэдзалӧмӧн</st></stg>
    </lg>
    <mg relId="0">
      <tg xml:lang="rus">
@@ -3296,6 +3666,8 @@
    <lg t1="Л" t2="Э" t3="Д" uri="29790-ledzchys-lyt-g" id="29790">
      <l pos="Ger" type="TOG">лэдзчысьлытӧг</l>
        <l_var type="molodtsov-cyr">леччыԍлытӧг</l_var>
+  <stg>
+<st Contlex="GER_">лэдзчысьлытӧг</st></stg>
    </lg>
    <mg relId="0">
      <tg xml:lang="rus">
@@ -3307,6 +3679,8 @@
    <lg t1="Л" t2="Э" t3="Д" uri="29781-ledz-m-n" id="29781">
      <l pos="Ger" type="OMON">лэдзӧмӧн</l>
        <l_var type="molodtsov-cyr">леԇӧмӧн</l_var>
+  <stg>
+<st Contlex="GER_">лэдзӧмӧн</st></stg>
    </lg>
    <mg relId="0">
      <tg xml:lang="rus">
@@ -3334,6 +3708,8 @@
    <lg t1="Л" t2="Э" t3="Ч" uri="29905-lechch-dm-n" id="29905">
      <l pos="Ger" type="MON">лэччӧдмӧн</l>
        <l_var type="molodtsov-cyr">леччӧԁмӧн</l_var>
+  <stg>
+<st Contlex="GER_">лэччӧдмӧн</st></stg>
    </lg>
    <mg relId="0">
      <tg xml:lang="rus">
@@ -3353,6 +3729,8 @@
    <lg t1="Л" t2="Ё" t3="Т" uri="28231-lyotavt-dz" id="28231">
      <l pos="Ger" type="TODZ">лётавтӧдз</l>
        <l_var type="molodtsov-cyr">ԉотавтӧԇ</l_var>
+  <stg>
+<st Contlex="GER_">лётавтӧдз</st></stg>
    </lg>
    <mg relId="0">
      <tg xml:lang="rus">
@@ -3368,6 +3746,8 @@
    <lg t1="Л" t2="Ӧ" t3="З" uri="28947-l-z-dt-dz" id="28947">
      <l pos="Ger" type="TODZ">лӧзӧдтӧдз</l>
        <l_var type="molodtsov-cyr">лӧзӧттӧԇ</l_var>
+  <stg>
+<st Contlex="GER_">лӧзӧдтӧдз</st></stg>
    </lg>
    <mg relId="0">
      <tg xml:lang="rus">
@@ -3387,6 +3767,8 @@
    <lg t1="Л" t2="Ӧ" t3="С" uri="29114-l-s-dchyt-g" id="29114">
      <l pos="Ger" type="TOG">лӧсьӧдчытӧг</l>
        <l_var type="molodtsov-cyr">лӧԍӧччытӧг</l_var>
+  <stg>
+<st Contlex="GER_">лӧсьӧдчытӧг</st></stg>
    </lg>
    <mg relId="0">
      <tg xml:lang="rus">
@@ -3398,6 +3780,8 @@
    <lg t1="Л" t2="Ӧ" t3="С" uri="29108-l-s-dch-m-n" id="29108">
      <l pos="Ger" type="OMON">лӧсьӧдчӧмӧн</l>
        <l_var type="molodtsov-cyr">лӧԍӧччӧмӧн</l_var>
+  <stg>
+<st Contlex="GER_">лӧсьӧдчӧмӧн</st></stg>
    </lg>
    <mg relId="0">
      <tg xml:lang="rus">
@@ -3413,6 +3797,8 @@
    <lg t1="Л" t2="Ӧ" t3="С" uri="29150-l-syavt-g" id="29150">
      <l pos="Ger" type="TOG">лӧсявтӧг</l>
        <l_var type="molodtsov-cyr">лӧԍавтӧг</l_var>
+  <stg>
+<st Contlex="GER_">лӧсявтӧг</st></stg>
    </lg>
    <mg relId="0">
      <tg xml:lang="rus">
@@ -3428,6 +3814,8 @@
    <lg t1="М" t2="А" t3="Й" uri="30491-maijt-g" id="30491">
      <l pos="Ger" type="TOG">майтӧг</l>
        <l_var type="molodtsov-cyr">мајтӧг</l_var>
+  <stg>
+<st Contlex="GER_">майтӧг</st></stg>
    </lg>
    <mg relId="0">
      <tg xml:lang="rus">
@@ -3479,6 +3867,8 @@
    <lg t1="М" t2="Е" t3="Д" uri="31199-medt-g" id="31199">
      <l pos="Ger" type="TOG">медтӧг</l>
        <l_var type="molodtsov-cyr">меттӧг</l_var>
+  <stg>
+<st Contlex="GER_">медтӧг</st></stg>
    </lg>
    <mg relId="0">
      <tg xml:lang="rus">
@@ -3494,6 +3884,8 @@
    <lg t1="М" t2="Е" t3="Н" uri="31372-menamt-g" id="31372">
      <l pos="Ger" type="TOG">менамтӧг</l>
        <l_var type="molodtsov-cyr">менамтӧг</l_var>
+  <stg>
+<st Contlex="GER_">менамтӧг</st></stg>
    </lg>
    <mg relId="0"> <sg><s s_type="see">метӧг</s></sg>
      <tg xml:lang="rus">
@@ -3505,6 +3897,8 @@
    <lg t1="М" t2="Е" t3="Т" uri="31492-met-g" id="31492">
      <l pos="Ger" type="TOG">метӧг</l>
        <l_var type="molodtsov-cyr">метӧг</l_var>
+  <stg>
+<st Contlex="GER_">метӧг</st></stg>
    </lg>
    <mg relId="0">
      <tg xml:lang="rus">
@@ -3520,6 +3914,8 @@
    <lg t1="М" t2="И" t3="Т" uri="31710-mit-g" id="31710">
      <l pos="Ger" type="TOG">митӧг</l>
        <l_var type="molodtsov-cyr">мітӧг</l_var>
+  <stg>
+<st Contlex="GER_">митӧг</st></stg>
    </lg>
    <mg relId="0"> <sg><s s_type="see">миянтӧг</s></sg>
      <tg xml:lang="rus">
@@ -3535,6 +3931,8 @@
    <lg t1="М" t2="И" t3="Я" uri="31805-miyant-g" id="31805">
      <l pos="Ger" type="TOG">миянтӧг</l>
        <l_var type="molodtsov-cyr">міјантӧг</l_var>
+  <stg>
+<st Contlex="GER_">миянтӧг</st></stg>
    </lg>
    <mg relId="0">
      <tg xml:lang="rus">
@@ -3550,6 +3948,8 @@
    <lg t1="М" t2="У" t3="Д" uri="32409-mudzlyt-g" id="32409">
      <l pos="Ger" type="TOG">мудзлытӧг</l>
        <l_var type="molodtsov-cyr">муԇлытӧг</l_var>
+  <stg>
+<st Contlex="GER_">мудзлытӧг</st></stg>
    </lg>
    <mg relId="0">
      <tg xml:lang="rus">
@@ -3569,6 +3969,8 @@
    <lg t1="М" t2="У" t3="Д" uri="32432-mudzt-dz" id="32432">
      <l pos="Ger" type="TODZ">мудзтӧдз</l>
        <l_var type="molodtsov-cyr">мучтӧԇ</l_var>
+  <stg>
+<st Contlex="GER_">мудзтӧдз</st></stg>
    </lg>
    <mg relId="0">
      <tg xml:lang="rus">
@@ -3584,6 +3986,8 @@
    <lg t1="М" t2="Ы" t3="Ж" uri="32975-myzhmyt-g" id="32975">
      <l pos="Ger" type="TOG">мыжмытӧг</l>
        <l_var type="molodtsov-cyr">мыжмытӧг</l_var>
+  <stg>
+<st Contlex="GER_">мыжмытӧг</st></stg>
    </lg>
    <mg relId="0">
      <tg xml:lang="rus">
@@ -3599,6 +4003,8 @@
    <lg t1="М" t2="Ы" t3="Ж" uri="32981-myzht-g" id="32981">
      <l pos="Ger" type="TOG">мыжтӧг</l>
        <l_var type="molodtsov-cyr">мыжтӧг</l_var>
+  <stg>
+<st Contlex="GER_">мыжтӧг</st></stg>
    </lg>
    <mg relId="0">
      <tg xml:lang="rus">
@@ -3614,6 +4020,8 @@
    <lg t1="М" t2="Ы" t3="Н" uri="33149-myntys-t-g" id="33149">
      <l pos="Ger" type="TOG">мынтысьтӧг</l>
        <l_var type="molodtsov-cyr">мынтыԍтӧг</l_var>
+  <stg>
+<st Contlex="GER_">мынтысьтӧг</st></stg>
    </lg>
    <mg relId="0">
      <tg xml:lang="rus">
@@ -3625,6 +4033,8 @@
    <lg t1="М" t2="Ы" t3="Т" uri="33292-mytsavm-n" id="33292">
      <l pos="Ger" type="MON">мытсавмӧн</l>
        <l_var type="molodtsov-cyr">мытсавмӧн</l_var>
+  <stg>
+<st Contlex="GER_">мытсавмӧн</st></stg>
    </lg>
    <mg relId="0">
      <tg xml:lang="rus">
@@ -3648,6 +4058,8 @@
    <lg t1="М" t2="Ы" t3="Т" uri="33295-mytsavt-dz" id="33295">
      <l pos="Ger" type="TODZ">мытсавтӧдз</l>
        <l_var type="molodtsov-cyr">мытсавтӧԇ</l_var>
+  <stg>
+<st Contlex="GER_">мытсавтӧдз</st></stg>
    </lg>
    <mg relId="0"> <sg><s s_type="see">мытсавмӧн</s></sg>
      <tg xml:lang="rus">
@@ -3659,6 +4071,8 @@
    <lg t1="Н" t2="А" t3="Т" uri="33789-nat-g" id="33789">
      <l pos="Ger" type="TOG">натӧг</l>
        <l_var type="molodtsov-cyr">натӧг</l_var>
+  <stg>
+<st Contlex="GER_">натӧг</st></stg>
    </lg>
    <mg relId="0">
      <tg xml:lang="rus">
@@ -3674,6 +4088,8 @@
    <lg t1="Н" t2="Е" t3="Т" uri="34249-netshkys-m-n" id="34249">
      <l pos="Ger" type="OMON">нетшкысьӧмӧн</l>
        <l_var type="molodtsov-cyr">ԋещкыԍӧмӧн</l_var>
+  <stg>
+<st Contlex="GER_">нетшкысьӧмӧн</st></stg>
    </lg>
    <mg relId="0">
      <tg xml:lang="rus">
@@ -3689,6 +4105,8 @@
    <lg t1="Н" t2="Е" t3="Т" uri="34256-netshysht-m-n" id="34256">
      <l pos="Ger" type="OMON">нетшыштӧмӧн</l>
        <l_var type="molodtsov-cyr">ԋещыштӧмӧн</l_var>
+  <stg>
+<st Contlex="GER_">нетшыштӧмӧн</st></stg>
    </lg>
    <mg relId="0">
      <tg xml:lang="rus">
@@ -3704,6 +4122,8 @@
    <lg t1="Н" t2="О" t3="В" uri="34742-novl-dl-m-n" id="34742">
      <l pos="Ger" type="OMON">новлӧдлӧмӧн</l>
        <l_var type="molodtsov-cyr">новлӧԁлӧмӧн</l_var>
+  <stg>
+<st Contlex="GER_">новлӧдлӧмӧн</st></stg>
    </lg>
    <mg relId="0">
      <tg xml:lang="rus">
@@ -3719,6 +4139,8 @@
    <lg t1="Н" t2="О" t3="Р" uri="34883-noras-t-g" id="34883">
      <l pos="Ger" type="TOG">норасьтӧг</l>
        <l_var type="molodtsov-cyr">нораԍтӧг</l_var>
+  <stg>
+<st Contlex="GER_">норасьтӧг</st></stg>
    </lg>
    <mg relId="0">
      <tg xml:lang="rus">
@@ -3734,6 +4156,8 @@
    <lg t1="Н" t2="У" t3="М" uri="35081-num-n" id="35081">
      <l pos="Ger" type="MON">нумӧн</l>
        <l_var type="molodtsov-cyr">нумӧн</l_var>
+  <stg>
+<st Contlex="GER_">нумӧн</st></stg>
    </lg>
    <mg relId="0">
      <tg xml:lang="rus">
@@ -3757,6 +4181,8 @@
    <lg t1="Н" t2="Ы" t3="М" uri="35232-nym-n" id="35232">
      <l pos="Ger" type="MON">нымӧн</l>
        <l_var type="molodtsov-cyr">нымӧн</l_var>
+  <stg>
+<st Contlex="GER_">нымӧн</st></stg>
    </lg>
    <mg relId="0">
      <tg xml:lang="rus">
@@ -3803,6 +4229,8 @@
    <lg t1="Н" t2="Ы" t3="Р" uri="35354-nyrchch-m-n" id="35354">
      <l pos="Ger" type="OMON">нырччӧмӧн</l>
        <l_var type="molodtsov-cyr">нырччӧмӧн</l_var>
+  <stg>
+<st Contlex="GER_">нырччӧмӧн</st></stg>
    </lg>
    <mg relId="0">
      <tg xml:lang="rus">
@@ -3814,6 +4242,8 @@
    <lg t1="Н" t2="Э" t3="М" uri="35540-nem-n" id="35540">
      <l pos="Ger" type="MON">нэмӧн</l>
        <l_var type="molodtsov-cyr">немӧн</l_var>
+  <stg>
+<st Contlex="GER_">нэмӧн</st></stg>
    </lg>
    <mg relId="0">
      <tg xml:lang="rus">
@@ -3833,6 +4263,8 @@
    <lg t1="Н" t2="Ю" t3="Р" uri="35846-nyurkij-dl-m-n" id="35846">
      <l pos="Ger" type="OMON">нюркйӧдлӧмӧн</l>
        <l_var type="molodtsov-cyr">ԋуркјӧԁлӧмӧн</l_var>
+  <stg>
+<st Contlex="GER_">нюркйӧдлӧмӧн</st></stg>
    </lg>
    <mg relId="0">
      <tg xml:lang="rus">
@@ -3848,6 +4280,8 @@
    <lg t1="П" t2="А" t3="Д" uri="38524-pad-yavt-g" id="38524">
      <l pos="Ger" type="TOG">падъявтӧг</l>
        <l_var type="molodtsov-cyr">паԁјавтӧг</l_var>
+  <stg>
+<st Contlex="GER_">падъявтӧг</st></stg>
    </lg>
    <mg relId="0">
      <tg xml:lang="rus">
@@ -3863,6 +4297,8 @@
    <lg t1="П" t2="А" t3="Н" uri="38817-pan-yshtm-n" id="38817">
      <l pos="Ger" type="MON">паньыштмӧн</l>
        <l_var type="molodtsov-cyr">паԋыштмӧн</l_var>
+  <stg>
+<st Contlex="GER_">паньыштмӧн</st></stg>
    </lg>
    <mg relId="0">
      <tg xml:lang="rus">
@@ -3878,6 +4314,8 @@
    <lg t1="П" t2="А" t3="С" uri="39166-pas-t-g" id="39166">
      <l pos="Ger" type="TOG">пасьтӧг</l>
        <l_var type="molodtsov-cyr">паԍтӧг</l_var>
+  <stg>
+<st Contlex="GER_">пасьтӧг</st></stg>
    </lg>
    <mg relId="0">
      <tg xml:lang="rus">
@@ -3914,6 +4352,8 @@
    <lg t1="П" t2="Е" t3="М" uri="39556-pemdyt-dz" id="39556">
      <l pos="Ger" type="TODZ">пемдытӧдз</l>
        <l_var type="molodtsov-cyr">пемԁытӧԇ</l_var>
+  <stg>
+<st Contlex="GER_">пемдытӧдз</st></stg>
    </lg>
    <mg relId="0"> <sg><s s_type="see">пемыдӧдз</s></sg>
      <tg xml:lang="rus">
@@ -3925,6 +4365,8 @@
    <lg t1="П" t2="Е" t3="Т" uri="39924-petk-dl-m-n" id="39924">
      <l pos="Ger" type="OMON">петкӧдлӧмӧн</l>
        <l_var type="molodtsov-cyr">петкӧԁлӧмӧн</l_var>
+  <stg>
+<st Contlex="GER_">петкӧдлӧмӧн</st></stg>
    </lg>
    <mg relId="0">
      <tg xml:lang="rus">
@@ -3936,6 +4378,8 @@
    <lg t1="П" t2="Е" t3="Т" uri="39947-petm-n" id="39947">
      <l pos="Ger" type="MON">петмӧн</l>
        <l_var type="molodtsov-cyr">петмӧн</l_var>
+  <stg>
+<st Contlex="GER_">петмӧн</st></stg>
    </lg>
    <mg relId="0">
      <tg xml:lang="rus">
@@ -4000,6 +4444,8 @@
    <lg t1="П" t2="О" t3="В" uri="40598-povz-ym-n" id="40598">
      <l pos="Ger" type="MON">повзьымӧн</l>
        <l_var type="molodtsov-cyr">повԅымӧн</l_var>
+  <stg>
+<st Contlex="GER_">повзьымӧн</st></stg>
    </lg>
    <mg relId="0">
      <tg xml:lang="rus">
@@ -4023,6 +4469,8 @@
    <lg t1="П" t2="О" t3="В" uri="40634-povt-g" id="40634">
      <l pos="Ger" type="TOG">повтӧг</l>
        <l_var type="molodtsov-cyr">повтӧг</l_var>
+  <stg>
+<st Contlex="GER_">повтӧг</st></stg>
    </lg>
    <mg relId="0">
      <tg xml:lang="rus">
@@ -4046,6 +4494,8 @@
    <lg t1="П" t2="О" t3="Д" uri="40764-poduvt-g" id="40764">
      <l pos="Ger" type="TOG">подувтӧг</l>
        <l_var type="molodtsov-cyr">поԁувтӧг</l_var>
+  <stg>
+<st Contlex="GER_">подувтӧг</st></stg>
    </lg>
    <mg relId="0">
      <tg xml:lang="rus">
@@ -4065,6 +4515,8 @@
    <lg t1="П" t2="О" t3="Л" uri="40983-pol-m-n" id="40983">
      <l pos="Ger" type="OMON">полӧмӧн</l>
        <l_var type="molodtsov-cyr">полӧмӧн</l_var>
+  <stg>
+<st Contlex="GER_">полӧмӧн</st></stg>
    </lg>
    <mg relId="0">
      <tg xml:lang="rus">
@@ -4080,6 +4532,8 @@
    <lg t1="П" t2="О" t3="М" uri="41064-pomas-lyt-g" id="41064">
      <l pos="Ger" type="TOG">помасьлытӧг</l>
        <l_var type="molodtsov-cyr">помаԍлытӧг</l_var>
+  <stg>
+<st Contlex="GER_">помасьлытӧг</st></stg>
    </lg>
    <mg relId="0">
      <tg xml:lang="rus">
@@ -4095,6 +4549,8 @@
    <lg t1="П" t2="У" t3="М" uri="43340-pum-n" id="43340">
      <l pos="Ger" type="MON">пумӧн</l>
        <l_var type="molodtsov-cyr">пумӧн</l_var>
+  <stg>
+<st Contlex="GER_">пумӧн</st></stg>
    </lg>
    <mg relId="0">
      <tg xml:lang="rus">
@@ -4118,6 +4574,8 @@
    <lg t1="П" t2="Ӧ" t3="Ж" uri="41731-p-zhas-m-n" id="41731">
      <l pos="Ger" type="OMON">пӧжасьмӧн</l>
        <l_var type="molodtsov-cyr">пӧжаԍмӧн</l_var>
+  <stg>
+<st Contlex="GER_">пӧжасьмӧн</st></stg>
    </lg>
    <mg relId="0">
      <tg xml:lang="rus">
@@ -4137,6 +4595,8 @@
    <lg t1="П" t2="Ӧ" t3="Р" uri="41978-p-rat-g-kadt-g" id="41978">
      <l pos="Ger" type="TOG">пӧратӧг-кадтӧг</l>
        <l_var type="molodtsov-cyr">пӧратӧг-каттӧг</l_var>
+  <stg>
+<st Contlex="GER_">пӧратӧг-кадтӧг</st></stg>
    </lg>
    <mg relId="0">
      <tg xml:lang="rus">
@@ -4156,6 +4616,8 @@
    <lg t1="П" t2="Ӧ" t3="С" uri="42170-p-syavm-n" id="42170">
      <l pos="Ger" type="MON">пӧсявмӧн</l>
        <l_var type="molodtsov-cyr">пӧԍавмӧн</l_var>
+  <stg>
+<st Contlex="GER_">пӧсявмӧн</st></stg>
    </lg>
    <mg relId="0">
      <tg xml:lang="rus">
@@ -4171,6 +4633,8 @@
    <lg t1="П" t2="Ӧ" t3="Т" uri="42213-p-tm-n" id="42213">
      <l pos="Ger" type="MON">пӧтмӧн</l>
        <l_var type="molodtsov-cyr">пӧтмӧн</l_var>
+  <stg>
+<st Contlex="GER_">пӧтмӧн</st></stg>
    </lg>
    <mg relId="0">
      <tg xml:lang="rus">
@@ -4198,6 +4662,8 @@
    <lg t1="П" t2="Ӧ" t3="Т" uri="42237-p-tt-dz" id="42237">
      <l pos="Ger" type="TODZ">пӧттӧдз</l>
        <l_var type="molodtsov-cyr">пӧттӧԇ</l_var>
+  <stg>
+<st Contlex="GER_">пӧттӧдз</st></stg>
    </lg>
    <mg relId="0"> <sg><s s_type="see">пӧтмӧн</s></sg>
      <tg xml:lang="rus">
@@ -4209,6 +4675,8 @@
    <lg t1="П" t2="Ӧ" t3="Щ" uri="42271-p-schadat-g" id="42271">
      <l pos="Ger" type="TOG">пӧщадатӧг</l>
        <l_var type="molodtsov-cyr">пӧшшаԁатӧг</l_var>
+  <stg>
+<st Contlex="GER_">пӧщадатӧг</st></stg>
    </lg>
    <mg relId="0">
      <tg xml:lang="rus">
@@ -4224,6 +4692,8 @@
    <lg t1="Р" t2="Ӧ" t3="Д" uri="45513-r-dt-m-n" id="45513">
      <l pos="Ger" type="OMON">рӧдтӧмӧн</l>
        <l_var type="molodtsov-cyr">рӧттӧмӧн</l_var>
+  <stg>
+<st Contlex="GER_">рӧдтӧмӧн</st></stg>
    </lg>
    <mg relId="0"> <sg><s s_type="see">рӧдйӧн</s></sg>
      <tg xml:lang="rus">
@@ -4235,6 +4705,8 @@
    <lg t1="С" t2="А" t3="Д" uri="46202-sad-t-g" id="46202">
      <l pos="Ger" type="TOG">садьтӧг</l>
        <l_var type="molodtsov-cyr">саԃтӧг</l_var>
+  <stg>
+<st Contlex="GER_">садьтӧг</st></stg>
    </lg>
    <mg relId="0">
      <tg xml:lang="rus">
@@ -4268,6 +4740,8 @@
    <lg t1="С" t2="Е" t3="Т" uri="46909-setm-n" id="46909">
      <l pos="Ger" type="MON">сетмӧн</l>
        <l_var type="molodtsov-cyr">ԍетмӧн</l_var>
+  <stg>
+<st Contlex="GER_">сетмӧн</st></stg>
    </lg>
    <mg relId="0">
      <tg xml:lang="rus">
@@ -4287,6 +4761,8 @@
    <lg t1="С" t2="И" t3="З" uri="47304-sizim-n" id="47304">
      <l pos="Ger" type="MON">сизимӧн</l>
        <l_var type="molodtsov-cyr">ԍіԅімӧн</l_var>
+  <stg>
+<st Contlex="GER_">сизимӧн</st></stg>
    </lg>
    <mg relId="0">
      <tg xml:lang="rus">
@@ -4323,6 +4799,8 @@
    <lg t1="С" t2="И" t3="Н" uri="47467-sint-g" id="47467">
      <l pos="Ger" type="TOG">синтӧг</l>
        <l_var type="molodtsov-cyr">ԍінтӧг</l_var>
+  <stg>
+<st Contlex="GER_">синтӧг</st></stg>
    </lg>
    <mg relId="0">
      <tg xml:lang="rus">
@@ -4338,6 +4816,8 @@
    <lg t1="С" t2="У" t3="В" uri="49383-suvtm-n" id="49383">
      <l pos="Ger" type="MON">сувтмӧн</l>
        <l_var type="molodtsov-cyr">сувтмӧн</l_var>
+  <stg>
+<st Contlex="GER_">сувтмӧн</st></stg>
    </lg>
    <mg relId="0">
      <tg xml:lang="rus">
@@ -4353,6 +4833,8 @@
    <lg t1="С" t2="У" t3="Д" uri="49440-sudzm-n" id="49440">
      <l pos="Ger" type="MON">судзмӧн</l>
        <l_var type="molodtsov-cyr">суԇмӧн</l_var>
+  <stg>
+<st Contlex="GER_">судзмӧн</st></stg>
    </lg>
    <mg relId="0">
      <tg xml:lang="rus">
@@ -4385,6 +4867,8 @@
    <lg t1="С" t2="У" t3="Д" uri="49471-sudzs-ym-n" id="49471">
      <l pos="Ger" type="MON">судзсьымӧн</l>
        <l_var type="molodtsov-cyr">сучԍымӧн</l_var>
+  <stg>
+<st Contlex="GER_">судзсьымӧн</st></stg>
    </lg>
    <mg relId="0">
      <tg xml:lang="rus">
@@ -4400,6 +4884,8 @@
    <lg t1="С" t2="У" t3="Д" uri="49465-sudzs-m-n" id="49465">
      <l pos="Ger" type="OMON">судзсьӧмӧн</l>
        <l_var type="molodtsov-cyr">сучԍӧмӧн</l_var>
+  <stg>
+<st Contlex="GER_">судзсьӧмӧн</st></stg>
    </lg>
    <mg relId="0">
      <tg xml:lang="rus">
@@ -4415,6 +4901,8 @@
    <lg t1="С" t2="У" t3="Д" uri="49525-sudt-g-radt-g" id="49525">
      <l pos="Ger" type="TOG">судтӧг-радтӧг</l>
        <l_var type="molodtsov-cyr">суттӧг-раттӧг</l_var>
+  <stg>
+<st Contlex="GER_">судтӧг-радтӧг</st></stg>
    </lg>
    <mg relId="0"><span class="underline">употребляется лишь в составе выражений:</span><br/>
      <xg>
@@ -4427,6 +4915,8 @@
    <lg t1="С" t2="Я" t3="М" uri="50773-syamt-g" id="50773">
      <l pos="Ger" type="TOG">сямтӧг</l>
        <l_var type="molodtsov-cyr">ԍамтӧг</l_var>
+  <stg>
+<st Contlex="GER_">сямтӧг</st></stg>
    </lg>
    <mg relId="0">
      <tg xml:lang="rus">
@@ -4442,6 +4932,8 @@
    <lg t1="С" t2="Я" t3="М" uri="50771-syam-n" id="50771">
      <l pos="Ger" type="MON">сямӧн</l>
        <l_var type="molodtsov-cyr">ԍамӧн</l_var>
+  <stg>
+<st Contlex="GER_">сямӧн</st></stg>
    </lg>
    <mg relId="0">
      <tg xml:lang="rus">
@@ -4473,6 +4965,8 @@
    <lg t1="С" t2="Ё" t3="Й" uri="46951-syoijm-n" id="46951">
      <l pos="Ger" type="MON">сёймӧн</l>
        <l_var type="molodtsov-cyr">ԍојмӧн</l_var>
+  <stg>
+<st Contlex="GER_">сёймӧн</st></stg>
    </lg>
    <mg relId="0">
      <tg xml:lang="rus">
@@ -4488,6 +4982,8 @@
    <lg t1="С" t2="Ё" t3="Ӧ" uri="47018-syo-dm-n" id="47018">
      <l pos="Ger" type="MON">сёӧдмӧн</l>
        <l_var type="molodtsov-cyr">ԍоӧԁмӧн</l_var>
+  <stg>
+<st Contlex="GER_">сёӧдмӧн</st></stg>
    </lg>
    <mg relId="0"> <sg><s s_type="see">сетмӧн</s></sg>
      <tg xml:lang="rus">
@@ -4499,6 +4995,8 @@
    <lg t1="Т" t2="А" t3="П" uri="51136-tapikas-m-n" id="51136">
      <l pos="Ger" type="OMON">тапикасьӧмӧн</l>
        <l_var type="molodtsov-cyr">тапікаԍӧмӧн</l_var>
+  <stg>
+<st Contlex="GER_">тапикасьӧмӧн</st></stg>
    </lg>
    <mg relId="0">
      <tg xml:lang="rus">
@@ -4515,6 +5013,8 @@
    <lg t1="Т" t2="А" t3="Т" uri="51338-tatshk-d-m-n" id="51338">
      <l pos="Ger" type="OMON">татшкӧдӧмӧн</l>
        <l_var type="molodtsov-cyr">тащкӧԁӧмӧн</l_var>
+  <stg>
+<st Contlex="GER_">татшкӧдӧмӧн</st></stg>
    </lg>
    <mg relId="0">
      <tg xml:lang="rus">
@@ -4535,6 +5035,8 @@
    <lg t1="Т" t2="И" t3="Н" uri="51697-tin-gym-n" id="51697">
      <l pos="Ger" type="MON">тиньгымӧн</l>
        <l_var type="molodtsov-cyr">ԏіԋгымӧн</l_var>
+  <stg>
+<st Contlex="GER_">тиньгымӧн</st></stg>
    </lg>
    <mg relId="0"><strong>тиньгымӧн, тиньгытӧдз</strong><br/>
      <tg xml:lang="rus">
@@ -4550,6 +5052,8 @@
    <lg t1="Т" t2="И" t3="Н" uri="51702-tin-gyt-dz" id="51702">
      <l pos="Ger" type="TODZ">тиньгытӧдз</l>
        <l_var type="molodtsov-cyr">ԏіԋгытӧԇ</l_var>
+  <stg>
+<st Contlex="GER_">тиньгытӧдз</st></stg>
    </lg>
    <mg relId="0"><strong>тиньгытӧдз, тиньгымӧн</strong><br/>
      <tg xml:lang="rus">
@@ -4565,6 +5069,8 @@
    <lg t1="Т" t2="О" t3="Д" uri="51983-todmyshkal-m-n" id="51983">
      <l pos="Ger" type="OMON">тодмышкалӧмӧн</l>
        <l_var type="molodtsov-cyr">тоԁмышкалӧмӧн</l_var>
+  <stg>
+<st Contlex="GER_">тодмышкалӧмӧн</st></stg>
    </lg>
    <mg relId="0">
      <tg xml:lang="rus">
@@ -4580,6 +5086,8 @@
    <lg t1="Т" t2="О" t3="Й" uri="52029-toijtmym-n" id="52029">
      <l pos="Ger" type="MON">тойтмымӧн</l>
        <l_var type="molodtsov-cyr">тојтмымӧн</l_var>
+  <stg>
+<st Contlex="GER_">тойтмымӧн</st></stg>
    </lg>
    <mg relId="0"><strong>тойтмымӧн, тойтмытӧдз</strong><br/>
      <tg xml:lang="rus">
@@ -4595,6 +5103,8 @@
    <lg t1="Т" t2="О" t3="Й" uri="52034-toijtmyt-dz" id="52034">
      <l pos="Ger" type="TODZ">тойтмытӧдз</l>
        <l_var type="molodtsov-cyr">тојтмытӧԇ</l_var>
+  <stg>
+<st Contlex="GER_">тойтмытӧдз</st></stg>
    </lg>
    <mg relId="0"><strong>тойтмытӧдз, тойтмымӧн</strong><br/>
      <tg xml:lang="rus">
@@ -4610,6 +5120,8 @@
    <lg t1="Т" t2="О" t3="М" uri="52114-tomlal-m-n" id="52114">
      <l pos="Ger" type="OMON">томлалӧмӧн</l>
        <l_var type="molodtsov-cyr">томлалӧмӧн</l_var>
+  <stg>
+<st Contlex="GER_">томлалӧмӧн</st></stg>
    </lg>
    <mg relId="0">
      <tg xml:lang="rus">
@@ -4625,6 +5137,8 @@
    <lg t1="Т" t2="О" t3="М" uri="52119-tomlas-t-g" id="52119">
      <l pos="Ger" type="TOG">томласьтӧг</l>
        <l_var type="molodtsov-cyr">томлаԍтӧг</l_var>
+  <stg>
+<st Contlex="GER_">томласьтӧг</st></stg>
    </lg>
    <mg relId="0">
      <tg xml:lang="rus">
@@ -4640,6 +5154,8 @@
    <lg t1="Т" t2="О" t3="М" uri="52117-tomlas-m-n" id="52117">
      <l pos="Ger" type="OMON">томласьӧмӧн</l>
        <l_var type="molodtsov-cyr">томлаԍӧмӧн</l_var>
+  <stg>
+<st Contlex="GER_">томласьӧмӧн</st></stg>
    </lg>
    <mg relId="0">
      <tg xml:lang="rus">
@@ -4655,6 +5171,8 @@
    <lg t1="Т" t2="О" t3="П" uri="52229-top-dch-m-n" id="52229">
      <l pos="Ger" type="OMON">топӧдчӧмӧн</l>
        <l_var type="molodtsov-cyr">топӧччӧмӧн</l_var>
+  <stg>
+<st Contlex="GER_">топӧдчӧмӧн</st></stg>
    </lg>
    <mg relId="0">
      <tg xml:lang="rus">
@@ -4679,6 +5197,8 @@
    <lg t1="Т" t2="О" t3="Р" uri="52282-torij-dlyt-g" id="52282">
      <l pos="Ger" type="TOG">торйӧдлытӧг</l>
        <l_var type="molodtsov-cyr">торјӧԁлытӧг</l_var>
+  <stg>
+<st Contlex="GER_">торйӧдлытӧг</st></stg>
    </lg>
    <mg relId="0">
      <tg xml:lang="rus">
@@ -4694,6 +5214,8 @@
    <lg t1="Т" t2="О" t3="Р" uri="52300-torij-dch-m-n" id="52300">
      <l pos="Ger" type="OMON">торйӧдчӧмӧн</l>
        <l_var type="molodtsov-cyr">торјӧччӧмӧн</l_var>
+  <stg>
+<st Contlex="GER_">торйӧдчӧмӧн</st></stg>
    </lg>
    <mg relId="0">
      <tg xml:lang="rus">
@@ -4709,6 +5231,8 @@
    <lg t1="Т" t2="О" t3="Р" uri="52357-torks-yvt-g" id="52357">
      <l pos="Ger" type="TOG">торксьывтӧг</l>
        <l_var type="molodtsov-cyr">торкԍывтӧг</l_var>
+  <stg>
+<st Contlex="GER_">торксьывтӧг</st></stg>
    </lg>
    <mg relId="0">
      <tg xml:lang="rus">
@@ -4728,6 +5252,8 @@
    <lg t1="Т" t2="О" t3="Р" uri="52362-torksyavt-g" id="52362">
      <l pos="Ger" type="TOG">торксявтӧг</l>
        <l_var type="molodtsov-cyr">торкԍавтӧг</l_var>
+  <stg>
+<st Contlex="GER_">торксявтӧг</st></stg>
    </lg>
    <mg relId="0">
      <tg xml:lang="rus">
@@ -4743,6 +5269,8 @@
    <lg t1="Т" t2="О" t3="Р" uri="52366-torksyal-m-n" id="52366">
      <l pos="Ger" type="OMON">торксялӧмӧн</l>
        <l_var type="molodtsov-cyr">торкԍалӧмӧн</l_var>
+  <stg>
+<st Contlex="GER_">торксялӧмӧн</st></stg>
    </lg>
    <mg relId="0">
      <tg xml:lang="rus">
@@ -4758,6 +5286,8 @@
    <lg t1="Т" t2="У" t3="Й" uri="53678-tuijt-g" id="53678">
      <l pos="Ger" type="TOG">туйтӧг</l>
        <l_var type="molodtsov-cyr">тујтӧг</l_var>
+  <stg>
+<st Contlex="GER_">туйтӧг</st></stg>
    </lg>
    <mg relId="0"> <sg><s s_type="see">туйтӧма</s></sg>
      <tg xml:lang="rus">
@@ -4777,6 +5307,8 @@
    <lg t1="Т" t2="У" t3="Р" uri="53931-turbyl-tch-m-n" id="53931">
      <l pos="Ger" type="OMON">турбыльтчӧмӧн</l>
        <l_var type="molodtsov-cyr">турбыԉччӧмӧн</l_var>
+  <stg>
+<st Contlex="GER_">турбыльтчӧмӧн</st></stg>
    </lg>
    <mg relId="0"> <sg><s s_type="see">турбыльӧн</s></sg>
      <tg xml:lang="rus">
@@ -4788,6 +5320,8 @@
    <lg t1="Т" t2="Ш" t3="А" uri="54278-tshapitchyt-g" id="54278">
      <l pos="Ger" type="TOG">тшапитчытӧг</l>
        <l_var type="molodtsov-cyr">щапіччытӧг</l_var>
+  <stg>
+<st Contlex="GER_">тшапитчытӧг</st></stg>
    </lg>
    <mg relId="0">
      <tg xml:lang="rus">
@@ -4803,6 +5337,8 @@
    <lg t1="Т" t2="Ш" t3="Ӧ" uri="54450-tsh-k-yal-m-n" id="54450">
      <l pos="Ger" type="OMON">тшӧкъялӧмӧн</l>
        <l_var type="molodtsov-cyr">щӧкјалӧмӧн</l_var>
+  <stg>
+<st Contlex="GER_">тшӧкъялӧмӧн</st></stg>
    </lg>
    <mg relId="0">
      <tg xml:lang="rus">
@@ -4826,6 +5362,8 @@
    <lg t1="Т" t2="Ы" t3="Д" uri="54754-tydavm-n" id="54754">
      <l pos="Ger" type="MON">тыдавмӧн</l>
        <l_var type="molodtsov-cyr">тыԁавмӧн</l_var>
+  <stg>
+<st Contlex="GER_">тыдавмӧн</st></stg>
    </lg>
    <mg relId="0"><strong>тыдавмӧн, тыдавмӧнъя</strong><br/>
      <tg xml:lang="rus">
@@ -4845,6 +5383,8 @@
    <lg t1="Т" t2="Ы" t3="Р" uri="54929-tyrmym-n" id="54929">
      <l pos="Ger" type="MON">тырмымӧн</l>
        <l_var type="molodtsov-cyr">тырмымӧн</l_var>
+  <stg>
+<st Contlex="GER_">тырмымӧн</st></stg>
    </lg>
    <mg relId="0"><strong>тырмымӧн, тырмымӧнъя</strong><br/>
      <tg xml:lang="rus">
@@ -4889,6 +5429,8 @@
    <lg t1="Т" t2="Ы" t3="Р" uri="54914-tyrm-dchym-n" id="54914">
      <l pos="Ger" type="MON">тырмӧдчымӧн</l>
        <l_var type="molodtsov-cyr">тырмӧччымӧн</l_var>
+  <stg>
+<st Contlex="GER_">тырмӧдчымӧн</st></stg>
    </lg>
    <mg relId="0"> <sg><s s_type="see">тырмымӧн</s></sg>
      <tg xml:lang="rus">
@@ -4900,6 +5442,8 @@
    <lg t1="Т" t2="Ы" t3="Р" uri="54971-tyrt-g" id="54971">
      <l pos="Ger" type="TOG">тыртӧг</l>
        <l_var type="molodtsov-cyr">тыртӧг</l_var>
+  <stg>
+<st Contlex="GER_">тыртӧг</st></stg>
    </lg>
    <mg relId="0">
      <tg xml:lang="rus">
@@ -4936,6 +5480,8 @@
    <lg t1="Т" t2="Э" t3="Р" uri="55105-termas-t-g" id="55105">
      <l pos="Ger" type="TOG">тэрмасьтӧг</l>
        <l_var type="molodtsov-cyr">термаԍтӧг</l_var>
+  <stg>
+<st Contlex="GER_">тэрмасьтӧг</st></stg>
    </lg>
    <mg relId="0">
      <tg xml:lang="rus">
@@ -4959,6 +5505,8 @@
    <lg t1="Т" t2="Э" t3="Р" uri="55101-termas-m-n" id="55101">
      <l pos="Ger" type="OMON">тэрмасьӧмӧн</l>
        <l_var type="molodtsov-cyr">термаԍӧмӧн</l_var>
+  <stg>
+<st Contlex="GER_">тэрмасьӧмӧн</st></stg>
    </lg>
    <mg relId="0">
      <tg xml:lang="rus">
@@ -5000,6 +5548,8 @@
    <lg t1="Т" t2="Э" t3="Р" uri="55123-term-dlyt-g" id="55123">
      <l pos="Ger" type="TOG">тэрмӧдлытӧг</l>
        <l_var type="molodtsov-cyr">термӧԁлытӧг</l_var>
+  <stg>
+<st Contlex="GER_">тэрмӧдлытӧг</st></stg>
    </lg>
    <mg relId="0">
      <tg xml:lang="rus">
@@ -5015,6 +5565,8 @@
    <lg t1="Т" t2="І" t3="Л" uri="51792-til-sk-m-n" id="51792">
      <l pos="Ger" type="OMON">тільскӧмӧн</l>
        <l_var type="molodtsov-cyr">тіԉскӧмӧн</l_var>
+  <stg>
+<st Contlex="GER_">тільскӧмӧн</st></stg>
    </lg>
    <mg relId="0">
      <tg xml:lang="rus">
@@ -5026,6 +5578,8 @@
    <lg t1="Т" t2="І" t3="Н" uri="51840-tin-gym-n" id="51840">
      <l pos="Ger" type="MON">тіньгымӧн</l>
        <l_var type="molodtsov-cyr">тіԋгымӧн</l_var>
+  <stg>
+<st Contlex="GER_">тіньгымӧн</st></stg>
    </lg>
    <mg relId="0"> <sg><s s_type="see">тиньгымӧн</s></sg>
      <tg xml:lang="rus">
@@ -5037,6 +5591,8 @@
    <lg t1="Т" t2="І" t3="Р" uri="51864-tiravm-n" id="51864">
      <l pos="Ger" type="MON">тіравмӧн</l>
        <l_var type="molodtsov-cyr">тіравмӧн</l_var>
+  <stg>
+<st Contlex="GER_">тіравмӧн</st></stg>
    </lg>
    <mg relId="0">
      <tg xml:lang="rus">
@@ -5052,6 +5608,8 @@
    <lg t1="Т" t2="Ӧ" t3="В" uri="52619-t-vijym-n" id="52619">
      <l pos="Ger" type="MON">тӧвйымӧн</l>
        <l_var type="molodtsov-cyr">тӧвјымӧн</l_var>
+  <stg>
+<st Contlex="GER_">тӧвйымӧн</st></stg>
    </lg>
    <mg relId="0">
      <tg xml:lang="rus">
@@ -5071,6 +5629,8 @@
    <lg t1="Т" t2="Ӧ" t3="Д" uri="52681-t-dlyt-g" id="52681">
      <l pos="Ger" type="TOG">тӧдлытӧг</l>
        <l_var type="molodtsov-cyr">тӧԁлытӧг</l_var>
+  <stg>
+<st Contlex="GER_">тӧдлытӧг</st></stg>
    </lg>
    <mg relId="0">
      <tg xml:lang="rus">
@@ -5124,6 +5684,8 @@
    <lg t1="Т" t2="Ӧ" t3="Д" uri="52710-t-dmas-t-dz" id="52710">
      <l pos="Ger" type="TODZ">тӧдмасьтӧдз</l>
        <l_var type="molodtsov-cyr">тӧԁмаԍтӧԇ</l_var>
+  <stg>
+<st Contlex="GER_">тӧдмасьтӧдз</st></stg>
    </lg>
    <mg relId="0">
      <tg xml:lang="rus">
@@ -5143,6 +5705,8 @@
    <lg t1="Т" t2="Ӧ" t3="Д" uri="52722-t-dm-n" id="52722">
      <l pos="Ger" type="MON">тӧдмӧн</l>
        <l_var type="molodtsov-cyr">тӧԁмӧн</l_var>
+  <stg>
+<st Contlex="GER_">тӧдмӧн</st></stg>
    </lg>
    <mg relId="0">
      <tg xml:lang="rus">
@@ -5162,6 +5726,8 @@
    <lg t1="Т" t2="Ӧ" t3="Д" uri="52742-t-dt-g" id="52742">
      <l pos="Ger" type="TOG">тӧдтӧг</l>
        <l_var type="molodtsov-cyr">тӧттӧг</l_var>
+  <stg>
+<st Contlex="GER_">тӧдтӧг</st></stg>
    </lg>
    <mg relId="0">
      <tg xml:lang="rus">
@@ -5185,6 +5751,8 @@
    <lg t1="Т" t2="Ӧ" t3="Ж" uri="52824-t-zhdys-t-g" id="52824">
      <l pos="Ger" type="TOG">тӧждысьтӧг</l>
        <l_var type="molodtsov-cyr">тӧжԁыԍтӧг</l_var>
+  <stg>
+<st Contlex="GER_">тӧждысьтӧг</st></stg>
    </lg>
    <mg relId="0">
      <tg xml:lang="rus">
@@ -5200,6 +5768,8 @@
    <lg t1="Т" t2="Ӧ" t3="Ж" uri="52821-t-zhdys-m-n" id="52821">
      <l pos="Ger" type="OMON">тӧждысьӧмӧн</l>
        <l_var type="molodtsov-cyr">тӧжԁыԍӧмӧн</l_var>
+  <stg>
+<st Contlex="GER_">тӧждысьӧмӧн</st></stg>
    </lg>
    <mg relId="0">
      <tg xml:lang="rus">
@@ -5229,6 +5799,8 @@
    <lg t1="Т" t2="Ӧ" t3="Л" uri="52884-t-lkt-g-ladt-g" id="52884">
      <l pos="Ger" type="TOG">тӧлктӧг-ладтӧг</l>
        <l_var type="molodtsov-cyr">тӧлктӧг-латтӧг</l_var>
+  <stg>
+<st Contlex="GER_">тӧлктӧг-ладтӧг</st></stg>
    </lg>
    <mg relId="0">
      <tg xml:lang="rus">
@@ -5244,6 +5816,8 @@
    <lg t1="Т" t2="Ӧ" t3="Л" uri="52878-t-lk-n-syam-n" id="52878">
      <l pos="Ger" type="MON">тӧлкӧн-сямӧн</l>
        <l_var type="molodtsov-cyr">тӧлкӧн-ԍамӧн</l_var>
+  <stg>
+<st Contlex="GER_">тӧлкӧн-сямӧн</st></stg>
    </lg>
    <mg relId="0"> <sg><s s_type="see">тӧлкӧн-бурӧн</s></sg>
      <tg xml:lang="rus">
@@ -5259,6 +5833,8 @@
    <lg t1="Т" t2="Ӧ" t3="Р" uri="52997-t-rm-n" id="52997">
      <l pos="Ger" type="MON">тӧрмӧн</l>
        <l_var type="molodtsov-cyr">тӧрмӧн</l_var>
+  <stg>
+<st Contlex="GER_">тӧрмӧн</st></stg>
    </lg>
    <mg relId="0"><strong>тӧрмӧн, тӧрмӧна</strong><br/> <sg><s s_type="see">тӧран</s><s s_type="see">тӧрана</s></sg>
      <tg xml:lang="rus">
@@ -5278,6 +5854,8 @@
    <lg t1="У" t2="З" t3="Ь" uri="55841-uz-t-g" id="55841">
      <l pos="Ger" type="TOG">узьтӧг</l>
        <l_var type="molodtsov-cyr">уԅтӧг</l_var>
+  <stg>
+<st Contlex="GER_">узьтӧг</st></stg>
    </lg>
    <mg relId="0">
      <tg xml:lang="rus">
@@ -5293,6 +5871,8 @@
    <lg t1="У" t2="Й" t3="Ӧ" uri="55881-uij-m-n" id="55881">
      <l pos="Ger" type="OMON">уйӧмӧн</l>
        <l_var type="molodtsov-cyr">ујӧмӧн</l_var>
+  <stg>
+<st Contlex="GER_">уйӧмӧн</st></stg>
    </lg>
    <mg relId="0">
      <tg xml:lang="rus">
@@ -5308,6 +5888,8 @@
    <lg t1="У" t2="С" t3="У" uri="56481-usurmunm-n" id="56481">
      <l pos="Ger" type="MON">усурмунмӧн</l>
        <l_var type="molodtsov-cyr">усурмунмӧн</l_var>
+  <stg>
+<st Contlex="GER_">усурмунмӧн</st></stg>
    </lg>
    <mg relId="0">
      <tg xml:lang="rus">
@@ -5323,6 +5905,8 @@
    <lg t1="У" t2="С" t3="Ь" uri="56514-us-m-n" id="56514">
      <l pos="Ger" type="OMON">усьмӧн</l>
        <l_var type="molodtsov-cyr">уԍмӧн</l_var>
+  <stg>
+<st Contlex="GER_">усьмӧн</st></stg>
    </lg>
    <mg relId="0">
      <tg xml:lang="rus">
@@ -5358,6 +5942,8 @@
    <lg t1="У" t2="С" t3="Ь" uri="56531-us-t-dz" id="56531">
      <l pos="Ger" type="TODZ">усьтӧдз</l>
        <l_var type="molodtsov-cyr">уԍтӧԇ</l_var>
+  <stg>
+<st Contlex="GER_">усьтӧдз</st></stg>
    </lg>
    <mg relId="0">
      <tg xml:lang="rus">
@@ -5394,6 +5980,8 @@
    <lg t1="Ч" t2="Е" t3="Г" uri="57346-chegm-n" id="57346">
      <l pos="Ger" type="MON">чегмӧн</l>
        <l_var type="molodtsov-cyr">чегмӧн</l_var>
+  <stg>
+<st Contlex="GER_">чегмӧн</st></stg>
    </lg>
    <mg relId="0">
      <tg xml:lang="rus">
@@ -5422,6 +6010,8 @@
    <lg t1="Ч" t2="Е" t3="Р" uri="57527-chervidzt-dz" id="57527">
      <l pos="Ger" type="TODZ">червидзтӧдз</l>
        <l_var type="molodtsov-cyr">червічтӧԇ</l_var>
+  <stg>
+<st Contlex="GER_">червидзтӧдз</st></stg>
    </lg>
    <mg relId="0">
      <tg xml:lang="rus">
@@ -5446,6 +6036,8 @@
    <lg t1="Ч" t2="Е" t3="Ч" uri="57709-chechchyvt-g" id="57709">
      <l pos="Ger" type="TOG">чеччывтӧг</l>
        <l_var type="molodtsov-cyr">чеччывтӧг</l_var>
+  <stg>
+<st Contlex="GER_">чеччывтӧг</st></stg>
    </lg>
    <mg relId="0">
      <tg xml:lang="rus">
@@ -5465,6 +6057,8 @@
    <lg t1="Ч" t2="И" t3="К" uri="57866-chiklyas-m-n" id="57866">
      <l pos="Ger" type="OMON">чиклясьӧмӧн</l>
        <l_var type="molodtsov-cyr">чікԉаԍӧмӧн</l_var>
+  <stg>
+<st Contlex="GER_">чиклясьӧмӧн</st></stg>
    </lg>
    <mg relId="0">
      <tg xml:lang="rus">
@@ -5489,6 +6083,8 @@
    <lg t1="Ч" t2="И" t3="К" uri="57881-chiktyl-m-n" id="57881">
      <l pos="Ger" type="OMON">чиктылӧмӧн</l>
        <l_var type="molodtsov-cyr">чіктылӧмӧн</l_var>
+  <stg>
+<st Contlex="GER_">чиктылӧмӧн</st></stg>
    </lg>
    <mg relId="0">
      <tg xml:lang="rus">
@@ -5500,6 +6096,8 @@
    <lg t1="Ч" t2="У" t3="Й" uri="58906-chuijm-m-n" id="58906">
      <l pos="Ger" type="OMON">чуймӧмӧн</l>
        <l_var type="molodtsov-cyr">чујмӧмӧн</l_var>
+  <stg>
+<st Contlex="GER_">чуймӧмӧн</st></stg>
    </lg>
    <mg relId="0"> <sg><s s_type="see">чуймӧмпырысь</s></sg>
      <tg xml:lang="rus">
@@ -5515,6 +6113,8 @@
    <lg t1="Ч" t2="У" t3="К" uri="58931-chukl-dlyt-g" id="58931">
      <l pos="Ger" type="TOG">чукльӧдлытӧг</l>
        <l_var type="molodtsov-cyr">чукԉӧԁлытӧг</l_var>
+  <stg>
+<st Contlex="GER_">чукльӧдлытӧг</st></stg>
    </lg>
    <mg relId="0">
      <tg xml:lang="rus">
@@ -5530,6 +6130,8 @@
    <lg t1="Ч" t2="У" t3="Н" uri="59209-chunavm-n" id="59209">
      <l pos="Ger" type="MON">чунавмӧн</l>
        <l_var type="molodtsov-cyr">чунавмӧн</l_var>
+  <stg>
+<st Contlex="GER_">чунавмӧн</st></stg>
    </lg>
    <mg relId="0">
      <tg xml:lang="rus">
@@ -5545,6 +6147,8 @@
    <lg t1="Ш" t2="А" t3="Й" uri="59632-shaijpavt-g" id="59632">
      <l pos="Ger" type="TOG">шайпавтӧг</l>
        <l_var type="molodtsov-cyr">шајпавтӧг</l_var>
+  <stg>
+<st Contlex="GER_">шайпавтӧг</st></stg>
    </lg>
    <mg relId="0">
      <tg xml:lang="rus">
@@ -5556,6 +6160,8 @@
    <lg t1="Ш" t2="Е" t3="М" uri="60270-shem-smun-m-n" id="60270">
      <l pos="Ger" type="OMON">шемӧсмунӧмӧн</l>
        <l_var type="molodtsov-cyr">шемӧсмунӧмӧн</l_var>
+  <stg>
+<st Contlex="GER_">шемӧсмунӧмӧн</st></stg>
    </lg>
    <mg relId="0">
      <tg xml:lang="rus">
@@ -5571,6 +6177,8 @@
    <lg t1="Ш" t2="Е" t3="М" uri="60265-shem-sm-m-n" id="60265">
      <l pos="Ger" type="OMON">шемӧсмӧмӧн</l>
        <l_var type="molodtsov-cyr">шемӧсмӧмӧн</l_var>
+  <stg>
+<st Contlex="GER_">шемӧсмӧмӧн</st></stg>
    </lg>
    <mg relId="0">
      <tg xml:lang="rus">
@@ -5586,6 +6194,8 @@
    <lg t1="Ш" t2="Е" t3="Н" uri="60300-shenz-m-n" id="60300">
      <l pos="Ger" type="OMON">шензьӧмӧн</l>
        <l_var type="molodtsov-cyr">шенԅӧмӧн</l_var>
+  <stg>
+<st Contlex="GER_">шензьӧмӧн</st></stg>
    </lg>
    <mg relId="0">
      <tg xml:lang="rus">
@@ -5605,6 +6215,8 @@
    <lg t1="Ш" t2="Е" t3="Н" uri="60323-shenyshtch-m-n" id="60323">
      <l pos="Ger" type="OMON">шеныштчӧмӧн</l>
        <l_var type="molodtsov-cyr">шенышчӧмӧн</l_var>
+  <stg>
+<st Contlex="GER_">шеныштчӧмӧн</st></stg>
    </lg>
    <mg relId="0">
      <tg xml:lang="rus">
@@ -5620,6 +6232,8 @@
    <lg t1="Ш" t2="Л" t3="А" uri="60505-shlavg-m-n" id="60505">
      <l pos="Ger" type="OMON">шлавгӧмӧн</l>
        <l_var type="molodtsov-cyr">шлавгӧмӧн</l_var>
+  <stg>
+<st Contlex="GER_">шлавгӧмӧн</st></stg>
    </lg>
    <mg relId="0">
      <tg xml:lang="rus">
@@ -5635,6 +6249,8 @@
    <lg t1="Ш" t2="М" t3="О" uri="60986-shmonitt-g" id="60986">
      <l pos="Ger" type="TOG">шмониттӧг</l>
        <l_var type="molodtsov-cyr">шмоԋіттӧг</l_var>
+  <stg>
+<st Contlex="GER_">шмониттӧг</st></stg>
    </lg>
    <mg relId="0">
      <tg xml:lang="rus">
@@ -5650,6 +6266,8 @@
    <lg t1="Ш" t2="О" t3="Г" uri="61203-shog-dm-n" id="61203">
      <l pos="Ger" type="MON">шогӧдмӧн</l>
        <l_var type="molodtsov-cyr">шогӧԁмӧн</l_var>
+  <stg>
+<st Contlex="GER_">шогӧдмӧн</st></stg>
    </lg>
    <mg relId="0">
      <tg xml:lang="rus">
@@ -5665,6 +6283,8 @@
    <lg t1="Ш" t2="О" t3="Н" uri="61374-shonavm-n" id="61374">
      <l pos="Ger" type="MON">шонавмӧн</l>
        <l_var type="molodtsov-cyr">шонавмӧн</l_var>
+  <stg>
+<st Contlex="GER_">шонавмӧн</st></stg>
    </lg>
    <mg relId="0">
      <tg xml:lang="rus">
@@ -5684,6 +6304,8 @@
    <lg t1="Ш" t2="У" t3="А" uri="61927-shuas-t-g" id="61927">
      <l pos="Ger" type="TOG">шуасьтӧг</l>
        <l_var type="molodtsov-cyr">шуаԍтӧг</l_var>
+  <stg>
+<st Contlex="GER_">шуасьтӧг</st></stg>
    </lg>
    <mg relId="0">
      <tg xml:lang="rus">
@@ -5698,7 +6320,9 @@
   <e>
    <lg t1="Ш" t2="У" t3="Й" uri="62034-shuijpett-dz" id="62034">
      <l pos="Ger" type="TODZ">шуйпеттӧдз</l>
-       <l_var type="molodtsov-cyr">шујпеттӧԇ</l_var> <rg><r range_space="dialect"/></rg>
+       <l_var type="molodtsov-cyr">шујпеттӧԇ</l_var>
+  <stg>
+<st Contlex="GER_">шуйпеттӧдз</st></stg> <rg><r range_space="dialect"/></rg>
    </lg>
    <mg relId="0">
      <tg xml:lang="rus">
@@ -5709,7 +6333,9 @@
   <e>
    <lg t1="Ш" t2="У" t3="Л" uri="62054-shul-kpett-dz" id="62054">
      <l pos="Ger" type="TODZ">шулькпеттӧдз</l>
-       <l_var type="molodtsov-cyr">шуԉкпеттӧԇ</l_var> <rg><r range_space="dialect"/></rg>
+       <l_var type="molodtsov-cyr">шуԉкпеттӧԇ</l_var>
+  <stg>
+<st Contlex="GER_">шулькпеттӧдз</st></stg> <rg><r range_space="dialect"/></rg>
    </lg>
    <mg relId="0"> <sg><s s_type="see">шуйпеттӧдз</s></sg>
      <tg xml:lang="rus">
@@ -5721,6 +6347,8 @@
    <lg t1="Ш" t2="У" t3="Т" uri="62270-shut-g" id="62270">
      <l pos="Ger" type="TOG">шутӧг</l>
        <l_var type="molodtsov-cyr">шутӧг</l_var>
+  <stg>
+<st Contlex="GER_">шутӧг</st></stg>
    </lg>
    <mg relId="0">
      <tg xml:lang="rus">
@@ -5744,6 +6372,8 @@
    <lg t1="Ш" t2="Ы" t3="А" uri="62352-shyavt-g" id="62352">
      <l pos="Ger" type="TOG">шыавтӧг</l>
        <l_var type="molodtsov-cyr">шыавтӧг</l_var>
+  <stg>
+<st Contlex="GER_">шыавтӧг</st></stg>
    </lg>
    <mg relId="0"> <sg><s s_type="see">шыасьлытӧг</s></sg>
      <tg xml:lang="rus">
@@ -5755,6 +6385,8 @@
    <lg t1="Ш" t2="Ы" t3="А" uri="62359-shyas-lyt-g" id="62359">
      <l pos="Ger" type="TOG">шыасьлытӧг</l>
        <l_var type="molodtsov-cyr">шыаԍлытӧг</l_var>
+  <stg>
+<st Contlex="GER_">шыасьлытӧг</st></stg>
    </lg>
    <mg relId="0">
      <tg xml:lang="rus">
@@ -5770,6 +6402,8 @@
    <lg t1="Ш" t2="Ы" t3="Т" uri="62736-shyt-g" id="62736">
      <l pos="Ger" type="TOG">шытӧг</l>
        <l_var type="molodtsov-cyr">шытӧг</l_var>
+  <stg>
+<st Contlex="GER_">шытӧг</st></stg>
    </lg>
    <mg relId="0">
      <tg xml:lang="rus">
@@ -5793,6 +6427,8 @@
    <lg t1="Ш" t2="Ӧ" t3="Й" uri="61507-sh-ij-vosh-m-n" id="61507">
      <l pos="Ger" type="OMON">шӧйӧвошӧмӧн</l>
        <l_var type="molodtsov-cyr">шӧјӧвошӧмӧн</l_var>
+  <stg>
+<st Contlex="GER_">шӧйӧвошӧмӧн</st></stg>
    </lg>
    <mg relId="0">
      <tg xml:lang="rus">
@@ -5812,6 +6448,8 @@
    <lg t1="Ы" t2="К" t3="П" uri="63022-ykpashitt-g" id="63022">
      <l pos="Ger" type="TOG">ыкпашиттӧг</l>
        <l_var type="molodtsov-cyr">ыкпашіттӧг</l_var>
+  <stg>
+<st Contlex="GER_">ыкпашиттӧг</st></stg>
    </lg>
    <mg relId="0">
      <tg xml:lang="rus">
@@ -5831,6 +6469,8 @@
    <lg t1="Ы" t2="К" t3="Ш" uri="63037-ykshaas-t-g" id="63037">
      <l pos="Ger" type="TOG">ыкшаасьтӧг</l>
        <l_var type="molodtsov-cyr">ыкшааԍтӧг</l_var>
+  <stg>
+<st Contlex="GER_">ыкшаасьтӧг</st></stg>
    </lg>
    <mg relId="0"><strong>ыкшаасьтӧг, ыкшасьтӧг</strong><br/>
      <tg xml:lang="rus">
@@ -5846,6 +6486,8 @@
    <lg t1="Ы" t2="К" t3="Ш" uri="63048-ykshas-t-g" id="63048">
      <l pos="Ger" type="TOG">ыкшасьтӧг</l>
        <l_var type="molodtsov-cyr">ыкшаԍтӧг</l_var>
+  <stg>
+<st Contlex="GER_">ыкшасьтӧг</st></stg>
    </lg>
    <mg relId="0"><strong>ыкшасьтӧг, ыкшаасьтӧг</strong><br/>
      <tg xml:lang="rus">
@@ -5861,6 +6503,8 @@
    <lg t1="Ы" t2="Л" t3="Ь" uri="63164-yl-g-m-n" id="63164">
      <l pos="Ger" type="OMON">ыльгӧмӧн</l>
        <l_var type="molodtsov-cyr">ыԉгӧмӧн</l_var>
+  <stg>
+<st Contlex="GER_">ыльгӧмӧн</st></stg>
    </lg>
    <mg relId="0"> <sg><s s_type="see">ыльӧбӧн</s></sg>
      <tg xml:lang="rus">
@@ -5872,6 +6516,8 @@
    <lg t1="Ы" t2="Л" t3="Ӧ" uri="63111-yl-dchyt-g" id="63111">
      <l pos="Ger" type="TOG">ылӧдчытӧг</l>
        <l_var type="molodtsov-cyr">ылӧччытӧг</l_var>
+  <stg>
+<st Contlex="GER_">ылӧдчытӧг</st></stg>
    </lg>
    <mg relId="0">
      <tg xml:lang="rus">
@@ -5887,6 +6533,8 @@
    <lg t1="Ы" t2="П" t3="Ъ" uri="63250-yp-yavt-g" id="63250">
      <l pos="Ger" type="TOG">ыпъявтӧг</l>
        <l_var type="molodtsov-cyr">ыпјавтӧг</l_var>
+  <stg>
+<st Contlex="GER_">ыпъявтӧг</st></stg>
    </lg>
    <mg relId="0">
      <tg xml:lang="rus">
@@ -5902,6 +6550,8 @@
    <lg t1="Ы" t2="Р" t3="Г" uri="63267-yrg-m-n" id="63267">
      <l pos="Ger" type="OMON">ыргӧмӧн</l>
        <l_var type="molodtsov-cyr">ыргӧмӧн</l_var>
+  <stg>
+<st Contlex="GER_">ыргӧмӧн</st></stg>
    </lg>
    <mg relId="0">
      <tg xml:lang="rus">
@@ -5934,6 +6584,8 @@
    <lg t1="Ы" t2="Р" t3="З" uri="63276-yrz-m-n" id="63276">
      <l pos="Ger" type="OMON">ырзӧмӧн</l>
        <l_var type="molodtsov-cyr">ырзӧмӧн</l_var>
+  <stg>
+<st Contlex="GER_">ырзӧмӧн</st></stg>
    </lg>
    <mg relId="0">
      <tg xml:lang="rus">
@@ -5953,6 +6605,8 @@
    <lg t1="Ы" t2="Р" t3="Ы" uri="63429-yryshtch-m-n" id="63429">
      <l pos="Ger" type="OMON">ырыштчӧмӧн</l>
        <l_var type="molodtsov-cyr">ырышчӧмӧн</l_var>
+  <stg>
+<st Contlex="GER_">ырыштчӧмӧн</st></stg>
    </lg>
    <mg relId="0"> <sg><s s_type="see">ырыштчана</s></sg>
      <tg xml:lang="rus">
@@ -5964,6 +6618,8 @@
    <lg t1="Ы" t2="Р" t3="Ӧ" uri="63362-yr-st-m-n" id="63362">
      <l pos="Ger" type="OMON">ырӧстӧмӧн</l>
        <l_var type="molodtsov-cyr">ырӧстӧмӧн</l_var>
+  <stg>
+<st Contlex="GER_">ырӧстӧмӧн</st></stg>
    </lg>
    <mg relId="0">
      <tg xml:lang="rus">
@@ -5979,6 +6635,8 @@
    <lg t1="Э" t2="Л" t3="Я" uri="63831-elyas-t-g" id="63831">
      <l pos="Ger" type="TOG">элясьтӧг</l>
        <l_var type="molodtsov-cyr">еԉаԍтӧг</l_var>
+  <stg>
+<st Contlex="GER_">элясьтӧг</st></stg>
    </lg>
    <mg relId="0">
      <tg xml:lang="rus">
@@ -5994,6 +6652,8 @@
    <lg t1="Ю" t2="А" t3="В" uri="64344-yuavt-g" id="64344">
      <l pos="Ger" type="TOG">юавтӧг</l>
        <l_var type="molodtsov-cyr">јуавтӧг</l_var>
+  <stg>
+<st Contlex="GER_">юавтӧг</st></stg>
    </lg>
    <mg relId="0">
      <tg xml:lang="rus">
@@ -6009,6 +6669,8 @@
    <lg t1="Ю" t2="А" t3="С" uri="64374-yuas-t-g" id="64374">
      <l pos="Ger" type="TOG">юасьтӧг</l>
        <l_var type="molodtsov-cyr">јуаԍтӧг</l_var>
+  <stg>
+<st Contlex="GER_">юасьтӧг</st></stg>
    </lg>
    <mg relId="0"> <sg><s s_type="see">юавтӧг</s></sg>
      <tg xml:lang="rus">
@@ -6024,6 +6686,8 @@
    <lg t1="Ю" t2="А" t3="С" uri="64376-yuas-t-g-vis-tas-t-g" id="64376">
      <l pos="Ger" type="TOG">юасьтӧг-висьтасьтӧг</l>
        <l_var type="molodtsov-cyr">јуаԍтӧг-віԍтаԍтӧг</l_var>
+  <stg>
+<st Contlex="GER_">юасьтӧг-висьтасьтӧг</st></stg>
    </lg>
    <mg relId="0">
      <tg xml:lang="rus">
@@ -6043,6 +6707,8 @@
    <lg t1="Ю" t2="Г" t3="Д" uri="64425-yugdyt-dz" id="64425">
      <l pos="Ger" type="TODZ">югдытӧдз</l>
        <l_var type="molodtsov-cyr">југԁытӧԇ</l_var>
+  <stg>
+<st Contlex="GER_">югдытӧдз</st></stg>
    </lg>
    <mg relId="0">
      <tg xml:lang="rus">
@@ -6062,6 +6728,8 @@
    <lg t1="Ю" t2="Г" t3="Ъ" uri="64464-yug-yavm-n" id="64464">
      <l pos="Ger" type="MON">югъявмӧн</l>
        <l_var type="molodtsov-cyr">југјавмӧн</l_var>
+  <stg>
+<st Contlex="GER_">югъявмӧн</st></stg>
    </lg>
    <mg relId="0">
      <tg xml:lang="rus">
@@ -6082,6 +6750,8 @@
    <lg t1="Ю" t2="Р" t3="Т" uri="64925-yurt-g-sad-t-g" id="64925">
      <l pos="Ger" type="TOG">юртӧг-садьтӧг</l>
        <l_var type="molodtsov-cyr">јуртӧг-саԃтӧг</l_var>
+  <stg>
+<st Contlex="GER_">юртӧг-садьтӧг</st></stg>
    </lg>
    <mg relId="0">
      <tg xml:lang="rus">
@@ -6101,6 +6771,8 @@
    <lg t1="Я" t2="Н" t3="Д" uri="65169-yandys-t-g" id="65169">
      <l pos="Ger" type="TOG">яндысьтӧг</l>
        <l_var type="molodtsov-cyr">јанԁыԍтӧг</l_var>
+  <stg>
+<st Contlex="GER_">яндысьтӧг</st></stg>
    </lg>
    <mg relId="0">
      <tg xml:lang="rus">
@@ -6120,6 +6792,8 @@
    <lg t1="Я" t2="Р" t3="С" uri="65292-yarsk-bt-m-n" id="65292">
      <l pos="Ger" type="OMON">ярскӧбтӧмӧн</l>
        <l_var type="molodtsov-cyr">јарскӧптӧмӧн</l_var>
+  <stg>
+<st Contlex="GER_">ярскӧбтӧмӧн</st></stg>
    </lg>
    <mg relId="0">
      <tg xml:lang="rus">
